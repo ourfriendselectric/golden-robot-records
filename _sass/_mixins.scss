@@ -1,0 +1,26 @@
+@mixin container() {
+  width: $desktop-container-width;
+  padding-right: $desktop-gutter-width / 2;
+  padding-left: $desktop-gutter-width / 2;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@mixin row() {
+  @extend .clearfix;
+  margin-right: -($desktop-gutter-width / 2);
+  margin-left: -($desktop-gutter-width / 2);
+}
+
+@mixin columns($columns) {
+  width: (100%/$desktop-columns)*$columns; 
+  position: relative;
+  min-height: 1px;
+  padding-right: $desktop-gutter-width / 2;
+  padding-left: $desktop-gutter-width / 2;
+  float: left;
+}
+
+@mixin offset($columns) {
+  margin-left: (100%/$desktop-columns)*$columns;
+}

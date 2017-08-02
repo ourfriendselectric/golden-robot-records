@@ -1,0 +1,11 @@
+$color-black: #000;
+$color-white: #fff;
+
+$screen-sm-min: 768px;
+$screen-md-min: 922px;
+$screen-lg-min:	1200px;
+
+$desktop-columns: 16;
+$desktop-gutter-width: 20px;
+$desktop-container-width: 1120px + $desktop-gutter-width;
+$desktop-column-width: ($desktop-container-width/$desktop-columns)-$desktop-gutter-width;
