@@ -1,10 +1,47 @@
 ---
 layout: default
 ---
+<div class="single-artist" id="content">
+  <div class="container">
+    
+    <div class="row">
+		<div class="hero">
+			<img src="{{ page.hero_path }}" alt="" class="img-responsive">
+		</div>
+    </div>
 
-<h1>Artist Page Yo</h1>
-
-<div class="artist">
-	<div class="image" style="background-image: url({{ page.image }});"></div>
-	<p class="name">{{ page.name }}</p>
+    <div class="row">
+    	<div class="content">
+    		{{ page.content }}
+    	</div>
+    	<div class="dates-albumns">
+    		<div class="row">
+	    		<div class="dates">
+	    			<div class="panel">
+		    			<h2>{{ page.tour_title }}</h2>
+						{% for row in page.dates %}
+							<p class="date">{{ row.date }} {{ row.venue }} <a href="{{ row.link }}" target="_blank">Get Tickets</a></p>
+						{% endfor %}
+					</div>
+	    		</div>
+    		</div>
+    		<div class="row">
+	    		<div class="albumns">
+	    			<div class="albumn">
+	    				<div class="border"><img src="{{ page.albumns[0].image_path }}" class="img-responsive" /></div>
+	    			</div>
+	    			<div class="albumn">
+	    				<div class="border"><img src="{{ page.albumns[1].image_path }}" class="img-responsive" /></div>
+	    			</div>
+	    			<div class="albumn">
+	    				<div class="border"><img src="{{ page.albumns[2].image_path }}" class="img-responsive" /></div>
+	    			</div>
+	    			<div class="albumn">
+	    				<div class="border"><img src="{{ page.albumns[3].image_path }}" class="img-responsive" /></div>
+	    			</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+  </div>
 </div>

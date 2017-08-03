@@ -4,8 +4,8 @@ $laptopNavHeight: 150px;
 $desktopNavHeight: 200px;
 
 header {
-	
-	height: $phoneNavHeight;
+	@extend .clearfix;
+	height: auto;
 	@media (min-width: $screen-sm-min) {
 		height: $tabletNavHeight;
 	}
@@ -19,21 +19,24 @@ header {
 		@include columns(16);
 	}
 	.logo {
-		height: auto;
+		display: block;
 		float: left;
-		
-		padding: 10px 0 10px 0;
-		width: 100%;
-		@media (min-width: $screen-sm-min) {
-			padding: 16px 0 15px 0;
-			width: 300px;
-		}
-		@media (min-width: $screen-md-min) {
-			padding: 30px 0 29px 0;
-			width: 400px;
-		}
-		@media (min-width: $screen-lg-min) {
-			padding: 55px 0 54px 0;
+		img {
+			height: auto;
+			padding: 10px 0 10px 0;
+			width: 100%;
+			@media (min-width: $screen-sm-min) {
+				padding: 16px 0 15px 0;
+				width: 300px;
+			}
+			@media (min-width: $screen-md-min) {
+				padding: 25px 0;
+				width: 400px;
+			}
+			@media (min-width: $screen-lg-min) {
+				padding: 43px 0;
+				width: auto;
+			}
 		}
 	}
 	ul {

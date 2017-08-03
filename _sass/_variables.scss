@@ -1,6 +1,8 @@
 $color-black: #000;
 $color-white: #fff;
 $color-darkGrey: #18171e;
+$color-lightGrey: #939393;
+$color-gold: #f6c757;
 
 $screen-sm-min: 768px;
 $screen-md-min: 980px;
@@ -17,3 +19,6 @@ $tablet-container-width: 100%;
 $laptop-container-width: 100%;
 $desktop-container-width: 1400px + $gutter-width;
 $xl-container-width: 1800px + $gutter-width;
+
+$transitionIn: all 150ms cubic-bezier(0.0, 0.0, 0.2, 1);
+$transitionOut: all 150ms cubic-bezier(0.4, 0.0, 0.6, 1);

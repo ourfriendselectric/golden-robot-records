@@ -48,6 +48,17 @@ defaults:
       name: 'Artist Name'
       order: 100
       hidden: false
+      hero: http://lorempixel.com/1800/660
+      tour_title: Tour Title
+      dates:
+       - date: Jan 01
+         venue: SCG
+         link: http://www.google.com
+      albumns: 
+        - image_path: http://lorempixel.com/801/801
+        - image_path: http://lorempixel.com/802/802
+        - image_path: http://lorempixel.com/803/803
+        - image_path: http://lorempixel.com/804/804
   - scope:
       type: tours
       path: "/tours/"

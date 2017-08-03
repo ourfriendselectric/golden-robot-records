@@ -42,3 +42,10 @@
     margin-left: (100%/$column-amount)*$columns;
   }
 }
+
+@mixin transition() {
+  transition: $transitionOut;
+  &:hover {
+    transition: $transitionIn;
+  }
+}
