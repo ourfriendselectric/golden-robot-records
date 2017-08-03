@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="tours" id="content">
+  <div class="container">
+
+    {% assign items = site.tours | sort: 'order' %}
+    {% for tour in items %}
+      {% if tour.hidden == false %}
+        <div class="row tour">
+          <div class="image">
+            <img src="{{ tour.image }}" alt="">
+          </div>
+          <div class="dates">
+            <h2>{{ tour.title }}</h2>
+            {% for row in tour.dates %}
+              <p>{{ row.date }} {{ row.venue }} {{ row.link }}</p>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+  </div>
+</div>

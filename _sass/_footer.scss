@@ -1,3 +1,16 @@
 footer {
-	
+	.inner {
+		@include columns(16);
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.copyright {
+		float: left;
+	}
+	.social {
+		float: left;
+		@media (min-width: $screen-sm-min) {
+			float: right;
+		}
+	}
 }

@@ -1,0 +1,10 @@
+.tours {
+	.tour {
+		.image {
+			@include columns(4);
+		}
+		.dates {
+			@include columns(12);
+		}
+	}
+}

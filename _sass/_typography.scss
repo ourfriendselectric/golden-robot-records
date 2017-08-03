@@ -7,43 +7,7 @@
     //      url('./fonts/CircularStd-Book.ttf') format('truetype'), /* Safari, Android, iOS */
     //      url('./fonts/CircularStd-Book.svg#CircularStd-Book') format('svg'); /* Legacy iOS */
     font-style: normal;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
-}
-/* Webfont: CircularStd-Medium */@font-face {
-    font-family: 'Circular';
-    src: url('./fonts/CircularStd-Medium.otf');
-    // src: url('./fonts/CircularStd-Medium.eot'); /* IE9 Compat Modes */
-    // src: url('./fonts/CircularStd-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    //      url('./fonts/CircularStd-Medium.woff') format('woff'), /* Modern Browsers */
-    //      url('./fonts/CircularStd-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
-    //      url('./fonts/CircularStd-Medium.svg#CircularStd-Medium') format('svg'); /* Legacy iOS */
-    font-style: normal;
-    font-weight: 500;
-    text-rendering: optimizeLegibility;
-}
-/* Webfont: CircularStd-Bold */@font-face {
-    font-family: 'Circular';
-    src: url('./fonts/CircularStd-Bold.otf');
-    // src: url('./fonts/CircularStd-Bold.eot'); /* IE9 Compat Modes */
-    // src: url('./fonts/CircularStd-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    //      url('./fonts/CircularStd-Bold.woff') format('woff'), /* Modern Browsers */
-    //      url('./fonts/CircularStd-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
-    //      url('./fonts/CircularStd-Bold.svg#CircularStd-Bold') format('svg'); /* Legacy iOS */
-    font-style: normal;
-    font-weight: 700;
-    text-rendering: optimizeLegibility;
-}
-/* Webfont: CircularStd-Black */@font-face {
-    font-family: 'Circular';
-    src: url('./fonts/CircularStd-Black.otf');
-    // src: url('./fonts/CircularStd-Black.eot'); /* IE9 Compat Modes */
-    // src: url('./fonts/CircularStd-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    //      url('./fonts/CircularStd-Black.woff') format('woff'), /* Modern Browsers */
-    //      url('./fonts/CircularStd-Black.ttf') format('truetype'), /* Safari, Android, iOS */
-    //      url('./fonts/CircularStd-Black.svg#CircularStd-Black') format('svg'); /* Legacy iOS */
-    font-style: normal;
-    font-weight: 900;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
@@ -53,7 +17,7 @@
 // black - 900
 
 html {
-	font-size: 9px;
+	font-size: $font-size;
 }
 
 body {

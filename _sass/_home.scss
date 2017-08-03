@@ -1,0 +1,144 @@
+.home {
+	.hero {
+		.slider {
+			@include columns(16);
+		}
+	}
+
+	.intro {
+		text-align: center;
+		.inner {
+			@include columns(16);
+			@media (min-width: $screen-md-min) {
+				@include columns(14);
+				@include offset(1);
+			}
+			@media (min-width: $screen-lg-min) {
+				@include columns(12);
+				@include offset(2);
+			}
+		}
+
+		.logos {
+			@include columns(16);
+			margin-top: 20px;
+			margin-bottom: 40px;
+			@media (min-width: $screen-sm-min) {
+				@include columns(12);
+				@include offset(2);
+			}
+			@media (min-width: $screen-md-min) {
+				@include columns(8);
+				@include offset(4);
+			}
+			@media (min-width: $screen-lg-min) {
+				@include columns(8);
+				@include offset(4);
+			}
+			.logo {
+				float: left;
+				text-align: center;
+				@include columns(8);
+				@media (min-width: $screen-sm-min) {
+					@include columns(4);
+				}
+			}
+		}
+	}
+
+	.posts {
+		.top {
+			.primary {
+				@include columns(16);
+				@media (min-width: $screen-sm-min) {
+					@include columns(8);
+				}
+				@media (min-width: $screen-md-min) {
+					@include columns(11);
+				}
+				@media (min-width: $screen-lg-min) {
+					
+				}
+			}
+			.secondary {
+				@include columns(16);
+				@media (min-width: $screen-sm-min) {
+					@include columns(8);
+				}
+				@media (min-width: $screen-md-min) {
+					@include columns(5);
+				}
+				@media (min-width: $screen-lg-min) {
+					
+				}
+			}
+		}
+		.bottom {
+			.primary {
+				@include columns(16);
+				@media (min-width: $screen-sm-min) {
+					@include columns(8);
+				}
+				@media (min-width: $screen-md-min) {
+					@include columns(5);
+				}
+				@media (min-width: $screen-lg-min) {
+					
+				}
+			}
+			.secondary {
+				@include columns(16);
+				@media (min-width: $screen-sm-min) {
+					@include columns(8);
+				}
+				@media (min-width: $screen-md-min) {
+					@include columns(11);
+				}
+				@media (min-width: $screen-lg-min) {
+					
+				}
+			}
+		}
+		.post {
+			font-size: 1.7142857143rem;
+			line-height: 2rem;
+			margin-bottom: 20px;
+			@media (min-width: $screen-md-min) {
+				margin-bottom: 20px;
+			}
+			.image {
+				height: 548px;
+				background-size: cover;
+				background-repeat: no-repeat;
+
+				height: 200px;
+				@media (min-width: $screen-sm-min) {
+					height: 360px;
+				}
+				@media (min-width: $screen-md-min) {
+					height: 300px;
+				}
+				@media (min-width: $screen-lg-min) {
+					height: 420px;
+				}
+				@media (min-width: $screen-xl-min) {
+					height: 550px;
+				}
+			}
+			.copy {
+				background: $color-darkGrey;
+				padding: 20px;
+				min-height: 10rem;
+				p {
+					margin: 0;
+					padding: 0;
+				}
+			}
+		}
+	}
+}
+
+
+
+
+

@@ -1,11 +1,19 @@
 $color-black: #000;
 $color-white: #fff;
+$color-darkGrey: #18171e;
 
 $screen-sm-min: 768px;
-$screen-md-min: 922px;
-$screen-lg-min:	1200px;
+$screen-md-min: 980px;
+$screen-lg-min:	1440px;
+$screen-xl-min:	1840px;
 
-$desktop-columns: 16;
-$desktop-gutter-width: 20px;
-$desktop-container-width: 1120px + $desktop-gutter-width;
-$desktop-column-width: ($desktop-container-width/$desktop-columns)-$desktop-gutter-width;
+$font-size:	10.5px;
+
+$column-amount: 16;
+$gutter-width: 20px;
+
+$phone-container-width: 100%;
+$tablet-container-width: 100%;
+$laptop-container-width: 100%;
+$desktop-container-width: 1400px + $gutter-width;
+$xl-container-width: 1800px + $gutter-width;

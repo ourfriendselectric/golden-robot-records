@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:3000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_site" # the subpath of your site, e.g. /blog
+url: "http://golden-robot-records.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 facebook_username: jekyllrb
 instagram_username: jekyllrb
@@ -30,6 +30,36 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+permalink: pretty
+
+collections:
+  artists:
+    output: true
+  tours:
+    output: false
+
+defaults:
+  - scope:
+      type: artists
+      path: "/artists/"
+    values:
+      layout: artist
+      image: 'http://lorempixel.com/800/800'
+      name: 'Artist Name'
+      order: 100
+      hidden: false
+  - scope:
+      type: tours
+      path: "/tours/"
+    values:
+      image: http://lorempixel.com/800/800
+      title: Tour Title
+      order: 1
+      hidden: false
+      dates:
+       - date: Jan 01
+         venue: SCG
+         link: http://www.google.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

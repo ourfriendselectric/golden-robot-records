@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="artists" id="content">
+  <div class="container">
+    <div class="row">
+
+      {% assign items = site.artists | sort: 'order' %}
+      {% for artist in items %}
+        {% if artist.hidden == false %}
+          <a href="{{ artist.url | prepend: site.baseurl }}" class="artist">
+            <div class="image" style="background-image: url({{ artist.image }});"></div>
+            <p class="name">{{ artist.name }}</p>
+          </a>
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>

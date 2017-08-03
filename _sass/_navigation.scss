@@ -1,5 +1,88 @@
+$phoneNavHeight: 50px;
+$tabletNavHeight: 100px;
+$laptopNavHeight: 150px;
+$desktopNavHeight: 200px;
+
 header {
+	
+	height: $phoneNavHeight;
+	@media (min-width: $screen-sm-min) {
+		height: $tabletNavHeight;
+	}
+	@media (min-width: $screen-md-min) {
+		height: $laptopNavHeight;
+	}
+	@media (min-width: $screen-lg-min) {
+		height: $desktopNavHeight;
+	}
 	nav {
 		@include columns(16);
+	}
+	.logo {
+		height: auto;
+		float: left;
+		
+		padding: 10px 0 10px 0;
+		width: 100%;
+		@media (min-width: $screen-sm-min) {
+			padding: 16px 0 15px 0;
+			width: 300px;
+		}
+		@media (min-width: $screen-md-min) {
+			padding: 30px 0 29px 0;
+			width: 400px;
+		}
+		@media (min-width: $screen-lg-min) {
+			padding: 55px 0 54px 0;
+		}
+	}
+	ul {
+		float: right;
+		margin: 0 0 20px 0;
+		padding: 0;
+		text-transform: uppercase;
+		width: 100%;
+		@media (min-width: $screen-sm-min) {
+			width: auto;
+			margin: 0;
+		}
+		li {
+			display: inline-block;
+	
+			line-height: $phoneNavHeight;
+			font-size: 1.5238095238rem;
+			width: 25%;
+			text-align: center;
+			@media (min-width: $screen-sm-min) {
+				line-height: $tabletNavHeight;
+				font-size: 1.7142857143rem;
+				width: auto;
+				text-align: right;
+			}
+			@media (min-width: $screen-md-min) {
+				line-height: $laptopNavHeight;
+				font-size: 2.2857142857rem;
+			}
+			@media (min-width: $screen-lg-min) {
+				line-height: $desktopNavHeight;
+			}
+			a {
+				color: #fff;
+
+				padding: 0;
+				@media (min-width: $screen-sm-min) {
+					padding: 0 0 0 20px;
+				}
+				@media (min-width: $screen-md-min) {
+					padding: 0 0 0 40px;
+				}
+				@media (min-width: $screen-lg-min) {
+					padding: 0 0 0 80px;
+				}
+				&:hover {
+					color: #fff;
+				}
+			}
+		}
 	}
 }
