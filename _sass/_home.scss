@@ -1,5 +1,6 @@
 .home {
 	.hero {
+		margin-bottom: 20px;
 		.slider {
 			@include columns(16);
 		}
