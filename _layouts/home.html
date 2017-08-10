@@ -1,5 +1,8 @@
 ---
 layout: default
+
+heroes: 
+  - image_path: images/hero-placeholder.jpg
 ---
 <div class="home" id="content">
   
@@ -7,7 +10,7 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="slider">
-          <img src="images/hero-placeholder.jpg" alt="" class="img-responsive">
+          <img src="{{ page.heroes[0].image_path }}" alt="" class="img-responsive">
         </div>
       </div>
     </div>
@@ -16,7 +19,7 @@ layout: default
   <section class="intro">
     <div class="container">
       <div class="row">
-        <div class="inner">
+        <div class="inner editable">
           <p>Golden Robot Records is a powerhouse independent worldwide record label who embrace, develop and finance their hand picked artists giving each band the support they need to get their music released across the globe.</p>
           <p>With contacts around the world and offices in Los Angeles, New York and Sydney our hard working passionate and ever expanding team combine to become a tight knit Rock & Roll family involved in every aspect of the artist’s career and success.</p>
         </div>
