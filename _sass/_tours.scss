@@ -32,9 +32,7 @@
 				@media (min-width: $screen-sm-min) {
 					padding: 20px 20px 20px 20px;
 				}
-				@media (min-width: $screen-md-min) {
-				}
-				@media (min-width: $screen-lg-min) {
+				@media (min-width: $screen-xl-min) {
 					padding: 50px 50px 50px (50px - $gutter-width);
 				}
 			}
@@ -70,7 +68,7 @@
 					
 				}
 				@media (min-width: $screen-lg-min) {
-					font-size: 2.5714285714rem;
+					font-size: 2rem;
 					line-height: 3.8095238095rem;
 				}
 
