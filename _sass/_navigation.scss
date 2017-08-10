@@ -18,12 +18,14 @@ header {
 	nav {
 		@include columns(16);
 	}
-	.logo {
+	.logo-link {
 		display: block;
-		float: left;
-		img {
+		@media (min-width: $screen-sm-min) {
+			float: left;
+		}
+		.logo {
 			height: auto;
-			padding: 10px 0 10px 0;
+			padding: 20px 0 0 0;
 			width: 100%;
 			@media (min-width: $screen-sm-min) {
 				padding: 16px 0 15px 0;
@@ -35,7 +37,7 @@ header {
 			}
 			@media (min-width: $screen-lg-min) {
 				padding: 43px 0;
-				width: auto;
+				width: 465px;
 			}
 		}
 	}
