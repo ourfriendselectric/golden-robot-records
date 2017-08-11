@@ -1,15 +1,4 @@
-/* Webfont: CircularStd-Book */@font-face {
-    font-family: 'Circular';
-    src: url('./fonts/CircularStd-Book.otf');
-    // src: url('./fonts/CircularStd-Book.eot'); /* IE9 Compat Modes */
-    // src: url('./fonts/CircularStd-Book.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    //      url('./fonts/CircularStd-Book.woff') format('woff'), /* Modern Browsers */
-    //      url('./fonts/CircularStd-Book.ttf') format('truetype'), /* Safari, Android, iOS */
-    //      url('./fonts/CircularStd-Book.svg#CircularStd-Book') format('svg'); /* Legacy iOS */
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
 // book - 400
 // med - 500
@@ -22,7 +11,7 @@ html {
 
 body {
     font-size: 2rem;
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
     font-weight: 400;
     color: $color-white;
 }
