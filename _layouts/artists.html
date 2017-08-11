@@ -9,8 +9,8 @@ layout: default
       {% for artist in items %}
         {% if artist.hidden == false %}
           <a href="{{ artist.url | prepend: site.baseurl }}" class="artist">
-            <div class="overlay">View Artist</div>
-            <div class="image" style="background-image: url({{ artist.image_path }});"></div>
+            <div class="overlay"><div class="text">View Artist</div></div>
+            <div class="image"><img src="{{ artist.image_path }}" class="img-responsive" /></div>
             <p class="name">{{ artist.name }}</p>
           </a>
         {% endif %}

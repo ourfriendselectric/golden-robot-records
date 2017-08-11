@@ -15,7 +15,7 @@ layout: default
                 <img src="{{ tour.image_path }}" alt="" class="img-responsive">
               </div>
               <div class="dates">
-                <div class="panel">
+                <div class="panel clearfix">
                   <h2>{{ tour.title }}</h2>
                   {% for row in tour.dates %}
                     <p class="date">{{ row.date }} {{ row.venue }} <a href="{{ row.link }}" target="_blank">Get Tickets</a></p>
