@@ -6,11 +6,19 @@ footer {
 	}
 	.copyright {
 		float: left;
+		font-size: 1.5rem;
 	}
 	.social {
 		float: left;
 		@media (min-width: $screen-sm-min) {
 			float: right;
+		}
+		a {
+			display: inline-block;
+			margin-left: 5px;
+			img {
+				width: 25px;
+			}
 		}
 	}
 }

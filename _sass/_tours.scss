@@ -7,7 +7,7 @@
 		}
 
 		.image {
-			@include columns(5);
+			@include columns(6);
 			img {
 				border-right: $gutter-width solid $color-black;
 			}
@@ -22,7 +22,7 @@
 		.dates {
 			@include columns(16);
 			@media (min-width: $screen-md-min) {
-				@include columns(11);
+				@include columns(10);
 			}
 
 			
@@ -32,7 +32,7 @@
 				@media (min-width: $screen-sm-min) {
 					padding: 20px 20px 20px 20px;
 				}
-				@media (min-width: $screen-xl-min) {
+				@media (min-width: $screen-lg-min) {
 					padding: 50px 50px 50px (50px - $gutter-width);
 				}
 			}
@@ -58,6 +58,8 @@
 				color: $color-gold;
 				margin: 0;
 				text-transform: uppercase;
+				float: left;
+				width: 100%;
 				
 				// font-size: 2rem;
 				@media (min-width: $screen-sm-min) {
@@ -87,15 +89,8 @@
 					float: none;
 					margin-bottom: $gutter-width;
 					@media (min-width: $screen-sm-min) {
-						margin-top: 6px;
+						margin: 3px 0;
 						float: right;
-						margin-bottom: 0;
-					}
-					@media (min-width: $screen-md-min) {
-						margin-top: 6px;
-					}
-					@media (min-width: $screen-lg-min) {
-						  margin-top: 5px;
 					}
 
 					@include transition();

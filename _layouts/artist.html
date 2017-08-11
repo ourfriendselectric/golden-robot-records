@@ -13,11 +13,34 @@ layout: default
     <div class="row">
     	<div class="content">
     		{{ page.content }}
+
+    		<div class="row social">
+	    		<div class="inner">
+					Follow {{ page.name }} on
+					<div class="icons">
+						{% if page.twitter != null %}
+							<a href="{{ page.twitter }}" target="_blank" /><img src="/images/twitter.png" /></a>
+						{% endif %}
+						{% if page.facebook != null %}
+							<a href="{{ page.facebook }}" target="_blank" /><img src="/images/facebook.png" /></a>
+						{% endif %}
+						{% if page.instagram != null %}
+							<a href="{{ page.instagram }}" target="_blank" /><img src="/images/instagram.png" /></a>
+						{% endif %}
+						{% if page.spotify != null %}
+							<a href="{{ page.spotify }}" target="_blank" /><img src="/images/spotify.png" /></a>
+						{% endif %}
+						{% if page.apple != null %}
+							<a href="{{ page.apple }}" target="_blank" /><img src="/images/apple.png" /></a>
+						{% endif %}
+					</div>
+	    		</div>
+    		</div>
     	</div>
     	<div class="dates-albumns">
     		<div class="row">
 	    		<div class="dates">
-	    			<div class="panel">
+	    			<div class="panel clearfix">
 		    			<h2>{{ page.tour_title }}</h2>
 						{% for row in page.dates %}
 							<p class="date">{{ row.date }} {{ row.venue }} <a href="{{ row.link }}" target="_blank">Get Tickets</a></p>
