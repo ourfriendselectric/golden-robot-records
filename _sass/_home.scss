@@ -27,10 +27,11 @@
 			@media (min-width: $screen-sm-min) {
 				@include columns(12);
 				@include offset(2);
+				margin-bottom: 50px;
 			}
 			@media (min-width: $screen-md-min) {
-				@include columns(8);
-				@include offset(4);
+				@include columns(10);
+				@include offset(3);
 			}
 			@media (min-width: $screen-lg-min) {
 				@include columns(8);
@@ -40,8 +41,18 @@
 				float: left;
 				text-align: center;
 				@include columns(8);
+				height: 100px;
+				line-height: 100px;
 				@media (min-width: $screen-sm-min) {
 					@include columns(4);
+					height: 70px;
+					line-height: 70px;
+				}
+				a {
+					display: block;
+				}
+				img {
+					vertical-align: middle;
 				}
 			}
 		}
@@ -113,7 +124,7 @@
 				background-repeat: no-repeat;
 				background-position: center top;
 
-				height: 200px;
+				height: 335px;
 				@media (min-width: $screen-sm-min) {
 					height: 360px;
 				}
