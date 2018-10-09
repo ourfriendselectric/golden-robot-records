@@ -7,10 +7,9 @@ layout: default
     <div class="row">
       <div class="col">
         <div class="contact-slider">
-          <div><img src="{{ page.slideshow[0].image_path }}" alt="" class="img-fluid"></div>
-          <div><img src="{{ page.slideshow[1].image_path }}" alt="" class="img-fluid"></div>
-          <div><img src="{{ page.slideshow[2].image_path }}" alt="" class="img-fluid"></div>
-          <div><img src="{{ page.slideshow[3].image_path }}" alt="" class="img-fluid"></div>
+          {% for images in page.slideshow %}
+            <div><img src="{{ images.image_path }}" alt="" class="img-fluid"></div>
+          {% endfor %}
         </div>
       </div>
     </div>
