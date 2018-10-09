@@ -1,93 +1,201 @@
-$phoneNavHeight: 50px;
-$tabletNavHeight: 100px;
-$laptopNavHeight: 150px;
-$desktopNavHeight: 200px;
-
 header {
-	@extend .clearfix;
-	height: auto;
-	@media (min-width: $screen-sm-min) {
-		height: $tabletNavHeight;
+	
+	@include media-breakpoint-down(sm) {
+		padding-top: 10px;
+		padding-bottom: 10px;
 	}
-	@media (min-width: $screen-md-min) {
-		height: $laptopNavHeight;
+
+	.navbar {
+		padding: 0;
+
+		padding-top: 10px;
+		@include media-breakpoint-up(sm) {
+			padding-top: 16px;
+		}
+		@include media-breakpoint-up(md) {
+			padding-top: 25px;
+		}
+		@include media-breakpoint-up(lg) {
+			padding-top: 25px;
+		}
 	}
-	@media (min-width: $screen-lg-min) {
-		height: $desktopNavHeight;
+
+	.navbar-brand {
+		padding: 0;
 	}
-	nav {
-		@include columns(16);
+
+	.navbar-expand-lg .navbar-nav .nav-link {
+		text-transform: uppercase;
+		font-size: 1.125rem;
+		text-align: right;
+
+		@include media-breakpoint-up(sm) {
+			padding-left: 20px;
+			font-size: 1rem;
+		}
+		@include media-breakpoint-up(md) {
+			padding-left: 40px;
+			font-size: 1.1rem;
+		}
+
+		&:hover {
+			text-decoration: underline;
+		}
 	}
+	
+	.navbar-expand-lg .navbar-nav .nav-item.dropdown {
+		.nav-link {
+			@include media-breakpoint-up(lg) {
+				padding-left: 0;
+			}
+		}
+	}
+
+	.dropdown-menu {
+		padding: 0;
+		background: $dark;
+		border: none;
+		margin-left: -10px;
+		text-align: right;
+		margin-bottom: 20px;
+
+		@include media-breakpoint-up(lg) {
+			text-align: left;
+			margin-bottom: 0;
+		}
+
+		a {
+			color: #fff;
+			padding: 5px 15px 5px 10px;
+			font-size: 1.125rem;
+			text-transform: uppercase;
+			border-bottom: none;
+
+			@include media-breakpoint-up(lg) {
+				border-bottom: 1px solid #fff;
+			}
+
+			@include media-breakpoint-up(sm) {
+				font-size: 1rem;
+			}
+			@include media-breakpoint-up(md) {
+				font-size: 1.1rem;
+			}
+			@include media-breakpoint-up(lg) {
+				font-size: 1.125rem;
+			}
+
+			&:last-child {
+				border-bottom: none;
+			}
+		}
+	}
+
+	.dropdown-toggle::after {
+		content: none;
+	}
+
+	.navbar-toggler {
+		border: none;
+		padding: 0;	
+	}
+
+
 	.logo-link {
 		display: block;
-		@media (min-width: $screen-sm-min) {
+		@include media-breakpoint-up(sm) {
 			float: left;
 		}
 		.logo {
-			height: auto;
-			padding: 20px 0 0 0;
-			width: 100%;
-			@media (min-width: $screen-sm-min) {
-				padding: 16px 0 15px 0;
-				width: 300px;
-			}
-			@media (min-width: $screen-md-min) {
-				padding: 25px 0;
-				width: 400px;
-			}
-			@media (min-width: $screen-lg-min) {
-				padding: 43px 0;
-				width: 465px;
+			svg {
+				height: 35px;
+				@include media-breakpoint-up(sm) {
+					height: 65px;
+				}
+				@include media-breakpoint-up(md) {
+					height: 80px;
+				}
+				@include media-breakpoint-up(lg) {
+					height: 90px;
+				}
 			}
 		}
 	}
-	ul {
-		float: right;
-		margin: 0 0 20px 0;
-		padding: 0;
-		text-transform: uppercase;
-		width: 100%;
-		@media (min-width: $screen-sm-min) {
-			width: auto;
-			margin: 0;
-		}
-		li {
-			display: inline-block;
-	
-			line-height: $phoneNavHeight;
-			font-size: 1.5238095238rem;
-			width: 25%;
-			text-align: center;
-			@media (min-width: $screen-sm-min) {
-				line-height: $tabletNavHeight;
-				font-size: 1.7142857143rem;
-				width: auto;
-				text-align: right;
-			}
-			@media (min-width: $screen-md-min) {
-				line-height: $laptopNavHeight;
-				font-size: 2.2857142857rem;
-			}
-			@media (min-width: $screen-lg-min) {
-				line-height: $desktopNavHeight;
-			}
-			a {
-				color: #fff;
 
-				padding: 0;
-				@media (min-width: $screen-sm-min) {
-					padding: 0 0 0 20px;
-				}
-				@media (min-width: $screen-md-min) {
-					padding: 0 0 0 40px;
-				}
-				@media (min-width: $screen-lg-min) {
-					padding: 0 0 0 80px;
-				}
-				&:hover {
-					color: #fff;
-				}
-			}
-		}
-	}
+	// ul {
+	// 	float: right;
+	// 	margin: 0 0 20px 0;
+	// 	padding: 0;
+	// 	text-transform: uppercase;
+	// 	width: 100%;
+	// 	@include media-breakpoint-up(sm) {
+	// 		width: auto;
+	// 		margin: 0;
+	// 	}
+	// 	li {
+	// 		display: inline-block;
+	
+	// 		font-size: 1.5238095238rem;
+	// 		width: 25%;
+	// 		text-align: center;
+	// 		@include media-breakpoint-up(sm) {
+	// 			font-size: 1.7142857143rem;
+	// 			width: auto;
+	// 			text-align: right;
+	// 		}
+	// 		@include media-breakpoint-up(md) {
+	// 			font-size: 2.2857142857rem;
+	// 		}
+	// 		@include media-breakpoint-up(lg) {
+	// 		}
+	// 		a, span {
+	// 			color: #fff;
+	// 			cursor: pointer;
+	// 			display: inline-block;
+	// 			margin: 0;
+
+	// 			@include media-breakpoint-up(sm) {
+	// 				margin: 42px 0 0 20px;
+	// 			}
+	// 			@include media-breakpoint-up(md) {
+	// 				margin: 62px 0 0 40px;
+	// 			}
+	// 			@include media-breakpoint-up(lg) {
+	// 				margin: 90px 0 0 80px;
+	// 			}
+	// 			&:hover {
+	// 				color: #fff;
+	// 				text-decoration: underline;
+	// 			}
+	// 		}
+	// 	}
+	// }
+
+	// ul {
+	// 	li.dropdown {
+	// 		position: relative;
+	// 		ul.dropdown-menu {
+	// 			position: absolute;
+	// 			// visibility: none;
+	// 			// opacity: 0;
+	// 			top: 0;
+	// 			left: 0;
+	// 			min-width: 300px;
+
+	// 			li {
+	// 				display: block;
+	// 				line-height: 20px;
+	// 				a {
+	// 					padding: 0;
+	// 				}
+	// 			}
+	// 		}
+	// 	}
+	// }
 }
+
+
+
+
+
+

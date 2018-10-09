@@ -3,15 +3,19 @@
 # only Main files contain this front matter, not partials.
 ---
 
+@import "bootstrap/bootstrap";
 @import "variables";
-@import "normalise";
-@import "mixins";
+// @import "normalise";
+// @import "mixins";
 
-@import "utils";
+// @import "bootstrap/bootstrap";
+
+// @import "utils";
 @import "base";
 @import "navigation";
 @import "footer";
-@import "typography";
-@import "home";
+@import "contact";
+// @import "typography";
+// @import "home";
 @import "artists";
-@import "tours";
+// @import "tours";

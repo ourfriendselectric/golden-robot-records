@@ -1,0 +1,30 @@
+.contact {
+	text-align: center;
+
+	.contact-slider {
+		margin-bottom: 20px;
+
+		.slick-dots {
+			bottom: 15px;
+		}
+
+		.slick-dots li {
+			margin: 0;
+		}
+
+		.slick-dots li button:before {
+			color: #fff;
+			font-size: 8px;
+		}
+	}
+
+	.email-success {
+		margin-top: 30px;
+	}
+
+	.email-success.invisible {
+		margin-top: 0px;
+		margin-bottom: 0;
+		padding: 0;
+	}
+}
