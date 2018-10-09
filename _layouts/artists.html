@@ -6,7 +6,9 @@ layout: default
     <div class="row">
 
       {% if page.items == "all" %}
-        {% assign items = site.golden-robot-records | concat: site.x-ray-records  | concat: site.riot-records | sort: 'order' %}
+        {% assign full = site.golden-robot-records | concat: site.x-ray-records %}
+        {% assign full = full | concat: site.riot-records %}
+        {% assign items = full | sort: 'order' %}
       {% else %}
         {% assign items = site[page.items] | sort: 'order' %}
       {% endif %}
