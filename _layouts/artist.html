@@ -16,39 +16,39 @@ layout: default
 
 			    <div class="row">
 					<div class="col">
-						{% if page.twitter != null %}
-			    			{{ page.intro }}
+						{% if page.intro_markdown != null %}
+			    			{{ page.intro_markdown }}
 			    		{% endif %}
 			    	</div>
 			    </div>
 
 			    <div class="row social">
-					{% if page.spotify != null %}
+					{% if page.spotify_url != null %}
 						<a class="col col-md-1" href="{{ page.spotify }}" target="_blank" />
 							{% include social/spotify.html %}
 						</a>
 					{% endif %}
-					{% if page.apple != null %}
+					{% if page.apple_url != null %}
 						<a class="col col-md-1" href="{{ page.apple }}" target="_blank" />
 							{% include social/apple.html %}
 						</a>
 					{% endif %}
-					{% if page.twitter != null %}
+					{% if page.twitter_url != null %}
 						<a class="col col-md-1" href="{{ page.twitter }}" target="_blank" />
 							{% include social/twitter.html %}
 						</a>
 					{% endif %}
-					{% if page.facebook != null %}
+					{% if page.facebook_url != null %}
 						<a class="col col-md-1" href="{{ page.facebook }}" target="_blank" />
 							{% include social/facebook.html %}
 						</a>
 					{% endif %}
-					{% if page.instagram != null %}
+					{% if page.instagram_url != null %}
 						<a class="col col-md-1" href="{{ page.instagram }}" target="_blank" />
 							{% include social/instagram.html %}
 						</a>
 					{% endif %}
-					{% if page.youtube != null %}
+					{% if page.youtube_url != null %}
 						<a class="col col-md-1" href="{{ page.youtube }}" target="_blank" />
 							{% include social/youtube.html %}
 						</a>
