@@ -5,12 +5,20 @@ layout: default
   <div class="container">
     <div class="row">
 
-      {% assign items = site.artists | sort: 'order' %}
+      {% if page.items == 'all' %}
+        {% assign full = site.golden-robot-records | concat: site.x-ray-records  | concat: site.riot-records %}
+        {% assign items = full | sort: 'order' %}
+      {% else %}
+        {% assign items = site[page.items] | sort: 'order' %}
+      {% endif %}
+
       {% for artist in items %}
         {% if artist.hidden == false %}
-          <a href="{{ artist.url | prepend: site.baseurl }}" class="artist">
-            <div class="overlay"><div class="text">View Artist</div></div>
-            <div class="image"><img src="{{ artist.image_path }}" class="img-responsive" /></div>
+          <a href="{{ artist.url | prepend: site.baseurl }}" class="artist col-md-4 col-lg-3">
+            <div class="image">
+              <div class="overlay"><div class="text">View Artist</div></div>
+              <img src="{{ artist.image_path }}" class="img-fluid" />
+            </div>
             <p class="name">{{ artist.name }}</p>
           </a>
         {% endif %}

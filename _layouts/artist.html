@@ -2,69 +2,93 @@
 layout: default
 ---
 <div class="single-artist" id="content">
-  <div class="container">
-    
-    <div class="row">
-		<div class="hero">
-			<img src="{{ page.hero_path }}" alt="" class="img-responsive">
-		</div>
-    </div>
+	<div class="container">
 
-    <div class="row">
-    	<div class="content">
-    		{{ page.content }}
+	    <div class="row">
+			<div class="col hero">
+				<img src="{{ page.hero_path }}" alt="" class="img-fluid">
+			</div>
+	    </div>
 
-    		<div class="row social">
-	    		<div class="inner">
-					Follow {{ page.name }} on
-					<div class="icons">
+		<div class="row">
+
+			<div class="{% if page.albumns.size > 0 %} col-lg-6 {% else %} col {% endif %}">
+
+			    <div class="row">
+					<div class="col">
 						{% if page.twitter != null %}
-							<a href="{{ page.twitter }}" target="_blank" /><img src="/images/twitter.png" /></a>
+			    			{{ page.intro }}
+			    		{% endif %}
+			    	</div>
+			    </div>
+
+			    <div class="row social">
+					{% if page.spotify != null %}
+						<a class="col col-md-1" href="{{ page.spotify }}" target="_blank" />
+							{% include social/spotify.html %}
+						</a>
+					{% endif %}
+					{% if page.apple != null %}
+						<a class="col col-md-1" href="{{ page.apple }}" target="_blank" />
+							{% include social/apple.html %}
+						</a>
+					{% endif %}
+					{% if page.twitter != null %}
+						<a class="col col-md-1" href="{{ page.twitter }}" target="_blank" />
+							{% include social/twitter.html %}
+						</a>
+					{% endif %}
+					{% if page.facebook != null %}
+						<a class="col col-md-1" href="{{ page.facebook }}" target="_blank" />
+							{% include social/facebook.html %}
+						</a>
+					{% endif %}
+					{% if page.instagram != null %}
+						<a class="col col-md-1" href="{{ page.instagram }}" target="_blank" />
+							{% include social/instagram.html %}
+						</a>
+					{% endif %}
+					{% if page.youtube != null %}
+						<a class="col col-md-1" href="{{ page.youtube }}" target="_blank" />
+							{% include social/youtube.html %}
+						</a>
+					{% endif %}
+				</div>
+
+			    <div class="row">
+					<div class="col">
+			    		{{ page.content }}
+					</div>
+				</div>
+			</div>
+
+			{% if page.albumns.size > 0 %}
+				<div class="col-lg-6">
+					<div class="row albumns">
+						{% if page.albumns[0].image_path != null %}
+							<div class="col-md-6 albumn">
+								<img src="{{ page.albumns[0].image_path }}" class="img-fluid" />
+							</div>
 						{% endif %}
-						{% if page.facebook != null %}
-							<a href="{{ page.facebook }}" target="_blank" /><img src="/images/facebook.png" /></a>
+						{% if page.albumns[1].image_path != null %}
+							<div class="col-md-6 albumn">
+								<img src="{{ page.albumns[1].image_path }}" class="img-fluid" />
+							</div>
 						{% endif %}
-						{% if page.instagram != null %}
-							<a href="{{ page.instagram }}" target="_blank" /><img src="/images/instagram.png" /></a>
+						{% if page.albumns[2].image_path != null %}
+							<div class="col-md-6 albumn">
+								<img src="{{ page.albumns[2].image_path }}" class="img-fluid" />
+							</div>
 						{% endif %}
-						{% if page.spotify != null %}
-							<a href="{{ page.spotify }}" target="_blank" /><img src="/images/spotify.png" /></a>
-						{% endif %}
-						{% if page.apple != null %}
-							<a href="{{ page.apple }}" target="_blank" /><img src="/images/apple.png" /></a>
+						{% if page.albumns[3].image_path != null %}
+							<div class="col-md-6 albumn">
+								<img src="{{ page.albumns[3].image_path }}" class="img-fluid" />
+							</div>
 						{% endif %}
 					</div>
-	    		</div>
-    		</div>
-    	</div>
-    	<div class="dates-albumns">
-    		<div class="row">
-	    		<div class="dates">
-	    			<div class="panel clearfix">
-		    			<h2>{{ page.tour_title }}</h2>
-						{% for row in page.dates %}
-							<p class="date">{{ row.date }} {{ row.venue }} <a href="{{ row.link }}" target="_blank">Get Tickets</a></p>
-						{% endfor %}
-					</div>
-	    		</div>
-    		</div>
-    		<div class="row">
-	    		<div class="albumns">
-	    			<div class="albumn">
-	    				<div class="border"><img src="{{ page.albumns[0].image_path }}" class="img-responsive" /></div>
-	    			</div>
-	    			<div class="albumn">
-	    				<div class="border"><img src="{{ page.albumns[1].image_path }}" class="img-responsive" /></div>
-	    			</div>
-	    			<div class="albumn">
-	    				<div class="border"><img src="{{ page.albumns[2].image_path }}" class="img-responsive" /></div>
-	    			</div>
-	    			<div class="albumn">
-	    				<div class="border"><img src="{{ page.albumns[3].image_path }}" class="img-responsive" /></div>
-	    			</div>
-    			</div>
-    		</div>
-    	</div>
-    </div>
-  </div>
+				</div>
+			{% endif %}
+
+		</div>
+	</div>
 </div>

@@ -20,8 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/_site" # the subpath of your site, e.g. /blog
-url: "http://golden-robot-records.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://golden-robot-records.test" # the base hostname & protocol for your site, e.g. http://example.com
+spotify_username: https://twitter.com/goldenrobotrec
 twitter_username: https://twitter.com/goldenrobotrec
+youtube_username: https://www.facebook.com/goldenrobotrecords
 facebook_username: https://www.facebook.com/goldenrobotrecords
 instagram_username: https://www.instagram.com/goldenrobotrecords
 
@@ -33,15 +35,17 @@ plugins:
 permalink: pretty
 
 collections:
-  artists:
+  golden-robot-records:
     output: true
-  tours:
-    output: false
+  x-ray-records:
+    output: true
+  riot-records:
+    output: true
 
 defaults:
   - scope:
-      type: artists
-      path: "/artists/"
+      type: golden-robot-records
+      path: "/golden-robot-records/"
     values:
       layout: artist
       image: 'http://lorempixel.com/800/800'
@@ -49,28 +53,59 @@ defaults:
       order: 100
       hidden: false
       hero: http://lorempixel.com/1800/660
-      tour_title: Tour Title
-      dates:
-       - date: Jan 01
-         venue: SCG
-         link: http://www.google.com
+      twitter: https://google.com
+      facebook: https://google.com
+      instagram: https://google.com
+      spotify: https://google.com
+      apple: https://google.com
+      youtube: https://google.com
       albumns: 
         - image_path: http://lorempixel.com/801/801
         - image_path: http://lorempixel.com/802/802
         - image_path: http://lorempixel.com/803/803
         - image_path: http://lorempixel.com/804/804
   - scope:
-      type: tours
-      path: "/tours/"
+      type: x-ray-records
+      path: "/x-ray-records/"
     values:
-      image: http://lorempixel.com/800/800
-      title: Tour Title
-      order: 1
+      layout: artist
+      image: 'http://lorempixel.com/800/800'
+      name: 'Artist Name'
+      order: 100
       hidden: false
-      dates:
-       - date: Jan 01
-         venue: SCG
-         link: http://www.google.com
+      hero: http://lorempixel.com/1800/660
+      twitter: https://google.com
+      facebook: https://google.com
+      instagram: https://google.com
+      spotify: https://google.com
+      apple: https://google.com
+      youtube: https://google.com
+      albumns: 
+        - image_path: http://lorempixel.com/801/801
+        - image_path: http://lorempixel.com/802/802
+        - image_path: http://lorempixel.com/803/803
+        - image_path: http://lorempixel.com/804/804
+  - scope:
+      type: riot-records
+      path: "/riot-records/"
+    values:
+      layout: artist
+      image: 'http://lorempixel.com/800/800'
+      name: 'Artist Name'
+      order: 100
+      hidden: false
+      hero: http://lorempixel.com/1800/660
+      twitter: https://google.com
+      facebook: https://google.com
+      instagram: https://google.com
+      spotify: https://google.com
+      apple: https://google.com
+      youtube: https://google.com
+      albumns: 
+        - image_path: http://lorempixel.com/801/801
+        - image_path: http://lorempixel.com/802/802
+        - image_path: http://lorempixel.com/803/803
+        - image_path: http://lorempixel.com/804/804
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

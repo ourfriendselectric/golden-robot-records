@@ -1,12 +1,45 @@
 <header>
   <div class="container">
-    <div class="row">
-      <nav>
-      	<a class="logo-link" href="{{ site.baseurl }}">{% include logo.html %}</a>
-      	<ul>
-      		<li><a href="{{ site.baseurl }}{% link artists.html %}">Artists</a></li><li><a href="{{ site.baseurl }}{% link tours.html %}">Tours</a></li><li><a href="http://store.socialfamilyrecords.com" target="_blank">Store</a></li><li><a href="#">Contact</a></li>
-      	</ul>
-      </nav>
-    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+      {% if page.items == "riot-records" %}
+        <a class="navbar-brand logo-link" href="{{ site.baseurl }}"><div class="logo">{% include logos/riot-records.html %}</div></a>
+      {% elsif page.items == "x-ray-records" %}
+        <a class="navbar-brand logo-link" href="{{ site.baseurl }}"><div class="logo">{% include logos/x-ray-records.html %}</div></a>
+      {% else %}
+        <a class="navbar-brand logo-link" href="{{ site.baseurl }}"><div class="logo">{% include logos/golden-robot-records.html %}</div></a>
+      {% endif %}
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Labels
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
+              <a class="dropdown-item" href="#">Social Family Records</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Store</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}{% link contact.html %}">Contact</a>
+          </li>
+        </ul>
+
+      </div>
+    </nav>
   </div>
 </header>
