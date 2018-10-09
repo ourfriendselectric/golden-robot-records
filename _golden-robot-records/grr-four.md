@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: GRR One
-sort_number: 10
+name: GRR Four
+sort_number: 40
 hidden: false
 intro_markdown: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
