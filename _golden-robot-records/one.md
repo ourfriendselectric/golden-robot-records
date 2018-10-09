@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: One
-order: 10
+name: GRR One
+order: '10'
 hidden: true
 intro: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
