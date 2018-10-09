@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/al_one.png
 name: GRR Two
-order: '20'
+order: '5'
 hidden: false
 intro: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
