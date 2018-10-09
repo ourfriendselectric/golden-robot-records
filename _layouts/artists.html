@@ -5,7 +5,7 @@ layout: default
   <div class="container">
     <div class="row">
 
-      {% if page.items == 'all' %}
+      {% if page.items == all %}
         {% assign full = site.golden-robot-records | concat: site.x-ray-records  | concat: site.riot-records %}
         {% assign items = full | sort: 'order' %}
       {% else %}
