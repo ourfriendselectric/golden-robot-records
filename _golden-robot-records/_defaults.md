@@ -2,10 +2,10 @@
 layout: artist
 image_path: /images/al_one.png
 name: Golden Robot Records
-order: 10
+sort_number: 10
 hidden: true
 
-intro: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+intro_markdown: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 twitter: https://twitter.com/thelockhearts
 facebook: https://www.facebook.com/thelockhearts/

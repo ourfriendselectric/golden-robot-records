@@ -8,9 +8,9 @@ layout: default
       {% if page.items == "all" %}
         {% assign full = site.golden-robot-records | concat: site.x-ray-records %}
         {% assign full = full | concat: site.riot-records %}
-        {% assign items = full | sort: 'order' %}
+        {% assign items = full | sort: 'sort_number' %}
       {% else %}
-        {% assign items = site[page.items] | sort: 'order' %}
+        {% assign items = site[page.items] | sort: 'sort_number' %}
       {% endif %}
 
       {% for artist in items %}
