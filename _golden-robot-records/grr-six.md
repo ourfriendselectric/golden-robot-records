@@ -1,10 +1,10 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: GRR Three
-sort_number: 30
+name: GRR Six
+sort_number: 60
 hidden: false
-intro_markdown: >-
+intro: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
   Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada
   magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum
@@ -27,8 +27,6 @@ albumns:
   - image_path: /images/al_four.png
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aenean lacinia bibendum nulla sed consectetur. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur.
 
-Maecenas faucibus mollis interdum. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
