@@ -19,13 +19,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://azure-chasm.cloudvent.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_site" # the subpath of your site, e.g. /blog
+url: "http://golden-robot-records.test" # the base hostname & protocol for your site, e.g. http://example.com
 spotify_username: https://twitter.com/goldenrobotrec
 twitter_username: https://twitter.com/goldenrobotrec
 youtube_username: https://www.facebook.com/goldenrobotrecords
 facebook_username: https://www.facebook.com/goldenrobotrecords
-instagram_username: https://www.instagram.com/goldenrobotrecs
+instagram_username: https://www.instagram.com/goldenrobotrecords
 
 # Build settings
 markdown: kramdown
