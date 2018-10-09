@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: Golden Robot Records
+name: X Ray Records
 order: 10
 hidden: true
 
@@ -14,7 +14,7 @@ spotify: https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_so
 apple: https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 youtube: https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 
-hero_path: /images/hero.jpg
+hero_path: /images/hero-placeholder.jpg
 albumns: 
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
