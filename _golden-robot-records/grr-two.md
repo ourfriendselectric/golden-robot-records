@@ -4,7 +4,7 @@ image_path: /images/al_one.png
 name: GRR Two
 sort_number: 20
 hidden: false
-intro: >-
+intro_markdown: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
   Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada
   magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum

@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: GRR One
+name: XR One
 sort_number: 10
 hidden: false
 intro_markdown: >-
