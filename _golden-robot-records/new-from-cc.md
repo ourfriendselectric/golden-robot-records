@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/square.jpg
 name: New From CC
-order: '100'
+order: '1'
 hidden: false
 intro: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
