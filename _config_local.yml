@@ -41,6 +41,8 @@ collections:
     output: true
   riot-records:
     output: true
+  social-family-records:
+    output: true
 
 
 # Exclude from processing.
