@@ -6,6 +6,8 @@
         <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/riot-records.html %}</div></a>
       {% elsif page.items == "x-ray-records" %}
         <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/x-ray-records.html %}</div></a>
+      {% elsif page.items == "social-family-records" %}
+        <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/social-family-records.html %}</div></a>
       {% else %}
         <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/golden-robot-records.html %}</div></a>
       {% endif %}
@@ -23,7 +25,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
-              <a class="dropdown-item" href="#">Social Family Records</a>
+              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link social-family-records.html %}">Social Family Records</a>
               <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
               <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
             </div>
