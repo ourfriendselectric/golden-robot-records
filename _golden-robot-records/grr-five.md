@@ -11,7 +11,7 @@ intro_markdown: >-
   dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet,
   consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
   adipiscing elit.
-twitter_url: 'https://twitter.com/thelockhearts'
+twitter_url:
 facebook_url: 'https://www.facebook.com/thelockhearts/'
 instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: >-
