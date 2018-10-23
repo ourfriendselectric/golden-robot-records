@@ -3,7 +3,7 @@ layout: artist
 image_path: /images/al_one.png
 name: New GRR Artist
 sort_number: 10
-hidden: true
+hidden: false
 intro_markdown: >-
   Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
   Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada
@@ -27,3 +27,4 @@ albumns:
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
 ---
+
