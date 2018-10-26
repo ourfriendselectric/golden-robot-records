@@ -4,4 +4,5 @@ name: Catalogue 3
 album_name: Catalogue 3 Album
 sort_number: 300
 hidden: false
+_hide_content: true
 ---
