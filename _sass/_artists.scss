@@ -53,6 +53,19 @@ $xlHeight: auto;
 			}
 		}
 
+		.album {
+			margin: 0;
+			font-size: 0.8rem;
+			@include media-breakpoint-up(sm) {
+				margin: 0 0 0 10px;
+				font-size: 0.8rem;
+			}
+			@include media-breakpoint-up(md) {
+				margin: 0 0 0 10px;
+				font-size: 1rem;
+			}
+		}
+
 		.overlay {
 			@include transition();
 			opacity: 0;

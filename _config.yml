@@ -14,18 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Golden Robot Records
-email: your-email@example.com
+email: info@goldenrobotrecords.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Golden Robot Records is a powerhouse independent Worldwide record label who embrace, develop and finance their hand picked artists giving each band the support they need to get their music released across the globe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://azure-chasm.cloudvent.net" # the base hostname & protocol for your site, e.g. http://example.com
 spotify_username: https://twitter.com/goldenrobotrec
 twitter_username: https://twitter.com/goldenrobotrec
-youtube_username: https://www.facebook.com/goldenrobotrecords
+youtube_username: https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ
 facebook_username: https://www.facebook.com/goldenrobotrecords
-instagram_username: https://www.instagram.com/goldenrobotrecs
+instagram_username: https://www.instagram.com/goldenrobotrecords/
 
 # Build settings
 markdown: kramdown
@@ -43,6 +41,8 @@ collections:
     output: true
   social-family-records:
     output: true
+  catalogue:
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
