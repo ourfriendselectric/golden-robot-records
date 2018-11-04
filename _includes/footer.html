@@ -88,31 +88,46 @@
 			</div>
 			<div class="col-6 offset-1 offset-lg-0 col-lg-3">
 				<div class="row social">
+
+      				{% if site.spotify_username %}
 					<div class="col">
 						<a href="{{ site.spotify_username }}" target="_blank">
 							{% include social/spotify.html %}
 						</a> 
 					</div>
+					{% endif %}
+
+      				{% if site.twitter_username %}
 					<div class="col">
 						<a href="{{ site.twitter_username }}" target="_blank">
 							{% include social/twitter.html %}
 						</a> 
 					</div>
+					{% endif %}
+
+      				{% if site.facebook_username %}
 					<div class="col">
 						<a href="{{ site.facebook_username }}" target="_blank">
 							{% include social/facebook.html %}
 						</a> 
 					</div>
+					{% endif %}
+
+      				{% if site.instagram_username %}
 					<div class="col">
 						<a href="{{ site.instagram_username }}" target="_blank">
 							{% include social/instagram.html %}
 						</a>
 					</div>
+					{% endif %}
+
+      				{% if site.youtube_username %}
 					<div class="col">
 						<a href="{{ site.youtube_username }}" target="_blank">
 							{% include social/youtube.html %}
 						</a> 
 					</div>
+					{% endif %}
 				</div>
 			</div>
 			<div class="col-lg-6 text-right copyright">

@@ -19,11 +19,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Golden Robot Records is a powerhouse independent Worldwide record label who embrace, develop and finance their hand picked artists giving each band the support they need to get their music released across the globe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://azure-chasm.cloudvent.net" # the base hostname & protocol for your site, e.g. http://example.com
-spotify_username: https://twitter.com/goldenrobotrec
+spotify_username: https://open.spotify.com/user/goldenrobotrecords/playlist/3Ge2LlIDcSr1GjWIrKFZP7?si=EjFoMSKqTeCoAzHIpqHHSg
+facebook_username: https://www.facebook.com/goldenrobotrecords/
+instagram_username: https://www.instagram.com/goldenrobotrecords/
 twitter_username: https://twitter.com/goldenrobotrec
 youtube_username: https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ
-facebook_username: https://www.facebook.com/goldenrobotrecords
-instagram_username: https://www.instagram.com/goldenrobotrecords/
 
 # Build settings
 markdown: kramdown
