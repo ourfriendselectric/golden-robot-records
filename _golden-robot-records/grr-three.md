@@ -1,27 +1,34 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: GRR Three
+name: Little Caesar
 sort_number: 30
 hidden: false
-
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url: 'https://open.spotify.com/artist/5IOstYUATS0EQ77A1DG7gy'
+apple_url: 'https://itunes.apple.com/au/artist/little-caesar/168344068'
+youtube_url:
+hero_path: /uploads/Screen Shot 2018-11-05 at 3.23.05 pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/Little Caesar - Eight 600px.jpeg
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nobody quite &nbsp;knew what to think &nbsp;of these long haired, &nbsp;tattooed &nbsp;bikers singing such soulful, yet &nbsp;ballsy, rock music &nbsp;when they &nbsp;arrived &nbsp;on the scene &nbsp;in Los Angeles in 1987. They stood &nbsp;out amongst &nbsp;the "Hair Bands" &nbsp;that populated the music scene at the time... a distinction the &nbsp;band wore as a badge &nbsp;of honour.<br><br>Much hype surrounded &nbsp;the band as they were &nbsp;managed by &nbsp;music &nbsp;legend Jimmy Iovine, guided &nbsp;by legendary A&R man &nbsp;John Kalodner &nbsp;and produced by &nbsp;Bob Rock. It seemed &nbsp;like a formula &nbsp;for success, &nbsp;yet the band met &nbsp;an unfortunate set of circumstances &nbsp;that left many &nbsp;scratching their heads &nbsp;shortly &nbsp;after &nbsp;the release &nbsp;of their self-titled &nbsp;debut album.
 
-Maecenas faucibus mollis interdum. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Many &nbsp;were to &nbsp;speculate &nbsp;why the band &nbsp;never achieved the &nbsp;level of success &nbsp;that their &nbsp;legendary team of backers took as inevitable.
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+Many were to &nbsp;speculate that &nbsp;it was due to the &nbsp;dichotomy between &nbsp;the band's gruff appearance &nbsp;and their sound. The truth was &nbsp;that the &nbsp;band fell prey &nbsp;to an unfortunate set of circumstances &nbsp;that occurred &nbsp;in the limited &nbsp;window that bands get to produce &nbsp;sales in, &nbsp;or get exiled &nbsp;in the music business.
+
+Three weeks into &nbsp;the bands initial &nbsp;release, Geffen Records &nbsp;was sold, &nbsp;their label Manager left the &nbsp;company, accountants took &nbsp;over, and &nbsp;their records &nbsp;where lost in transit to their new distributors. &nbsp;As sales dropped &nbsp;off due to the lack of product availability, &nbsp;the accountants &nbsp;shut the project &nbsp;down. &nbsp;And &nbsp;so, another &nbsp;band dies... there's &nbsp;always more where they &nbsp;came from in the rough and &nbsp;tumble world &nbsp;that is the music &nbsp;business.
+
+Little Caesar &nbsp;first appeared on Metal Blade’s “Street &nbsp;Survivors” compilation. &nbsp;The band then &nbsp;released a four &nbsp;song EP titled “Name &nbsp;Your Poison”(produced &nbsp;by Joe Hardy &nbsp;of ZZ Top fame), &nbsp;which subsequently led &nbsp;to a &nbsp;deal with &nbsp;Geffen Records. Little Caesar’s &nbsp;eponymous &nbsp;1990 Geffen &nbsp;debut was produced &nbsp;by the infamous &nbsp;Bob Rock &nbsp;(producer of &nbsp;Metallica’s self-titled &nbsp;1991 multi-platinum &nbsp;release, Motley Crue's “Dr. &nbsp;Feelgood”, &nbsp;and &nbsp;The Cult’s “Sonic &nbsp;Temple” among &nbsp;others). &nbsp;The album was a no-nonsense &nbsp;collection of hard rock &nbsp;in the vein &nbsp;of’70s &nbsp;giants &nbsp;like Bad Company and &nbsp;Humble Pie, and &nbsp;was also &nbsp;brimming &nbsp;with classic &nbsp;R&B influences, &nbsp;garnering widespread &nbsp;acceptance &nbsp;and positive &nbsp;reviews from the &nbsp;rock media. It also featured two Motown &nbsp;covers, including &nbsp;a ballsy rendition &nbsp;of the &nbsp;classic Aretha Franklin track, “Chain &nbsp;of Fools,” which hit &nbsp;the Billboard &nbsp;Top 100 chart and received strong airplay &nbsp;nationwide &nbsp;on both rock &nbsp;radio and MTV. &nbsp;The group toured extensively &nbsp;opening for such legendary acts as Jane’s &nbsp;Addiction, &nbsp;KISS, Social Distortion, Iggy &nbsp;Pop, Billy Idol, and &nbsp;Lynyrd Skynyrd. &nbsp;They also &nbsp;headlined their &nbsp;own club tours, and &nbsp;appeared &nbsp;on TV’s &nbsp;popular “Arsenio &nbsp;Hall Show”, “The &nbsp;Rick Dee’s Show”, &nbsp;and &nbsp;MTV’s “Sex in the &nbsp;90’s”. Vocalist &nbsp;Ron Young &nbsp;was also featured in the movie “Terminator &nbsp;2” as &nbsp;a tough talking biker &nbsp;that gets &nbsp;into a fight &nbsp;with the film’s star, &nbsp;Arnold Schwarzenegger. &nbsp;1992 would bring the second &nbsp;full-length &nbsp;album, “Influence”, which &nbsp;would have &nbsp;Earl Slick (of John Lennon, David &nbsp;Bowie, and &nbsp;Ian Hunter &nbsp;fame) replacing &nbsp;Apache on guitar.
+
+The “Influence” album &nbsp;was produced &nbsp;by the highly &nbsp;respected Howard Benson (who has recently &nbsp;produced releases &nbsp;for platinum &nbsp;artists like &nbsp;Daughtry, Papa &nbsp;Roach, and P.O.D. &nbsp;among &nbsp;others). &nbsp;The band completed &nbsp;its first tour of Europe after the release &nbsp;of the album &nbsp;and drew rave reviews &nbsp;and sold out &nbsp;crowds &nbsp;across multiple countries including &nbsp;a sold out headlining &nbsp;performance at &nbsp;the famous Marquee club in London.
+
+As the band &nbsp;slowly recovered &nbsp;from the shock and &nbsp;lessons learned &nbsp;in the nasty world of the music &nbsp;business, they always &nbsp;remained &nbsp;close, as &nbsp;they are a &nbsp;family way before &nbsp;they &nbsp;are a &nbsp;band. They &nbsp;started to do &nbsp;local shows and &nbsp;remember why they loved &nbsp;music and each &nbsp;other. Since the &nbsp;reformation, the &nbsp;band has &nbsp;played high profile shows &nbsp;at venues as House of &nbsp;Blues, &nbsp;California &nbsp;Speedway for &nbsp;NASCAR, and the &nbsp;Rock The Bayou &nbsp;Festival &nbsp;in Houston &nbsp;TX.
+
+In 2010, &nbsp;Little Caesar &nbsp;moved forward with &nbsp;a vengeance &nbsp;on a worldwide &nbsp;level with a release &nbsp;titled "Redemption" &nbsp;as well as &nbsp;touring &nbsp;in the US, &nbsp;Europe and the &nbsp;UK and in 2012, &nbsp;Little &nbsp;Caesar &nbsp;released &nbsp;"American Dream". &nbsp;Produced by Bruce Witkin, a powerful, &nbsp;no nonsense, guitar &nbsp;driven group of songs &nbsp;that takes &nbsp;the band to &nbsp;that same warm &nbsp;R&B driven &nbsp;Rock and &nbsp;Roll Universe &nbsp;they call home. &nbsp;They performed at &nbsp;the &nbsp;Hard &nbsp;Rock Hell &nbsp;festival in &nbsp;Wales in Dec &nbsp;2012. They returned once &nbsp;again to Europe in 2013 &nbsp;appearing at The &nbsp;Download Festival &nbsp;appearing alongside &nbsp;such acts as Iron Maiden, Motorhead, &nbsp;Rival Sons, &nbsp;and Queens of &nbsp;the Stone Age. In 2016. Bass player Pharoah Barrett &nbsp;(The Four Horsemen) joined founding &nbsp;members Ron Young (Vocals), &nbsp;Tom Morris (Drums) &nbsp;and Loren &nbsp;Molinare &nbsp;(Guitar) and &nbsp;they released a double &nbsp;live CD titled “Brutally &nbsp;Honest” which &nbsp;authentically &nbsp;captured the band’s &nbsp;live &nbsp;energy.
+
+In &nbsp;2017 &nbsp;the band &nbsp;has continued &nbsp;touring the US, &nbsp;UK and &nbsp;Europe and &nbsp;entered the studio &nbsp;to work with Bruce Witkin &nbsp;again for &nbsp;their upcoming &nbsp;release on Golden Robot Records. &nbsp;Joining the &nbsp;band on Guitar &nbsp;is Mark Tremalgia &nbsp;(BangTango, Chambers &nbsp;Brothers, Brothers &nbsp;Johnson) whose band “Disreputable &nbsp;Few” has &nbsp;been backing &nbsp;great artists Billy &nbsp;Gibbons, Slash and Butch &nbsp;Trucks. &nbsp;The band &nbsp;has upcoming &nbsp;tours in &nbsp;the UK &nbsp;and Europe &nbsp;to support their &nbsp;5th studio &nbsp;album and &nbsp;7th release. &nbsp;
