@@ -1,25 +1,23 @@
 ---
 layout: artist
-image_path: /images/al_one.png
-name: GRR Two
+image_path: /images/170804_TheKids_HighRes_TheJamesAdams 26-approved.jpg
+name: The Kids
 sort_number: 20
 hidden: false
-
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
+twitter_url:
+facebook_url:
+instagram_url: 'https://www.instagram.com/thekidspunkrock/'
+spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
+apple_url: 'https://itunes.apple.com/au/artist/the-kids/1054195392'
+youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
+hero_path:
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /images/TheKids-IJWBH-final.jpg
+  - image_path: /uploads/The Kids - School - single cover  - new version.jpeg
 ---
 
-Aenean lacinia bibendum nulla sed consectetur. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur.
+With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth.
 
-Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Led by prodigy drummer Jagger Alexander, who is already playing with two other bands, Moon and New Trends, the band has rocked shows across the world, supporting both national and international acts, from stages at LA’s famous Whisky-a-go-go to The Cherry Bar in Melbourne and everything in between. At only 15, Jagger has had a life full of experiences. Taking these ups and down in stride, he has written his debut album I Just Wanna Be Happy, set for release with Golden Robot Records in 2018. The title track “I Just Wanna Be Happy” was released in September, 2018 and their debut single “School” was released earlier in the year.
+
+With a wealth of experience at such a young age, The Kids have immense potential and are sure to grow into one of Australia’s biggest bands.
