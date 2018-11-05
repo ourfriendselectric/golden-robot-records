@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/THS profile.png
+image_path: /images/THS profile (1).png
 name: The Heartache State
 sort_number: 10
 hidden: false
