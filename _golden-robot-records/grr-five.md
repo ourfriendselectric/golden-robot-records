@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Dizzy%20Reed%20-%20approved%20%282%29.JPG
+image_path: /uploads/Screen Shot 2018-11-05 at 4.53.40 pm.png
 name: Dizzy Reed
 sort_number: 50
 hidden: false
