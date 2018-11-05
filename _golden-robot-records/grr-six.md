@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Fyre Byrd profile cropped.jpg
+image_path: /uploads/Screen Shot 2018-11-05 at 4.54.21 pm.png
 name: Fyre Byrd
 sort_number: 60
 hidden: false
