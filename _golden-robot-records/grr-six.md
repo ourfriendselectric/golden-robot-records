@@ -13,14 +13,12 @@ apple_url: >-
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
 hero_path: /uploads/FB cover.jpg
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/Take Me Out Single Art 600px.jpeg
+  - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
 ---
 
-Fyre &nbsp;Byrd are &nbsp;guitarist/vocalist Joshua &nbsp;and female &nbsp;drummer, Daniella. The &nbsp;brother, &nbsp;sister &nbsp;two piece &nbsp;formed at &nbsp;the beginning &nbsp;of 2017, although they &nbsp;have spent &nbsp;time on the road extensively touring nationally and internationally &nbsp;in other projects.
+Fyre  Byrd are  guitarist/vocalist Joshua  and female  drummer, Daniella. The  brother,  sister  two piece  formed at  the beginning  of 2017, although they  have spent  time on the road extensively touring nationally and internationally  in other projects.
 
-Based &nbsp;in Adelaide, Fyre &nbsp;Byrd have &nbsp;taken advantage &nbsp;of the chemistry &nbsp;they have built over &nbsp;the years and &nbsp;make their presence &nbsp;known with animalistic drums &nbsp;and heavily &nbsp;distorted guitar &nbsp;that drive the melodic &nbsp;energy of their songs, &nbsp;alongside Joshua's vocals.
+Based  in Adelaide, Fyre  Byrd have  taken advantage  of the chemistry  they have built over  the years and  make their presence  known with animalistic drums  and heavily  distorted guitar  that drive the melodic  energy of their songs,  alongside Joshua's vocals.
 
-The Australian &nbsp;duo's sound &nbsp;moulds the rock &nbsp;dynamism &nbsp;of the likes &nbsp;of The White Stripes &nbsp;and Muse. "From &nbsp;the opening &nbsp;track, there was &nbsp;no doubt in our minds &nbsp;these rockers weren’t &nbsp;just here &nbsp;to play a set, &nbsp;they wanted to leave &nbsp;us gasping for air as they &nbsp;sucked &nbsp;it &nbsp;from &nbsp;our lungs! &nbsp;There were no &nbsp;nerves on stage &nbsp;as Fyre Byrd tore &nbsp;through &nbsp;their set, &nbsp;song after song &nbsp;bringing high energy, electrifying &nbsp;rock and roll &nbsp;for the generation &nbsp;of today.” - All &nbsp;Over Adelaide
+The Australian  duo's sound  moulds the rock  dynamism  of the likes  of The White Stripes  and Muse. "From  the opening  track, there was  no doubt in our minds  these rockers weren’t  just here  to play a set,  they wanted to leave  us gasping for air as they  sucked  it  from  our lungs!  There were no  nerves on stage  as Fyre Byrd tore  through  their set,  song after song  bringing high energy, electrifying  rock and roll  for the generation  of today.” - All  Over Adelaide
