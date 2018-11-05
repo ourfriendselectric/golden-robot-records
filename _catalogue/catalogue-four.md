@@ -1,7 +1,7 @@
 ---
-image_path: /images/al_one.png
-name: Catalogue 4
-album_name: Catalogue 4 Album
+image_path: /images/The Kids - School - single cover  - new version.jpeg
+name: The Kids
+album_name: School (Single)
 sort_number: 400
 hidden: false
 _hide_content: true
