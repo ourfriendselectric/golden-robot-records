@@ -2,19 +2,21 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
-      {% if page.items == "riot-records" %}
-        <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/riot-records.html %}</div></a>
-      {% elsif page.items == "x-ray-records" %}
-        <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/x-ray-records.html %}</div></a>
-      {% elsif page.items == "social-family-records" %}
-        <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/social-family-records.html %}</div></a>
-      {% else %}
-        <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}"><div class="logo">{% include logos/golden-robot-records.html %}</div></a>
-      {% endif %}
+      <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}">
+        {% if page.items == "riot-records" %}
+          <div class="logo">{% include logos/riot-records.html %}</div>
+        {% elsif page.items == "x-ray-records" %}
+          <div class="logo">{% include logos/x-ray-records.html %}</div>
+        {% elsif page.items == "social-family-records" %}
+          <div class="logo">{% include logos/social-family-records.html %}</div>
+        {% else %}
+          <div class="logo">{% include logos/golden-robot-records.html %}</div>
+        {% endif %}
+      </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
