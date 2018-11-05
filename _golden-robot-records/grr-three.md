@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Little Caesar - Eight 600px.jpeg
+image_path: /images/LC Promo 20175.jpgLC Promo 20175.jpg
 name: Little Caesar
 sort_number: 30
 hidden: false
