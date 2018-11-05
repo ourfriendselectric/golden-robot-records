@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/DIZZY%20REED%20ROCKNROLLAINTEASY%204000x4000px.jpg
+image_path: /uploads/Dizzy%20Reed%20-%20approved%20%282%29.JPG
 name: Dizzy Reed
 sort_number: 50
 hidden: false
