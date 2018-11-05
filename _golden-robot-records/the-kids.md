@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/thekidspunkrock/'
 spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: 'https://itunes.apple.com/au/artist/the-kids/1054195392'
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-hero_path: /uploads/Screen Shot 2018-11-05 at 3.50.36 pm.png
+hero_path: /uploads/the kids cover.png
 albums:
   - image_path: /images/TheKids-IJWBH-final.jpg
   - image_path: /uploads/The Kids - School - single cover  - new version.jpeg
