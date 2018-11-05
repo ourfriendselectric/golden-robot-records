@@ -1,25 +1,25 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: GRR One
+name: Flickertail
 sort_number: 10
 hidden: false
-
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
+twitter_url:
+facebook_url: 'https://www.facebook.com/flickertailtheband/'
+instagram_url: 'https://www.instagram.com/thebandflickertail/'
+spotify_url: >-
+  https://open.spotify.com/search/results/flickertailhttps://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
+apple_url: 'https://itunes.apple.com/us/artist/flickertail/1279204213'
+youtube_url: 'https://www.youtube.com/channel/UCzDiVtr-Va6g8zxV_Hl9P6Q'
+hero_path: /uploads/flickertail cover.jpg
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
 ---
 
-Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna.
+A four-headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur.
+Since their inception, the band have played relentlessly and are reaping the rewards. 2014's single "The End" received airplay on Triple M and regional radio throughout New South Wales, Victoria and Queensland, while new single "Guinness is Thicker than Blood" has been played everywhere from Bendigo to Brisbane. The tail end of 2015 saw the band landing coveted opening slots with Aussie rock heroes Buffalo and Sarah McLeod on top of endless sweaty shows with local legends Black Aces, The Lockhearts, The Cherry Dolls and Foreign Kings.
+
+The band brought their infamous zero-bullshit live show on the road once more in 2016, including support slots with The Casanovas and US juggernaut Supersuckers.
+
+In 2017, armed with only their wits, guitars and their stunning good looks, Flickertail plan on conquering every state across this vast, thirsty continent.
