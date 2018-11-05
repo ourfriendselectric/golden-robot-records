@@ -12,10 +12,10 @@ apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
 youtube_url: 'https://www.youtube.com/channel/UCifvVbNYeIYI7aeku1EoyeA'
 hero_path: /uploads/jailbirds cover.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
+  - image_path:
+  - image_path:
+  - image_path:
 ---
 
 Jailbirds are an Australian/Irish hard rock band based in Dublin, Ireland.
