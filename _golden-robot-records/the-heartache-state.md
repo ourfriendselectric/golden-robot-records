@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/theheartachestate/'
 spotify_url: 'https://open.spotify.com/search/results/the%20heartache%20state'
 apple_url: 'https://itunes.apple.com/us/artist/the-heartache-state/983939531'
 youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
-hero_path: /uploads/THS cover.png
+hero_path: /uploads/THS cover 2.png
 albums:
   - image_path: /uploads/THS-LOTB.jpg
 ---
