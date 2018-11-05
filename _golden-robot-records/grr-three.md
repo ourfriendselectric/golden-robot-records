@@ -5,8 +5,8 @@ name: Little Caesar
 sort_number: 30
 hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
+facebook_url: 'https://www.facebook.com/LittleCaesarOfficial/'
+instagram_url: 'https://www.instagram.com/littlecaesarband/'
 spotify_url: 'https://open.spotify.com/artist/5IOstYUATS0EQ77A1DG7gy'
 apple_url: 'https://itunes.apple.com/au/artist/little-caesar/168344068'
 youtube_url:
