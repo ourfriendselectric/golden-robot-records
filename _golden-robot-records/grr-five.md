@@ -4,12 +4,10 @@ image_path: /images/al_one.png
 name: Dizzy Reed
 sort_number: 50
 hidden: false
-
-twitter_url:
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
+twitter_url: 'https://twitter.com/dizzyreed'
+facebook_url: 'https://www.facebook.com/DizzyFnReed/'
+instagram_url: 'https://www.instagram.com/dizzyfnreed'
+spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
 apple_url: >-
   https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 youtube_url: >-
