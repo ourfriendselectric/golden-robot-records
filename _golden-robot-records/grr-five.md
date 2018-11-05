@@ -8,10 +8,9 @@ twitter_url: 'https://twitter.com/dizzyreed'
 facebook_url: 'https://www.facebook.com/DizzyFnReed/'
 instagram_url: 'https://www.instagram.com/dizzyfnreed'
 spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
+apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
 youtube_url:
-hero_path: /uploads/30707831-599607967040116-5049057286308118293-n.jpg
+hero_path: /uploads/dizzy cover photo.jpg
 albums:
   - image_path: /uploads/DIZZY REED ROCKNROLLAINTEASY 4000x4000px.jpg
 ---
