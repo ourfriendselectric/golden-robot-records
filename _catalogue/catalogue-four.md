@@ -1,8 +1,8 @@
 ---
-image_path: /images/The Kids - School - single cover  - new version.jpeg
+image_path: /images/TheKids-IJWBH-final.jpg
 name: The Kids
-album_name: School (Single)
-sort_number: 400
+album_name: I Just Wanna Be Happy (Single)
+sort_number: 401
 hidden: false
 _hide_content: true
 ---
