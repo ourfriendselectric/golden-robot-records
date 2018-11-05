@@ -21,33 +21,33 @@ layout: default
 				</div>
 
 			    <div class="row social">
-					{% if page.spotify_url != null %}
-						<a class="col col-md-1" href="{{ page.spotify }}" target="_blank" />
+					{% if page.spotify_url %}
+						<a class="col col-md-1" href="{{ page.spotify_url }}" target="_blank" />
 							{% include social/spotify.html %}
 						</a>
 					{% endif %}
-					{% if page.apple_url != null %}
-						<a class="col col-md-1" href="{{ page.apple }}" target="_blank" />
+					{% if page.apple_url %}
+						<a class="col col-md-1" href="{{ page.apple_url }}" target="_blank" />
 							{% include social/apple.html %}
 						</a>
 					{% endif %}
-					{% if page.twitter_url != null %}
-						<a class="col col-md-1" href="{{ page.twitter }}" target="_blank" />
+					{% if page.twitter_url %}
+						<a class="col col-md-1" href="{{ page.twitter_url }}" target="_blank" />
 							{% include social/twitter.html %}
 						</a>
 					{% endif %}
-					{% if page.facebook_url != null %}
-						<a class="col col-md-1" href="{{ page.facebook }}" target="_blank" />
+					{% if page.facebook_url %}
+						<a class="col col-md-1" href="{{ page.facebook_url }}" target="_blank" />
 							{% include social/facebook.html %}
 						</a>
 					{% endif %}
-					{% if page.instagram_url != null %}
-						<a class="col col-md-1" href="{{ page.instagram }}" target="_blank" />
+					{% if page.instagram_url %}
+						<a class="col col-md-1" href="{{ page.instagram_url }}" target="_blank" />
 							{% include social/instagram.html %}
 						</a>
 					{% endif %}
-					{% if page.youtube_url != null %}
-						<a class="col col-md-1" href="{{ page.youtube }}" target="_blank" />
+					{% if page.youtube_url %}
+						<a class="col col-md-1" href="{{ page.youtube_url }}" target="_blank" />
 							{% include social/youtube.html %}
 						</a>
 					{% endif %}
