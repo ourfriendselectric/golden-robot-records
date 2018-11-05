@@ -61,9 +61,7 @@ found themselves supporting THE ANSWER (UK), Tyler Bryant & The
 
 Shakedown (USA), ANVIL (CAN), Y&T (USA), SAMARKIND (IRE) & LOUZDO
 
-(FRA)
-
-.
+(FRA).
 
 2018 kicked off strong with the band doing an Irish tour, playing to smaller
 
