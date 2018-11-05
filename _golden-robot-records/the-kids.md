@@ -4,8 +4,8 @@ image_path: /images/170804_TheKids_HighRes_TheJamesAdams 26-approved.jpg
 name: The Kids
 sort_number: 20
 hidden: false
-twitter_url:
-facebook_url:
+twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
+facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
 instagram_url: 'https://www.instagram.com/thekidspunkrock/'
 spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: 'https://itunes.apple.com/au/artist/the-kids/1054195392'
