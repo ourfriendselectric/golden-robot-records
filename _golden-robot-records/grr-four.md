@@ -10,8 +10,8 @@ facebook_url: >-
 instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
-youtube_url: 'https://www.youtube.com/channel/UCifvVbNYeIYI7aeku1EoyeA'
-hero_path: /uploads/jailbirds cover.png
+youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
+hero_path: /uploads/Screen Shot 2018-11-05 at 4.29.39 pm.png
 albums:
   - image_path:
 ---
