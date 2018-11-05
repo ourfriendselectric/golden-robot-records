@@ -12,7 +12,7 @@ layout: default
 
 		<div class="row">
 
-			<div class="{% if page.albumns.size > 0 %} col-lg-6 {% else %} col {% endif %}">
+			<div class="{% if page.albums.size > 0 %} col-lg-6 {% else %} col {% endif %}">
 
 			    <div class="row">
 					<div class="col">
@@ -54,27 +54,27 @@ layout: default
 				</div>
 			</div>
 
-			{% if page.albumns.size > 0 %}
+			{% if page.albums.size > 0 %}
 				<div class="col-lg-6">
-					<div class="row albumns">
-						{% if page.albumns[0].image_path != null %}
-							<div class="col-md-6 albumn">
-								<img src="{{ page.albumns[0].image_path }}" class="img-fluid" />
+					<div class="row albums">
+						{% if page.albums[0].image_path != null %}
+							<div class="col-md-6 album">
+								<img src="{{ page.albums[0].image_path }}" class="img-fluid" />
 							</div>
 						{% endif %}
-						{% if page.albumns[1].image_path != null %}
-							<div class="col-md-6 albumn">
-								<img src="{{ page.albumns[1].image_path }}" class="img-fluid" />
+						{% if page.albums[1].image_path != null %}
+							<div class="col-md-6 album">
+								<img src="{{ page.albums[1].image_path }}" class="img-fluid" />
 							</div>
 						{% endif %}
-						{% if page.albumns[2].image_path != null %}
-							<div class="col-md-6 albumn">
-								<img src="{{ page.albumns[2].image_path }}" class="img-fluid" />
+						{% if page.albums[2].image_path != null %}
+							<div class="col-md-6 album">
+								<img src="{{ page.albums[2].image_path }}" class="img-fluid" />
 							</div>
 						{% endif %}
-						{% if page.albumns[3].image_path != null %}
-							<div class="col-md-6 albumn">
-								<img src="{{ page.albumns[3].image_path }}" class="img-fluid" />
+						{% if page.albums[3].image_path != null %}
+							<div class="col-md-6 album">
+								<img src="{{ page.albums[3].image_path }}" class="img-fluid" />
 							</div>
 						{% endif %}
 					</div>
