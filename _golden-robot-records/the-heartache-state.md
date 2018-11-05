@@ -1,22 +1,17 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/couch crop.jpg
 name: The Heartache State
 sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+hidden: false
+twitter_url: 'https://twitter.com/heartachestate'
+facebook_url: 'https://www.facebook.com/theheartachestate/'
+instagram_url: 'https://www.instagram.com/theheartachestate/'
+spotify_url: 'https://open.spotify.com/search/results/the%20heartache%20state'
+apple_url: 'https://itunes.apple.com/us/artist/the-heartache-state/983939531'
+youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
+hero_path: /uploads/THS cover.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/THS-LOTB.jpg
 ---
+
