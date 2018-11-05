@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
+image_path: /uploads/Flickertail - Image 3.jpg
 name: Flickertail
 sort_number: 10
 hidden: false
