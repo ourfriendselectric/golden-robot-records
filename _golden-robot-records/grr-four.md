@@ -7,7 +7,7 @@ hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/jailbirdsrocknroll/'
 instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
-spotify_url: 'https://open.spotify.com/artist/1Sim9c3ejpPtRsm08S7vVC'
+spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
 youtube_url: 'https://www.youtube.com/channel/UCifvVbNYeIYI7aeku1EoyeA'
 hero_path: /uploads/jailbirds cover.png
