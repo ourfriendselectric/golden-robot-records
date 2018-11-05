@@ -1,25 +1,18 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/DIZZY%20REED%20ROCKNROLLAINTEASY%204000x4000px.jpg
 name: Dizzy Reed
 sort_number: 50
 hidden: false
-
-twitter_url:
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /uploads/30707831-599607967040116-5049057286308118293-n.jpg
+twitter_url: 'https://twitter.com/dizzyreed'
+facebook_url: 'https://www.facebook.com/DizzyFnReed/'
+instagram_url: 'https://www.instagram.com/dizzyfnreed'
+spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
+apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
+youtube_url:
+hero_path: /uploads/dizzy cover photo.jpg
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/DIZZY REED ROCKNROLLAINTEASY 4000x4000px.jpg
 ---
 
 When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018.
