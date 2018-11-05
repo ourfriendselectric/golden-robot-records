@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/search/results/fyre%20byrd'
 apple_url: >-
   https://itunes.apple.com/us/artist/fyre-byrd/1368232166?app=music&ign-mpt=uo%3D4
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
-hero_path: /uploads/Untitled design.png
+hero_path: /uploads/Screen Shot 2018-11-05 at 3.32.51 pm.png
 albums:
   - image_path: /uploads/Take Me Out Single Art 600px.jpeg
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
