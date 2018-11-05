@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/FB .jpg
+image_path: /uploads/Fyre Byrd profile cropped.jpg
 name: Fyre Byrd
 sort_number: 60
 hidden: false
