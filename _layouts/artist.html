@@ -16,11 +16,9 @@ layout: default
 
 			    <div class="row">
 					<div class="col">
-						{% if page.intro_markdown != null %}
-			    			{{ page.intro_markdown }}
-			    		{% endif %}
-			    	</div>
-			    </div>
+			    		{{ page.content }}
+					</div>
+				</div>
 
 			    <div class="row social">
 					{% if page.spotify_url != null %}
@@ -53,12 +51,6 @@ layout: default
 							{% include social/youtube.html %}
 						</a>
 					{% endif %}
-				</div>
-
-			    <div class="row">
-					<div class="col">
-			    		{{ page.content }}
-					</div>
 				</div>
 			</div>
 
