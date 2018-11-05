@@ -1,5 +1,5 @@
 ---
-image_path: 'https://itunes.apple.com/au/album/eight/1344728018'
+image_path: /images/Little Caesar - Eight 600px.jpeg
 name: Little Caesar
 album_name: Eight (Album)
 sort_number: 20
