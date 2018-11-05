@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/DIZZY%20REED%20ROCKNROLLAINTEASY%204000x4000px.jpg
+image_path: /uploads/Screen Shot 2018-11-05 at 4.53.40 pm.png
 name: Dizzy Reed
 sort_number: 50
 hidden: false

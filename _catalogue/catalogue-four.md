@@ -1,8 +1,8 @@
 ---
-image_path: /images/al_one.png
-name: Catalogue 4
-album_name: Catalogue 4 Album
-sort_number: 400
+image_path: /images/TheKids-IJWBH-final.jpg
+name: The Kids
+album_name: I Just Wanna Be Happy (Single)
+sort_number: 401
 hidden: false
 _hide_content: true
 ---

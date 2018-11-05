@@ -1,25 +1,25 @@
 ---
 layout: artist
-image_path: /images/al_one.png
-name: GRR Four
+image_path: /images/Studio shot 4.jpg
+name: Jailbirds
 sort_number: 40
 hidden: false
-
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
+twitter_url:
+facebook_url: >-
+  https://www.facebook.com/jailbirdsireland/?__tn__=%2Cd%2CP-R&eid=ARD3NdMRyCmV4M6YbplFk0qVrdHJh4bxWG_AvtbvNKlY1XU_xmPbHas9sDppsQO5H823yohtCg2wMBIx
+instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
+spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
+apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
+youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
+hero_path: /uploads/Screen Shot 2018-11-05 at 4.29.39 pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
 ---
 
-Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna...
+Jailbirds are an Australian/Irish hard rock band based in Dublin, Ireland. The band is composed of four members , Axel McDonald on lead vocals/lead guitar, his brother Jay McDonald on drums, both of whom are the founding members originating from Sydney, Australia. Completing the raw and powerhouse sound of Jailbirds are Irish rhythm guitarist Ed Orr and bass player Jamie Trimble. The four members produce a unique, dynamic, energetic and explosive sound defining the new generaBon of hard rock having mainly been influenced by Australian pub rock bands such as AC/DC, Airbourne, Rose Tattoo and other successful bands for example Thin Lizzy, Iron Maiden, Foo Fighters, just to name a few.<br>Having just been founded in the fall of 2016, Jailbirds released their first ever record BREAK THE SILENCE on January 28th, 2017. An EP featuring six blistering hard hitting, rock n roll tracks.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur.
+Since its release, the band has benefited radio airplay in numerous countries such as the Australia, Germany and the United Kingdom, and have recently been featured in the well renown “Classic Rock Magazine”. Not only do Jailbirds have an article specifically for them, but their track “You Make Me Wanna Cry” was featured on the David Bowie inspired compilation disc given with the magazine in May 2017.
+
+For the last 18 months Jailbirds have been on the rise in Ireland as they found themselves supporting THE ANSWER (UK), Tyler Bryant & The Shakedown (USA), ANVIL (CAN), Y&T (USA), SAMARKIND (IRE) & LOUZDO (FRA).
+
+2018 kicked off strong with the band doing an Irish tour, playing to smaller venues around the country. Jailbirds are currently recording their first album and hope to be touring mainland Europe by the end of this year.

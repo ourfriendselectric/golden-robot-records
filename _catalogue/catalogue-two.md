@@ -1,7 +1,7 @@
 ---
-image_path: /images/al_one.png
-name: Catalogue 2
-album_name: Catalogue 2 Album
+image_path: /images/Traffic single cover.jpg
+name: The Iron Horses
+album_name: Traffic
 sort_number: 200
 hidden: false
 _hide_content: true
