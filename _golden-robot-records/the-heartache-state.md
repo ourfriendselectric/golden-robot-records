@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-06 at 10.51.42 am.png
+image_path: /images/Screen Shot 2018-11-06 at 10.53.39 am.png
 name: The Heartache State
 sort_number: 10
 hidden: false
