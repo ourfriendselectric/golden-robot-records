@@ -5,7 +5,8 @@ name: Jailbirds
 sort_number: 40
 hidden: false
 twitter_url:
-facebook_url: 'https://www.facebook.com/jailbirdsrocknroll/'
+facebook_url: >-
+  https://www.facebook.com/jailbirdsireland/?__tn__=%2Cd%2CP-R&eid=ARD3NdMRyCmV4M6YbplFk0qVrdHJh4bxWG_AvtbvNKlY1XU_xmPbHas9sDppsQO5H823yohtCg2wMBIx
 instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
