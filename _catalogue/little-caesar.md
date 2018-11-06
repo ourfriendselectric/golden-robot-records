@@ -1,8 +1,9 @@
 ---
 image_path: /images/Little Caesar - Eight 600px.jpeg
+sort_number: 20
 name: Little Caesar
 album_name: Eight (Album)
-sort_number: 20
+album_url: http://goldenrobotrecords.com/
 hidden: false
 _hide_content: true
 ---
