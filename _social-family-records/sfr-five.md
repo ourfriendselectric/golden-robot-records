@@ -1,17 +1,20 @@
 ---
-layout: artist
-image_path: /images/Screen Shot 2018-11-06 at 12.53.35 pm.png
-name: Andrew Swift
-sort_number: 50
+layout: artists
+image_path: /images/Screen Shot 2018-11-06 at 1.26.54 pm.png
+name: Glenn Shorrock
+sort_number: 52
 hidden: false
-twitter_url: 'https://twitter.com/SocialFamilyREC?lang=en'
-facebook_url: 'https://www.facebook.com/andrewswiftmusic/'
-instagram_url: 'https://www.instagram.com/andrewswiftmusic/'
-spotify_url: 'https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd'
-apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
-youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
-hero_path: /uploads/Screen Shot 2018-11-06 at 1.06.07 pm.png
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+hero_path: /images/hero-placeholder.jpg
 albums:
-  - image_path: /images/AS-Cover1 600px.jpeg
+  - image_path: /images/al_one.png
+  - image_path: /images/al_tho.png
+  - image_path: /images/al_three.png
+  - image_path: /images/al_four.png
 ---
 
