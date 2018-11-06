@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/The%20Lazys_D.jpg
+image_path: /images/Screen Shot 2018-11-06 at 11.40.36 am.png
 name: The Lazys
 sort_number: 12
 hidden: false
