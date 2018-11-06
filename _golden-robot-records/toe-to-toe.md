@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/toetotoeshc/'
 spotify_url: 'https://open.spotify.com/artist/2L1PP26AhiUQAMOXjYBy6B'
 apple_url: 'https://itunes.apple.com/au/artist/toe-to-toe/288216709'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-hero_path: /uploads/Screen Shot 2018-11-06 at 12.02.22 pm.png
+hero_path: /uploads/Screen Shot 2018-11-06 at 12.28.18 pm.png
 albums:
   - image_path: /uploads/TTT_CMYK-8PageBooklet FULL-1.jpg
 ---
