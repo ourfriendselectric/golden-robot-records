@@ -4,13 +4,13 @@ image_path: /images/Screen Shot 2018-11-06 at 1.34.47 pm.png
 name: The Cherry Dolls
 sort_number: 16
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
-hero_path:
+twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
+facebook_url: 'https://www.facebook.com/TheCherryDolls/'
+instagram_url: 'https://www.instagram.com/thecherrydolls/'
+spotify_url: 'https://open.spotify.com/artist/2oLNDqir66xWIn1gmdzeHQ'
+apple_url: 'https://itunes.apple.com/au/artist/the-cherry-dolls/887658538'
+youtube_url: 'https://www.youtube.com/user/TheCherryDolls'
+hero_path: /uploads/Screen Shot 2018-11-06 at 1.34.47 pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
 ---
