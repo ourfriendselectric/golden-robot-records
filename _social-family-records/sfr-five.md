@@ -4,16 +4,13 @@ image_path: /images/Screen Shot 2018-11-06 at 12.53.35 pm.png
 name: Andrew Swift
 sort_number: 50
 hidden: false
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+twitter_url: 'https://twitter.com/SocialFamilyREC?lang=en'
+facebook_url: 'https://www.facebook.com/andrewswiftmusic/'
+instagram_url: 'https://www.instagram.com/andrewswiftmusic/'
+spotify_url: 'https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd'
+apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
+youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
+hero_path:
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
