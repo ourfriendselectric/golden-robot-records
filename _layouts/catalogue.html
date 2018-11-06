@@ -9,13 +9,30 @@ layout: default
 
       {% for artist in items %}
         {% if artist.hidden == false %}
-          <div class="artist col-md-4 col-lg-3 col-xl-2">
+
+          {% if artist.album_url %}
+            <a href="{{ artist.album_url }}" target="_blank" class="artist col-md-4 col-lg-3 col-xl-2">
+          {% else %}
+            <div class="artist col-md-4 col-lg-3 col-xl-2">
+          {% endif %}
+          
             <div class="image">
+
+              {% if artist.album_url %}
+                <div class="overlay"><div class="text">View Album</div></div>
+              {% endif %}
+
               <img src="{{ artist.image_path }}" class="img-fluid" />
             </div>
             <p class="name">{{ artist.name }}</p>
             <p class="album">{{ artist.album_name }}</p>
-          </div>
+
+          {% if artist.album_url %}
+            </a>
+          {% else %}
+            </div>
+          {% endif %}
+
         {% endif %}
       {% endfor %}
 
