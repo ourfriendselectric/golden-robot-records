@@ -4,16 +4,13 @@ image_path: /images/Screen Shot 2018-11-06 at 1.26.54 pm.png
 name: Glenn Shorrock
 sort_number: 52
 hidden: false
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+twitter_url: 'https://twitter.com/glennshorrock?lang=en'
+facebook_url: 'https://www.facebook.com/GlennShorrockMusic/'
+instagram_url: 'https://www.instagram.com/glennboshorrock/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/1mBRVjszEFRT7OhukskPnX'
+apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
+youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
+hero_path: /uploads/Screen Shot 2018-11-07 at 8.44.40 pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
