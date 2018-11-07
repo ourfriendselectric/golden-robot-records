@@ -18,7 +18,7 @@ albums:
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
 
-Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist.
+Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist.&nbsp;
 
 I've been lucky enough, I've never had a proper job over my career, he quips. It's one of the measures of success as far as I'm concerned. People say, what's your success down to? It's about surviving and keeping busy in the entertainment industry. It's something I think a lot about now, being 72 and being a so-called rock legend, which I find amusing.
 
