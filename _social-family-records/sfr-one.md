@@ -9,13 +9,12 @@ twitter_url: >-
 facebook_url: 'https://www.facebook.com/GrettaZiller/'
 instagram_url: 'https://www.instagram.com/grettaziller/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98'
-apple_url:
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
+apple_url: 'https://itunes.apple.com/au/artist/gretta-ziller/348673625'
+youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
 hero_path: /uploads/screen-shot-2018-11-07-at-9-13-45-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
+  - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-2000px.jpeg
+  - image_path: /uploads/slaughterhouse-blues-single-art---1500px.jpeg
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
 ---
@@ -24,11 +23,11 @@ First impressions aren't always right. If you've been foolish enough to nail dow
 
 Ziller's sound may bear the hallmarks of classic Americana music, but it's essence is far more diverse. The Melbourne songstress roots span jazz, blues, rock, pop and classical, and that eclectic musical upbringing is reflected in the varied tracks on this new collection.
 
-"I didn't want to make an album that sounded like anything in the Americana scene right now" says Ziller.&nbsp; "I wanted my album to reflect the soundtrack of my childhood, yet sonically and lyrically sound like who I am now. I really wanted to push the boundaries of what country music, or Americana, alt-country whatever you want to call it can sound like. I didn't want to fit neat and tidy into the country music box".
+"I didn't want to make an album that sounded like anything in the Americana scene right now" says Ziller.  "I wanted my album to reflect the soundtrack of my childhood, yet sonically and lyrically sound like who I am now. I really wanted to push the boundaries of what country music, or Americana, alt-country whatever you want to call it can sound like. I didn't want to fit neat and tidy into the country music box".
 
 Ziller brought together an impressive array of musicians to perform on Queen of Boomtown, the recordings featuring members of Saskwatch, The Cat Empire, and the bands of Angus & Julia Stone, Passenger and Dan Sultan. Accomplished songwriter Jen Mize provides backing vocals while Henry Wagons appears as a guest on Round and Round.
 
-Recorded at Woodstock Studios, Balaclava, the album was produced by New Zealand-born, Melbourne-based singer-songwriter Paul Ruske. "Working with Paul was the most amazing experience," Ziller recalls. "Not only is he such a beautiful person and talented musician, but he understood me and what I wanted with this record".&nbsp;
+Recorded at Woodstock Studios, Balaclava, the album was produced by New Zealand-born, Melbourne-based singer-songwriter Paul Ruske. "Working with Paul was the most amazing experience," Ziller recalls. "Not only is he such a beautiful person and talented musician, but he understood me and what I wanted with this record". 
 
 Ziller and Ruske's combined desire to break the country mould paid off. There's certainly some classic country influence in the gorgeous production of Jude and Go On, but that vanishes quickly on the rock stomper Let It Go or the sparse, aching piano ballad *This is Gonna Hurt and the sultry Whiskey Shivers*. Written over an almost six-year period, this collection covers vast emotional territory.
 
