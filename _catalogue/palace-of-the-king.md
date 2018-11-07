@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/POTK-Cover 600px.jpeg
+hidden: false
+sort_number: 18
 name: Palace of the King
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Get Right With Your Maker
+album_url: 'https://itunes.apple.com/au/album/get-right-with-your-maker/1335540227'
 _hide_content: true
 ---
+
