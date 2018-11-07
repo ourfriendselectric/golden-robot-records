@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Rose Tattoo (Live in Brunswick)
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-07 at 2.57.55 pm.png
+hidden: false
+sort_number: 2
+name: 'Tatts: Live in Brunswick'
+album_name: 'Tatts: Live in Brunswick (Album)'
+album_url: 'https://itunes.apple.com/au/album/tatts-live-in-brunswick/1313682672'
 _hide_content: true
 ---
+
