@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-07-at-10-54-03-pm-1.png
+image_path: /uploads/screen-shot-2018-11-07-at-10-40-38-pm-1.png
 name: Glenn Shorrock
 sort_number: 51
 hidden: false
@@ -18,7 +18,7 @@ albums:
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
 
-Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist.&nbsp;
+Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist. 
 
 I've been lucky enough, I've never had a proper job over my career, he quips. It's one of the measures of success as far as I'm concerned. People say, what's your success down to? It's about surviving and keeping busy in the entertainment industry. It's something I think a lot about now, being 72 and being a so-called rock legend, which I find amusing.
 
@@ -39,5 +39,3 @@ The statistics are good, the runs on the board are great, Shorrock admits. It's 
 Shorrock's had his hands full since the release of his last album of originals, the Brian Cadd co-produced Spin Me Round from 2000. He has indulged his passions across the entertainment business, from starring and producing theatre and cabaret shows (Evita,The Rocky Horror Show, Grease and his own productions One for the Money, Go Cat Go to name just a few). In a career highlight, Shorrock produced and performed alongside the late Sir George Martin in the acclaimed, six-date 1998 production. All You Need Is Beatles. Shorrock never left the music business, he's just been spreading-out his wings. My passport says entertainer It doesn't say songwriter that's just one of the strings of my bow. I've been lucky enough to write some very successful songs. None of us knew we were going to be in our 70s and singing pop songs. It's a situation you have to adjust to and I'm lucky to still doing it. Of course it helps to have the body of work behind me.
 
 Shorrock always looks forward, though his live performances pay respect to the past. His typical set list will feature a wealth of classic tracks from across his 50-year-plus career, woven in with material from his latest album. It's an eclectic bunch of material, he says of Rise Again. I didn't want to reproduce the same song over and again and not everybody is going to like everything. But I wanted it to be a very dynamic record. And I think I've succeeded in that.
-
-&nbsp;
