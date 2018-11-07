@@ -4,6 +4,6 @@ hidden: false
 sort_number: 100
 name: Flickertail
 album_name: Hurry Up and Wait
-album_url: http://goldenrobotrecords.com/
+album_url: 'https://itunes.apple.com/us/artist/flickertail/1279204213'
 _hide_content: true
 ---
