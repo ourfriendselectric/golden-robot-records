@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Screen Shot 2018-11-07 at 5.15.43 pm.png
+hidden: false
+sort_number: 198
 name: The Art
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: All In The Mind (Album)
+album_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 _hide_content: true
 ---
+
