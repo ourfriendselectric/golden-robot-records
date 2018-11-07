@@ -1,10 +1,9 @@
 ---
-image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
-hidden: false
-sort_number: 543
+image_path: /images/al_one.png
+hidden: true
+sort_number: 100
 name: Groom Epoch
-album_name: Solar Warden (Album)
-album_url: 'https://itunes.apple.com/au/album/solar-warden/1354561530'
+album_name: Catalogue Albumn Name
+album_url: 'http://goldenrobotrecords.com/'
 _hide_content: true
 ---
-
