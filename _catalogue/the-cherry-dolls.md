@@ -4,7 +4,7 @@ hidden: false
 sort_number: 91
 name: The Cherry Dolls
 album_name: Viva Los Dolls
-album_url: 'https://itunes.apple.com/au/artist/the-cherry-dolls/887658538'
+album_url: 'https://itunes.apple.com/au/album/viva-los-dolls/1313187017'
 _hide_content: true
 ---
 
