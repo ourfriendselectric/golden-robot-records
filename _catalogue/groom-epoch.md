@@ -1,9 +1,9 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Groom Epoch
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/KK_Digital Album Cover 1500px.jpeg
+hidden: false
+sort_number: 432
+name: Kennedy Kilbey
+album_name: Glow and Fade (Album)
+album_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 _hide_content: true
 ---
