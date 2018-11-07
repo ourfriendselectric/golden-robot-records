@@ -4,7 +4,7 @@ hidden: false
 sort_number: 12
 name: The Lazys
 album_name: Tropical Hazards (Album)
-album_url: 'https://itunes.apple.com/au/album/tropical-hazards/1353793547'
+album_url: 'https://itunes.apple.com/au/artist/the-lazys/258902666'
 _hide_content: true
 ---
 
