@@ -12,10 +12,8 @@ apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
 youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
 hero_path: /uploads/Screen Shot 2018-11-07 at 8.44.40 pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /images/Screen Shot 2018-11-07 at 8.44.40 pm.png
+  - image_path:
 ---
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
