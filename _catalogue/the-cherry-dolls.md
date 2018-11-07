@@ -1,6 +1,6 @@
 ---
 image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
-hidden: true
+hidden: false
 sort_number: 91
 name: The Cherry Dolls
 album_name: Viva Los Dolls
