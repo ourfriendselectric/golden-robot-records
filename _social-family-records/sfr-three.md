@@ -4,19 +4,16 @@ image_path: /uploads/screen-shot-2018-11-08-at-12-20-00-am.png
 name: Hayley Jensen
 sort_number: 54
 hidden: false
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
+facebook_url: 'https://www.facebook.com/thehayleyjensen/'
+instagram_url: '/https://www.instagram.com/hayleyjensen/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi'
+apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
+youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
+hero_path: /uploads/screen-shot-2018-11-08-at-12-23-45-am.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
+  - image_path: /uploads/hayley-jensen---turning-up-the-dial---600px.jpeg
+  - image_path: /uploads/summertime-soundtrack---single-cover-600px.jpeg
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
 ---
