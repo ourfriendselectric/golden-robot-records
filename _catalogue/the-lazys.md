@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/hi-res_lazys - album cover.jpg
+hidden: false
+sort_number: 12
 name: The Lazys
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Tropical Hazards
+album_url: 'https://itunes.apple.com/au/artist/the-lazys/258902666'
 _hide_content: true
 ---
+
