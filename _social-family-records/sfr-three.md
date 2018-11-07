@@ -10,7 +10,7 @@ instagram_url: '/https://www.instagram.com/hayleyjensen/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi'
 apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
 youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
-hero_path: /uploads/screen-shot-2018-11-08-at-12-40-10-am.png
+hero_path: /uploads/screen-shot-2018-11-08-at-12-42-12-am.png
 albums:
   - image_path: /uploads/hayley-jensen---turning-up-the-dial---600px.jpeg
   - image_path: /uploads/summertime-soundtrack---single-cover-600px.jpeg
