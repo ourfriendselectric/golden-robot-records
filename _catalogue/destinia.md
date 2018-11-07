@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Destinia_Metal Souls 600px.jpeg
+hidden: false
+sort_number: 703
 name: Destinia
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Metal Souls (Album)
+album_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 _hide_content: true
 ---
+
