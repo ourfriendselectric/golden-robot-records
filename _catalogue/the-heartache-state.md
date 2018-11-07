@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/THS-LOTB.jpg
+hidden: false
+sort_number: 76
 name: The Heartache State
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: The Last of the Buffalo
+album_url: 'https://itunes.apple.com/au/album/the-last-of-the-buffalo/1316941691'
 _hide_content: true
 ---
+
