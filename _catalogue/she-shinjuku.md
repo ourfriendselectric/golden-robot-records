@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/EP COVER BOLD FINAL 3D 600px.jpeg
+hidden: false
+sort_number: 456
 name: She Shinjuku
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Supersonic
+album_url: 'https://itunes.apple.com/au/album/supersonic-ep/1354592731'
 _hide_content: true
 ---
+
