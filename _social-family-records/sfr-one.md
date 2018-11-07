@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-07-at-9-12-14-pm.png
+image_path: /uploads/screen-shot-2018-11-07-at-10-32-11-pm.png
 name: Gretta Ziller
 sort_number: 53
 hidden: false
