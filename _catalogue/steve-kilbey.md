@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/SK-Cover-DigitalSquare.jpg
+hidden: false
+sort_number: 81
 name: Steve Kilbey
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Sydney Rococo (Album)
+album_url: 'https://itunes.apple.com/au/album/sydney-rococo/1438213222'
 _hide_content: true
 ---
+
