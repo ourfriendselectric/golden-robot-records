@@ -4,6 +4,6 @@ hidden: false
 sort_number: 300
 name: The Iron Horses
 album_name: Salvation
-album_url: http://goldenrobotrecords.com/
+album_url: 'https://itunes.apple.com/us/artist/the-iron-horses/1116638398'
 _hide_content: true
 ---
