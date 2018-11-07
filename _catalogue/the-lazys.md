@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-08 at 8.27.21 am.png
+image_path: /images/hi-res_lazys - album cover.jpg
 hidden: false
 sort_number: 12
 name: The Lazys
