@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-07-at-10-54-03-pm-2.png
+image_path: /uploads/screen-shot-2018-11-07-at-11-40-20-pm.png
 name: Glenn Shorrock
 sort_number: 51
 hidden: false
