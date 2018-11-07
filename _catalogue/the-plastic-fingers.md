@@ -1,7 +1,7 @@
 ---
-image_path: /images/TPF EP COVER 1.jpg
+image_path: /images/TPF EP COVER FINAL-1.jpg
 hidden: false
-sort_number: 300
+sort_number: 303
 name: The Plastic Fingers
 album_name: Borrowed Time (EP)
 album_url: 'https://itunes.apple.com/us/artist/the-plastic-fingers/1088730944?ign-gact=1'
