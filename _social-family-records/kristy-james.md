@@ -12,10 +12,7 @@ apple_url:
 youtube_url:
 hero_path: /uploads/screen-shot-2018-11-08-at-3-03-09-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
 ---
 
 Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.
