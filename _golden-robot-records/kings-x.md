@@ -1,22 +1,17 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path:
 name: King's X
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 901
+hidden: false
+twitter_url: 'https://twitter.com/kingsx'
+facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
+instagram_url: 'https://www.instagram.com/kingsxofficial/'
+spotify_url: 'https://open.spotify.com/search/results/king''s%20x'
+apple_url: 'https://itunes.apple.com/au/artist/kings-x/157250'
+youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
+hero_path: /uploads/Screen Shot 2018-11-08 at 2.58.11 pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
 ---
+
