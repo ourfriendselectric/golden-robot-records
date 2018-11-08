@@ -4,12 +4,13 @@ image_path: /uploads/screen-shot-2018-11-08-at-11-25-51-pm.png
 name: Kristy Lee Akers
 sort_number: 57
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+twitter_url: >-
+  https://twitter.com/kirstyleeakers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+facebook_url: 'https://www.facebook.com/KirstyLeeAkers/'
+instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
+apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
+youtube_url: 'https://www.youtube.com/user/Kirstyakers'
 hero_path: /uploads/screen-shot-2018-11-08-at-11-24-37-pm-1.png
 albums:
   - image_path: /images/al_one.png
