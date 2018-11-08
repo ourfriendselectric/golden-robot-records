@@ -1,24 +1,20 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-08-at-2-00-59-pm.png
 name: Jason Owen
 sort_number: 54
 hidden: false
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+twitter_url: >-
+  https://twitter.com/jasonowen070?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+facebook_url: 'https://www.facebook.com/JasonOwenOfficial/'
+instagram_url: 'https://www.instagram.com/jasonowenofficial/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05'
+apple_url: 'https://itunes.apple.com/au/artist/jason-owen/453212791'
+youtube_url: 'https://www.youtube.com/user/JasonOwenOfficial'
+hero_path: /uploads/screen-shot-2018-11-08-at-1-59-59-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/jo-friday-night-high-res.jpg
+  - image_path: /uploads/jasonowen-120x120-highres.jpg
 ---
 
 "I was born in a small town "John Cougar Mellencamp sang nearly thirty years ago long before 20 year-old **JASON OWEN** was born and now walks to the same tune.
@@ -37,7 +33,7 @@ Finding his feet as a recording and touring artist, Jason entered the studio in 
 
 Two originals were included on the album to be recorded and first single, **"Damn Right"** popped out as a smash hit. "As soon I heard a rough demo of Damn Right, I knew it was the perfect original and wanted to record it for the album", says Jason.
 
-**"Damn Right"**&nbsp;scheduled for release on the 29th August 2014 will also see Jason embark on a 5 week, 9,500km East Coast of Australia promo performance road-trip, something that doesn’t happen often these days with an artist, such is the importance of this song for Jason and re-connecting with his fans and audience. They’re ready and waiting with Jason posting a funny home music video performance online that was viewed by 45,000 in the space of 24 hours.
+**"Damn Right"** scheduled for release on the 29th August 2014 will also see Jason embark on a 5 week, 9,500km East Coast of Australia promo performance road-trip, something that doesn’t happen often these days with an artist, such is the importance of this song for Jason and re-connecting with his fans and audience. They’re ready and waiting with Jason posting a funny home music video performance online that was viewed by 45,000 in the space of 24 hours.
 
 **"Friday Night"** is the title of Jason's follow-up, second album to be released in March 2015. It's also the first lyric line of "Damn Right"and sums up the 20 year olds view and that of most people - of always looking forward to Friday night after an exhaustive week.
 
