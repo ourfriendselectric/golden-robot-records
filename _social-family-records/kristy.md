@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-08-at-11-25-51-pm.png
+image_path: /uploads/screen-shot-2018-11-08-at-11-44-03-pm.png
 name: Kristy Lee Akers
 sort_number: 57
 hidden: false
