@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
 name: Groom Epoch
 sort_number: 79
 hidden: false
@@ -21,4 +21,4 @@ This eclectic group has remained under the radar doing select shows but have tak
 
 Showcasing the diverse talents of singer, songwriter, drummer and producer Richard Ploog, backed by the awesome talents of some of Australia’s most iconic musicians such as Amanda Brown on violin and auto-harp former Go Betweens. Brett Myers lead guitar, John Hoey keyboards, former
 
-Died Pretty members. Phil Hall on base formerly of the Lime Spiders, and Ash Wanders on rhythm guitar. Groom Epoch is an all star cast of uber cool musical iconoclasts combining their talents creating a super stellar sound.&nbsp;
+Died Pretty members. Phil Hall on base formerly of the Lime Spiders, and Ash Wanders on rhythm guitar. Groom Epoch is an all star cast of uber cool musical iconoclasts combining their talents creating a super stellar sound.
