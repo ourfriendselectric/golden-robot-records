@@ -1,19 +1,16 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-08-at-2-30-09-pm.png
 name: Jetty Road
 sort_number: 57
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+hidden: false
+twitter_url: 'https://twitter.com/jettyroad?lang=en'
+facebook_url: 'https://www.facebook.com/JettyRoadMusic/'
+instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
+spotify_url: 'https://open.spotify.com/artist/20W58iDk72EzCy1ugW6Ix7'
+apple_url: 'https://itunes.apple.com/au/artist/jetty-road/432886500'
+youtube_url: 'https://www.youtube.com/channel/UCte8iWbv-5CfyHvJoWgVVVQ'
+hero_path: /uploads/screen-shot-2018-11-08-at-2-29-17-pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
