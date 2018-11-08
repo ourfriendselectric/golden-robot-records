@@ -2,21 +2,23 @@
 layout: artist
 image_path: /images/al_one.png
 name: Groom Epoch
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 79
+hidden: false
+twitter_url: 'https://twitter.com/GoldenRobotRcds'
+facebook_url: 'https://www.facebook.com/GroomEpoch/'
+instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
+spotify_url: 'https://open.spotify.com/artist/0m4THJDCqSTvEh450zINS9'
+apple_url: 'https://itunes.apple.com/au/artist/groom-epoch/910698918'
+youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
+hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
 ---
+
+Groom Epoch is a new band created by former drummer from The Church, Richard Ploog. Groom Epoch is about to release their second album Solar Warden on Golden Robot Records.
+
+This eclectic group has remained under the radar doing select shows but have taken a full about face to expose themselves to a greater global audience through the release of Solar Warden.
+
+Showcasing the diverse talents of singer, songwriter, drummer and producer Richard Ploog, backed by the awesome talents of some of Australia’s most iconic musicians such as Amanda Brown on violin and auto-harp former Go Betweens. Brett Myers lead guitar, John Hoey keyboards, former
+
+Died Pretty members. Phil Hall on base formerly of the Lime Spiders, and Ash Wanders on rhythm guitar. Groom Epoch is an all star cast of uber cool musical iconoclasts combining their talents creating a super stellar sound.&nbsp;
