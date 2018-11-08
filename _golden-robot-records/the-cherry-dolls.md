@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-06 at 1.34.47 pm.png
+image_path: /images/Screen Shot 2018-11-09 at 10.02.03 am.png
 name: The Cherry Dolls
 sort_number: 16
 hidden: false
