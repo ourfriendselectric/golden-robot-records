@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-08-at-2-59-40-pm.png
+image_path: /uploads/screen-shot-2018-11-08-at-3-02-31-pm.png
 name: Kristy James
 sort_number: 56
 hidden: false
@@ -10,7 +10,7 @@ instagram_url:
 spotify_url:
 apple_url:
 youtube_url:
-hero_path:
+hero_path: /uploads/screen-shot-2018-11-08-at-3-03-09-pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
