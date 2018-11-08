@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path: /images/al_one.png
-name: Palace of the Kinh
-sort_number: 10
-hidden: true
+image_path: /images/Screen Shot 2018-11-08 at 12.59.26 pm.png
+name: Palace of the King
+sort_number: 239
+hidden: false
 twitter_url: 'https://twitter.com/thelockhearts'
 facebook_url: 'https://www.facebook.com/thelockhearts/'
 instagram_url: 'https://www.instagram.com/thelockhearts/'
@@ -20,3 +20,4 @@ albums:
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
 ---
+
