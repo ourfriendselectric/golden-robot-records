@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/Screen Shot 2018-11-08 at 11.29.40 am.png
 name: Kilbey Kennedy
 sort_number: 10
 hidden: false
@@ -25,6 +25,6 @@ The music of Martin Kennedy aka ARIA nominated soundscapers All India Radio has 
 
 Martin and All India Radio have released ten acclaimed albums since 1999 and have worked with Steve Kilbey, Ed Kuepper and David Bridie. A Science Fiction fan ever since his mother took him to see 2001: A Space Odyssey in 1976, Australian musician/multi-instrumentalist/All India Radio mastermind Martin Kennedy has been exploring his fascination with outer space, not least through the cinematic ambient soundscapes of his long-standing, prolific band and its evocative song titles and his use of science fiction themed artwork for All India Radio and the upcoming new Kilbey Kennedy album.
 
-"A tumbling spell of dreamlike evocations and cinematic glimpses .... These are the most sublime, mindful stupors I believe I’ve ever been in." - Stereoembers
+"A tumbling spell of dreamlike evocations and cinematic glimpses …. These are the most sublime, mindful stupors I believe I’ve ever been in." - Stereoembers
 
 "If David Gilmour recorded an instrumental album, it might sound as good as Echoes CD of the Month: All India Radio's The Slow Light." - John Diliberto, Echoes
