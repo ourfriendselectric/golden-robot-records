@@ -9,8 +9,7 @@ facebook_url: 'https://www.facebook.com/Nozomu-Wakais-Destinia-693130460762628/'
 instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/search/results/destinia'
 apple_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
+youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 hero_path: /images/Screen Shot 2018-11-08 at 4.29.30 pm.png
 albums:
   - image_path: /images/Destinia_Metal Souls 600px.jpeg
