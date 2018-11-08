@@ -4,15 +4,16 @@ image_path: /uploads/screen-shot-2018-11-08-at-3-02-31-pm.png
 name: Kristy James
 sort_number: 56
 hidden: false
-twitter_url:
+twitter_url: 'https://twitter.com/kristyjamesmus?lang=en'
 facebook_url: 'https://www.facebook.com/kristyjamesmusic/'
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+instagram_url: 'https://www.instagram.com/kristyjamesmusic/'
+spotify_url: 'https://open.spotify.com/artist/4ycTm72puHRZpj6WkZCPb0'
+apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
+youtube_url: 'https://www.youtube.com/user/officialkristyjames'
 hero_path: /uploads/screen-shot-2018-11-08-at-3-03-09-pm.png
 albums:
-  - image_path:
+  - image_path: /uploads/kristy-james---raw---ep-cover-600px.jpeg
+  - image_path: /uploads/kristy-james---dark-sunglasses---single-cover.jpg
 ---
 
 Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.
