@@ -23,3 +23,5 @@ Akers is the only artist in history to have won the three major prizes in Austra
 The last few years have seen Akers achieve many accolades including a Golden Guitar Award Finalist spot in 2017, an APRA Award finalist spot (Radio Airplay Award), Vanda and Young Song writing Competition (Song-writing Award) finalist spot and seven CMC TV Award nominations (2016/2017/2018), she has also been recognised with multiple honourable mentions in the International Song writing Competition (USA).
 
 In April 2018 Kirsty signed a new 2-album record deal with Social Family Records that encompasses her 5th and 6th studio albums. The first of these is entitled *'Under My Skin'* and will be released on July 27, 2018.
+
+&nbsp;
