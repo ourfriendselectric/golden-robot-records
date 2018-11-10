@@ -1,9 +1,9 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: The Cherry
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-09 at 5.22.28 pm.png
+hidden: false
+sort_number: 582
+name: The Cherry Dolls
+album_name: Pearls (EP)
+album_url: 'https://itunes.apple.com/au/album/pearls-ep/1091765204'
 _hide_content: true
 ---
