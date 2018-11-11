@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Benny Allen_Album 3000 px.jpg
+hidden: false
+sort_number: 852
 name: Benny Allen
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Never Knew I Was Country (Album)
+album_url: 'https://itunes.apple.com/au/album/never-knew-i-was-country/1439543141'
 _hide_content: true
 ---
+
