@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/LKC_3000x3000.jpg
+hidden: false
+sort_number: 941
 name: Liam Kennedy-Clark
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Travelling Lines
+album_url: 'https://itunes.apple.com/au/album/travelling-lines-ep/1309441700'
 _hide_content: true
 ---
+
