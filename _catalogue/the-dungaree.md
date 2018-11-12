@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: The Dungaree
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Anywhere With You - The Dungarees - single cover 600px.jpeg
+hidden: false
+sort_number: 7635
+name: The Dungarees
+album_name: Anywhere With You (Single)
+album_url: 'https://itunes.apple.com/au/album/anywhere-with-you-single/1306667437'
 _hide_content: true
 ---
+
