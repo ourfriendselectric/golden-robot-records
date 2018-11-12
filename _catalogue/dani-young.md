@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Dani Young - Stepping Stones - Single Cover.jpg
+hidden: false
+sort_number: 1997
 name: Dani Young
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Stepping Stones
+album_url:
 _hide_content: true
 ---
+
