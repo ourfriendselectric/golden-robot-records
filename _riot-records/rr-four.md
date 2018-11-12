@@ -1,18 +1,16 @@
 ---
 layout: artist
-image_path: /images/al_one.png
-name: RR Four
-sort_number: 40
+image_path: /images/EP COVER BOLD FINAL 3D 3000.jpg
+name: She Shinjuku
+sort_number: 2
 hidden: false
-
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+hero_path:
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
@@ -20,6 +18,4 @@ albums:
   - image_path: /images/al_four.png
 ---
 
-Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur.
+A 90’s child with a micro-chip on her shoulder.<br>Escaper of death and stereotypes.<br>Toured the world in a rock band.<br>Leading role in a Flume video.<br>Run over by a ten tonne truck scratch free.<br>Found salvation in electronica with the jilted generation.<br>Lover of space and dimensional travel.<br>Frequenter of the future.<br>6 out of 9 lives left.<br>Don’t ask questions but you can come if you want to.
