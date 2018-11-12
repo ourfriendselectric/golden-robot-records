@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/The Dungarees - Dont Hold Back - Single Cover.jpg
+hidden: false
+sort_number: 8624
 name: The Dungarees
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Don't Hold Back (Single)
+album_url: 'https://itunes.apple.com/au/album/dont-hold-back-single/1399489502'
 _hide_content: true
 ---
+
