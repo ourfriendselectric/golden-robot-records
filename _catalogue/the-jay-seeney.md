@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: The Jay Seeney
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/TheNewBlackCover.jpg
+hidden: false
+sort_number: 7823
+name: The Jay Seeney Band
+album_name: The New Black (EP)
+album_url: 'https://itunes.apple.com/au/album/the-new-black-ep/1284470989'
 _hide_content: true
 ---
+
