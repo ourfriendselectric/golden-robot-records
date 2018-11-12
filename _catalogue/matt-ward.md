@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/MW-Annabelle-SingleArt 500px.jpeg
+hidden: false
+sort_number: 1987
 name: Matt Ward
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Annabelle (Single)
+album_url: 'https://itunes.apple.com/au/album/annabelle-single/1405487538'
 _hide_content: true
 ---
+
