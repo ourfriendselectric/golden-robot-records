@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Steve
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-12 at 11.26.45 am.png
+hidden: false
+sort_number: 575
+name: Steve Balbi
+album_name: Modern Love (Single)
+album_url: 'https://itunes.apple.com/au/album/modern-love-single/1436467203'
 _hide_content: true
 ---
+
