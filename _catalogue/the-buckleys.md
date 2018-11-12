@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/THE BUCKLEYS RUN 600px.jpeg
+hidden: false
+sort_number: 672
 name: The Buckleys
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Run (Single)
+album_url: 'https://itunes.apple.com/au/album/run-single/1282423874'
 _hide_content: true
 ---
+
