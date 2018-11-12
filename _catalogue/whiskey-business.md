@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/PositiveAttitude WHISKEY BUSINESS    3000x3000px.jpg
+hidden: false
+sort_number: 9997
 name: Whiskey Business
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Positive Attitude (EP)
+album_url: 'https://itunes.apple.com/au/album/positive-attitude-ep/1349771925'
 _hide_content: true
 ---
+
