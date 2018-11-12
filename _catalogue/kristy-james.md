@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Kristy James - Raw - EP cover 600px.jpeg
+hidden: false
+sort_number: 763
 name: Kristy James
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Raw (EP)
+album_url: 'https://itunes.apple.com/au/album/raw-ep/1381327657'
 _hide_content: true
 ---
+
