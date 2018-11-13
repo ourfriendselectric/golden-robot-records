@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Fanny Lumsden
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-13 at 12.24.44 pm.png
+hidden: false
+sort_number: 4521
+name: SFR - Fanny Lumsden
+album_name: Small Town Big Shot (Album)
+album_url: 'https://itunes.apple.com/au/album/small-town-big-shot/1268650522'
 _hide_content: true
 ---
+
