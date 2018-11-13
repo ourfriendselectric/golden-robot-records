@@ -15,7 +15,7 @@ albums:
   - image_path: /uploads/DIZZY REED ROCKNROLLAINTEASY 4000x4000px.jpg
 ---
 
-When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018.
+When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018...
 
 Born in 1960s Hinsdale, Illinois and raised in Colorado, Dizzy Reed had a natural affinity for the keys as his grandmother taught him to play the organ on her electric Lowrey. Listening to the keyboard sections on his father’s Booker T and the MGs, his passion was ignited and at age 12 he began touring with his own elementary school band. By 1985, Dizzy had immersed himself in the insanity of the booming Los Angeles music scene.
 
