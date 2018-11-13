@@ -1,9 +1,9 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: SFR - Amber
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-13 at 11.21.50 am.png
+hidden: false
+sort_number: 1873
+name: SFR - Amber Lawrence
+album_name: Happy Ever After (Album)
+album_url: 'https://itunes.apple.com/au/album/happy-ever-after/1143453757'
 _hide_content: true
 ---
