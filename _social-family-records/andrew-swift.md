@@ -12,10 +12,8 @@ apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
 youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
 hero_path: /uploads/screen-shot-2018-11-13-at-12-50-41-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/as-cover1-2000px.jpeg
+  - image_path: /uploads/as-kingskysingle3-600px.jpeg
 ---
 
 Swift made a big first impression on the country music world when he became a Toyota Star Maker grand finalist. When the time came to record his debut album, there was no shortage of country music cavalry that flocked to Swift’s side.
