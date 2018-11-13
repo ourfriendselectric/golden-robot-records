@@ -1,22 +1,19 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-13-at-1-26-38-pm.png
 name: Benny Allen
 sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+hidden: false
+twitter_url: 'https://twitter.com/socialfamilyrec'
+facebook_url: 'https://www.facebook.com/bennyallen.rocks/'
+instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
+spotify_url: 'https://open.spotify.com/artist/6id9uO8Ma9coSv1iHFpx1w'
+apple_url: 'https://itunes.apple.com/au/artist/benny-allen/1277457865'
+youtube_url: 'https://www.youtube.com/channel/UCPMJwbX9dK5aiiKgxQ1FK_A'
+hero_path: /uploads/screen-shot-2018-11-13-at-1-41-10-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/benny-allen-album-3000-px.jpg
+  - image_path: /uploads/benny-allen-day-one-of-missing-you-500px.jpeg
 ---
+
+A finalist in the 2018 Capital Country Music Association (CCMA) National Songwriting Competition, for his song “Grab Yourself a Drink”, Benny Allen certainly made the most of his inaugural trip to the Tamworth Country Music Festival!<br><br>Benny also graduated the CMAA’s (Country Music Association of Australia’s) Senior Academy of Country Music, where he was mentored by Golden Guitar winners including Lyn Bowtell, Ashleigh Dallas, Amber Lawrence, Kevin Bennett, Lachlan Bryan and a number of other well known industry leaders.&nbsp;<br><br>The recent trip to Tamworth allowed Benny to play to new audiences, including on the ABC Peel Street Stage, Blazes Showroom, at numerous competitions around town, busking and sometimes simply playing his piano in the back of the ute.<br><br>That’s right - the piano in the back of the ute!<br><br>Benny is most comfortable playing and singing at a piano - and his custom stage piano means he is ready to play anywhere. In saying that, Benny takes the “ready to go” philosophy one step further, and can accompany himself on guitar when a lighter option is necessary.<br><br>In 2017, Benny Allen released his debut single “Yellowstone”, which received airplay on both Australian community radio stations, and on country radio stations in Wyoming, USA - the home of Yellowstone National Park. Benny is due to release his follow up single “Girl I Never Had” - while plans are underway to record and release an Album towards the end of this year.<br><br>Based in the mountains of Melbourne’s Dandenong Ranges - Benny Allen has been a long time performer, largely in the alternative rock and indie scene - but a chance conversation with a friend led to an interest in country music, and the rest, as they say, will be history.
