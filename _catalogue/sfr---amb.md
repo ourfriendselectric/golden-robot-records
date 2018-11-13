@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: SFR - Amb
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-13 at 11.51.25 am.png
+hidden: false
+sort_number: 1267
+name: SFR - Amber Lawrence
+album_name: Superheroes (Album)
+album_url: 'https://itunes.apple.com/au/album/superheroes/909074402'
 _hide_content: true
 ---
+
