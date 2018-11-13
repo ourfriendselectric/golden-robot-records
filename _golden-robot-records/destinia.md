@@ -15,7 +15,7 @@ albums:
   - image_path: /images/Destinia_Metal Souls 600px.jpeg
 ---
 
-Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.
+Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s...
 
 He’s previously released two albums under the Nozomu Wakai’s Destinia name, 2014’s Requiem For A Scream and 2015’s Anecdote Of The Queens.
 
