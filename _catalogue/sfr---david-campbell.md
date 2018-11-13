@@ -1,7 +1,7 @@
 ---
 image_path: /images/Screen Shot 2018-11-13 at 12.47.23 pm.png
 hidden: false
-sort_number: 3565
+sort_number: 3564
 name: SFR - David Campbell
 album_name: David Campbell Sings Bucchino (Album)
 album_url: >-
