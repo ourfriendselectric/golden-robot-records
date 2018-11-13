@@ -1,9 +1,9 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Amber Lawrence
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-13 at 10.53.42 am.png
+hidden: false
+sort_number: 8723
+name: SFR - Amber Lawrence
+album_name: The Kid's Gone Country
+album_url: 'https://itunes.apple.com/au/album/the-kids-gone-country/1092476425'
 _hide_content: true
 ---
