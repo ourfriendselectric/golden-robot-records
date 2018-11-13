@@ -1,21 +1,19 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/screen-shot-2018-11-13-at-2-19-34-pm.png
 name: Liam Kennedy -Clark
 sort_number: 12
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
-hero_path:
+twitter_url: 'https://twitter.com/LiamKCmusic'
+facebook_url: 'https://www.facebook.com/liamkennedyclarkofficial/'
+instagram_url: 'https://www.instagram.com/liamkennedyclark/'
+spotify_url: 'https://open.spotify.com/artist/17jr24YbxseXLwINv8BiH4'
+apple_url: 'https://itunes.apple.com/au/artist/liam-kennedy-clark/920708357'
+youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
+hero_path: /uploads/screen-shot-2018-11-13-at-2-19-48-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
+  - image_path:
 ---
 
 Music flows through the veins of Liam Kennedy-Clark. Originally from New Zealand, Liam now calls Australia home. Hailing from the serene Sunshine Coast of Queensland, Liam is a talented multi-instrumentalist as well as a gifted singer/songwriter.
