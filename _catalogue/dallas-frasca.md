@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Dallas Frasca
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/DFlovearmy.jpg
+hidden: false
+sort_number: 7328
+name: SFR - Dallas Frasca
+album_name: Love Army (Album)
+album_url: 'https://itunes.apple.com/au/album/love-army/971038260'
 _hide_content: true
 ---
+
