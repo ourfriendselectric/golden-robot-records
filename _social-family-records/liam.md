@@ -12,8 +12,8 @@ apple_url: 'https://itunes.apple.com/au/artist/liam-kennedy-clark/920708357'
 youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
 hero_path: /uploads/screen-shot-2018-11-13-at-2-19-48-pm.png
 albums:
-  - image_path:
-  - image_path:
+  - image_path: /uploads/lkc-3000x3000.jpg
+  - image_path: /uploads/ofh-3000x3000.jpg
 ---
 
 Music flows through the veins of Liam Kennedy-Clark. Originally from New Zealand, Liam now calls Australia home. Hailing from the serene Sunshine Coast of Queensland, Liam is a talented multi-instrumentalist as well as a gifted singer/songwriter.
