@@ -1,7 +1,7 @@
 ---
 image_path: /images/Screen Shot 2018-11-12 at 11.26.45 am.png
 hidden: false
-sort_number: 575
+sort_number: 30
 name: SFR - Steve Balbi
 album_name: Modern Love - Single (L)
 album_url: 'https://itunes.apple.com/au/album/modern-love-single/1436467203'
