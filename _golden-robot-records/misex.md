@@ -1,22 +1,499 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-name: Misex
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+name: Mi-Sex
+sort_number: 2668912
+hidden: false
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+hero_path: /images/Screen Shot 2018-11-15 at 9.08.37 am.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/Screen Shot 2018-11-14 at 5.49.35 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-15 at 9.15.20 am.png
 ---
+
+Mi-Sex Bio.docx
+
+Modified&nbsp;
+
+on August 22, 2016
+
+22
+
+ND
+
+CM
+
+SM
+
+Share
+
+Open
+
+Does this file preview look okay?
+
+Yes•No
+
+1
+
+2
+
+MI
+
+-SEX
+
+BIO
+
+It was New Zealand that gave birth to Mi-Sex. A name and a soun
+
+d in 1977 that grew
+
+out of combining the collective creative energies of a cabaret
+
+singer Steve Gilpin, an
+
+art-rock bass player Don Martin, a talented Southern drummer Rich
+
+ard Hodgkinson
+
+,
+
+a frustrated guitarist/songwriter Kevin Stanton, and a funk/dan
+
+ce keyboard player
+
+Murray Burns.
+
+Together Kevin & Murray forged a song writing partnership th
+
+at anchored Mi-Sex
+
+throughout its four albums. These five new connections q
+
+uickly dissolved their pasts,
+
+as they reinvented themselves, passing into the new era of new wav
+
+e/electronic
+
+music and uniting fully as the sound that was to become Mi-Sex
+
+.
+
+Mi
+
+-Sex (the name originating from a song they performed by the Bri
+
+tish group
+
+Ultravox), recorded their d&eacute;but single,
+
+͞
+
+Straight Laddie
+
+͟
+
+in New Zealand. A punk
+
+parody with hints of Ian Dury-esque vocals and a snatch of
+
+The Stranglers in the
+
+keyboards. Now setting house records in New Zealand Mi-Sex deci
+
+ded to take their
+
+new-found sound and look to Australia. Within a very sho
+
+rt time, on the strength of
+
+their highly energized and semi-theatrical live shows, they
+
+were soon one of Sydney
+
+’
+
+s most popular bands.
+
+Mi
+
+-Sex were signed by A&R/record producer Peter Dawkins to CBS. Th
+
+is relationship
+
+proved highly successful, and in 1979 released their d&eacute;but
+
+vinyl LP,
+
+͞
+
+Graffiti Crimes
+
+͟
+
+with singles
+
+͞
+
+But You Don
+
+’
+
+t Care
+
+͟
+
+and the prophetic single,
+
+͞
+
+Computer Games
+
+͟
+
+going
+
+top ten in New Zealand, Canadian, German & South African charts
+
+. Thanks to strong
+
+initial support from the ABC's Double J radio station and i
+
+ts nationally televised pop
+
+show ''Countdown'', Mi-Sex went number one in Australia. In
+
+November 1979 this
+
+culminated in a landmark performance at the Sydney Opera House in the
+
+''Concert of
+
+the Decade''.
+
+A follow up album, 1980's
+
+͞
+
+Space Race
+
+͟
+
+, was also a multi-platinum hit, with singles
+
+͞
+
+People
+
+͟
+
+,
+
+͞
+
+Space Race
+
+͞
+
+and
+
+͞
+
+It Only Hurts when I
+
+’
+
+m Laughing
+
+͟
+
+.
+
+In 1981 Mi-Sex
+
+undertook a groundbreaking tour of America and Canada, playing
+
+venues with
+
+͞
+
+The
+
+Ramones
+
+͟
+
+and
+
+͞
+
+Iggy Pop
+
+͟
+
+,
+
+and also selling out most of their own East and West coast
+
+shows. During this time, back in Australia, Mi-Sex were awarded
+
+'Most Popular
+
+Album', 'Best Australian Single' and 'Best New Talent' in the 1980:
+
+TV
+
+Week/Countdown Music Awards. The band was greeted at the air
+
+port with a
+
+televised presentation of these awards by Molly Meldrum when th
+
+ey arrived back
+
+from America/Canada.
+
+In 1981 drummer Richard exited, replaced by Paul Dunningham who
+
+spurred the
+
+infectious single
+
+͞
+
+Castaway
+
+͟
+
+. Their third album
+
+͞
+
+Sh
+
+anghaied
+
+͟
+
+was released in 1982,
+
+which included
+
+͞
+
+Falling In and Out
+
+͟
+
+and the brooding single
+
+͞
+
+Shanghaied
+
+͟
+
+sung by
+
+Kevin Stanton. In 1983 Mi-Sex decided musically to become a 6 pi
+
+ece adding new
+
+member Colin Bayley, a previous Wellington band mate of Murray B
+
+urns, and
+
+songwriter of "I Wanna Be with U" from the
+
+͞
+
+Graffiti Crimes
+
+͟
+
+album.
+
+Colin added second guitar, vocals and with Murray, co-wro
+
+te the timeless
+
+͞
+
+Blue Day
+
+͟
+
+. This new line-up carried on to record album No 4
+
+͞
+
+Where Do They Go
+
+͟
+
+, produced
+
+by Bob Clearmountain. The singles
+
+͞
+
+Blue Day
+
+͟
+
+&
+
+͞
+
+Castaway
+
+͟
+
+both had strong chart
+
+success in several states of the USA and Canada.
+
+1984 saw
+
+Mi
+
+-Sex semi-retired from touring and living on the road as one
+
+identity.
+
+They agreed to take a well-deserved break and to seek solo ventu
+
+res. Always
+
+remaining the very closest of friends they came back together in
+
+the late 80
+
+’
+
+s for two
+
+more Australian tours. The summer 1990 saw the band collectively
+
+begin writing
+
+fresh material and talking of recording again. Sadly, that was
+
+just before Steve Gilpin
+
+’
+
+s fatal car crash in November 1991, lapsing into a coma from w
+
+hich he never
+
+recovered. Steve died in Southport Hospital on January 6, 1992
+
+.
+
+Shortly afterwards the cream of Australian artists and performers
+
+collaborated to
+
+hold consecutive concerts in Sydney & Melbourne to farewell &
+
+celebrate Steve
+
+Gilpin
+
+’
+
+s wonderful life & achievements. Mi-Sex became the sleeping giant
+
+laid to rest
+
+with Steve.
+
+It was then 20 years before they re-emerged from the music underg
+
+round, after the
+
+acceptance of an invitation by Steve Balbi (Noiseworks/Electri
+
+c Hippies) to front
+
+Mi
+
+-
+
+Sex
+
+at a private party and outdoor
+
+͞
+
+Christchurch Quake Relief Concert
+
+͟
+
+. Confirming
+
+the right chemistry with Balbi upfront, the band
+
+’
+
+s passion was reignited and they
+
+haven
+
+’
+
+t looked back, with their forthcoming album due for release i
+
+n September.
+
+The
+
+Mi
+
+-Sex
+
+lineup is made up of the enigmatic
+
+Steve Balbi
+
+on lead vocals and
+
+Travis
+
+New
+
+on guitar; alongside original
+
+Mi
+
+-Sex
+
+members
+
+Don Martin
+
+,
+
+Murray Burns
+
+,
+
+Paul
+
+Dunningham
+
+and
+
+Colin Bayley.
+
+Updated: 22 August, 2016
+
+&nbsp;/ 2
+
+Try Dropbox Business
