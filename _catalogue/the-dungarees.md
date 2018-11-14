@@ -1,10 +1,10 @@
 ---
 image_path: /images/The Dungarees - Dont Hold Back - Single Cover.jpg
-hidden: true
+hidden: false
 sort_number: 8624
 name: SFR - The Dungarees
-album_name: Don't Hold Back (Single)
-album_url: 'https://itunes.apple.com/au/album/dont-hold-back-single/1399489502'
+album_name: Don't Hold Back - Single (D)
+album_url: 'https://itunes.apple.com/au/album/dont-hold-back/1399489502?i=1399489578'
 _hide_content: true
 ---
 
