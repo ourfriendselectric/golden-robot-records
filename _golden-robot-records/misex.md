@@ -1,224 +1,32 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/Mi-Sex 3 Rachel van Luyt - EDM version.jpeg
 name: Mi-Sex
 sort_number: 2668912
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+twitter_url: 'https://twitter.com/GoldenRobotRcds'
+facebook_url: 'https://www.facebook.com/MiSexMusic/'
+instagram_url: 'https://www.instagram.com/misexmusic/'
+spotify_url: 'https://open.spotify.com/artist/4QDiSLl2fkDWuC4TIV7Z9Q'
+apple_url: 'https://itunes.apple.com/au/album/not-from-here/1316908944'
+youtube_url: 'https://www.youtube.com/channel/UCxYrgmAixVMQ7DXCcxcFdlA'
 hero_path: /images/Screen Shot 2018-11-15 at 9.08.37 am.png
 albums:
   - image_path: /uploads/Screen Shot 2018-11-14 at 5.49.35 pm.png
   - image_path: /uploads/Screen Shot 2018-11-15 at 9.15.20 am.png
 ---
 
-Mi-Sex Bio.docx
+It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.
 
-Modified&nbsp;
+Together Kevin & Murray forged a song writing partnership that anchored Mi-Sex throughout its four albums. These five new connections quickly dissolved their pasts, as they reinvented themselves, passing into the new era of new wave/electronic music and uniting fully as the sound that was to become Mi-Sex.
 
-on August 22, 2016
+Mi-Sex (the name originating from a song they performed by the British group Ultravox), recorded their d&eacute;but single, 'Straight Laddie' in New Zealand. A punk parody with hints of Ian Dury-esque vocals and a snatch of The Stranglers in the keyboards. Now setting house records in New Zealand Mi-Sex decided to take their new-found sound and look to Australia. Within a very short time, on the strength of their highly energized and semi-theatrical live shows, they were soon one of Sydney’s most popular bands.
 
-22
+Mi-Sex were signed by A&R/record producer Peter Dawkins to CBS. This relationship proved highly successful, and in 1979 released their d&eacute;but vinyl LP, 'Graffiti Crimes' with singles, But You Don’t Care and the prophetic single, Computer Games going top ten in New Zealand, Canadian, German & South African charts. Thanks to strong initial support from the ABC's Double J radio station and its nationally televised pop show ''Countdown'', Mi-Sex went number one in Australia. In
 
-ND
+November 1979 this culminated in a landmark performance at the Sydney Opera House in the ''Concert of the Decade''. A follow up album, 1980's Space Race, was also a multi-platinum hit, with singles People, Space Race and It Only Hurts when I’m Laughing.
 
-CM
-
-SM
-
-Share
-
-Open
-
-Does this file preview look okay?
-
-Yes•No
-
-1
-
-2
-
-MI
-
--SEX
-
-BIO
-
-It was New Zealand that gave birth to Mi-Sex. A name and a soun
-
-d in 1977 that grew
-
-out of combining the collective creative energies of a cabaret
-
-singer Steve Gilpin, an
-
-art-rock bass player Don Martin, a talented Southern drummer Rich
-
-ard Hodgkinson
-
-,
-
-a frustrated guitarist/songwriter Kevin Stanton, and a funk/dan
-
-ce keyboard player
-
-Murray Burns.
-
-Together Kevin & Murray forged a song writing partnership th
-
-at anchored Mi-Sex
-
-throughout its four albums. These five new connections q
-
-uickly dissolved their pasts,
-
-as they reinvented themselves, passing into the new era of new wav
-
-e/electronic
-
-music and uniting fully as the sound that was to become Mi-Sex
-
-.
-
-Mi
-
--Sex (the name originating from a song they performed by the Bri
-
-tish group
-
-Ultravox), recorded their d&eacute;but single,
-
-͞
-
-Straight Laddie
-
-͟
-
-in New Zealand. A punk
-
-parody with hints of Ian Dury-esque vocals and a snatch of
-
-The Stranglers in the
-
-keyboards. Now setting house records in New Zealand Mi-Sex deci
-
-ded to take their
-
-new-found sound and look to Australia. Within a very sho
-
-rt time, on the strength of
-
-their highly energized and semi-theatrical live shows, they
-
-were soon one of Sydney
-
-’
-
-s most popular bands.
-
-Mi
-
--Sex were signed by A&R/record producer Peter Dawkins to CBS. Th
-
-is relationship
-
-proved highly successful, and in 1979 released their d&eacute;but
-
-vinyl LP,
-
-͞
-
-Graffiti Crimes
-
-͟
-
-with singles
-
-͞
-
-But You Don
-
-’
-
-t Care
-
-͟
-
-and the prophetic single,
-
-͞
-
-Computer Games
-
-͟
-
-going
-
-top ten in New Zealand, Canadian, German & South African charts
-
-. Thanks to strong
-
-initial support from the ABC's Double J radio station and i
-
-ts nationally televised pop
-
-show ''Countdown'', Mi-Sex went number one in Australia. In
-
-November 1979 this
-
-culminated in a landmark performance at the Sydney Opera House in the
-
-''Concert of
-
-the Decade''.
-
-A follow up album, 1980's
-
-͞
-
-Space Race
-
-͟
-
-, was also a multi-platinum hit, with singles
-
-͞
-
-People
-
-͟
-
-,
-
-͞
-
-Space Race
-
-͞
-
-and
-
-͞
-
-It Only Hurts when I
-
-’
-
-m Laughing
-
-͟
-
-.
-
-In 1981 Mi-Sex
-
-undertook a groundbreaking tour of America and Canada, playing
-
-venues with
+In 1981 Mi-Sex undertook a groundbreaking tour of America and Canada, playing venues with
 
 ͞
 
