@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Screen Shot 2018-11-14 at 5.49.35 pm.png
+hidden: false
+sort_number: 87632983
 name: GRR - Mi-Sex
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Extended Play - EP
+album_url: 'https://itunes.apple.com/au/album/extended-play-ep/1076223319'
 _hide_content: true
 ---
+
