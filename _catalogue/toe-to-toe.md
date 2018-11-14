@@ -4,7 +4,7 @@ hidden: false
 sort_number: 61
 name: GRR - Toe to Toe
 album_name: Rise Up  - Album
-album_url: 'https://itunes.apple.com/au/album/love-and-violence-ep/1316022655'
+album_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 _hide_content: true
 ---
 
