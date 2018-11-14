@@ -1,6 +1,6 @@
 ---
 image_path: /images/CB_LAO_3000x3000.jpeg
-hidden: false
+hidden: true
 sort_number: 8630
 name: Casey Barnes
 album_name: Live As One (Album)
