@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/Screen Shot 2018-11-14 at 5.54.48 pm.png
+hidden: false
+sort_number: 7263
 name: SFR - Steve Balbi
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Rainbow Black (Surreal Edition) - Album
+album_url: 'https://itunes.apple.com/au/album/rainbow-black-surreal-edition/1106211393'
 _hide_content: true
 ---
+
