@@ -1,15 +1,14 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-05 at 4.54.21 pm.png
+image_path: /uploads/fyre byrd.jpg
 name: Fyre Byrd
-sort_number: 60
+sort_number: 681279
 hidden: false
 twitter_url: 'https://twitter.com/fyrebyrdmusic'
 facebook_url: 'https://www.facebook.com/fyrebyrdmusic/'
 instagram_url: 'https://www.instagram.com/fyre.byrd/'
 spotify_url: 'https://open.spotify.com/search/results/fyre%20byrd'
-apple_url: >-
-  https://itunes.apple.com/us/artist/fyre-byrd/1368232166?app=music&ign-mpt=uo%3D4
+apple_url: 'https://itunes.apple.com/au/artist/fyre-byrd/1368232166'
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
 hero_path: /uploads/Screen Shot 2018-11-05 at 3.32.51 pm.png
 albums:
