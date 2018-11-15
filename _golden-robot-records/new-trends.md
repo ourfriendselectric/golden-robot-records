@@ -2,20 +2,20 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-09 at 10.08.50 am.png
 name: New Trends
-sort_number: 992
+sort_number: 99287126
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/NewTrendsAustralia/'
 instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/1DMquas3T6MFM5jG5Orppd'
-apple_url: 'https://itunes.apple.com/au/artist/new-trends/1051057765'
+apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC_XOPeyTu3K5P5NTCKqZD5A'
 hero_path: /images/Screen Shot 2018-11-09 at 10.08.50 am.png
 albums:
   - image_path:
 ---
 
-Sunny melodies, scorching Detroit guitars and a DIY attitude...It is this ethos that has allowed Bondi Beach’s New Trends to rattle the keys to the Australian Punk Rock kingdom since 2015. Taking their name from The Young Identities world class ep - New Trends began igniting the Sydney punk rock scene off the back of their impressive debut album Gimme Everything, featuring eleven hits of their own as well as classics by The Dead Boys and Agent Orange.
+Sunny melodies, scorching Detroit guitars and a DIY attitude…It is this ethos that has allowed Bondi Beach’s New Trends to rattle the keys to the Australian Punk Rock kingdom since 2015. Taking their name from The Young Identities world class ep - New Trends began igniting the Sydney punk rock scene off the back of their impressive debut album Gimme Everything, featuring eleven hits of their own as well as classics by The Dead Boys and Agent Orange.
 
 Gimme Everything’s cover art pays homage to American radio DJ Rodney on the Roq as well as their love for Californian punk rock and features one of the greatest record collections going around.
 
