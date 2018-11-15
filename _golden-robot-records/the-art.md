@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 10.56.47 am.png
+image_path: /images/Screen Shot 2018-11-15 at 11.14.58 am.png
 name: The Art
 sort_number: 872075
 hidden: false
