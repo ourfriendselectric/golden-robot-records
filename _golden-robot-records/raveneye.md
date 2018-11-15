@@ -2,14 +2,14 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-09 at 10.17.43 am.png
 name: RavenEye
-sort_number: 153
+sort_number: 1538276
 hidden: false
 twitter_url: 'https://twitter.com/ItsRavenEye'
 facebook_url: 'https://www.facebook.com/ItsRavenEye/'
 instagram_url: 'https://www.instagram.com/itsraveneye/'
 spotify_url: 'https://open.spotify.com/search/results/raveneye'
-apple_url: 'https://itunes.apple.com/au/artist/raveneye/979980037'
-youtube_url:
+apple_url:
+youtube_url: 'https://www.youtube.com/channel/UCdKLQB3k1jvUArLckZNhZsg'
 hero_path: /images/Screen Shot 2018-11-09 at 10.18.15 am.png
 albums:
   - image_path:
