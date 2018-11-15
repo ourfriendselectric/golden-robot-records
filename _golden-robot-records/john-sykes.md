@@ -1,22 +1,17 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/Screen Shot 2018-11-15 at 3.10.28 pm.png
 name: John Sykes
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 98623
+hidden: false
+twitter_url:
+facebook_url: 'https://www.facebook.com/JohnSykesMusic/'
+instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
+spotify_url: 'https://open.spotify.com/artist/3ZZT5Z4TDnzZWq9SiYHS4P'
+apple_url:
+youtube_url: 'https://www.youtube.com/user/JohnSykesFan'
+hero_path: /images/Screen Shot 2018-11-15 at 3.15.30 pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
 ---
+
