@@ -2,14 +2,14 @@
 layout: artist
 image_path: /images/LC Promo 20175.jpgLC Promo 20175.jpg
 name: Little Caesar
-sort_number: 30
+sort_number: 3087264
 hidden: false
-twitter_url:
+twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/LittleCaesarOfficial/'
 instagram_url: 'https://www.instagram.com/littlecaesarband/'
 spotify_url: 'https://open.spotify.com/artist/5IOstYUATS0EQ77A1DG7gy'
-apple_url: 'https://itunes.apple.com/au/artist/little-caesar/168344068'
-youtube_url:
+apple_url: 'https://itunes.apple.com/au/album/eight/1344728018'
+youtube_url: 'https://www.youtube.com/channel/UCEsJy_yVg6dliOUd-6Hc_Mg'
 hero_path: /uploads/Screen Shot 2018-11-05 at 3.23.05 pm.png
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
