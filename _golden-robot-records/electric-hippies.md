@@ -4,7 +4,7 @@ image_path: /images/Screen Shot 2018-11-15 at 12.59.15 pm.png
 name: Electric Hippies
 sort_number: 36549
 hidden: false
-twitter_url:
+twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Electric-Hippies-689176218114554/'
 instagram_url: 'https://www.instagram.com/electrichippiesmusic/'
 spotify_url: >-
