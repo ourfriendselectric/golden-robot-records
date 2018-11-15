@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-08 at 10.43.34 am.png
+image_path: /images/Screen Shot 2018-11-15 at 4.29.56 pm.png
 name: Rose Tattoo
 sort_number: 84
 hidden: false
@@ -12,10 +12,11 @@ apple_url: 'https://itunes.apple.com/au/album/blood-brothers-2018-bonus-reissue/
 youtube_url: 'https://www.youtube.com/channel/UC2ysUa3j142whGLoN2dkPiQ'
 hero_path: /images/Screen Shot 2018-11-08 at 10.50.11 am.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png
+  - image_path: /images/Screen Shot 2018-11-15 at 4.32.02 pm.png
+  - image_path: /images/Screen Shot 2018-11-15 at 4.35.26 pm.png
+  - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-15 at 4.33.41 pm.png
 ---
 
 In the category of ́cult bands\` Rose Tattoo has been at the top of the pile since 1976. Their raw style of blues rock that the Australians manage to create out of a hot mix of slide guitars, pounding hooks with sharp and tight rhythm, along with the unmistakable voice of their front man,
