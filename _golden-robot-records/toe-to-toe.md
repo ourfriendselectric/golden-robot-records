@@ -2,16 +2,16 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-06 at 12.02.22 pm.png
 name: Toe to Toe
-sort_number: 15
+sort_number: 15863832
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: >-
   https://www.facebook.com/tttshc/?__tn__=%2Cd%2CP-R&eid=ARCwru9hxcbalIow3L7jWi0IsgL8Mmi-VCnMQb-tae_IDxtsYC5yYaItFW3IrYN0spj7tsYzTRiPkOc2
 instagram_url: 'https://www.instagram.com/toetotoeshc/'
 spotify_url: 'https://open.spotify.com/artist/2L1PP26AhiUQAMOXjYBy6B'
-apple_url: 'https://itunes.apple.com/au/artist/toe-to-toe/288216709'
+apple_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-hero_path: /uploads/Screen Shot 2018-11-06 at 12.28.18 pm.png
+hero_path: /uploads/ttt1 hi res.jpg
 albums:
   - image_path: /uploads/TTT_CMYK-8PageBooklet FULL-1.jpg
 ---
