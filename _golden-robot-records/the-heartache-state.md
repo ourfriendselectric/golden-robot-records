@@ -15,3 +15,16 @@ albums:
   - image_path: /uploads/THS-LOTB.jpg
 ---
 
+Justin Garner and Nick Barker are two veterans of the Australian music scene who have been playing music with one another for 15 years. Justin has performed vocals and guitar as part of Adelaide’s own Southpaw, with Nick producing their debut album back in 2004, while Nick has remained a cornerstone of Australian Blues Rock since the 1980s, with Justin last performing on Nick’s 2009 solo album Backwater Blues. Where Justin loves The Allman Bros and Nick loves The Replacements, the two love The Rolling Stones. It is the combination of the two, along with long-time friend Venom and drums and Michael Hubbard on bass, that culminates in The Heartache State.
+
+The Heartache State is a throwback to the 70s-centric approach to music, where songs allow each artist to show off their talents. The fusion of hard rock, blues and punk has given birth to a band that has the infectious passion for classic rock, accompanied with enough technical skill to rival any band today. Signing with Golden Robot Records in 2017, they have since released their second album under The Heartache State, Last of the Buffalo. The album is a collision of the bands multiple influences, experiences and styles. Produced by sitting with each other in a room and jamming instead of formal arrangements or song formats, this throwback style of production was something of a bucket list item for the bandmates.
+
+“We’re not reinventing the wheel, the old wheel goes OK”.
+
+Justin Garner – Vocals and Guitar
+
+Venom – Drums
+
+Nick Barker – Vocals and Guitar
+
+Michael Hubbard – Bass
