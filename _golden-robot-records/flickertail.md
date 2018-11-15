@@ -9,9 +9,9 @@ facebook_url: 'https://www.facebook.com/flickertailtheband/'
 instagram_url: 'https://www.instagram.com/thebandflickertail/'
 spotify_url: >-
   https://open.spotify.com/search/results/flickertailhttps://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: 'https://itunes.apple.com/us/artist/flickertail/1279204213'
+apple_url: 'https://itunes.apple.com/au/album/hurry-up-and-wait-ep/1336995445'
 youtube_url: 'https://www.youtube.com/channel/UCzDiVtr-Va6g8zxV_Hl9P6Q'
-hero_path: /uploads/FT cover.jpg
+hero_path: /uploads/flickertail-cover-photo.jpg
 albums:
   - image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
 ---
