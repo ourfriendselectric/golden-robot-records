@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
+image_path: /images/Screen Shot 2018-11-15 at 4.50.58 pm.png
 name: Groom Epoch
 sort_number: 7998210
 hidden: false
