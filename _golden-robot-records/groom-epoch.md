@@ -2,17 +2,18 @@
 layout: artist
 image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
 name: Groom Epoch
-sort_number: 79
+sort_number: 7998210
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/GroomEpoch/'
 instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/0m4THJDCqSTvEh450zINS9'
-apple_url: 'https://itunes.apple.com/au/artist/groom-epoch/910698918'
+apple_url: 'https://itunes.apple.com/au/album/solar-warden/1354561530'
 youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
-  - image_path: /images/GroomEpoch_SolarWarden 600px.jpeg
+  - image_path: /images/Screen Shot 2018-11-15 at 4.50.58 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-15 at 4.51.12 pm.png
 ---
 
 Groom Epoch is a new band created by former drummer from The Church, Richard Ploog. Groom Epoch is about to release their second album Solar Warden on Golden Robot Records.
