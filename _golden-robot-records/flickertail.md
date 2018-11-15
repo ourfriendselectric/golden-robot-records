@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/Flickertail - Image 3.jpg
 name: Flickertail
-sort_number: 10
+sort_number: 71868736
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/flickertailtheband/'
