@@ -12,10 +12,7 @@ apple_url: 'https://itunes.apple.com/au/artist/the-buckleys/375603898'
 youtube_url: 'https://www.youtube.com/user/thebuckleysmusicA1'
 hero_path: /uploads/screen-shot-2018-11-16-at-6-52-17-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/the-buckleys-run-600px.jpeg
 ---
 
 The Buckleys are a teenage sibling trio from Australia. Performing internationally to crowds of up to 60000 people and having won 2 American Songwriting Awards, at only 14, 16 and 17 years old they have have co-written songs with numerous GRAMMY Award winning songwriters and have played a phenomenal number of internationally renowned festivals, events and concerts including **Music City Roots (Nashville)** broadcast on PBS **American Public Television** - Hosted by **Jim Lauderdale, Sydney Carols in the Domain** (Australia's biggest Christmas Concert), **Tamworth Country Music Festival** (ToyotaPark Stage and Capital theatre), **Byron Bay Blues Festival,** **Bluebird Café** and **Douglas Corner** (Iconic Nashville Music Venues), **Academy of Country Music Australia,** Opened for **Brian Cadd and The Bootleg Family Band, Cooly Rocks On, Caboolture Country Music Festival, Mullumbimby Music Festival** and many others.
