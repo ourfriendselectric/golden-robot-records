@@ -1,19 +1,16 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-16-at-7-21-03-pm.png
 name: Matt Scullion
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 13
+hidden: false
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+hero_path: /uploads/screen-shot-2018-11-16-at-7-20-15-pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
@@ -37,4 +34,4 @@ He's spent over 15 years travelling back and forth from Music City and says the 
 
 It's been 10 years since his last album **"Put It Down To Experience"**, which featured the hit songs Giddy Up and Hard Earned Money and earned him four Golden Guitar and two APRA Song of the Year nominations.
 
-Matt's long-awaited new album. **'I'm Just A Song'**&nbsp;is slated for release on 19 January, 2018
+Matt's long-awaited new album. **'I'm Just A Song'** is slated for release on 19 January, 2018
