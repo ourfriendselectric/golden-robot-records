@@ -12,10 +12,8 @@ apple_url: 'https://itunes.apple.com/us/artist/matt-scullion/254734557'
 youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
 hero_path: /uploads/screen-shot-2018-11-16-at-7-20-15-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/mattscullion-outta-my-own-way-600px.jpeg
+  - image_path: /uploads/mattscullion-ijas-3000x3000.jpg
 ---
 
 **Matt Scullion** is one of the most respected singer/songwriters to come out of Australia in recent years with a swag of hit songs to his credit.
