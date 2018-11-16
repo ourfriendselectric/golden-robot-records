@@ -1,19 +1,16 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-16-at-6-45-42-pm.png
 name: The Buckleys
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 12
+hidden: false
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+hero_path: /uploads/screen-shot-2018-11-16-at-6-49-27-pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
@@ -21,7 +18,7 @@ albums:
   - image_path: /images/al_four.png
 ---
 
-The Buckleys are a teenage sibling trio from Australia. Performing internationally to crowds of up to 60000 people and having won 2 American Songwriting Awards, at only 14, 16 and 17 years old they have have co-written songs with numerous GRAMMY Award winning songwriters and have played a phenomenal number of internationally renowned festivals, events and concerts including **Music City Roots (Nashville)** broadcast on PBS **American Public Television** - Hosted by **Jim Lauderdale, Sydney Carols in the Domain** (Australia's biggest Christmas Concert), **Tamworth Country Music Festival** (ToyotaPark Stage and Capital theatre), **Byron Bay Blues Festival,** **Bluebird Caf&eacute;** and **Douglas Corner** (Iconic Nashville Music Venues), **Academy of Country Music Australia,** Opened for **Brian Cadd and The Bootleg Family Band, Cooly Rocks On, Caboolture Country Music Festival, Mullumbimby Music Festival** and many others.
+The Buckleys are a teenage sibling trio from Australia. Performing internationally to crowds of up to 60000 people and having won 2 American Songwriting Awards, at only 14, 16 and 17 years old they have have co-written songs with numerous GRAMMY Award winning songwriters and have played a phenomenal number of internationally renowned festivals, events and concerts including **Music City Roots (Nashville)** broadcast on PBS **American Public Television** - Hosted by **Jim Lauderdale, Sydney Carols in the Domain** (Australia's biggest Christmas Concert), **Tamworth Country Music Festival** (ToyotaPark Stage and Capital theatre), **Byron Bay Blues Festival,** **Bluebird Café** and **Douglas Corner** (Iconic Nashville Music Venues), **Academy of Country Music Australia,** Opened for **Brian Cadd and The Bootleg Family Band, Cooly Rocks On, Caboolture Country Music Festival, Mullumbimby Music Festival** and many others.
 
 Whilst touring both Australia and the USA, just some of the #1 Hit writers they have collaborated with include **Rafe Van Hoy** (Golden Ring – Alan Jackson & Lee Ann Womack/George Straight & Martina McBride; Also written for Fleetwood Mac, Diana Ross and more), **Bruce Channel** (Wrote Hey Baby/If you'll be my girl), **Doug Gill** (Songs by Alison Krauss, Tammy Wynette, Marshall Tucker Band, Don Williams), **Jim Photoglo** (Fishing in the dark – Nitty Gritty Dirt Band/Garth Brooks), **Lynn Langham** (Credits include Emmylou Harris, Johnny Cash, Jerry Lee Lewis), Debby Throckmorton (Willie Nelson / Sony ATV / Carnival Music), **Melissa Fuller** (Writers Den Music Group), **Jason Nix** (SONY ATV) and many more. In October of 2016, the young family trio signed an international record deal with independent label **Golden Robot Records/Social Family Records.**
 
