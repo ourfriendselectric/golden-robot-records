@@ -4,13 +4,13 @@ image_path: /uploads/screen-shot-2018-11-16-at-6-45-42-pm.png
 name: The Buckleys
 sort_number: 12
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
-hero_path: /uploads/screen-shot-2018-11-16-at-6-49-27-pm.png
+twitter_url: 'https://twitter.com/the_buckleys'
+facebook_url: 'https://www.facebook.com/Buckleysfamilyband/'
+instagram_url: 'https://www.instagram.com/the.buckleys/'
+spotify_url: 'https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p'
+apple_url: 'https://itunes.apple.com/au/artist/the-buckleys/375603898'
+youtube_url: 'https://www.youtube.com/user/thebuckleysmusicA1'
+hero_path: /uploads/screen-shot-2018-11-16-at-6-52-17-pm.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
