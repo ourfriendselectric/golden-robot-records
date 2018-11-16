@@ -4,12 +4,12 @@ image_path: /uploads/screen-shot-2018-11-16-at-7-21-03-pm.png
 name: Matt Scullion
 sort_number: 13
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+twitter_url: 'https://twitter.com/scattmullion'
+facebook_url: 'https://www.facebook.com/matthewanthonyscullion'
+instagram_url: 'https://www.instagram.com/mattscullionmusic/'
+spotify_url: 'https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml'
+apple_url: 'https://itunes.apple.com/us/artist/matt-scullion/254734557'
+youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
 hero_path: /uploads/screen-shot-2018-11-16-at-7-20-15-pm.png
 albums:
   - image_path: /images/al_one.png
