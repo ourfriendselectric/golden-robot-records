@@ -12,10 +12,7 @@ apple_url: 'https://itunes.apple.com/au/artist/neillyrich/799725740'
 youtube_url: 'https://www.youtube.com/channel/UCsTTHNLhDgdlsr2-_mSyZ2Q'
 hero_path: /uploads/screen-shot-2018-11-17-at-4-32-17-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/neillyrich-herenowforever-ep.jpg
 ---
 
 In 2012, two paths converged when New Zealand born Matthew McNeilly met Kempsey girl, Amelia Richards in Tamworth. Their musical passions aligned at the CMAA Academy, resulting in the formation of the contemporary country music duo NeillyRich
