@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/screen-shot-2018-11-17-at-4-32-40-pm.png
 name: Neilly Rich
 sort_number: 4
 hidden: false
