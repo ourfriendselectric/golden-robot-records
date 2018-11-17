@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-17-at-5-04-53-pm.png
+image_path: /uploads/screen-shot-2018-11-17-at-5-12-16-pm.png
 name: Steve Balbi
 sort_number: 15
 hidden: false
@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: 'https://open.spotify.com/artist/7llMZbc53OJaCqJPyoCstY'
 apple_url: 'https://itunes.apple.com/au/artist/steve-balbi/58029023'
 youtube_url: 'https://www.youtube.com/channel/UCqUoN0or4oGyat8NaTeQFhw/featured'
-hero_path: /uploads/screen-shot-2018-11-17-at-5-05-56-pm.png
+hero_path: /uploads/screen-shot-2018-11-17-at-5-12-33-pm.png
 albums:
   - image_path: /uploads/stevebalbi-modernlove-4000x4000.jpg
 ---
