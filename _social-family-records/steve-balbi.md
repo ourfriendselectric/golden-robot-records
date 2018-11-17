@@ -13,10 +13,7 @@ apple_url: 'https://itunes.apple.com/au/artist/steve-balbi/58029023'
 youtube_url: 'https://www.youtube.com/channel/UCqUoN0or4oGyat8NaTeQFhw/featured'
 hero_path: /uploads/screen-shot-2018-11-17-at-5-05-56-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/stevebalbi-modernlove-4000x4000.jpg
 ---
 
 The music of singer, composer, performer and producer Steve Balbi mines a kaleidoscope of life at the margins. Transcending rock and pop as he coalesces sentimentality and soul, Balbi bespeaks Bowie and Dylan in melody and verse, exploring the heterogeneity, refinement and dirty rotten groove of Radiohead.
