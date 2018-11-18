@@ -3,7 +3,7 @@ layout: artist
 image_path: /images/Screen Shot 2018-11-09 at 10.08.50 am.png
 name: New Trends
 sort_number: 99287126
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/NewTrendsAustralia/'
 instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
