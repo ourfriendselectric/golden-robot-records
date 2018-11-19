@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/VQ-PoonehGhana-74.jpg
+image_path: /images/Screen Shot 2018-11-19 at 12.31.26 pm.png
 name: Valley Queen
 sort_number: 1
 hidden: false
@@ -15,13 +15,11 @@ albums:
   - image_path:
 ---
 
-&nbsp;
-
 The full-length debut from Los Angeles-based band Valley Queen, Supergiant takes its title from the most massive and luminous yet fastest-burning stars in the universe. “The song ‘Supergiant’ is about how we’re all made up of the same stuff as stars, and I liked the idea of tying the whole album together with that metaphor,” says Carol.
 
 “It takes all the drama you hear on the record — the aggressive, chaotic moments, and the more beautiful or quieter moments — and puts it all into a more galactic perspective.”
 
-With the album finished and ready to be released into the world, it’s now easier for Carol to take a step back and be philosophical but there were moments when it almost seemed like Supergiant would never come to light. The first iteration of Valley Queen formed not long after Carol moved to L.A. and crossed paths with Neil Wogensen through the local music scene. With Shawn Morones and drummer Gerry Doot later joining the lineup, the band named themselves Valley Queen in a nod to the region where ancient Egyptians buried their deceased matriarchs. They released the singles “In My Place” and “High Expectations”,&nbsp; as well as 2017 EP Destroyer to widespread critical acclaim. The band also supported artists including Laura Marling and Thao & the Get Down Stay Down on tour.
+With the album finished and ready to be released into the world, it’s now easier for Carol to take a step back and be philosophical but there were moments when it almost seemed like Supergiant would never come to light. The first iteration of Valley Queen formed not long after Carol moved to L.A. and crossed paths with Neil Wogensen through the local music scene. With Shawn Morones and drummer Gerry Doot later joining the lineup, the band named themselves Valley Queen in a nod to the region where ancient Egyptians buried their deceased matriarchs. They released the singles “In My Place” and “High Expectations”,  as well as 2017 EP Destroyer to widespread critical acclaim. The band also supported artists including Laura Marling and Thao & the Get Down Stay Down on tour.
 
 Musically and creatively, they were in a place they never dreamed of. As the band’s profile grew, so did days on the road and time spent away from home. Any touring band will testify to the intensity of togetherness, tight finances, being away from significant others, physical exhaustion, unhealthy diets and habits, etc., but they were doing what they loved and it was resonating with people. The band had found their own magical pocket musically but, ultimately, the strain was too much for Morones and Doot who left the band after years on the road. They were replaced with session musicians and the band continued to win fans and play bigger rooms, but the chemistry that Carol had come to depend on was gone.
 
