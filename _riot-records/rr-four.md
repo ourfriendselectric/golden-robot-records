@@ -5,9 +5,9 @@ name: She Shinjuku
 sort_number: 3
 hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
+facebook_url: 'https://www.facebook.com/sheshinjuku/'
+instagram_url: 'https://www.instagram.com/sheshinjuku/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/3IPiXNNRCAY44b6M0RQP3g'
 apple_url:
 youtube_url:
 hero_path: /uploads/Screen Shot 2018-11-19 at 12.06.54 pm.png
