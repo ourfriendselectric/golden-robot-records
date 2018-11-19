@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /images/3030albumcover.jpg
+hidden: false
+sort_number: 868736289763
 name: SFR - Jimmy Barnes
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: '30:30 Hindsight - Album'
+album_url: 'https://itunes.apple.com/au/album/30-30-hindsight/906252394'
 _hide_content: true
 ---
+
