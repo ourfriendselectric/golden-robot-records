@@ -1,9 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: SFR - J Moto
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /images/Screen Shot 2018-11-19 at 12.43.08 pm.png
+hidden: false
+sort_number: 7687263
+name: SFR - J Motor
+album_name: Meet In The Sky - Single (D)
+album_url: 'https://itunes.apple.com/au/album/meet-in-the-sky-single/1138245327'
 _hide_content: true
 ---
+
