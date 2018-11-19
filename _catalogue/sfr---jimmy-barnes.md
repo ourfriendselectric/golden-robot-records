@@ -1,5 +1,5 @@
 ---
-image_path: /Screen Shot 2018-11-19 at 1.32.12 pm.png
+image_path: /jimmy .png
 hidden: false
 sort_number: 868736289763
 name: GRR - Jimmy Barnes
