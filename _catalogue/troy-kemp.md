@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-14 at 8.41.06 am.png
+image_path: /images/Screen Shot 2018-11-19 at 12.38.03 pm.png
 hidden: false
 sort_number: 6754
 name: SFR - Troy Kemp
