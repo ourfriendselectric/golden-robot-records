@@ -12,10 +12,7 @@ apple_url: 'https://itunes.apple.com/au/artist/the-april-family/1087372905'
 youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
 hero_path: /uploads/screen-shot-2018-11-20-at-10-35-50-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/theaprilfamily-fbcover.png
 ---
 
 Sydney based combo The April Family have been quietly working away, building a name and a steady body of work since forming in 2015. Featuring the soulful twang of the enigmatic Kylie Whitney on lead vocals, the blistering skills of Casey Atkins on lead guitar and backing vocals, and the production and all rounder abilities of Michael Carpenter on rhythm guitar and backing vocals, the band developed a sound that fused Classic Country with the timeless colours of West Coast American Country Rock.
