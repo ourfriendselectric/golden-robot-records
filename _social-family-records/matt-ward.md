@@ -35,3 +35,5 @@ Australian Music Network described Matt as a" musician of high promise "and sinc
 With soulful vocals, a compelling narrative and rich arrangements, Matt Ward and his debut album Heartland will prove to be one of the best country finds of recent years.
 
 (Matt is also strengthening his reputation internationally, recently touring in America's south with acclaimed country outlaw Bonnie Montgomery. Matt's songs evoke the vastness and expanse of Australia while speaking with true heart. Bonnie said of Matt. He is a spokesman of our time and his music a perfect blend of Australian country outlaw)
+
+&nbsp;
