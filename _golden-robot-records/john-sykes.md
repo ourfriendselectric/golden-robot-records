@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 3.10.28 pm.png
 name: John Sykes
-sort_number: 1
+sort_number: 20
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/JohnSykesMusic/'
