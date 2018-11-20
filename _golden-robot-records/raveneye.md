@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-09 at 10.17.43 am.png
 name: RavenEye
-sort_number: 1538276
+sort_number: 4
 hidden: false
 twitter_url: 'https://twitter.com/ItsRavenEye'
 facebook_url: 'https://www.facebook.com/ItsRavenEye/'
