@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/screen-shot-2018-11-20-at-3-46-49-pm.png
 name: Dani Young
 sort_number: 10
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'http://instagram.com/socialfamilyrecords'
 spotify_url: 'https://open.spotify.com/artist/36tSQtqslGaoT8C0gWwUvg'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/DanielleYoungMusic'
-hero_path:
+hero_path: /uploads/screen-shot-2018-11-20-at-3-44-35-pm-1.png
 albums:
   - image_path: /uploads/dani-young---stepping-stones---single-cover.jpg
 ---
