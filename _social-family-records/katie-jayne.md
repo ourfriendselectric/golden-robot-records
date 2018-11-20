@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/artist/0ssWamf0INpzr2G71GxTkC'
 apple_url: 'https://itunes.apple.com/us/artist/katie-jayne/id533671969'
 youtube_url: >-
   https://www.youtube.com/channel/UCSUIDUn-NG3jAqCI3FNF8MA/featured?view_as=subscriber
-hero_path:
+hero_path: /uploads/screen-shot-2018-11-20-at-11-25-32-pm-3.png
 albums:
   - image_path: /uploads/katiejayne-sunlitavenue-800px-2.jpeg
   - image_path:
