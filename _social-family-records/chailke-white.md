@@ -12,10 +12,8 @@ apple_url: 'https://itunes.apple.com/au/artist/chalkie-white/480597705'
 youtube_url: 'https://www.youtube.com/channel/UCTzy-mPiE7vCDGceOftTPLg'
 hero_path: /uploads/screen-shot-2018-11-20-at-2-22-15-pm-1.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
+  - image_path: /uploads/chalkie-album-final-rgb-250px-1.jpeg
 ---
 
 Chalkie White is a pure entertainer, touring and performing across Australia for the past 20 years, cementing himself in the Country Music scene with his latest album.
