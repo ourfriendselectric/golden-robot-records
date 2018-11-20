@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/Screen Shot 2018-11-15 at 5.06.51 pm.png
 name: King's X
-sort_number: 2
+sort_number: 51
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
