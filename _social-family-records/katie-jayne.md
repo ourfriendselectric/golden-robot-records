@@ -14,7 +14,7 @@ youtube_url: >-
 hero_path: /uploads/screen-shot-2018-11-20-at-11-25-32-pm-3.png
 albums:
   - image_path: /uploads/katiejayne-sunlitavenue-800px-2.jpeg
-  - image_path:
+  - image_path: /uploads/noshadow-singlecover.jpg
 ---
 
 Katie Jayne embodies the new generation of pop country Artists, already making waves on the Australian scene.
