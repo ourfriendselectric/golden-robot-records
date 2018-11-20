@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 4.50.58 pm.png
+image_path: /images/Screen Shot 2018-11-21 at 9.04.17 am.png
 name: Groom Epoch
 sort_number: 7998210
 hidden: false
