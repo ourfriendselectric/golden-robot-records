@@ -20,3 +20,5 @@ albums:
 Katie Jayne embodies the new generation of pop country Artists, already making waves on the Australian scene.
 
 Her latest single No Shadow has received over 200,000 streams on Spotify in it’s first two months of release alone, the song hitting the KIX COUNTRY Top 20 Chart and high rotation on CMC.
+
+&nbsp;
