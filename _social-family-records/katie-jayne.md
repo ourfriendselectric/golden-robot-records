@@ -13,10 +13,8 @@ youtube_url: >-
   https://www.youtube.com/channel/UCSUIDUn-NG3jAqCI3FNF8MA/featured?view_as=subscriber
 hero_path: /uploads/katiejayne-sunlitavenue-800px-1.jpeg
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path: /uploads/katiejayne-sunlitavenue-800px-2.jpeg
+  - image_path:
 ---
 
 Katie Jayne embodies the new generation of pop country Artists, already making waves on the Australian scene.
