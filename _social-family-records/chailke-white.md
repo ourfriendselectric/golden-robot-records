@@ -1,19 +1,16 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/screen-shot-2018-11-20-at-2-24-07-pm.png
 name: Chalkie White
-sort_number: 10
-hidden: true
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+sort_number: 14
+hidden: false
+twitter_url: 'https://twitter.com/ChalkieWhite101'
+facebook_url: 'https://m.facebook.com/chalkiewhite/?__tn__=C-R'
+instagram_url: 'https://www.instagram.com/chalkiewhiteofficial/'
+spotify_url: 'https://open.spotify.com/artist/2gKuNesBW2QLMr5mpbOUB6'
+apple_url: 'https://itunes.apple.com/au/artist/chalkie-white/480597705'
+youtube_url: 'https://www.youtube.com/channel/UCTzy-mPiE7vCDGceOftTPLg'
+hero_path: /uploads/screen-shot-2018-11-20-at-2-22-15-pm-1.png
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
