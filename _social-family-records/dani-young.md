@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-20-at-3-46-49-pm.png
-name: Dani Young
-sort_number: 10
+name: Dani Young (AUS)
+sort_number: 102
 hidden: false
 twitter_url: 'https://twitter.com/daniyoungmusic'
 facebook_url: 'https://www.facebook.com/DaniYoungMusic/'
