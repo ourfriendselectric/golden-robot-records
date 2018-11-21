@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Horsehead 1 cropped 600px.jpeg
-name: Horsehead
-sort_number: 18264
+name: Horsehead (AUS)
+sort_number: 43
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Horsehead-113232788697411/'
@@ -22,4 +22,4 @@ It was a remarkable trip. Showcase gigs for Madonna in the US. In the studio wit
 
 Horsehead wrote their first single, ‘Oil and Water’, about their initial American experience. Art and commerce: some things don’t mix. But the Horsehead legacy is being lovingly preserved by Golden Robot Records, with a box set of their entire catalogue, plus live recordings , lost recordings and rarities. All being released in 2019 – the 20th anniversary of their final album.
 
-All original 5 Horsehead members are involved with this project to finally put a nice big bow around there incredible legacy.&nbsp;
+All original 5 Horsehead members are involved with this project to finally put a nice big bow around there incredible legacy.
