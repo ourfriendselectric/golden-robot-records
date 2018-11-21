@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 9.48.09 am.png
-name: The Superjesus
-sort_number: 9872938
+name: The Superjesus (AUS)
+sort_number: 34
 hidden: false
 twitter_url: 'https://twitter.com/The_Superjesus'
 facebook_url: 'https://www.facebook.com/thesuperjesusofficial/'
