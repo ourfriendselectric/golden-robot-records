@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-09 at 10.02.03 am.png
-name: The Cherry Dolls
-sort_number: 1687249
+name: The Cherry Dolls (AUS)
+sort_number: 40
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/TheCherryDolls/'
