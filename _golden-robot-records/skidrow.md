@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/skidrow.jpg
-name: Skidrow
-sort_number: 82614610
+name: Skidrow (USA)
+sort_number: 48
 hidden: true
 twitter_url: 'https://twitter.com/OfficialSkidRow'
 facebook_url: 'https://www.facebook.com/OfficialSkidRow/?tn-str=k*F'
