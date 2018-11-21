@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/Screen Shot 2018-11-05 at 4.53.40 pm.png
-name: Dizzy Reed
-sort_number: 50
+name: Dizzy Reed (USA)
+sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/dizzyreed'
 facebook_url: 'https://www.facebook.com/DizzyFnReed/'
