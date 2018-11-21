@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-07-at-10-47-03-pm.png
-name: Gretta Ziller
-sort_number: 52
+name: Gretta Ziller (AUS)
+sort_number: 9
 hidden: false
 twitter_url: >-
   https://twitter.com/GrettaZiller?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
