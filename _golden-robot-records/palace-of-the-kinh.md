@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-08 at 12.59.26 pm.png
-name: Palace of the King
-sort_number: 239798
+name: Palace of the King (AUS)
+sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/PalaceOfTheKing'
 facebook_url: 'https://www.facebook.com/palaceofthekingmusic/'
