@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path:
 name: Anthem (JAP)
-sort_number: 10
-hidden: true
+sort_number: 46
+hidden: false
 twitter_url: 'https://twitter.com/thelockhearts'
 facebook_url: 'https://www.facebook.com/thelockhearts/'
 instagram_url: 'https://www.instagram.com/thelockhearts/'
@@ -20,3 +20,4 @@ albums:
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
 ---
+
