@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 4.59.29 pm.png
-name: Destinia
-sort_number: 984426489
+name: Destinia (JAP)
+sort_number: 45
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Nozomu-Wakais-Destinia-693130460762628/'
