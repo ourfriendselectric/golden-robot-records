@@ -3,14 +3,18 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
       <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}">
-        {% if page.items == "riot-records" %}
-          <div class="logo">{% include logos/riot-records.html %}</div>
-        {% elsif page.items == "x-ray-records" %}
-          <div class="logo">{% include logos/x-ray-records.html %}</div>
-        {% elsif page.items == "social-family-records" %}
-          <div class="logo">{% include logos/social-family-records.html %}</div>
+        {% if page.layout == "catalogue" %}
+          <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
         {% else %}
-          <div class="logo">{% include logos/golden-robot-records.html %}</div>
+          {% if page.items == "riot-records" %}
+            <div class="logo">{% include logos/riot-records.html %}</div>
+          {% elsif page.items == "x-ray-records" %}
+            <div class="logo">{% include logos/x-ray-records.html %}</div>
+          {% elsif page.items == "social-family-records" %}
+            <div class="logo">{% include logos/social-family-records.html %}</div>
+          {% else %}
+            <div class="logo">{% include logos/golden-robot-records.html %}</div>
+          {% endif %}
         {% endif %}
       </a>
 
