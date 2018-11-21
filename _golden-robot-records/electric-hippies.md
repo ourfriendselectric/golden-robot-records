@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 12.59.15 pm.png
-name: Electric Hippies
-sort_number: 36549
+name: Electric Hippies (AUS/USA)
+sort_number: 39
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Electric-Hippies-689176218114554/'
@@ -16,7 +16,7 @@ albums:
   - image_path:
 ---
 
-Electric Hippies is an Australian band formed by ex Noiseworks members, Justin Stanley and Steve Balbi. The pair also used the same name for their production work. They released a self titled album in 1994 and had a top 30 single with "Greedy People". &nbsp;For his work with Electric Hippies, film maker Bob Ellis received a 1995 ARIA Award nomination for Best Video for "Greedy People" and artist, Simon Anderson, received an ARIA Award nomination for Best Cover Art for Electric Hippies.
+Electric Hippies is an Australian band formed by ex Noiseworks members, Justin Stanley and Steve Balbi. The pair also used the same name for their production work. They released a self titled album in 1994 and had a top 30 single with "Greedy People".  For his work with Electric Hippies, film maker Bob Ellis received a 1995 ARIA Award nomination for Best Video for "Greedy People" and artist, Simon Anderson, received an ARIA Award nomination for Best Cover Art for Electric Hippies.
 
 Justin has gone on to forge a career in producing and songwriting. He has toured and recorded two albums with Beck, including the soundtrack for Nacho Libre. He has also worked with an eclectic range of musicians including Prince, Jimmy Cliff, Leonard Cohen, Paul McCartney and Snoop Dogg. Some of the artists Stanley has produced include Eric Clapton, Sheryl Crow, Jet, Jamie Lidell, Nikka Costa, Jimmy Fallon, Mark Ronson, Mocky and Ryan Bingham. Justin lives in California with his wife, Nikka Costa.
 
