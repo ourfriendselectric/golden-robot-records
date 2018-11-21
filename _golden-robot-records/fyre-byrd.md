@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/fyre byrd.jpg
-name: Fyre Byrd
-sort_number: 681279
+name: Fyre Byrd (AUS)
+sort_number: 37
 hidden: false
 twitter_url: 'https://twitter.com/fyrebyrdmusic'
 facebook_url: 'https://www.facebook.com/fyrebyrdmusic/'
