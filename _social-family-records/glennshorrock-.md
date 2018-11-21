@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-07-at-11-46-00-pm.png
-name: Glenn Shorrock
-sort_number: 51
+name: Glenn Shorrock (AUS)
+sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/glennshorrock?lang=en'
 facebook_url: 'https://www.facebook.com/GlennShorrockMusic/'
