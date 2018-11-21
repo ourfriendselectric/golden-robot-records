@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 11.14.58 am.png
-name: The Art
-sort_number: 872075
+name: The Art (AUS)
+sort_number: 41
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/followTHEART/?tn-str=k*F'
