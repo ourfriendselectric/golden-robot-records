@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-15 at 5.06.51 pm.png
+image_path: /uploads/Promo - B&W.jpg
 name: King's X
 sort_number: 21
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/kingsxofficial/'
 spotify_url: 'https://open.spotify.com/search/results/king''s%20x'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
-hero_path: /uploads/Promo - B&W.jpg
+hero_path: /uploads/kings x.jpg
 albums:
   - image_path:
 ---
