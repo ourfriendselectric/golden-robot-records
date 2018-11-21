@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/LC Promo 20175.jpgLC Promo 20175.jpg
-name: Little Caesar
-sort_number: 3087264
+name: Little Caesar (USA)
+sort_number: 27
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/LittleCaesarOfficial/'
