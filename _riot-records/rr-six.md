@@ -15,3 +15,4 @@ albums:
   - image_path:
 ---
 
+"Local three-piece Destrends have built a reputation as a distinctly theatrical live act, who’s music is a confident mix of gloomy goth-laden post-punk with a serving of Aussie grit. Riding off the back of their debut EP titled ‘Lousy Lover’, Destrends have shared the stage with Spiderbait, Hoodoo Gurus, King Gizzard and the Lizard Wizard, and have headlined the New Music Stage at St Kilda Festival. After a run of successful national tours, the lads are currently ramping up to release their long-awaited debut album."
