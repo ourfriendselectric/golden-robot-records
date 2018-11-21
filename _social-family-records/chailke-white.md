@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-20-at-2-24-07-pm.png
-name: Chalkie White
-sort_number: 14
+name: Chalkie White (AUS)
+sort_number: 82714
 hidden: false
 twitter_url: 'https://twitter.com/ChalkieWhite101'
 facebook_url: 'https://m.facebook.com/chalkiewhite/?__tn__=C-R'
