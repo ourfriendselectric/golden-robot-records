@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/170804_TheKids_HighRes_TheJamesAdams%2026-approved.jpg
-name: The Kids
-sort_number: 2087647869
+name: The Kids (AUS)
+sort_number: 30
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: >-
   https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-hero_path: /uploads/170804_TheKids_HighRes_TheJamesAdams 26-approved.jpg
+hero_path: /uploads/170804_TheKids_HighRes_TheJamesAdams%2026-approved.jpg
 albums:
   - image_path: /images/TheKids-IJWBH-final.jpg
   - image_path: /uploads/The Kids - School - single cover  - new version.jpeg
