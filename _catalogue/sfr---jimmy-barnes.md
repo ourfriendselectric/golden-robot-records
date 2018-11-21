@@ -1,5 +1,5 @@
 ---
-image_path: /jimmy .png
+image_path: /uploads/3030albumcover.jpg
 hidden: false
 sort_number: 868736289763
 name: GRR - Jimmy Barnes
