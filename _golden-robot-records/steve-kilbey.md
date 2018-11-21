@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-08 at 3.02.37 pm.png
-name: Steve Kilbey
-sort_number: 687632
+image_path: /images/Steve Kilbey Promo Photo 02 Credit Toby Burrows @tobyburrowsphoto.jpg
+name: Steve Kilbey (AUS)
+sort_number: 28
 hidden: false
 twitter_url: 'https://twitter.com/stevekilbey'
 facebook_url: 'https://www.facebook.com/Kilbey.TheTimeBeing/'
