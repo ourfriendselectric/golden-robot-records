@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/gilby clarke.jpg
-name: Gilby Clarke
-sort_number: 87261023
+name: Gilby Clarke (USA)
+sort_number: 47
 hidden: true
 twitter_url: 'https://twitter.com/gilbyclarke'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
