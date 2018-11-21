@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-20-at-9-30-15-pm.png
-name: Jasmine Atkins
-sort_number: 76
+name: Jasmine Atkins (AUS)
+sort_number: 223
 hidden: false
 twitter_url: 'https://twitter.com/jazzatkinsmusic'
 facebook_url: 'https://www.facebook.com/jasmineatkinsmusic/'
