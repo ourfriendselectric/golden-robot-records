@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-21 at 9.04.17 am.png
-name: Groom Epoch
-sort_number: 7998210
+name: Groom Epoch (AUS)
+sort_number: 42
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/GroomEpoch/'
