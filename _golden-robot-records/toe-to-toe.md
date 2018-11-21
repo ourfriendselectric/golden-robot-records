@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-06 at 12.02.22 pm.png
-name: Toe to Toe
-sort_number: 15863832
+name: Toe to Toe (AUS)
+sort_number: 44
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: >-
