@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/Flickertail - Image 3.jpg
-name: Flickertail
-sort_number: 71868736
+name: Flickertail (AUS)
+sort_number: 38
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/flickertailtheband/'
