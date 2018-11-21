@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/Promo - B&W.jpg
-name: King's X
+name: King's X (USA)
 sort_number: 21
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
