@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 4.29.56 pm.png
 name: Rose Tattoo
-sort_number: 3
+sort_number: 23
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/RoseTattoo/'
@@ -16,7 +16,7 @@ albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.32.02 pm.png
   - image_path: /images/Screen Shot 2018-11-15 at 4.35.26 pm.png
   - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
-  - image_path: /uploads/Screen Shot 2018-11-15 at 4.33.41 pm.png
+  - image_path: /Screen Shot 2018-11-21 at 11.16.04 am.png
 ---
 
 In the category of ́cult bands\` Rose Tattoo has been at the top of the pile since 1976. Their raw style of blues rock that the Australians manage to create out of a hot mix of slide guitars, pounding hooks with sharp and tight rhythm, along with the unmistakable voice of their front man,
