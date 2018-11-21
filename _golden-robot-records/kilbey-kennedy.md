@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-08 at 11.29.40 am.png
-name: Kilbey Kennedy
-sort_number: 10876244
+name: Kilbey Kennedy (AUS)
+sort_number: 35
 hidden: false
 twitter_url: 'https://twitter.com/KilbeyKennedy'
 facebook_url: 'https://www.facebook.com/kilbeykennedy/?tn-str=k*F'
