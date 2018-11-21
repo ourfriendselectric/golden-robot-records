@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/The%20Lazys_D.jpg
-name: The Lazys
-sort_number: 1286487324
+name: The Lazys (CAN)
+sort_number: 29
 hidden: false
 twitter_url: 'https://twitter.com/thelazysband?lang=en'
 facebook_url: 'https://www.facebook.com/thelazysofficial/'
