@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-13-at-12-44-56-pm.png
-name: Andrew Swift
-sort_number: 44
+name: Andrew Swift (AUS)
+sort_number: 3
 hidden: false
 twitter_url: 'https://twitter.com/_andrewswift_?lang=en'
 facebook_url: 'https://www.facebook.com/andrewswiftmusic/'
