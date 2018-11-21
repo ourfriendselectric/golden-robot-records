@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 5.42.56 pm.png
-name: The Iron Horses
-sort_number: 72984387219310
+name: The Iron Horses (AUS)
+sort_number: 33
 hidden: false
 twitter_url: 'https://twitter.com/TheIronHorses1'
 facebook_url: 'https://www.facebook.com/theironhorsesband/'
