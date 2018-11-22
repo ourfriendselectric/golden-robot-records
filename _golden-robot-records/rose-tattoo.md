@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 4.29.56 pm.png
+image_path: /images/170804_TheKids_HighRes_TheJamesAdams%2026-approved.jpg
 name: Rose Tattoo
-sort_number: 23
+sort_number: 3
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/RoseTattoo/'

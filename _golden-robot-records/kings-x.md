@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/Promo - B&W.jpg
 name: King's X (USA)
-sort_number: 21
+sort_number: 2
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -19,7 +19,7 @@ Since the release of their debut record, Out Of The Silent Planet, in 1988, KING
 
 Featuring vocalist and bassist Doug Pinnick, guitarist Ty Tabor and drummer Jerry Gaskill, KING’S X have never changed their line-up, a rarity in the music world and a testament to the band and musicians and friends.
 
-Critically acclaimed from the start, KING’S X are musician’s musicians, name-dropped by everyone from Anthrax and Suicidal Tendencies to Iron Maiden and Blue Murder for their instrumental prowess. Pearl Jam's bassist Jeff Ament even declared that "KING'S X invented grunge”. They also enjoyed a long life via the David Letterman Show with their track, “We Were Born To Be Loved” (from 1990’s Faith Hope Love), also a favorite of the Paul Shaffer’s CBS Orchestra to play during commercial breaks.
+Critically acclaimed from the start, KING’S X are musician’s musicians, name-dropped by everyone from Anthrax and Suicidal Tendencies to Iron Maiden and Blue Murder for their instrumental prowess. Pearl Jam's bassist Jeff Ament even declared that "KING'S X invented grunge”. They also enjoyed a long life via the David Letterman Show with their track, “We Were Born To Be Loved” (from 1990’s Faith Hope Love), also a favourite of the Paul Shaffer’s CBS Orchestra to play during commercial breaks.
 
 In 1992, KING’S X signed to Atlantic Records/Megaforce Records, released three albums and toured with bands as diverse as Scorpions, Type O Negative and Pearl Jam. In the early 2000’s, KING’S X released three studio albums and their first official live album via Metal Blade Records. In 2005, the band signed to German-based progressive music specialty label, InsideOut Music, and released Ogre Tones, an album described as a return to the bands classic sound. KING’S X forged ahead with new albums, DVD’s and tours up until 2012, when drummer Jerry Gaskill suffered a major heart attack. The band then quickly compiled an exclusive live release from their archives entitled, Burning Down Boston. The proceeds of which went directly to assisting Gaskill with his medical expenses. They rolled on for two more years until Jerry suffered another heart attack, which resulted in him having a double bypass operation and ultimately led to the band taking an indefinite hiatus.
 
