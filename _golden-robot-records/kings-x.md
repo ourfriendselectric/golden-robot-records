@@ -15,7 +15,7 @@ albums:
   - image_path:
 ---
 
-Since the release of their debut record, Out Of The Silent Planet, in 1988, KING’S X released a dozen albums that have seen them rightfully earn their place on the rock royalty family tree. Fusing progressive metal, funk and soul grooves with vocal arrangements rooted in blues, gospel and even the British Invasion era influences, KING’S X created a style all their own which continues to be an inspiration for bands to this day...
+Since the release of their debut record, Out Of The Silent Planet, in 1988, KING’S X released a dozen albums that have seen them rightfully earn their place on the rock royalty family tree. Fusing progressive metal, funk and soul grooves with vocal arrangements rooted in blues, gospel and even the British Invasion era influences, KING’S X created a style all their own which continues to be an inspiration for bands to this day.
 
 Featuring vocalist and bassist Doug Pinnick, guitarist Ty Tabor and drummer Jerry Gaskill, KING’S X have never changed their line-up, a rarity in the music world and a testament to the band and musicians and friends.
 
