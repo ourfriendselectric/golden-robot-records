@@ -12,7 +12,10 @@ apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
 hero_path: /uploads/kings x.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/kings x tile 2 copy.jpg
+  - image_path: /uploads/kings x tile 4 copy.jpg
+  - image_path: /uploads/kings x tile 32 copy.jpg
+  - image_path: /uploads/kings x tile 34 copy.jpg
 ---
 
 Since the release of their debut record, Out Of The Silent Planet, in 1988, KING’S X released a dozen albums that have seen them rightfully earn their place on the rock royalty family tree. Fusing progressive metal, funk and soul grooves with vocal arrangements rooted in blues, gospel and even the British Invasion era influences, KING’S X created a style all their own which continues to be an inspiration for bands to this day.
