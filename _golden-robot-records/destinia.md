@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/search/results/destinia'
 apple_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-hero_path: /images/Screen Shot 2018-11-08 at 4.29.30 pm.png
+hero_path: /images/destinia cover copy.jpg
 albums:
-  - image_path: /images/Destinia_Metal Souls 600px.jpeg
+  - image_path: /destinia tile 1 copy.jpg
 ---
 
 Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.
