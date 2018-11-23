@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/thelazys/'
 spotify_url: 'https://open.spotify.com/artist/3wPGLbWYOwMPC4oTGykAJ3'
 apple_url: 'https://itunes.apple.com/au/album/tropical-hazards/1353793547'
 youtube_url: 'https://www.youtube.com/channel/UClxW-XHk7G64pROxIwr0KSg'
-hero_path: /images/the lazys cover copy.jpg
+hero_path: /images/Screen Shot 2018-11-23 at 6.51.21 pm.png
 albums:
   - image_path: /images/hi-res_lazys - album cover.jpg
   - image_path: /images/the lazys cover copy.jpg
