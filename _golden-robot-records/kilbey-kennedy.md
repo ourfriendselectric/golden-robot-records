@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-08 at 11.29.40 am.png
+image_path: /images/kibey kennedy both copy.jpg
 name: Kilbey Kennedy (AUS)
 sort_number: 45
 hidden: false
@@ -13,6 +13,8 @@ youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
 hero_path: /images/Screen Shot 2018-11-08 at 11.19.53 am.png
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg
+  - image_path: /images/kk tile 2 copy.jpg
+  - image_path:
 ---
 
 Steve Kilbey, band singer, songwriter, bassist, painter,writer, poet, actor, sage, dispenser of arcane wisdom is one of Australia’s most loved artists.
