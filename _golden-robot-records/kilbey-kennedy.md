@@ -10,11 +10,11 @@ instagram_url: 'https://www.instagram.com/kilbeykennedy/'
 spotify_url: 'https://open.spotify.com/search/results/kilbey%20kennedy'
 apple_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
-hero_path: /images/Screen Shot 2018-11-08 at 11.19.53 am.png
+hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg
   - image_path: /images/kk tile 2 copy.jpg
-  - image_path:
+  - image_path: /images/kk tile  copy.jpg
 ---
 
 Steve Kilbey, band singer, songwriter, bassist, painter,writer, poet, actor, sage, dispenser of arcane wisdom is one of Australia’s most loved artists.
