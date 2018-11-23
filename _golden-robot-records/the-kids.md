@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: >-
   https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-hero_path: /uploads/170804_TheKids_HighRes_TheJamesAdams%2026-approved.jpg
+hero_path: /uploads/the kids cover copy.jpg
 albums:
   - image_path: /images/TheKids-IJWBH-final.jpg
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
