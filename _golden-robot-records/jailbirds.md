@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
-hero_path: /uploads/Screen Shot 2018-11-05 at 4.29.39 pm.png
+hero_path: /uploads/JB cover copy.jpg
 albums:
   - image_path: /images/JB tile copy.jpg
   - image_path: /uploads/JB tile 2 copy.jpg
