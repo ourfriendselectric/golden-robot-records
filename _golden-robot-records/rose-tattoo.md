@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/rose tattoo tile 5 copy.jpg
-name: Rose Tattoo
+name: Rose Tattoo (AUS)
 sort_number: 3
 hidden: false
 twitter_url:
