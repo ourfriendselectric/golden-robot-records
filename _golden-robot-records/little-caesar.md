@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/LC Promo 20175.jpgLC Promo 20175.jpg
+image_path: /images/little caesar tile 2 copy.jpg
 name: Little Caesar (USA)
 sort_number: 27
 hidden: false
@@ -13,6 +13,8 @@ youtube_url: 'https://www.youtube.com/channel/UCEsJy_yVg6dliOUd-6Hc_Mg'
 hero_path: /uploads/Screen Shot 2018-11-05 at 3.23.05 pm.png
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
+  - image_path: /uploads/little caesar tile 2 copy.jpg
+  - image_path: /uploads/lc tile 3 copy.jpg
 ---
 
 Nobody quite  knew what to think  of these long haired,  tattooed  bikers singing such soulful, yet  ballsy, rock music  when they  arrived  on the scene  in Los Angeles in 1987. They stood  out amongst  the "Hair Bands"  that populated the music scene at the time… a distinction the  band wore as a badge  of honour.<br><br>Much hype surrounded  the band as they were  managed by  music  legend Jimmy Iovine, guided  by legendary A&R man  John Kalodner  and produced by  Bob Rock. It seemed  like a formula  for success,  yet the band met  an unfortunate set of circumstances  that left many  scratching their heads  shortly  after  the release  of their self-titled  debut album.
