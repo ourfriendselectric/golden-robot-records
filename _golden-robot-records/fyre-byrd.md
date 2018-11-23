@@ -10,10 +10,12 @@ instagram_url: 'https://www.instagram.com/fyre.byrd/'
 spotify_url: 'https://open.spotify.com/search/results/fyre%20byrd'
 apple_url: 'https://itunes.apple.com/au/artist/fyre-byrd/1368232166'
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
-hero_path: /uploads/Screen Shot 2018-11-05 at 3.32.51 pm.png
+hero_path: /uploads/Fyre byrd cover copy.jpg
 albums:
   - image_path: /uploads/Take Me Out Single Art 600px.jpeg
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
+  - image_path: /uploads/fb tile 2 copy.jpg
+  - image_path: /uploads/fb tile 3 copy.jpg
 ---
 
 Fyre  Byrd are  guitarist/vocalist Joshua  and female  drummer, Daniella. The  brother,  sister  two piece  formed at  the beginning  of 2017, although they  have spent  time on the road extensively touring nationally and internationally  in other projects.
