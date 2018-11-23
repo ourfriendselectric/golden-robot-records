@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 11.14.58 am.png
+image_path: /uploads/the art tile copy.jpg
 name: The Art (AUS)
 sort_number: 41
 hidden: false
@@ -15,6 +15,7 @@ albums:
   - image_path: /uploads/Screen Shot 2018-11-15 at 11.12.20 am.png
   - image_path: /uploads/Screen Shot 2018-11-15 at 10.56.47 am.png
   - image_path: /uploads/Screen Shot 2018-11-15 at 11.05.09 am.png
+  - image_path: /uploads/the art tile 1 copy.jpg
 ---
 
 The Art have spent a full year touring in order to perfect their rock n’ roll sound and live their rock n’ roll dream. Now they are back in Australia, having signed with Golden Robot Records in 2016, delivering real rock n’ roll to their native land. With vocalists and guitarists, Azaria and Kara, joined by drummer Jordan, the band has a wealth of experience, performing since 2007 under their previous name, The Follow. The self-described “palette of infinite colour” are classic rock with vintage glam, punk rock urgency and a heavy metal attitude. This fusion of rock’s varied colours has culminated in their latest album, produced with Stevie Wright, All in the Mind.
