@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Flickertail - Image 3.jpg
+image_path: /uploads/flicker tile 7 copy.jpg
 name: Flickertail (AUS)
 sort_number: 38
 hidden: false
@@ -14,6 +14,9 @@ youtube_url: 'https://www.youtube.com/channel/UCzDiVtr-Va6g8zxV_Hl9P6Q'
 hero_path: /uploads/flickertail-cover-photo.jpg
 albums:
   - image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
+  - image_path: /uploads/flicker tile 2 copy.jpg
+  - image_path: /uploads/flicker tile 1 copy.jpg
+  - image_path: /uploads/flicker tile 7 copy.jpg
 ---
 
 A four-headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
