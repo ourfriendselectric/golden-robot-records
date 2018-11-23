@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-09 at 10.17.43 am.png
+image_path: /images/raven tile 1.jpg
 name: RavenEye (UK)
 sort_number: 24
 hidden: false
@@ -12,7 +12,8 @@ apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCdKLQB3k1jvUArLckZNhZsg'
 hero_path: /images/raven cover copy.jpg
 albums:
-  - image_path:
+  - image_path: /images/raven tile 3.jpg
+  - image_path: /images/raven tile 2.jpg
 ---
 
 Since releasing their wildly successful EP, Breaking Out, and debut album NOVA, UK rock trio RavenEye has toured globally, including as direct support for Slash w/ Myles Kennedy (US and Europe), KISS (European arena tour, May 2017), BUSH (Europe), Aerosmith (Lisbon),
