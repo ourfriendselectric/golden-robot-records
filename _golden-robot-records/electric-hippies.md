@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/EH tile 35 copy.jpg
+image_path: /uploads/EH tile 24 copy.jpg
 name: Electric Hippies (AUS/USA)
 sort_number: 39
 hidden: false
