@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Mi-Sex 3 Rachel van Luyt - EDM version.jpeg
+image_path: /images/mi-sex tile2.jpg
 name: Mi-Sex (AUS/NZ)
 sort_number: 36
 hidden: false
@@ -10,10 +10,12 @@ instagram_url: 'https://www.instagram.com/misexmusic/'
 spotify_url: 'https://open.spotify.com/artist/4QDiSLl2fkDWuC4TIV7Z9Q'
 apple_url: 'https://itunes.apple.com/au/album/not-from-here/1316908944'
 youtube_url: 'https://www.youtube.com/channel/UCxYrgmAixVMQ7DXCcxcFdlA'
-hero_path: /images/Screen Shot 2018-11-15 at 9.08.37 am.png
+hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/Screen Shot 2018-11-14 at 5.49.35 pm.png
   - image_path: /uploads/Screen Shot 2018-11-15 at 9.15.20 am.png
+  - image_path: /uploads/mi-sex tile copy.jpg
+  - image_path: /uploads/mi-sex tile2.jpg
 ---
 
 It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.
