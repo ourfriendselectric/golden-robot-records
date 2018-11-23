@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-06 at 12.02.22 pm.png
+image_path: /images/TOE TILE 2 copy.jpg
 name: Toe to Toe (AUS)
 sort_number: 44
 hidden: false
@@ -13,7 +13,10 @@ apple_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 hero_path: /uploads/ttt1 hi res.jpg
 albums:
-  - image_path: /uploads/TTT_CMYK-8PageBooklet FULL-1.jpg
+  - image_path: /uploads/Screen Shot 2018-11-23 at 8.47.48 pm.png
+  - image_path: /images/TOE TILE 3 copy.jpg
+  - image_path: /images/TOE TILE 5 copy.jpg
+  - image_path: /images/TOE TILE 2 copy.jpg
 ---
 
 Toe to Toe mean a lot to the Australian hardcore punk community. A soundtrack for outsiders and outcasts since 1992 – the band spearheaded the rebirth of Sydney hardcore and inspired countless bands with their no frills, uncompromising passion and intensity. Themselves inspired by Melbourne bands that came before them, Vicious Circle, Death Sentence, and Permanent Damage along with earliest major influence US punks, Poison Idea; Toe To Toe played their first show in true DIY-spirit at a backyard barbeque next to a skate ramp. I’m a massive fan of punk rock, I feel pretty blessed to make my own, frontman and sole original member standing, Scott Mac, humbly offers still, 25 years on from the band’s inception.
