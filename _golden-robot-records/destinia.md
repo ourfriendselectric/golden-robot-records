@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 4.59.29 pm.png
+image_path: /destinia tile 1 copy.jpg
 name: Destinia (JAP)
 sort_number: 45
 hidden: false
