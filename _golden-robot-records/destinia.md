@@ -2,7 +2,7 @@
 layout: artist
 image_path: /destinia tile 1 copy.jpg
 name: Destinia (JAP)
-sort_number: 45
+sort_number: 35
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Nozomu-Wakais-Destinia-693130460762628/'
