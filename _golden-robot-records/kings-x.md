@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/kings x tile copy.jpg
+image_path: /uploads/kings x image path tile.jpg
 name: King's X (USA)
 sort_number: 2
 hidden: false
