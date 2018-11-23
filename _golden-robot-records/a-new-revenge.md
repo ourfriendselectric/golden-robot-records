@@ -11,7 +11,7 @@ spotify_url: >-
   https://open.spotify.com/playlist/3Ge2LlIDcSr1GjWIrKFZP7?fbclid=IwAR06rcXEt2l20oXQC_V81L7w9e8b4uMf7HIhcJLnbNqsQQhkZqj_ypxJ4qw
 apple_url:
 youtube_url:
-hero_path:
+hero_path: /uploads/ANR both.jpg
 albums:
   - image_path: /images/al_one.png
   - image_path: /images/al_tho.png
