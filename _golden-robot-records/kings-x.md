@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Promo - B&W.jpg
+image_path: /uploads/kings x tile copy.jpg
 name: King's X (USA)
 sort_number: 2
 hidden: false
