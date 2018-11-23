@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/HAS%20prefererred%20press%20copy.jpg
+image_path: /images/THS TILE 4 copy.jpg
 name: The Heartache State
 sort_number: 10914809
 hidden: false
@@ -12,7 +12,10 @@ apple_url: 'https://itunes.apple.com/au/album/the-last-of-the-buffalo/1316941691
 youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
 hero_path: /uploads/THS cover (2).png
 albums:
-  - image_path: /uploads/THS-LOTB.jpg
+  - image_path: /uploads/JustCover-600px copy.jpeg
+  - image_path: /images/THS TILE 1 copy.jpg
+  - image_path: /images/THS TILE 2 copy.jpg
+  - image_path: /images/THS TILE 4 copy.jpg
 ---
 
 Justin Garner and Nick Barker are two veterans of the Australian music scene who have been playing music with one another for 15 years. Justin has performed vocals and guitar as part of Adelaide’s own Southpaw, with Nick producing their debut album back in 2004, while Nick has remained a cornerstone of Australian Blues Rock since the 1980s, with Justin last performing on Nick’s 2009 solo album Backwater Blues. Where Justin loves The Allman Bros and Nick loves The Replacements, the two love The Rolling Stones. It is the combination of the two, along with long-time friend Venom and drums and Michael Hubbard on bass, that culminates in The Heartache State.
