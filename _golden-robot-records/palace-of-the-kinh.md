@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-08 at 12.59.26 pm.png
+image_path: /images/potk tile copy.jpg
 name: Palace of the King (AUS)
 sort_number: 32
 hidden: false
@@ -13,6 +13,9 @@ youtube_url: 'https://www.youtube.com/user/PalaceOfTheKing'
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg
+  - image_path: /images/potk tile 2 copy.jpg
+  - image_path: /images/potk tile 3 copy.jpg
+  - image_path: /images/potk tile 4 copy.jpg
 ---
 
 Formed in late 2012, Palace Of The King - nameless at that point - quickly recorded a 3 track demo and developed the vision of a blues-in fused rock and roll band. Far from a grave-robbing retro trip, Palace Of The King has just as much in common with Rival Sons, Graveyard & JackWhite as they do Led Zeppelin, Black Sabbath & Deep Purple. Remember when bands released an album a year and toured ’til the wheels fell off the tour van?
