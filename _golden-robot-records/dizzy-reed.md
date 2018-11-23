@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-05 at 4.53.40 pm.png
+image_path: /uploads/dizzy 83 tile copy.jpg
 name: Dizzy Reed (USA)
 sort_number: 25
 hidden: false
@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/dizzyfnreed'
 spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
 apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
 youtube_url:
-hero_path: /uploads/dizzy cover photo.jpg
+hero_path: /uploads/dizzy cover copy.jpg
 albums:
-  - image_path: /uploads/DIZZY REED ROCKNROLLAINTEASY 4000x4000px.jpg
+  - image_path: /uploads/DIZZY%20REED%20ROCKNROLLAINTEASY%204000x4000px.jpg
+  - image_path: /uploads/dizzy tile 2 copy.jpg
+  - image_path: /uploads/dizzy tile 24 copy.jpg
+  - image_path: /uploads/dizzy tile copy.jpg
 ---
 
 When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018.
