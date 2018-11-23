@@ -3,7 +3,7 @@ layout: artist
 image_path:
 name: Anthem (JAP)
 sort_number: 46
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/thelockhearts'
 facebook_url: 'https://www.facebook.com/thelockhearts/'
 instagram_url: 'https://www.instagram.com/thelockhearts/'
