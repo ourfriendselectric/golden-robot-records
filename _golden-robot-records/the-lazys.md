@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/The%20Lazys_D.jpg
+image_path: /images/the lazys tile copy.jpg
 name: The Lazys (CAN)
 sort_number: 29
 hidden: false
@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/thelazys/'
 spotify_url: 'https://open.spotify.com/artist/3wPGLbWYOwMPC4oTGykAJ3'
 apple_url: 'https://itunes.apple.com/au/album/tropical-hazards/1353793547'
 youtube_url: 'https://www.youtube.com/channel/UClxW-XHk7G64pROxIwr0KSg'
-hero_path: /uploads/Screen Shot 2018-11-06 at 11.40.36 am.png
+hero_path: /images/the lazys cover copy.jpg
 albums:
   - image_path: /images/hi-res_lazys - album cover.jpg
+  - image_path: /images/the lazys cover copy.jpg
+  - image_path: /images/the lazys tile 3 copy.jpg
+  - image_path: /images/the lazys tile 2 copy.jpg
 ---
 
 Crossing the world to deliver Australian Rock to the shores of Canada, The Lazys have brought a storm with them to kick down doors and abuse authority. This storm is their latest album Tropical Harzards, a high octane, hell-raising rock ‘n’ roll riot. While sounding modern, The Lazys are a heavily retro rock band as singer Leon Harrison and lead guitarist Matty Morris have been paying their dues in garage bands and local acts since 2006. Big hair, black leather and rough tattoos all accompany a hard rock style that evokes Australian Rock legends like AC/DC and The Angels.
