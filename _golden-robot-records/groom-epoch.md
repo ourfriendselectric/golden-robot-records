@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-21 at 9.04.17 am.png
+image_path: /images/groom epoch tile copy.jpg
 name: Groom Epoch (AUS)
 sort_number: 42
 hidden: false
@@ -13,7 +13,9 @@ youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.50.58 pm.png
-  - image_path: /uploads/Screen Shot 2018-11-15 at 4.51.12 pm.png
+  - image_path: /images/GROOM TILE 1 copy.jpg
+  - image_path: /images/GROOM TILE 2 copy.jpg
+  - image_path: /uploads/GROOM TILE 3 copy.jpg
 ---
 
 Groom Epoch is a new band created by former drummer from The Church, Richard Ploog. Groom Epoch is about to release their second album Solar Warden on Golden Robot Records.
