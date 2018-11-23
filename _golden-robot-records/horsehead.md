@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Horsehead 1 cropped 600px.jpeg
+image_path: /images/horsehead tile copy.jpg
 name: Horsehead (AUS)
 sort_number: 43
 hidden: false
@@ -13,7 +13,8 @@ youtube_url: >-
   https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 hero_path: /images/Horsehead 1 cropped 600px.jpeg
 albums:
-  - image_path:
+  - image_path: /images/horsehead tile 2 copy.jpg
+  - image_path: /images/horsehead tile copy.jpg
 ---
 
 If you were lucky enough to see Melbourne band Horsehead sometime between 1992 and 2000, chances are you’re a “Horseheadonist” – one of the band’s passionate fans. Horsehead live was an unforgettable experience. As rock historian Ian McFarlane, the author of The Encyclopedia of Australian Rock and Pop, noted, “everything was delivered with great force and conviction”.
