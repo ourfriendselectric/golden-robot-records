@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-15 at 3.10.28 pm.png
+image_path: /images/john sykes tile 5 copy.jpg
 name: John Sykes (USA)
 sort_number: 1
 hidden: false
@@ -12,7 +12,10 @@ apple_url:
 youtube_url: 'https://www.youtube.com/user/JohnSykesFan'
 hero_path: /uploads/john sykes cover copy.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/john sykes tile 2 copy.jpg
+  - image_path: /uploads/john sykes tile 3 copy.jpg
+  - image_path: /uploads/john sykes tile copy.jpg
+  - image_path: /uploads/john sykes tile 5 copy.jpg
 ---
 
 Golden Robot Records is very proud to have signed guitar legend and incredible songwriter John Sykes.
