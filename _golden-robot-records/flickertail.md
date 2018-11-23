@@ -11,7 +11,7 @@ spotify_url: >-
   https://open.spotify.com/search/results/flickertailhttps://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
 apple_url: 'https://itunes.apple.com/au/album/hurry-up-and-wait-ep/1336995445'
 youtube_url: 'https://www.youtube.com/channel/UCzDiVtr-Va6g8zxV_Hl9P6Q'
-hero_path: /uploads/flickertail-cover-photo.jpg
+hero_path: /uploads/flickertail cover photo copy.jpg
 albums:
   - image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
   - image_path: /uploads/flicker tile 2 copy.jpg
