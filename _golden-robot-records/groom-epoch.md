@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/au/album/solar-warden/1354561530'
 youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
-  - image_path: /images/Screen Shot 2018-11-15 at 4.50.58 pm.png
+  - image_path: /images/groomy poch.jpg
   - image_path: /images/GROOM TILE 1 copy.jpg
   - image_path: /images/GROOM TILE 2 copy.jpg
   - image_path: /uploads/GROOM TILE 3 copy.jpg
