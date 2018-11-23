@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Studio shot 4.jpg
+image_path: /images/JAILBIRDS (350X350) BANNER.jpg
 name: Jailbirds (IRE)
 sort_number: 31
 hidden: false
@@ -13,7 +13,10 @@ apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
 hero_path: /uploads/Screen Shot 2018-11-05 at 4.29.39 pm.png
 albums:
-  - image_path:
+  - image_path: /images/JB tile copy.jpg
+  - image_path: /uploads/JB tile 2 copy.jpg
+  - image_path: /uploads/JB tile 3 copy.jpg
+  - image_path: /uploads/JB tile 4 copy.jpg
 ---
 
 Jailbirds are an Australian/Irish hard rock band based in Dublin, Ireland. The band is composed of four members , Axel McDonald on lead vocals/lead guitar, his brother Jay McDonald on drums, both of whom are the founding members originating from Sydney, Australia. Completing the raw and powerhouse sound of Jailbirds are Irish rhythm guitarist Ed Orr and bass player Jamie Trimble. The four members produce a unique, dynamic, energetic and explosive sound defining the new generaBon of hard rock having mainly been influenced by Australian pub rock bands such as AC/DC, Airbourne, Rose Tattoo and other successful bands for example Thin Lizzy, Iron Maiden, Foo Fighters, just to name a few.<br>Having just been founded in the fall of 2016, Jailbirds released their first ever record BREAK THE SILENCE on January 28th, 2017. An EP featuring six blistering hard hitting, rock n roll tracks.
