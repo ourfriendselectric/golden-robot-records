@@ -12,9 +12,10 @@ apple_url: 'https://itunes.apple.com/au/album/salvation-single/1435276237'
 youtube_url: 'https://www.youtube.com/channel/UCk-pxELR-n_ZiPH7WkRZEgA'
 hero_path: /uploads/Screen Shot 2018-11-05 at 4.08.47 pm.png
 albums:
-  - image_path: /images/April Rain single cover 600px.jpeg
-  - image_path: /images/Salvation single cover 3000x3000.JPG
-  - image_path: /uploads/April Rain single cover 600px.jpeg
+  - image_path: /uploads/April Rain Artwork-01-01-01.png
+  - image_path: /images/Traffic single cover.jpg
+  - image_path: /uploads/tih tile copy.jpg
+  - image_path: /uploads/tih tile 6 copy.jpg
 ---
 
 The Iron Horses were forged in the fiery heat of late night, boozy jam sessions in Sydney’s North Shore when singer Duncan Welsh and guitarist Ciaran Loughran found drummer Peter Holt and bassist Rahul Ranjit in 2015. Now, the band has taken their emotionally driven rock sound from the bars of Sydney to the international stage following their 2017 signing with Golden Robot Records. Taking influence from the likes of Ryan Adams, Kingswood, British India and Kings Of Leon and infusing some Jethro Tull inspired vocals, The Iron Horses are exactly what defines Australian rock today.
