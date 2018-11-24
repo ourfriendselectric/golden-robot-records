@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/kibey kennedy both copy.jpg
 name: Kilbey Kennedy (AUS)
-sort_number: 45
+sort_number: 42
 hidden: false
 twitter_url: 'https://twitter.com/KilbeyKennedy'
 facebook_url: 'https://www.facebook.com/kilbeykennedy/?tn-str=k*F'
