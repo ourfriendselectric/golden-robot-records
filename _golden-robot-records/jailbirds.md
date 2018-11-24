@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/JAILBIRDS (350X350) BANNER.jpg
+image_path: /images/JB tile copy.jpg
 name: Jailbirds (IRE)
 sort_number: 31
 hidden: false
