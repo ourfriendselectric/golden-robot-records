@@ -12,10 +12,10 @@ apple_url: 'https://itunes.apple.com/au/album/love-and-violence-ep/1316022655'
 youtube_url: 'https://www.youtube.com/channel/UCSnMC_EWGqnkozLRUBWFHvA'
 hero_path: /images/Screen Shot 2018-11-15 at 9.53.28 am.png
 albums:
-  - image_path: /images/Screen Shot 2018-11-15 at 9.54.34 am.png
+  - image_path: /images/Screen Shot 2018-11-25 at 7.38.24 pm.png
   - image_path: /images/superjesus 2.jpg
   - image_path: /images/superjesus tile 2 copy.jpg
-  - image_path:
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.40.20 pm.png
   - image_path:
 ---
 
