@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/rose tattoo tile 5 copy.jpg
 name: Rose Tattoo (AUS)
-sort_number: 3
+sort_number: 2
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/RoseTattoo/'
