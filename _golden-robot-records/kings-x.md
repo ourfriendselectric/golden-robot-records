@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/kings x image path tile.jpg
 name: King's X (USA)
-sort_number: 2
+sort_number: 3
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
