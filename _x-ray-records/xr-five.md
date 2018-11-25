@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/cigars of the pha both copy.jpg
 name: Cigars of the Pharaoh
 sort_number: 1
 hidden: false
