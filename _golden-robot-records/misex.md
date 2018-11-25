@@ -18,9 +18,7 @@ albums:
   - image_path: /uploads/mi-sex tile2.jpg
 ---
 
-It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.
-
-Together Kevin & Murray forged a song writing partnership that anchored Mi-Sex throughout its four albums. These five new connections quickly dissolved their pasts, as they reinvented themselves, passing into the new era of new wave/electronic music and uniting fully as the sound that was to become Mi-Sex.
+It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.<br><br>Together Kevin & Murray forged a song writing partnership that anchored Mi-Sex throughout its four albums. These five new connections quickly dissolved their pasts, as they reinvented themselves, passing into the new era of new wave/electronic music and uniting fully as the sound that was to become Mi-Sex.
 
 Mi-Sex (the name originating from a song they performed by the British group Ultravox), recorded their d&eacute;but single, 'Straight Laddie' in New Zealand. A punk parody with hints of Ian Dury-esque vocals and a snatch of The Stranglers in the keyboards. Now setting house records in New Zealand Mi-Sex decided to take their new-found sound and look to Australia. Within a very short time, on the strength of their highly energized and semi-theatrical live shows, they were soon one of Sydney’s most popular bands.
 
