@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/potk tile copy.jpg
+image_path: /images/potk tile 4 copy.jpg
 name: Palace of the King (AUS)
 sort_number: 32
 hidden: false
