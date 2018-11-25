@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/dizzy 83 tile copy.jpg
+image_path: /uploads/dizzy tile copy.jpg
 name: Dizzy Reed (USA)
 sort_number: 25
 hidden: false
