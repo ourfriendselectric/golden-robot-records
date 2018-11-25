@@ -14,7 +14,7 @@ hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
   - image_path: /uploads/Extended Play.jpg
-  - image_path: /uploads/Screen Shot 2018-11-25 at 7.07.01 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.11.33 pm.png
   - image_path: /uploads/mi-sex tile2.jpg
 ---
 
