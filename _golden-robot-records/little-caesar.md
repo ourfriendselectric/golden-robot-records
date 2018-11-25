@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/little caesar tile 2 copy.jpg
+image_path: /images/lc square.jpg
 name: Little Caesar (USA)
 sort_number: 27
 hidden: false
@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/channel/UCEsJy_yVg6dliOUd-6Hc_Mg'
 hero_path: /uploads/little caesar cover copy.jpg
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
-  - image_path: /uploads/little caesar tile 2 copy.jpg
+  - image_path: /images/lc square.jpg
   - image_path: /uploads/lc tile 3 copy.jpg
 ---
 
