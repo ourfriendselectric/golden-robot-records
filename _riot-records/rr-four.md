@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/sheshinjuku/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/3IPiXNNRCAY44b6M0RQP3g'
 apple_url: 'https://itunes.apple.com/au/album/supersonic-ep/1354592731'
 youtube_url: 'https://www.youtube.com/channel/UChN-bjOR9w-vP8ZgjmqJrnw'
-hero_path: /uploads/Screen Shot 2018-11-19 at 12.06.54 pm.png
+hero_path: /uploads/she shin cover copy.jpg
 albums:
   - image_path: /images/EP COVER BOLD FINAL 3D.jpg
   - image_path: /she shin tile 6 copy.jpg
