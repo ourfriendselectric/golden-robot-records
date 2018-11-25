@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/raven tile 2.jpg
+image_path: /images/Screen Shot 2018-11-25 at 7.31.15 pm.png
 name: RavenEye (UK)
 sort_number: 24
 hidden: false
