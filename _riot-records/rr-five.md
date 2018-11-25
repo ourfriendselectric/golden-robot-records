@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/vq tile 2 copy.jpg
+image_path: /images/vq tile copy.jpg
 name: Valley Queen
 sort_number: 1
 hidden: false
