@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/ANR.jpg
+image_path: /uploads/ANR both.jpg
 name: A New Revenge (USA)
 sort_number: 25
 hidden: false
