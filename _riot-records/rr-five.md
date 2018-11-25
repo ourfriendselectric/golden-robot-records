@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-19 at 12.31.26 pm.png
+image_path: /images/vq tile 2 copy.jpg
 name: Valley Queen
 sort_number: 1
 hidden: false
@@ -12,7 +12,10 @@ apple_url: 'https://itunes.apple.com/au/album/supergiant/1368611209'
 youtube_url: 'https://www.youtube.com/channel/UCzUNddpUfDwVhvRT86G8l0w'
 hero_path: /uploads/VQ press.jpg
 albums:
-  - image_path:
+  - image_path: /vq tile 2 copy.jpg
+  - image_path: /vq tile 3 copy.jpg
+  - image_path: /vq tile 4 copy.jpg
+  - image_path: /uploads/VQSupergiant300dpi3000x3000.jpg
 ---
 
 The full-length debut from Los Angeles-based band Valley Queen, Supergiant takes its title from the most massive and luminous yet fastest-burning stars in the universe. “The song ‘Supergiant’ is about how we’re all made up of the same stuff as stars, and I liked the idea of tying the whole album together with that metaphor,” says Carol.
