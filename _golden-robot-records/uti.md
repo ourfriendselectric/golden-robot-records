@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /images/UTI-5.jpg
 name: UTI
 sort_number: 984686
 hidden: false
@@ -13,7 +13,7 @@ apple_url: >-
   https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 youtube_url: >-
   https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/hero-placeholder.jpg
+hero_path: /images/Screen Shot 2018-11-25 at 1.24.22 pm.png
 albums:
   - image_path: /images/UTI-1.jpg
   - image_path: /images/UTI-2.jpg
