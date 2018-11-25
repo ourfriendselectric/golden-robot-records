@@ -14,7 +14,7 @@ hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /destinia tile 1 copy.jpg
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.41.49 pm.png
-  - image_path: /uploads/Screen Shot 2018-11-25 at 7.44.02 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.49.37 pm.png
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.46.21 pm.png
 ---
 
