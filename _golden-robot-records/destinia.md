@@ -13,6 +13,9 @@ youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /destinia tile 1 copy.jpg
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.41.49 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.44.02 pm.png
+  - image_path: /uploads/Screen Shot 2018-11-25 at 7.46.21 pm.png
 ---
 
 Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.
