@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/amynelsonmusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w'
 apple_url: 'https://itunes.apple.com/au/artist/amy-nelson/5479141'
 youtube_url: 'https://www.youtube.com/user/amynelsonmusic'
-hero_path: /uploads/screen-shot-2018-11-20-at-3-04-16-pm-1.png
+hero_path: /uploads/an-cover-copy.jpg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
   - image_path: /uploads/amy-nelson-tile-copy.jpg
