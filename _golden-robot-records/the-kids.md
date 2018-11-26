@@ -13,7 +13,7 @@ apple_url: >-
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
 hero_path: /uploads/the kids cover copy.jpg
 albums:
-  - image_path: /images/Screen Shot 2018-11-26 at 5.59.24 pm.png
+  - image_path: /uploads/TheKids-IJWBH-600px.jpeg
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
   - image_path: /uploads/the kids tile 4 copy.jpg
   - image_path: /uploads/the kids tile 2 copy.jpg
