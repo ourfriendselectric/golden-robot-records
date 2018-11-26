@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/20W58iDk72EzCy1ugW6Ix7'
 apple_url: 'https://itunes.apple.com/au/artist/jetty-road/432886500'
 youtube_url: 'https://www.youtube.com/channel/UCte8iWbv-5CfyHvJoWgVVVQ'
-hero_path: /uploads/jetty-road-both-copy.jpg
+hero_path: /uploads/Screen Shot 2018-11-22 at 6.27.17 pm.png
 albums:
   - image_path: /uploads/jettyrd-frontcover-square-itunes.jpg
 ---
