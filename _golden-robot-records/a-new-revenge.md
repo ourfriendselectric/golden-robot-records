@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/ANR both.jpg
 name: A New Revenge (USA)
-sort_number: 25
+sort_number: 24
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/A-New-Revenge-956387151231909/'
