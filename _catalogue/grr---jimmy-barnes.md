@@ -1,5 +1,5 @@
 ---
-image_path: /jimmy .png
+image_path: /Screen Shot 2018-11-26 at 5.41.41 pm.png
 hidden: false
 sort_number: 60
 name: Jimmy Barnes
