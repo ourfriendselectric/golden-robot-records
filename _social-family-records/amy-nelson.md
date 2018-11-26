@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-20-at-3-04-16-pm.png
+image_path: /uploads/screen-shot-2018-11-27-at-7-54-03-am.png
 name: Amy Nelson (AUS)
 sort_number: 14
 hidden: false
