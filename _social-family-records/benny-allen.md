@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-13-at-1-26-38-pm.png
+image_path: /uploads/benny-allen-tile-copy.jpg
 name: Benny Allen (AUS)
 sort_number: 8624
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/6id9uO8Ma9coSv1iHFpx1w'
 apple_url: 'https://itunes.apple.com/au/artist/benny-allen/1277457865'
 youtube_url: 'https://www.youtube.com/channel/UCPMJwbX9dK5aiiKgxQ1FK_A'
-hero_path: /uploads/screen-shot-2018-11-13-at-1-41-10-pm.png
+hero_path: /uploads/benny-allen-tile-copy-1.jpg
 albums:
   - image_path: /uploads/benny-allen-album-3000-px.jpg
   - image_path: /uploads/benny-allen-day-one-of-missing-you-500px.jpeg
