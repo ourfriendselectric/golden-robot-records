@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-09 at 5.22.06 pm.png
+image_path: /images/Screen Shot 2018-11-26 at 5.36.37 pm.png
 hidden: false
 sort_number: 56
 name: The Cherry Dolls
