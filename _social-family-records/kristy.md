@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-08-at-11-46-05-pm.png
+image_path: /uploads/kla-both-copy.jpg
 name: Kristy Lee Akers
 sort_number: 57
 hidden: false
@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
 apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
 youtube_url: 'https://www.youtube.com/user/Kirstyakers'
-hero_path: /uploads/screen-shot-2018-11-08-at-11-24-37-pm-1.png
+hero_path: /uploads/kla-both-copy-1.jpg
 albums:
   - image_path: /uploads/kirsty-lee-akers---under-my-skin---album-cover-airit-500px.jpeg
 ---
@@ -23,5 +23,3 @@ Akers is the only artist in history to have won the three major prizes in Austra
 The last few years have seen Akers achieve many accolades including a Golden Guitar Award Finalist spot in 2017, an APRA Award finalist spot (Radio Airplay Award), Vanda and Young Song writing Competition (Song-writing Award) finalist spot and seven CMC TV Award nominations (2016/2017/2018), she has also been recognised with multiple honourable mentions in the International Song writing Competition (USA).
 
 In April 2018 Kirsty signed a new 2-album record deal with Social Family Records that encompasses her 5th and 6th studio albums. The first of these is entitled *'Under My Skin'* and will be released on July 27, 2018.
-
-&nbsp;
