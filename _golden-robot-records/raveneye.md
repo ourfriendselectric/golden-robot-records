@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-25 at 7.31.15 pm.png
 name: RavenEye (UK)
-sort_number: 24
+sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/ItsRavenEye'
 facebook_url: 'https://www.facebook.com/ItsRavenEye/'
