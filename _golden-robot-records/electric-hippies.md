@@ -11,7 +11,7 @@ spotify_url: >-
   https://open.spotify.com/playlist/3Ge2LlIDcSr1GjWIrKFZP7?fbclid=IwAR1UCWRa7rbogGsq2H226Uz-3j0Tftt94k1U0WOjW1ZykzsEB6ofF6eBa7U
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-hero_path: /images/EH cover copy.jpg
+hero_path: /uploads/EH cover copy.jpg
 albums:
   - image_path: /uploads/EH tile 24 copy.jpg
   - image_path: /uploads/EH tile 35 copy.jpg
