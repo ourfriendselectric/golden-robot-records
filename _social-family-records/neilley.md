@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/neilly-rich-tile-copy.jpg
 name: Neilly Rich
-sort_number: 4
+sort_number: 15
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
 facebook_url: 'https://www.facebook.com/neillyrich/'
