@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/taf-tile-copy.jpg
+image_path: /uploads/screen-shot-2018-11-27-at-7-57-15-am.png
 name: The April Family
 sort_number: 78
 hidden: false
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/theaprilfamily/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0PuMNC8vzStjeL5jmdalLc?autoplay=true&v=A'
 apple_url: 'https://itunes.apple.com/au/artist/the-april-family/1087372905'
 youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
-hero_path: /uploads/taf-tile-copy-1.jpg
+hero_path: /uploads/screen-shot-2018-11-27-at-7-58-19-am.png
 albums:
-  - image_path: /uploads/taf-cover-copy-1.jpg
+  - image_path: /uploads/screen-shot-2018-11-27-at-7-59-25-am.png
 ---
 
 Sydney based combo The April Family have been quietly working away, building a name and a steady body of work since forming in 2015. Featuring the soulful twang of the enigmatic Kylie Whitney on lead vocals, the blistering skills of Casey Atkins on lead guitar and backing vocals, and the production and all rounder abilities of Michael Carpenter on rhythm guitar and backing vocals, the band developed a sound that fused Classic Country with the timeless colours of West Coast American Country Rock.
