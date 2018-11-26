@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/hayley-jensen-promo-copy.jpg
 name: Hayley Jensen
-sort_number: 54
+sort_number: 26
 hidden: false
 twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
 facebook_url: 'https://www.facebook.com/thehayleyjensen/'
