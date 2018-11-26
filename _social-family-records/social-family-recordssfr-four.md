@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-08-at-2-30-09-pm.png
+image_path: /uploads/jetty-road-both-copy.jpg
 name: Jetty Road
 sort_number: 57
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/20W58iDk72EzCy1ugW6Ix7'
 apple_url: 'https://itunes.apple.com/au/artist/jetty-road/432886500'
 youtube_url: 'https://www.youtube.com/channel/UCte8iWbv-5CfyHvJoWgVVVQ'
-hero_path: /uploads/screen-shot-2018-11-08-at-2-29-17-pm.png
+hero_path: /uploads/jetty-road-both-copy.jpg
 albums:
   - image_path: /uploads/jettyrd-frontcover-square-itunes.jpg
 ---
