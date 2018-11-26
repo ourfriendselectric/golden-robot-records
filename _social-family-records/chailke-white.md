@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-20-at-2-24-07-pm.png
+image_path: /uploads/chalkie-white-both-copy.jpg
 name: Chalkie White (AUS)
 sort_number: 82714
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/chalkiewhiteofficial/'
 spotify_url: 'https://open.spotify.com/artist/2gKuNesBW2QLMr5mpbOUB6'
 apple_url: 'https://itunes.apple.com/au/artist/chalkie-white/480597705'
 youtube_url: 'https://www.youtube.com/channel/UCTzy-mPiE7vCDGceOftTPLg'
-hero_path: /uploads/screen-shot-2018-11-20-at-2-22-15-pm-1.png
+hero_path: /uploads/chalkie-white-both-copy.jpg
 albums:
   - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
   - image_path: /uploads/chalkie-album-final-rgb-250px-1.jpeg
