@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-16-at-6-45-42-pm.png
+image_path: /uploads/the-bukcleys-both-copy.jpg
 name: The Buckleys
 sort_number: 12
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/the.buckleys/'
 spotify_url: 'https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p'
 apple_url: 'https://itunes.apple.com/au/artist/the-buckleys/375603898'
 youtube_url: 'https://www.youtube.com/user/thebuckleysmusicA1'
-hero_path: /uploads/screen-shot-2018-11-16-at-6-52-17-pm.png
+hero_path: /uploads/the-buckleys-cover-copy.jpg
 albums:
   - image_path: /uploads/the-buckleys-run-600px.jpeg
 ---
