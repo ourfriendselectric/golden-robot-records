@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-13-at-2-19-34-pm.png
+image_path: /uploads/liam-kennedy-promo-copy.jpg
 name: Liam Kennedy -Clark
 sort_number: 12
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/liamkennedyclark/'
 spotify_url: 'https://open.spotify.com/artist/17jr24YbxseXLwINv8BiH4'
 apple_url: 'https://itunes.apple.com/au/artist/liam-kennedy-clark/920708357'
 youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
-hero_path: /uploads/screen-shot-2018-11-13-at-2-19-48-pm.png
+hero_path: /uploads/liam-kennedy-cover-copy.jpg
 albums:
   - image_path: /uploads/lkc-3000x3000.jpg
   - image_path: /uploads/ofh-3000x3000.jpg
