@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-07-at-10-47-03-pm.png
+image_path: /uploads/gretta-ziller-tile-copy.jpg
 name: Gretta Ziller (AUS)
 sort_number: 9
 hidden: false
@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/grettaziller/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98'
 apple_url: 'https://itunes.apple.com/au/artist/gretta-ziller/348673625'
 youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
-hero_path: /uploads/screen-shot-2018-11-07-at-9-13-45-pm.png
+hero_path: /uploads/gretta-ziller-cover-copy.jpg
 albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-2000px.jpeg
   - image_path: /uploads/slaughterhouse-blues-single-art---1500px.jpeg
