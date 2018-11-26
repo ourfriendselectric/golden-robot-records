@@ -1,7 +1,7 @@
 ---
 image_path: /images/TheKids-IJWBH-final.jpg
 hidden: false
-sort_number: 62
+sort_number: 67
 name: GRR - The Kids
 album_name: I Just Wanna Be Happy - Single (D)
 album_url: >-
