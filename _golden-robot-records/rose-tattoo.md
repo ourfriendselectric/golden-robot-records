@@ -4,7 +4,7 @@ image_path: /images/rose tattoo tile 5 copy.jpg
 name: Rose Tattoo (AUS)
 sort_number: 2
 hidden: false
-twitter_url:
+twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/RoseTattoo/'
 instagram_url: 'https://www.instagram.com/rosetattooband/'
 spotify_url: 'https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH'
