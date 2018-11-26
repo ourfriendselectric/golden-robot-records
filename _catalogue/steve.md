@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-12 at 11.26.45 am.png
+image_path: /images/Screen Shot 2018-11-26 at 6.37.19 pm.png
 hidden: false
 sort_number: 77
 name: Steve Balbi
