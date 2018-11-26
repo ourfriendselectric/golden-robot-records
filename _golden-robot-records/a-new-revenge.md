@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-26 at 7.49.41 pm.png
+image_path: /uploads/Screen Shot 2018-11-26 at 7.57.45 pm.png
 name: A New Revenge (USA)
 sort_number: 24
 hidden: false
