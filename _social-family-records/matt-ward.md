@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-20-at-11-07-15-pm.png
+image_path: /uploads/matt-ward-both-copy.jpg
 name: Matt Ward
 sort_number: 79
 hidden: false
@@ -11,7 +11,7 @@ spotify_url: >-
   https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A
 apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
 youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
-hero_path: /uploads/screen-shot-2018-11-20-at-11-06-54-pm.png
+hero_path: /uploads/matt-ward-cover-copy.jpg
 albums:
   - image_path: /uploads/mw-annabelle-singleart.jpg
 ---
@@ -35,7 +35,3 @@ Australian Music Network described Matt as a" musician of high promise "and sinc
 With soulful vocals, a compelling narrative and rich arrangements, Matt Ward and his debut album Heartland will prove to be one of the best country finds of recent years.
 
 (Matt is also strengthening his reputation internationally, recently touring in America's south with acclaimed country outlaw Bonnie Montgomery. Matt's songs evoke the vastness and expanse of Australia while speaking with true heart. Bonnie said of Matt. He is a spokesman of our time and his music a perfect blend of Australian country outlaw)
-
-&nbsp;
-
-&nbsp;
