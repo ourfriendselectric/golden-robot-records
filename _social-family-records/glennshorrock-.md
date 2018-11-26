@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-07-at-11-46-00-pm.png
+image_path: /uploads/glenn-shorrock-tile-copy.jpg
 name: Glenn Shorrock (AUS)
 sort_number: 1
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/glennboshorrock/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/1mBRVjszEFRT7OhukskPnX'
 apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
 youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
-hero_path: /uploads/screen-shot-2018-11-07-at-8-44-40-pm.png
+hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/gs-ra220x220-1.jpg
   - image_path: /uploads/gs-hmw3000.jpeg
