@@ -21,3 +21,5 @@ Swift made a big first impression on the country music world when he became a To
 Under the guidance of sought-after producer Matt Fell at Sydney’s Love HZ studio was a band that included guitarist Glen Hannah, drummer Josh Schuberth, Fell himself on bass, guitars, keys and percussion, Hammond organist and Adam Eckersley Band member Dan Biederman and Sam Hawksley on lap steel.
 
 Swift’s guest vocalists include Catherine Britt, Gretta Ziller and Katie Brianna, with the album mastered in Los Angeles by Pete Lyman, whose credits include Chris Stapleton and Jason Isbell.
+
+&nbsp;
