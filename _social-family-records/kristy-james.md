@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-08-at-3-02-31-pm-1.png
+image_path: /uploads/kristy-james-both-copy.jpg
 name: Kristy James
 sort_number: 55
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/kristyjamesmusic/'
 spotify_url: 'https://open.spotify.com/artist/4ycTm72puHRZpj6WkZCPb0'
 apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
-hero_path: /uploads/screen-shot-2018-11-08-at-3-03-09-pm-1.png
+hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/kristy-james---raw---ep-cover-600px-1.jpeg
   - image_path: /uploads/kristy-james---dark-sunglasses---single-cover-1.jpg
