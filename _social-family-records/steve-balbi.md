@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-17-at-5-12-16-pm.png
+image_path: /uploads/balbi-tile-copy.jpg
 name: Steve Balbi
 sort_number: 15
 hidden: false
@@ -11,7 +11,7 @@ instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: 'https://open.spotify.com/artist/7llMZbc53OJaCqJPyoCstY'
 apple_url: 'https://itunes.apple.com/au/artist/steve-balbi/58029023'
 youtube_url: 'https://www.youtube.com/channel/UCqUoN0or4oGyat8NaTeQFhw/featured'
-hero_path: /uploads/screen-shot-2018-11-17-at-5-12-33-pm.png
+hero_path: /uploads/balbi-tile-copy-1.jpg
 albums:
   - image_path: /uploads/stevebalbi-modernlove-4000x4000.jpg
 ---
@@ -29,5 +29,3 @@ In April this year, the world became a very different place for millions of Aust
 Yet it is Balbi's debut solo LP, Black Rainbow (2013), and its subsequent surreal reprise, Rainbow Black (2016), which appears to have set a point of departure for his enigmatic artistry, and manifestation of his forthcoming solo LP- Humans. Inspired by ten photographs from Brandon Stanton's Humans of New York series, Balbi’s second solo endeavour is an eclectic collection of words and music that navigates a wistful path from melancholy through madness.
 
 Casting a renewed focus upon the notion humanity in both riff and verse is the first single' Modern Love’, which is due for release on Friday 26 October; pre-sales from Friday 21 September; with the studio album, Humans, to follow in early 2019.
-
-&nbsp;
