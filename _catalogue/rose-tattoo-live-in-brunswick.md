@@ -1,7 +1,7 @@
 ---
 image_path: /images/Screen Shot 2018-11-07 at 2.57.55 pm.png
 hidden: false
-sort_number: 2
+sort_number: 62
 name: 'GRR - Tatts: Live in Brunswick'
 album_name: 'Tatts: Live in Brunswick - Album'
 album_url: 'https://itunes.apple.com/au/album/tatts-live-in-brunswick/1313682672'
