@@ -13,6 +13,7 @@ youtube_url: 'https://www.youtube.com/user/amynelsonmusic'
 hero_path: /uploads/screen-shot-2018-11-20-at-3-04-16-pm-1.png
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
+  - image_path: /uploads/amy-nelson-tile-copy.jpg
 ---
 
 Saskatchewan’s own Amy Nelson, has been waving the Canadian flag on stages all over the world. This high school music teacher turned country singer has recently been making waves down under with the two singles released to Australian country radio, both going Top 10.
