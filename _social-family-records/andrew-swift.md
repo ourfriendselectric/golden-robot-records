@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/andrewswiftmusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd'
 apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
 youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
-hero_path: /uploads/screen-shot-2018-11-13-at-12-50-41-pm.png
+hero_path: /uploads/as-cover-copy.jpg
 albums:
   - image_path: /uploads/as-cover1-2000px.jpeg
   - image_path: /uploads/as-kingskysingle3-600px.jpeg
@@ -21,5 +21,3 @@ Swift made a big first impression on the country music world when he became a To
 Under the guidance of sought-after producer Matt Fell at Sydney’s Love HZ studio was a band that included guitarist Glen Hannah, drummer Josh Schuberth, Fell himself on bass, guitars, keys and percussion, Hammond organist and Adam Eckersley Band member Dan Biederman and Sam Hawksley on lap steel.
 
 Swift’s guest vocalists include Catherine Britt, Gretta Ziller and Katie Brianna, with the album mastered in Los Angeles by Pete Lyman, whose credits include Chris Stapleton and Jason Isbell.
-
-&nbsp;
