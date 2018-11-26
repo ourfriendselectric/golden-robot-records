@@ -1,6 +1,10 @@
 ---
 layout: artist
 image_path: /images/al_one.png
+  width: 200
+  height: 200
+  resize_style: "contain"
+
 name: Golden Robot Records
 sort_number: 10
 hidden: true
