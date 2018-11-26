@@ -30,4 +30,4 @@ Venom – Drums
 
 Nick Barker – Vocals and Guitar
 
-Michael Hubbard – Bass
+Tony Johanssen – Bass
