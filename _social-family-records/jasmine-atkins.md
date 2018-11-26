@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-20-at-9-30-15-pm.png
+image_path: /uploads/jasmine-atkins-both-copy.jpg
 name: Jasmine Atkins (AUS)
 sort_number: 223
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/jasmine_atkins_music/'
 spotify_url: 'https://open.spotify.com/artist/6Qt79wH1FOI7PWao5UGBqH?autoplay=true&v=A'
 apple_url: 'https://itunes.apple.com/au/artist/jasmine-atkins/789812124'
 youtube_url: 'https://www.youtube.com/channel/UCtLmj6R3RnDojDy2n2ZQKYw'
-hero_path: /uploads/screen-shot-2018-11-20-at-9-30-35-pm.png
+hero_path: /uploads/jasmine-atkins-both-copy-1.jpg
 albums:
   - image_path: /uploads/jasmine-atkins---get-gone---single-cover---600px.jpeg
 ---
