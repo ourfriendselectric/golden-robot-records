@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-7-57-15-am.png
+image_path: /uploads/screen-shot-2018-11-27-at-8-02-56-am.png
 name: The April Family
 sort_number: 78
 hidden: false
