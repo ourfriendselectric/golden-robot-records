@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-08 at 9.18.00 am.png
+image_path: /images/Screen Shot 2018-11-26 at 6.41.27 pm.png
 hidden: false
 sort_number: 85
 name: Fyre Byrd
