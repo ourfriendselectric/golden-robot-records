@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-13 at 10.48.26 am.png
+image_path: /images/Screen Shot 2018-11-26 at 6.13.11 pm.png
 hidden: false
 sort_number: 73
 name: SFR - Baby Animals
