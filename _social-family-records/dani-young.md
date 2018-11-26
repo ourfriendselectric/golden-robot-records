@@ -10,7 +10,7 @@ instagram_url: 'http://instagram.com/socialfamilyrecords'
 spotify_url: 'https://open.spotify.com/artist/36tSQtqslGaoT8C0gWwUvg'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/DanielleYoungMusic'
-hero_path:
+hero_path: /uploads/screen-shot-2018-11-26-at-10-15-32-pm.png
 albums:
   - image_path: /uploads/dani-young-cover-copy-1.jpg
 ---
