@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-07 at 5.47.41 pm.png
+image_path: /images/Screen Shot 2018-11-26 at 6.49.24 pm.png
 hidden: false
 sort_number: 91
 name: The Superjesus
