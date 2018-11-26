@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-13-at-2-34-45-pm.png
+image_path: /uploads/Screen Shot 2018-11-27 at 7.30.47 am.png
 name: Abbie Ferris (AUS)
 sort_number: 13
 hidden: false
