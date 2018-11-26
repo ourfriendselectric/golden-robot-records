@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-13-at-12-44-56-pm.png
+image_path: /uploads/andrew-swift-tile-copy.jpg
 name: Andrew Swift (AUS)
 sort_number: 3
 hidden: false
