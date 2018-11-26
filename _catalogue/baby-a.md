@@ -1,9 +1,9 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Baby A
-album_name: Catalogue Albumn Name
+image_path: /images/Screen Shot 2018-11-26 at 6.35.04 pm.png
+hidden: false
+sort_number: 9873028177464
+name: Baby Animals
+album_name: This Is Not The End - Fully Loaded Edition (SFR album)
 album_url: 'http://goldenrobotrecords.com/'
 _hide_content: true
 ---
