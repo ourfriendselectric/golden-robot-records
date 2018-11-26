@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/fyre byrd.jpg
+image_path: /images/Fyre Byrd profile cropped.jpg
 name: Fyre Byrd (AUS)
 sort_number: 37
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/fyre.byrd/'
 spotify_url: 'https://open.spotify.com/search/results/fyre%20byrd'
 apple_url: 'https://itunes.apple.com/au/artist/fyre-byrd/1368232166'
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
-hero_path: /uploads/Fyre byrd cover copy.jpg
+hero_path: /uploads/Fyre byrd cover copy-copy.jpg
 albums:
   - image_path: /uploads/Take Me Out Single Art 600px.jpeg
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
