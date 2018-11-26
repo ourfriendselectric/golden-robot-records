@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-16-at-7-21-03-pm.png
+image_path: /uploads/matt-scullion-both-copy.jpg
 name: Matt Scullion
 sort_number: 13
 hidden: false
@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/mattscullionmusic/'
 spotify_url: 'https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml'
 apple_url: 'https://itunes.apple.com/us/artist/matt-scullion/254734557'
 youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
-hero_path: /uploads/screen-shot-2018-11-16-at-7-20-15-pm.png
+hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-outta-my-own-way-600px.jpeg
   - image_path: /uploads/mattscullion-ijas-3000x3000.jpg
