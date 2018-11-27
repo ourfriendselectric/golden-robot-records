@@ -11,12 +11,9 @@ spotify_url: >-
   https://open.spotify.com/playlist/3Ge2LlIDcSr1GjWIrKFZP7?fbclid=IwAR06rcXEt2l20oXQC_V81L7w9e8b4uMf7HIhcJLnbNqsQQhkZqj_ypxJ4qw
 apple_url:
 youtube_url:
-hero_path: /uploads/ANR both.jpg
+hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
 albums:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+  - image_path:
 ---
 
 Every so often members from various bands will collaborate as part of a new project. Every so often, these members are of such high esteem that only the term "supergroup" does this new project justice. Signing to Golden Robot Records in 2018, A New Revenge is a new supergroup, ready to assault audiences with their aggressive hard rock sound and unique brand of metal.
