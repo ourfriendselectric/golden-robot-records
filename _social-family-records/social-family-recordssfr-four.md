@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jetty-road-both-copy.jpg
-name: Jetty Road
+name: Jetty Road (AUS)
 sort_number: 57
 hidden: false
 twitter_url: 'https://twitter.com/jettyroad?lang=en'
