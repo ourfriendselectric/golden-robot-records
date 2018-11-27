@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 youtube_url: 'https://www.youtube.com/user/ViewTheArt'
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
-  - image_path: /uploads/screen-shot-2018-11-26-at-6-43-28-pm.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
   - image_path: /uploads/screen-shot-2018-11-26-at-6-46-36-pm.png
   - image_path: /uploads/the-art-tile-copy.jpg
   - image_path: /uploads/the art tile 1 copy.jpg
