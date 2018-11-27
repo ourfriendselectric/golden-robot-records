@@ -1,9 +1,9 @@
 ---
-image_path: /images/Cigars of the Pharaoh - Sincere Karma - Single Cover 600px.jpeg
+image_path: /uploads/screen-shot-2018-11-27-at-1-45-27-pm.png
 hidden: false
 sort_number: 872
-name: XRAY - Cigars of the Pharaoh
-album_name: Sincere Karma - Single (D)
+name: Cigars of the Pharaoh
+album_name: Sincere Karma (XRAY single)
 album_url: 'https://itunes.apple.com/au/album/sincere-karma-single/1378184668'
 _hide_content: true
 ---
