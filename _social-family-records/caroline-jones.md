@@ -1,21 +1,21 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/screen-shot-2018-11-27-at-3-13-32-pm.png
 name: Caroline Jones (USA)
 sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/carolinejones?lang=en'
 facebook_url: 'https://www.facebook.com/carolinejonesmusic/'
 instagram_url: 'https://www.instagram.com/carolinejones/'
-spotify_url:
-apple_url:
-youtube_url:
-hero_path:
+spotify_url: 'https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y'
+apple_url: 'https://itunes.apple.com/au/album/bare-feet/1354505858'
+youtube_url: 'https://www.youtube.com/user/carolinedjonesmusic'
+hero_path: /uploads/screen-shot-2018-11-27-at-3-12-44-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-3-12-18-pm.png
-  - image_path:
-  - image_path:
-  - image_path:
+  - image_path: /uploads/screen-shot-2018-11-27-at-3-15-40-pm.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-3-13-32-pm-1.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-3-16-50-pm.png
 _options:
   image_path:
     width: 250
