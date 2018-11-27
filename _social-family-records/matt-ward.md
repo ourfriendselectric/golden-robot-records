@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/matt-ward-both-copy.jpg
-name: Matt Ward
+name: Matt Ward (AUS)
 sort_number: 79
 hidden: false
 twitter_url: 'https://twitter.com/mjwstuff?lang=en'
