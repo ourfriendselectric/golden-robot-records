@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/balbi-tile-copy.jpg
-name: Steve Balbi
+name: Steve Balbi (AUS)
 sort_number: 4
 hidden: false
 twitter_url: >-
