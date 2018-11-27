@@ -1,9 +1,9 @@
 ---
-image_path: /images/Screen Shot 2018-11-13 at 10.45.38 am.png
+image_path: /uploads/screen-shot-2018-11-27-at-2-46-03-pm.png
 hidden: false
-sort_number: 7832
-name: SFR - Jon Stevens
-album_name: Woman - Album (D)
+sort_number: 78323
+name: Jon Stevens
+album_name: Woman (SFR album)
 album_url: 'https://itunes.apple.com/au/album/woman/1030751376'
 _hide_content: true
 ---
