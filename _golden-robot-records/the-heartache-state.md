@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/theheartachestate/'
 spotify_url: 'https://open.spotify.com/search/results/the%20heartache%20state'
 apple_url: 'https://itunes.apple.com/au/album/the-last-of-the-buffalo/1316941691'
 youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
-hero_path: /uploads/screen-shot-2018-11-27-at-1-22-29-pm.png
+hero_path: /uploads/ths-cover-copy.jpg
 albums:
   - image_path: /uploads/ths-tile-3-copy.jpg
   - image_path: /images/THS TILE 1 copy.jpg
