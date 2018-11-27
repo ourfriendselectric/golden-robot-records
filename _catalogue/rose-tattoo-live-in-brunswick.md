@@ -4,7 +4,7 @@ hidden: false
 sort_number: 62
 name: 'GRR - Tatts: Live in Brunswick'
 album_name: 'Tatts: Live in Brunswick - Album'
-album_url: 'https://itunes.apple.com/au/album/tatts-live-in-brunswick/1313682672'
+album_url: 'https://itunes.apple.com/gb/album/tatts-live-in-brunswick/1313682672?app=music'
 _hide_content: true
 ---
 
