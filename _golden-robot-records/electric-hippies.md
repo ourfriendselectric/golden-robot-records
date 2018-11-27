@@ -14,7 +14,7 @@ youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 hero_path: /uploads/EH cover copy.jpg
 albums:
   - image_path: /uploads/EH tile 24 copy.jpg
-  - image_path: /uploads/EH tile 35 copy.jpg
+  - image_path: /uploads/screen-shot-2018-11-27-at-3-44-15-pm.png
   - image_path: /uploads/EH tile copy.jpg
   - image_path: /uploads/EH tile2 copy.jpg
 ---
