@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/artist/6fKX13yzBb6lMxaZ4PllSw'
 apple_url: 'https://itunes.apple.com/au/artist/horsehead/72770950'
 youtube_url: >-
   https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-hero_path: /images/Horsehead 1 cropped 600px.jpeg
+hero_path: /uploads/horsehead-cover-copy.jpg
 albums:
   - image_path: /images/horsehead tile 2 copy.jpg
   - image_path: /images/horsehead tile copy.jpg
