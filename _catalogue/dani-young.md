@@ -1,9 +1,9 @@
 ---
-image_path: /images/Dani Young - Stepping Stones - Single Cover.jpg
+image_path: /uploads/screen-shot-2018-11-27-at-1-47-42-pm.png
 hidden: false
 sort_number: 1997
-name: SFR - Dani Young
-album_name: Stepping Stones - Single (D)
+name: Dani Young
+album_name: Stepping Stones (SFR single)
 album_url: 'https://itunes.apple.com/au/album/stepping-stones-single/1440701573'
 _hide_content: true
 ---
