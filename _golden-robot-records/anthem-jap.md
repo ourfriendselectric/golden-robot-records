@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-4-24-27-pm.png
+image_path: /uploads/screen-shot-2018-11-27-at-4-20-17-pm-1.png
 name: Anthem (JAP)
 sort_number: 46
 hidden: false
