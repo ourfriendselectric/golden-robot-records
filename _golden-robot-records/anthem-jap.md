@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-1-07-25-pm.png
+image_path: /uploads/screen-shot-2018-11-27-at-4-18-46-pm.png
 name: Anthem (JAP)
 sort_number: 46
 hidden: false
@@ -12,7 +12,7 @@ apple_url:
 youtube_url:
 hero_path: /uploads/screen-shot-2018-11-27-at-12-49-35-pm.png
 albums:
-  - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-4-20-17-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-1-10-56-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-1-07-25-pm-1.png
   - image_path: /uploads/screen-shot-2018-11-27-at-1-12-13-pm.png
