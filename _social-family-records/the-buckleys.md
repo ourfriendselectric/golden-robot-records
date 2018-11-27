@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/the-bukcleys-both-copy.jpg
-name: The Buckleys
+name: The Buckleys (AUS)
 sort_number: 12
 hidden: false
 twitter_url: 'https://twitter.com/the_buckleys'
