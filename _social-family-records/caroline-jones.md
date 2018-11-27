@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-3-13-32-pm.png
+image_path: /uploads/screen-shot-2018-11-27-at-4-42-15-pm.png
 name: Caroline Jones (USA)
 sort_number: 1
 hidden: false
