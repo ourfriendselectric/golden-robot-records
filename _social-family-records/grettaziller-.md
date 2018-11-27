@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-1-26-08-pm.png
+image_path: /uploads/screen-shot-2018-11-27-at-1-30-16-pm.png
 name: Gretta Ziller (AUS)
 sort_number: 9
 hidden: false
