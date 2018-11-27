@@ -13,8 +13,8 @@ youtube_url: 'https://www.youtube.com/user/TheCherryDolls'
 hero_path: /uploads/Screen Shot 2018-11-06 at 1.34.47 pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
-  - image_path: /uploads/Screen Shot 2018-11-23 at 8.09.15 pm.png
-  - image_path: /uploads/Screen Shot 2018-11-15 at 5.35.17 pm.png
+  - image_path: /uploads/screen-shot-2018-11-26-at-5-34-17-pm.png
+  - image_path: /uploads/screen-shot-2018-11-26-at-5-36-37-pm.png
   - image_path: /images/the cherry tile 2 copy.jpg
 ---
 
