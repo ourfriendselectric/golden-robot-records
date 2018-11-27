@@ -1,9 +1,9 @@
 ---
-image_path: /images/Screen Shot 2018-11-15 at 8.37.06 am.png
+image_path: /uploads/screen-shot-2018-11-27-at-3-04-46-pm.png
 hidden: false
-sort_number: 904602836
-name: SFR - The Party Pirates
-album_name: Christmas Rock - Single
+sort_number: 9046028369874982
+name: The Party Pirates
+album_name: Christmas Rock (SFR single)
 album_url: 'https://itunes.apple.com/au/album/christmas-rock-single/1057121889'
 _hide_content: true
 ---
