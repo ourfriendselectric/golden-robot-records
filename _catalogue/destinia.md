@@ -1,9 +1,9 @@
 ---
-image_path: /images/Destinia_Metal Souls 600px.jpeg
+image_path: /uploads/screen-shot-2018-11-27-at-1-41-38-pm.png
 hidden: false
 sort_number: 703
-name: GRR - Destinia
-album_name: Metal Souls - Album
+name: Destinia
+album_name: Metal Souls (GRR album)
 album_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 _hide_content: true
 ---
