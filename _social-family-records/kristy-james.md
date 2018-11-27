@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/kristy-james-both-copy.jpg
-name: Kristy James
+name: Kristy James (AUS)
 sort_number: 55
 hidden: false
 twitter_url: 'https://twitter.com/kristyjamesmus?lang=en'
