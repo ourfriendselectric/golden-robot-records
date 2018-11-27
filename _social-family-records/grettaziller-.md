@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/gretta-ziller-tile-copy.jpg
+image_path: /uploads/screen-shot-2018-11-27-at-1-26-08-pm.png
 name: Gretta Ziller (AUS)
 sort_number: 9
 hidden: false
@@ -14,7 +14,8 @@ youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
 hero_path: /uploads/gretta-ziller-cover-copy.jpg
 albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-2000px.jpeg
-  - image_path: /uploads/slaughterhouse-blues-single-art---1500px.jpeg
+  - image_path: /uploads/screen-shot-2018-11-27-at-1-28-37-pm.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-1-28-27-pm.png
 ---
 
 First impressions aren't always right. If you've been foolish enough to nail down the sound of acclaimed songwriter Gretta Ziller, then prepare to have the rug pulled out from under you. Queen of Boomtown, her stunning debut record, defies categorisation and demands repeated listens.
