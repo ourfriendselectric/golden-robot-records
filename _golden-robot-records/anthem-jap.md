@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/screen-shot-2018-11-27-at-1-07-25-pm.png
 name: Anthem (JAP)
 sort_number: 46
 hidden: false
@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url:
 apple_url:
 youtube_url:
-hero_path: /images/hero-placeholder.jpg
+hero_path: /uploads/screen-shot-2018-11-27-at-12-49-35-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-1-10-56-pm.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-1-07-25-pm-1.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-1-12-13-pm.png
 ---
 
 Formed in Tokyo in 1981, ANTHEM turned heads with their intense and heated performances. They released their major debut, “ANTHEM” in 1985 and continued to tour relentlessly. The band's popularity grew with the release of their 2nd album, “TIGHTROPE” (1986), and they were able to break into the American market with their 3rd full length, “BOUND TO BREAK” (1987).
