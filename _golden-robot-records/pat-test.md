@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/al_one.png
+image_path: /uploads/andrew-preble-199410.jpg
 name: PAT TEST
 sort_number: 10
 hidden: true
@@ -25,3 +25,4 @@ _options:
     height: 250
     resize_style: contain
 ---
+
