@@ -1,10 +1,6 @@
 ---
 layout: artist
 image_path: /images/al_one.png
-  width: 200
-  height: 200
-  resize_style: "contain"
-
 name: Golden Robot Records
 sort_number: 10
 hidden: true
@@ -22,4 +18,10 @@ albums:
   - image_path: /images/al_tho.png
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
+
+_options:
+  image_path:
+    width: 250
+    height: 250
+    resize_style: "contain"
 ---
