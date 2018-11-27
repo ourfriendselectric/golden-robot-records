@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/kla-both-copy.jpg
-name: Kristy Lee Akers
+name: Kristy Lee Akers (AUS)
 sort_number: 57
 hidden: false
 twitter_url: >-
