@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-25 at 1.32.42 pm.png
-name: UTI
+name: UTI (AUS)
 sort_number: 984686
 hidden: false
 twitter_url:
