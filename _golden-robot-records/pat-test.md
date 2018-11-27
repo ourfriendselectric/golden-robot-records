@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/andrew-preble-199410.jpg
 name: PAT TEST
 sort_number: 10
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/thelockhearts'
 facebook_url: 'https://www.facebook.com/thelockhearts/'
 instagram_url: 'https://www.instagram.com/thelockhearts/'
