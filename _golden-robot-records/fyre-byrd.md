@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Fyre Byrd profile cropped.jpg
+image_path: /uploads/screen-shot-2018-11-27-at-1-17-44-pm.png
 name: Fyre Byrd (AUS)
 sort_number: 37
 hidden: false
