@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/dizzyfnreed'
 spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
 apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
 youtube_url:
-hero_path: /uploads/Screen Shot 2018-11-26 at 12.05.21 pm.png
+hero_path: /uploads/screen-shot-2018-11-27-at-6-06-51-pm.png
 albums:
   - image_path: /uploads/DIZZY%20REED%20ROCKNROLLAINTEASY%204000x4000px.jpg
   - image_path: /uploads/dizzy tile 2 copy.jpg
