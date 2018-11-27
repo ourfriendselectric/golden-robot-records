@@ -1,5 +1,5 @@
 ---
-image_path: /images/GS_RA3000x3000.png
+image_path: /uploads/screen-shot-2018-11-27-at-8-02-13-am-1.png
 hidden: false
 sort_number: 384
 name: SFR - Glenn Shorrock
