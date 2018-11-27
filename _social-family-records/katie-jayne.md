@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/katie-jayne-both-copy.jpg
-name: Katie Jayne
+name: Katie Jayne (AUS)
 sort_number: 34
 hidden: false
 twitter_url: 'https://twitter.com/katiejaynerose?lang=en'
