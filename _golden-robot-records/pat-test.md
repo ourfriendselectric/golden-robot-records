@@ -1,16 +1,16 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/andrew-preble-199411.jpg
 name: PAT TEST
 sort_number: 10
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
 spotify_url:
 apple_url:
 youtube_url:
-hero_path:
+hero_path: /uploads/mariusz-prusaczyk-185177.jpg
 albums:
   - image_path:
   - image_path:
@@ -26,3 +26,4 @@ _options:
     height: 1000
     resize_style: contain
 ---
+
