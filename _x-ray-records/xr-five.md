@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/au/album/sincere-karma-single/1378184668'
 youtube_url: 'https://www.youtube.com/channel/UCPnHezF4YpAzwljOc9CsnYQ'
 hero_path: /images/Screen Shot 2018-11-25 at 1.04.29 pm.png
 albums:
-  - image_path: /images/cigars of the pha both copy.jpg
+  - image_path: /uploads/screen-shot-2018-11-27-at-4-35-23-pm.png
   - image_path: /images/Screen Shot 2018-11-25 at 1.06.35 pm.png
   - image_path: /images/Screen Shot 2018-11-25 at 1.06.46 pm.png
   - image_path: /images/Screen Shot 2018-11-25 at 1.06.54 pm.png
