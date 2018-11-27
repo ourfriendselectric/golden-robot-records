@@ -1,5 +1,5 @@
 ---
-image_path: /images/Gretta Ziller - Queen of Boomtown - Album Cover 600px.jpeg
+image_path: /uploads/screen-shot-2018-11-27-at-11-35-18-am.png
 hidden: false
 sort_number: 283
 name: SFR - Gretta Ziller
