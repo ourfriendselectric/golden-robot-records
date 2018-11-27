@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/THS TILE 4 copy.jpg
-name: The Heartache State
+name: The Heartache State (AUS)
 sort_number: 45
 hidden: false
 twitter_url: 'https://twitter.com/heartachestate'
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/theheartachestate/'
 spotify_url: 'https://open.spotify.com/search/results/the%20heartache%20state'
 apple_url: 'https://itunes.apple.com/au/album/the-last-of-the-buffalo/1316941691'
 youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
-hero_path: /uploads/THS cover (2).png
+hero_path: /uploads/screen-shot-2018-11-27-at-1-22-29-pm.png
 albums:
-  - image_path: /uploads/JustCover-600px copy.jpeg
+  - image_path: /uploads/ths-tile-3-copy.jpg
   - image_path: /images/THS TILE 1 copy.jpg
   - image_path: /images/THS TILE 2 copy.jpg
   - image_path: /images/THS TILE 4 copy.jpg
