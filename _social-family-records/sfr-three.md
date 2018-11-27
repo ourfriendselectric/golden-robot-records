@@ -22,4 +22,4 @@ Growing up in regional Australia, Hayley was initially attracted to the honest s
 
 The past 12 months have seen Jensen release three singles with all music videos appearing on the Country Music Channel (CMC). Each release has charted higher than the previous, with her latest video Young Years featuring heavily within the CMC rotation.
 
-The year has seen an influx of new fans connecting with Hayley, with online numbers more than doubling across major digital platforms. After stellar performances on the festival circuit and with new music on the horizon in 2018, the future continues to look promising for this wonderful talent.
+The year has seen an influx of new fans connecting with Hayley, with online numbers more than doubling across major digital platforms. After stellar performances on the festival circuit and with new music on the horizon in 2019, the future continues to look promising for this wonderful talent.
