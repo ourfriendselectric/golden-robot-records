@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/Screen Shot 2018-11-27 at 7.47.45 am.png
-name: Hayley Jensen
+name: Hayley Jensen (AUS)
 sort_number: 26
 hidden: false
 twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
