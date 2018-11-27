@@ -1,5 +1,5 @@
 ---
-image_path: /images/Screen Shot 2018-11-13 at 11.51.25 am.png
+image_path: /uploads/screen-shot-2018-11-27-at-11-32-51-am.png
 hidden: false
 sort_number: 101
 name: Amber Lawrence
