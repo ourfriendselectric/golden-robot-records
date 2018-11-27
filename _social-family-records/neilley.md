@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/neilly-rich-tile-copy.jpg
-name: Neilly Rich
+name: Neilly Rich (AUS)
 sort_number: 15
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
