@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/balbi-tile-copy.jpg
 name: Steve Balbi
-sort_number: 15
+sort_number: 4
 hidden: false
 twitter_url: >-
   https://twitter.com/SteveBalbi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
