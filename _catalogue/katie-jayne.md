@@ -1,9 +1,9 @@
 ---
-image_path: /images/KatieJayne-SunlitAvenue 800px.jpeg
+image_path: /uploads/screen-shot-2018-11-27-at-1-46-13-pm.png
 hidden: false
 sort_number: 1039
-name: SFR - Katie Jayne
-album_name: Sunlit Avenue - Single (D)
+name: Katie Jayne
+album_name: Sunlit Avenue (SFR single)
 album_url: 'https://itunes.apple.com/au/album/sunlit-avenue-single/1323934441'
 _hide_content: true
 ---
