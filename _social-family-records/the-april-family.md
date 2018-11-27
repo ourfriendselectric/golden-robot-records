@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-11-23-47-am.png
-name: The April Family
+name: The April Family (AUS)
 sort_number: 78
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
