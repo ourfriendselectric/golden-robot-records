@@ -11,7 +11,7 @@ spotify_url: >-
   https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A
 apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
 youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
-hero_path: /uploads/matt-ward-cover-copy.jpg
+hero_path: /uploads/screen-shot-2018-11-28-at-1-57-22-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
 _type: social-family-records
