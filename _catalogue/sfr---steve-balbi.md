@@ -6,5 +6,11 @@ name: Steve Balbi
 album_name: Rainbow Black - Surreal Edition (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/rainbow-black-surreal-edition/1106211393'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -16,6 +16,17 @@ albums:
   - image_path: /uploads/john sykes tile 3 copy.jpg
   - image_path: /uploads/john sykes tile copy.jpg
   - image_path: /uploads/john sykes tile 5 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Golden Robot Records is very proud to have signed guitar legend and incredible songwriter John Sykes.

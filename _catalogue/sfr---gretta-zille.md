@@ -6,5 +6,11 @@ name: Gretta Ziller
 album_name: Hell's Half Acre (SFR - EP)
 album_url: 'https://itunes.apple.com/au/album/hells-half-acre-ep/1234499237'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

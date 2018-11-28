@@ -6,5 +6,11 @@ name: Mi-Sex
 album_name: Extended Play (GRR - EP)
 album_url: 'https://itunes.apple.com/au/album/extended-play-ep/1076223319'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

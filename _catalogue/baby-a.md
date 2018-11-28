@@ -6,4 +6,10 @@ name: Baby Animals
 album_name: This Is Not The End - Fully Loaded Edition (SFR - Album)
 album_url: 'http://goldenrobotrecords.com/'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

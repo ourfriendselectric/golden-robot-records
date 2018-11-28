@@ -6,5 +6,11 @@ name: Jimmy Barnes
 album_name: '30:30 Hindsight (SFR - Fan Pack)'
 album_url: 'https://itunes.apple.com/au/album/30-30-hindsight/906252394'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

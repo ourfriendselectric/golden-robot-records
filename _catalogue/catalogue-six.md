@@ -6,4 +6,10 @@ name: The Iron Horses
 album_name: April Rain (GRR - single)
 album_url: 'https://itunes.apple.com/au/album/april-rain-single/1308194727'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

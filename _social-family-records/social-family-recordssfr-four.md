@@ -13,6 +13,17 @@ youtube_url: 'https://www.youtube.com/channel/UCte8iWbv-5CfyHvJoWgVVVQ'
 hero_path: /uploads/Screen Shot 2018-11-22 at 6.27.17 pm.png
 albums:
   - image_path: /uploads/jettyrd-frontcover-square-itunes.jpg
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 The Melbourne-based trio Paula and Lee Bowman (Identical Twins) and Julian Sammut are Jetty Road. They have a sound described as a tapestry of pop and country, with a hint of folk. Imagine The Corrs, Fleetwood Mac and The Dixie Chicks with a unique Australian flavour. Jetty Road is a band with a story to tell.Their 2015 Album Hearts On Fire has firmly reinforced the band’s status as one of the premiere acts in Australian Country Music. After seeing their previous album Far Away Places debut at #9 on the ARIA chart, and the first two singles off the new album chart at #1 across the country, the hopes were high for the album release. This potential was realized when the new album reached a new high for the band of an ARIA #2 album chart position on release.Travelling half way across the globe to Canada to record once more with producer Paul Shatto at the helm, the new album is a reflection of the band’s emotional journey over the past few years.

@@ -6,4 +6,10 @@ name: The Cherry Dolls
 album_name: Pearls (GRR - EP)
 album_url: 'https://itunes.apple.com/au/album/pearls-ep/1091765204'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

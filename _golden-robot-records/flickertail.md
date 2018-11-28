@@ -17,6 +17,17 @@ albums:
   - image_path: /uploads/flicker tile 2 copy.jpg
   - image_path: /uploads/flicker tile 1 copy.jpg
   - image_path: /uploads/flicker tile 7 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 A four-headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.

@@ -13,5 +13,19 @@ youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
 hero_path: /images/gilby .jpg
 albums:
   - image_path:
+  - image_path:
+  - image_path:
+  - image_path:
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 

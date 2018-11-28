@@ -16,6 +16,17 @@ albums:
   - image_path: /vq tile 3 copy.jpg
   - image_path: /vq tile 4 copy.jpg
   - image_path: /uploads/VQSupergiant300dpi3000x3000.jpg
+
+_type: riot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 The full-length debut from Los Angeles-based band Valley Queen, Supergiant takes its title from the most massive and luminous yet fastest-burning stars in the universe. “The song ‘Supergiant’ is about how we’re all made up of the same stuff as stars, and I liked the idea of tying the whole album together with that metaphor,” says Carol.

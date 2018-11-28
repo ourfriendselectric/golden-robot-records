@@ -6,5 +6,11 @@ name: The Buckleys
 album_name: Run (SFR - Single)
 album_url: 'https://itunes.apple.com/au/album/run-single/1282423874'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

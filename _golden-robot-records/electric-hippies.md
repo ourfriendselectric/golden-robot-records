@@ -17,6 +17,17 @@ albums:
   - image_path: /uploads/eh-tile-35-copy.jpg
   - image_path: /uploads/EH tile copy.jpg
   - image_path: /uploads/EH tile2 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Electric Hippies is an Australian band formed by ex Noiseworks members, Justin Stanley and Steve Balbi. The pair also used the same name for their production work. They released a self titled album in 1994 and had a top 30 single with "Greedy People".  For his work with Electric Hippies, film maker Bob Ellis received a 1995 ARIA Award nomination for Best Video for "Greedy People" and artist, Simon Anderson, received an ARIA Award nomination for Best Cover Art for Electric Hippies.

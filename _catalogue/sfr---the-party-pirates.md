@@ -6,5 +6,11 @@ name: The Party Pirates
 album_name: Christmas Rock (SFR - Single)
 album_url: 'https://itunes.apple.com/au/album/christmas-rock-single/1057121889'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

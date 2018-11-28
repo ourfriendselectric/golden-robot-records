@@ -19,10 +19,11 @@ albums:
   - image_path: 
   - image_path: 
 
+_type: social-family-records
 _options:
   image_path:
-    width: 250
-    height: 250
+    width: 500
+    height: 500
     resize_style: "contain"
   hero_path:
     width: 1500

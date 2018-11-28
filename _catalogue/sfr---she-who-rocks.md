@@ -6,5 +6,11 @@ name: She Who Rocks
 album_name: She Who Rocks - Compilation (SFR - Album)
 album_url:
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

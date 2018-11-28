@@ -13,6 +13,17 @@ youtube_url: 'https://www.youtube.com/user/DanielleYoungMusic'
 hero_path: /uploads/screen-shot-2018-11-26-at-10-15-32-pm-1.png
 albums:
   - image_path: /uploads/dani-young-cover-copy-1.jpg
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Stepping Stones is the debut solo release from 2017 Golden Guitar finalist Dani Young. A catchy, upbeat country track, the song sounds like if Paul Kelly and The Lumineers wrote the soundtrack to a Spaghetti Western film. Featuring a cowboy whistle track, moody vocals and a deceptively joyful beat, the lyrics touch on regional and rural depression particularly among young people.

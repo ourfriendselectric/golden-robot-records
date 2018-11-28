@@ -6,5 +6,11 @@ name: Amber Lawrence
 album_name: Superheroes (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/superheroes/909074402'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

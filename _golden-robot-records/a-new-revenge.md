@@ -15,6 +15,17 @@ hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-26-at-7-49-41-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-3-36-29-pm.png
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Every so often members from various bands will collaborate as part of a new project. Every so often, these members are of such high esteem that only the term "supergroup" does this new project justice. Signing to Golden Robot Records in 2018, A New Revenge is a new supergroup, ready to assault audiences with their aggressive hard rock sound and unique brand of metal.

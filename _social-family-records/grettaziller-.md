@@ -16,6 +16,17 @@ albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-2000px.jpeg
   - image_path: /uploads/screen-shot-2018-11-27-at-1-28-37-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-1-28-27-pm.png
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 First impressions aren't always right. If you've been foolish enough to nail down the sound of acclaimed songwriter Gretta Ziller, then prepare to have the rug pulled out from under you. Queen of Boomtown, her stunning debut record, defies categorisation and demands repeated listens.

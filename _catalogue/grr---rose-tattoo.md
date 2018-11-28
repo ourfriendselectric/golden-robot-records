@@ -6,5 +6,11 @@ name: GRR - Rose Tattoo
 album_name: Scarred For Life (Album)
 album_url: 'https://itunes.apple.com/au/album/scarred-for-life/1215327047'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

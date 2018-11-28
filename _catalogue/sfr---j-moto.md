@@ -6,5 +6,11 @@ name: J Motor
 album_name: Meet In The Sky (SFR - Single)
 album_url: 'https://itunes.apple.com/au/album/meet-in-the-sky-single/1138245327'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

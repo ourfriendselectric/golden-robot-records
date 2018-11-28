@@ -4,8 +4,13 @@ hidden: false
 sort_number: 99999
 name: The Hay Balers
 album_name: Shout The Land A Drink (SFR - Single)
-album_url: >-
-  https://itunes.apple.com/au/album/shout-land-drink-feat-matt-scullion-james-blundell/1428657260
+album_url: "https://itunes.apple.com/au/album/shout-land-drink-feat-matt-scullion-james-blundell/1428657260"
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

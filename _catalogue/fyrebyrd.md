@@ -6,5 +6,11 @@ name: Fyre Byrd
 album_name: Take Me Out (GRR - Single)
 album_url: 'https://itunes.apple.com/au/album/take-me-out/1368231520?i=1368232169'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

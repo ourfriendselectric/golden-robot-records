@@ -17,6 +17,17 @@ albums:
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
   - image_path: /uploads/the kids tile 4 copy.jpg
   - image_path: /uploads/the kids tile 2 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth. 

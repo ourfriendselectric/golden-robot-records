@@ -6,5 +6,11 @@ name: SFR - Fanny Lumsden
 album_name: Small Town Big Shot  - Album
 album_url: 'https://itunes.apple.com/au/album/small-town-big-shot/1268650522'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

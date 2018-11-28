@@ -19,4 +19,15 @@ albums:
   - image_path: /images/al_tho.png
   - image_path: /images/al_three.png
   - image_path: /images/al_four.png
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---

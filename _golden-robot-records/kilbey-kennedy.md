@@ -16,6 +16,17 @@ albums:
   - image_path: /images/kk tile 2 copy.jpg
   - image_path: /images/kk tile  copy.jpg
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-14-pm.png
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Steve Kilbey, band singer, songwriter, bassist, painter,writer, poet, actor, sage, dispenser of arcane wisdom is one of Australia’s most loved artists.

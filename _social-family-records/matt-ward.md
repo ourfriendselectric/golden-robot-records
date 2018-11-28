@@ -14,6 +14,17 @@ youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
 hero_path: /uploads/matt-ward-cover-copy.jpg
 albums:
   - image_path: /uploads/mw-annabelle-singleart.jpg
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Delivering a soulful blend Australian Country and Americana music, Matt Ward's musical journey has not been typical.

@@ -6,5 +6,11 @@ name: The Dead Daisies
 album_name: 'The Dead Daisies, Face I Love (SFR - Album)'
 album_url: 'https://itunes.apple.com/au/album/the-dead-daisies/1349464349'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

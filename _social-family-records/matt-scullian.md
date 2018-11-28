@@ -14,6 +14,17 @@ hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-outta-my-own-way-600px.jpeg
   - image_path: /uploads/mattscullion-ijas-3000x3000.jpg
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 **Matt Scullion** is one of the most respected singer/songwriters to come out of Australia in recent years with a swag of hit songs to his credit.

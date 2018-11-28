@@ -16,6 +16,17 @@ albums:
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
   - image_path: /uploads/fb tile 2 copy.jpg
   - image_path: /uploads/fb tile 3 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Fyre  Byrd are  guitarist/vocalist Joshua  and female  drummer, Daniella. The  brother,  sister  two piece  formed at  the beginning  of 2017, although they  have spent  time on the road extensively touring nationally and internationally  in other projects.

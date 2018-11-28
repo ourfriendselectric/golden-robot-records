@@ -6,5 +6,11 @@ name: Gretta Ziller
 album_name: Queen of Boomtown (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/queen-of-boomtown/1257739198'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -13,7 +13,19 @@
           {% elsif page.items == "social-family-records" %}
             <div class="logo">{% include logos/social-family-records.html %}</div>
           {% else %}
-            <div class="logo">{% include logos/golden-robot-records.html %}</div>
+
+            {% if page._type == "golden-robot-records" %}
+              <div class="logo">{% include logos/golden-robot-records.html %}</div>
+            {% elsif page._type == "riot-records" %}
+              <div class="logo">{% include logos/riot-records.html %}</div>
+            {% elsif page._type == "social-family-records" %}
+              <div class="logo">{% include logos/social-family-records.html %}</div>
+            {% elsif page._type == "x-ray-records" %}
+              <div class="logo">{% include logos/x-ray-records.html %}</div>
+            {% else %}
+              <div class="logo">{% include logos/golden-robot-records.html %}</div>
+            {% endif %}
+
           {% endif %}
         {% endif %}
       </a>

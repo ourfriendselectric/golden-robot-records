@@ -6,5 +6,11 @@ name: Velvet
 album_name: The Original Cast Recording (SFR - Album)
 album_url:
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

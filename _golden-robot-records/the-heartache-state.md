@@ -16,6 +16,17 @@ albums:
   - image_path: /images/THS TILE 1 copy.jpg
   - image_path: /images/THS TILE 2 copy.jpg
   - image_path: /images/THS TILE 4 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Justin Garner and Nick Barker are two veterans of the Australian music scene who have been playing music with one another for 15 years. Justin has performed vocals and guitar as part of Adelaide’s own Southpaw, with Nick producing their debut album back in 2004, while Nick has remained a cornerstone of Australian Blues Rock since the 1980s, with Justin last performing on Nick’s 2009 solo album Backwater Blues. Where Justin loves The Allman Bros and Nick loves The Replacements, the two love The Rolling Stones. It is the combination of the two, along with long-time friend Venom and drums and Michael Hubbard on bass, that culminates in The Heartache State.

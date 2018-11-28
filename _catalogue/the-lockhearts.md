@@ -6,4 +6,10 @@ name: The Lockhearts
 album_name: Americana Doom Fuzz (GRR - album)
 album_url: 'https://itunes.apple.com/au/album/americana-doom-fuzz/1343250020'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

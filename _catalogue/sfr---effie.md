@@ -6,5 +6,11 @@ name: Effie
 album_name: Classic 90's Hits (SFR - Album)
 album_url:
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -6,5 +6,11 @@ name: Amber Lawrence
 album_name: Hometown Girl - Live (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/hometown-girl-amber-lawrence-live/1039798162'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -6,5 +6,11 @@ name: Reece Mastin
 album_name: Changing Colours (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/change-colours/1034499482'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

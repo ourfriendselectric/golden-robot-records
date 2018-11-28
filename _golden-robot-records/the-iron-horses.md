@@ -16,6 +16,17 @@ albums:
   - image_path: /images/Traffic single cover.jpg
   - image_path: /uploads/tih tile copy.jpg
   - image_path: /uploads/tih tile 6 copy.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 The Iron Horses were forged in the fiery heat of late night, boozy jam sessions in Sydney’s North Shore when singer Duncan Welsh and guitarist Ciaran Loughran found drummer Peter Holt and bassist Rahul Ranjit in 2015. Now, the band has taken their emotionally driven rock sound from the bars of Sydney to the international stage following their 2017 signing with Golden Robot Records. Taking influence from the likes of Ryan Adams, Kingswood, British India and Kings Of Leon and infusing some Jethro Tull inspired vocals, The Iron Horses are exactly what defines Australian rock today.

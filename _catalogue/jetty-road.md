@@ -6,5 +6,11 @@ name: Jetty Road
 album_name: Hearts on Fire (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/hearts-on-fire/1019935701'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -6,4 +6,10 @@ name: Andrew Swift
 album_name: Call Out For The Cavalry (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/call-out-for-the-cavalry/1300041571'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

@@ -6,5 +6,11 @@ name: Christine Anu
 album_name: ReStylin' Up 20 Years (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/restylin-up-20-years/989721773'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

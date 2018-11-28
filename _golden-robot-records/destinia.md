@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /destinia tile 1 copy.jpg
+image_path: /images/destinia tile 1 copy.jpg
 name: Destinia (JAP)
 sort_number: 35
 hidden: false
@@ -12,10 +12,21 @@ apple_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 hero_path: /images/destinia cover copy.jpg
 albums:
-  - image_path: /destinia tile 1 copy.jpg
+  - image_path: /images/destinia tile 1 copy.jpg
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.41.49 pm.png
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.49.37 pm.png
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.46.21 pm.png
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.

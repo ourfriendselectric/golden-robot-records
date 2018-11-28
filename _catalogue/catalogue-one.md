@@ -6,4 +6,10 @@ name: Dizzy Reed
 album_name: Rock n Roll Ain't Easy (GRR - Album)
 album_url: 'https://itunes.apple.com/au/album/rock-n-roll-aint-easy/1310473348'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

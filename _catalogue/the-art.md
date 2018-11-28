@@ -6,5 +6,11 @@ name: The Art
 album_name: All In The Mind (GRR - Album)
 album_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

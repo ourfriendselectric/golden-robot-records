@@ -14,6 +14,17 @@ hero_path: /uploads/chalkie-white-both-copy-1.jpg
 albums:
   - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
   - image_path: /uploads/chalkie-album-final-rgb-250px-1.jpeg
+
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Chalkie White is a pure entertainer, touring and performing across Australia for the past 20 years, cementing himself in the Country Music scene with his latest album.

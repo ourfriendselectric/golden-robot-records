@@ -16,6 +16,17 @@ albums:
   - image_path: /uploads/Extended Play.jpg
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.11.33 pm.png
   - image_path: /uploads/mi-sex tile2.jpg
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.<br><br>Together Kevin & Murray forged a song writing partnership that anchored Mi-Sex throughout its four albums. These five new connections quickly dissolved their pasts, as they reinvented themselves, passing into the new era of new wave/electronic music and uniting fully as the sound that was to become Mi-Sex.

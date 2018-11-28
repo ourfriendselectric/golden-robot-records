@@ -6,4 +6,10 @@ name: The Kids
 album_name: School (GRR - Single)
 album_url: 'https://itunes.apple.com/au/album/school/1343261035?i=1343261226'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

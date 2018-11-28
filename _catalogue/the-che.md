@@ -6,5 +6,11 @@ name: The Cherry Dolls
 album_name: Lone Palms (GRR - Album)
 album_url: 'https://itunes.apple.com/au/album/lone-palm/1151320777'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

@@ -6,5 +6,11 @@ name: Rose Tattoo
 album_name: Blood Brothers (GRR - Album)
 album_url: 'https://itunes.apple.com/au/album/blood-brothers-2018-bonus-reissue/1353749186'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 

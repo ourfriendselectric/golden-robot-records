@@ -15,6 +15,17 @@ albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
   - image_path: /images/lc square.jpg
   - image_path:
+
+_type: golden-robot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
 Nobody quite  knew what to think  of these long haired,  tattooed  bikers singing such soulful, yet  ballsy, rock music  when they  arrived  on the scene  in Los Angeles in 1987. They stood  out amongst  the "Hair Bands"  that populated the music scene at the time… a distinction the  band wore as a badge  of honour.<br><br>Much hype surrounded  the band as they were  managed by  music  legend Jimmy Iovine, guided  by legendary A&R man  John Kalodner  and produced by  Bob Rock. It seemed  like a formula  for success,  yet the band met  an unfortunate set of circumstances  that left many  scratching their heads  shortly  after  the release  of their self-titled  debut album.

@@ -6,5 +6,11 @@ name: Dallas Frasca
 album_name: Love Army (SFR - Album)
 album_url: 'https://itunes.apple.com/au/album/love-army/971038260'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---
 
