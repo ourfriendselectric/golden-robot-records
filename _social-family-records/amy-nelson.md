@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-7-54-03-am.png
-name: Amy Nelson (AUS)
+name: Amy Nelson (Canada)
 sort_number: 14
 hidden: false
 twitter_url: 'https://twitter.com/amynelson'
@@ -14,17 +14,16 @@ hero_path: /uploads/an-cover-copy.jpg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
   - image_path: /uploads/amy-nelson-tile-copy.jpg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Saskatchewan’s own Amy Nelson, has been waving the Canadian flag on stages all over the world. This high school music teacher turned country singer has recently been making waves down under with the two singles released to Australian country radio, both going Top 10.
