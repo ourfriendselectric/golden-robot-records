@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-7-54-03-am.png
-name: Amy Nelson (Canada - Distro)
+name: Amy Nelson (CA - Distro)
 sort_number: 14
 hidden: false
 twitter_url: 'https://twitter.com/amynelson'
