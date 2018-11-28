@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jasmine-atkins-both-copy.jpg
-name: Jasmine Atkins (AUS)
+name: Jasmine Atkins (AUS - Distro)
 sort_number: 223
 hidden: false
 twitter_url: 'https://twitter.com/jazzatkinsmusic'
