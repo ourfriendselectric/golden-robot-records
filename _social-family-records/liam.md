@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/liam-kennedy-promo-copy.jpg
-name: Liam Kennedy -Clark (AUS)
+name: Liam Kennedy -Clark (AUS - Distro)
 sort_number: 15
 hidden: false
 twitter_url: 'https://twitter.com/LiamKCmusic'
@@ -14,17 +14,16 @@ hero_path: /uploads/liam-kennedy-cover-copy.jpg
 albums:
   - image_path: /uploads/lkc-3000x3000.jpg
   - image_path: /uploads/ofh-3000x3000.jpg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Music flows through the veins of Liam Kennedy-Clark. Originally from New Zealand, Liam now calls Australia home. Hailing from the serene Sunshine Coast of Queensland, Liam is a talented multi-instrumentalist as well as a gifted singer/songwriter.
