@@ -11,20 +11,19 @@ instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: 'https://open.spotify.com/artist/7llMZbc53OJaCqJPyoCstY'
 apple_url: 'https://itunes.apple.com/au/artist/steve-balbi/58029023'
 youtube_url: 'https://www.youtube.com/channel/UCqUoN0or4oGyat8NaTeQFhw/featured'
-hero_path: /uploads/balbi-tile-copy-1.jpg
+hero_path: /uploads/screen-shot-2018-11-28-at-1-09-42-pm.png
 albums:
   - image_path: /uploads/stevebalbi-modernlove-4000x4000.jpg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 The music of singer, composer, performer and producer Steve Balbi mines a kaleidoscope of life at the margins. Transcending rock and pop as he coalesces sentimentality and soul, Balbi bespeaks Bowie and Dylan in melody and verse, exploring the heterogeneity, refinement and dirty rotten groove of Radiohead.
