@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-4-42-15-pm.png
 name: Caroline Jones (USA)
 sort_number: 1
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/carolinejones?lang=en'
 facebook_url: 'https://www.facebook.com/carolinejonesmusic/'
 instagram_url: 'https://www.instagram.com/carolinejones/'
@@ -16,17 +16,16 @@ albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-3-15-40-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-3-13-32-pm-1.png
   - image_path: /uploads/screen-shot-2018-11-27-at-3-16-50-pm.png
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Caroline Jones is an American country music singer and songwriter and a radio host. She released her album, titled Bare Feet, in March 2018 and has signed with Social Family Records in November 2018 for Australia and Europe.
