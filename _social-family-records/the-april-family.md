@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-11-23-47-am.png
-name: The April Family (AUS)
+name: The April Family (AUS - Distro)
 sort_number: 78
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
@@ -13,17 +13,16 @@ youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
 hero_path: /uploads/screen-shot-2018-11-27-at-7-58-19-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-7-59-25-am.png
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Sydney based combo The April Family have been quietly working away, building a name and a steady body of work since forming in 2015. Featuring the soulful twang of the enigmatic Kylie Whitney on lead vocals, the blistering skills of Casey Atkins on lead guitar and backing vocals, and the production and all rounder abilities of Michael Carpenter on rhythm guitar and backing vocals, the band developed a sound that fused Classic Country with the timeless colours of West Coast American Country Rock.
