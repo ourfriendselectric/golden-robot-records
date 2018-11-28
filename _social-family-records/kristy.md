@@ -11,20 +11,19 @@ instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
 apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
 youtube_url: 'https://www.youtube.com/user/Kirstyakers'
-hero_path: /uploads/kla-both-copy-1.jpg
+hero_path: /uploads/screen-shot-2018-11-28-at-1-52-26-pm.png
 albums:
-  - image_path: /uploads/kirsty-lee-akers---under-my-skin---album-cover-airit-500px.jpeg
-
+  - image_path: /uploads/screen-shot-2018-11-28-at-1-53-24-pm.png
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Kirsty Lee Akers is one of Australia's most unique and authentic recording artists. She is a rare talent who is proud of her indigenous heritage as a woman of the Wonnarua nation. Akers describes herself as a fusion of modern Country and Americana, with Pop stylings. While Australia will always be her spiritual home, she spends a lot of her time in North America, having toured both the United States and Canada throughout 2016 and 2017. The year 2018 sees her return to Canada to play two major festivals (Calgary Stampede and Big Valley Jamboree) while also expanding her horizons as she showcases her music in the United Kingdom for the first time(Buckle and Boots Festival).
