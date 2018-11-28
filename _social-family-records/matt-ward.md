@@ -13,18 +13,17 @@ apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
 youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
 hero_path: /uploads/matt-ward-cover-copy.jpg
 albums:
-  - image_path: /uploads/mw-annabelle-singleart.jpg
-
+  - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Delivering a soulful blend Australian Country and Americana music, Matt Ward's musical journey has not been typical.
