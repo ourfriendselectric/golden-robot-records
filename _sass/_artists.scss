@@ -66,6 +66,12 @@ $xlHeight: auto;
 			}
 		}
 
+		.artists-thumbnail {
+			@include media-breakpoint-down(sm) {
+				width: 100%;
+			}
+		}
+
 		.overlay {
 			@include transition();
 			opacity: 0;
