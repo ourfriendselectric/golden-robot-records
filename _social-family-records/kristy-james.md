@@ -12,19 +12,18 @@ apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
-  - image_path: /uploads/kristy-james---raw---ep-cover-600px-1.jpeg
+  - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
   - image_path: /uploads/kristy-james---dark-sunglasses---single-cover-1.jpg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.
