@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/dungarees-2400-2016-33-500px.jpeg
 name: The Dungarees (CA - Distro)
-sort_number: 250
+sort_number: 350
 hidden: false
 twitter_url:
 facebook_url:
