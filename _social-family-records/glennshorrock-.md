@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/glenn-shorrock-tile-copy.jpg
 name: Glenn Shorrock (AUS)
-sort_number: 1
+sort_number: 15
 hidden: false
 twitter_url: 'https://twitter.com/glennshorrock?lang=en'
 facebook_url: 'https://www.facebook.com/GlennShorrockMusic/'
@@ -13,17 +13,16 @@ youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-8-02-13-am.png
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
