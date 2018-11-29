@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-11-23-47-am.png
 name: The April Family (AUS - Distro)
-sort_number: 78
+sort_number: 260
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
 facebook_url: 'https://www.facebook.com/theaprilfamily/'
