@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/dani-young-tile-copy-2.jpg
 name: Dani Young (AUS - Distro)
-sort_number: 102
+sort_number: 100
 hidden: false
 twitter_url: 'https://twitter.com/daniyoungmusic'
 facebook_url: 'https://www.facebook.com/DaniYoungMusic/'
