@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/Screen Shot 2018-11-27 at 7.47.45 am.png
 name: Hayley Jensen (AUS)
-sort_number: 26
+sort_number: 21
 hidden: false
 twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
 facebook_url: 'https://www.facebook.com/thehayleyjensen/'
@@ -14,17 +14,16 @@ hero_path: /uploads/hayley-jensen-promo-copy-1.jpg
 albums:
   - image_path: /uploads/Screen Shot 2018-11-27 at 7.49.04 am.png
   - image_path: /uploads/screen-shot-2018-11-27-at-7-49-22-am.png
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Hayley Jensen is an artist whose vocal abilities place her in elite company within Australian Country Music. The singer-songwriter who now calls Sydney home experienced a breakout 12-month period with her new record Past Tense and Present Peace, achieving her first iTunes #1 chart position and her hard-work was rewarded with the Southern Stars Rising Female Artist Award.
