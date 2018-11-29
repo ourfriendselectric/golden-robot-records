@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/matt-scullion-both-copy.jpg
 name: Matt Scullion (AUS)
-sort_number: 13
+sort_number: 38
 hidden: false
 twitter_url: 'https://twitter.com/scattmullion'
 facebook_url: 'https://www.facebook.com/matthewanthonyscullion'
