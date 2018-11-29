@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/liam-kennedy-promo-copy.jpg
 name: Liam Kennedy-Clark (NZ/AUS - Distro)
-sort_number: 15
+sort_number: 170
 hidden: false
 twitter_url: 'https://twitter.com/LiamKCmusic'
 facebook_url: 'https://www.facebook.com/liamkennedyclarkofficial/'
