@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/neilly-rich-tile-copy.jpg
 name: Neilly Rich (AUS)
-sort_number: 15
+sort_number: 43
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
 facebook_url: 'https://www.facebook.com/neillyrich/'
@@ -13,17 +13,16 @@ youtube_url: 'https://www.youtube.com/channel/UCsTTHNLhDgdlsr2-_mSyZ2Q'
 hero_path: /uploads/neilly-rich-cover-copy.jpg
 albums:
   - image_path: /uploads/neillyrich-herenowforever-ep.jpg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 In 2012, two paths converged when New Zealand born Matthew McNeilly met Kempsey girl, Amelia Richards in Tamworth. Their musical passions aligned at the CMAA Academy, resulting in the formation of the contemporary country music duo NeillyRich
