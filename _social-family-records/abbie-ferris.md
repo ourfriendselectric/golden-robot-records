@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-27 at 7.30.47 am.png
+image_path: /uploads/-dsc7260-500px.jpeg
 name: Abbie Ferris (AUS - Distro)
 sort_number: 75
 hidden: false
