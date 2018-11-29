@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/chalkie-white-both-copy.jpg
 name: Chalkie White (AUS - Distro)
-sort_number: 82714
+sort_number: 90
 hidden: false
 twitter_url: 'https://twitter.com/ChalkieWhite101'
 facebook_url: 'https://m.facebook.com/chalkiewhite/?__tn__=C-R'
