@@ -66,6 +66,12 @@ $xlHeight: auto;
 			}
 		}
 
+		.artists-thumbnail {
+			@include media-breakpoint-down(sm) {
+				width: 100%;
+			}
+		}
+
 		.overlay {
 			@include transition();
 			opacity: 0;
@@ -117,9 +123,12 @@ $xlHeight: auto;
 		margin-bottom: 40px;
 		align-items: center;
 	}
-	.albumns {
-		.albumn {
+	.albums {
+		.album {
 			margin-bottom: $grid-gutter-width;
+		}
+		img {
+			width: 100%;
 		}
 	}
 

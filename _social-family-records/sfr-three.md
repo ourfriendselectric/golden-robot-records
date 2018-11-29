@@ -1,34 +1,36 @@
 ---
 layout: artist
-image_path: /images/al_one.png
-name: SFR Three
-sort_number: 30
+image_path: /uploads/Screen Shot 2018-11-27 at 7.47.45 am.png
+name: Hayley Jensen (AUS)
+sort_number: 26
 hidden: false
-intro_markdown: >-
-  Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-  Cras mattis consectetur purus sit amet fermentum. Etiam porta sem malesuada
-  magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum
-  dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur
-  adipiscing elit.
+twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
+facebook_url: 'https://www.facebook.com/thehayleyjensen/'
+instagram_url: '/https://www.instagram.com/hayleyjensen/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi'
+apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
+youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
+hero_path: /uploads/hayley-jensen-promo-copy-1.jpg
+albums:
+  - image_path: /uploads/Screen Shot 2018-11-27 at 7.49.04 am.png
+  - image_path: /uploads/screen-shot-2018-11-27-at-7-49-22-am.png
 
-twitter_url: 'https://twitter.com/thelockhearts'
-facebook_url: 'https://www.facebook.com/thelockhearts/'
-instagram_url: 'https://www.instagram.com/thelockhearts/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
-hero_path: /images/hero-placeholder.jpg
-albumns:
-  - image_path: /images/al_one.png
-  - image_path: /images/al_tho.png
-  - image_path: /images/al_three.png
-  - image_path: /images/al_four.png
+_type: social-family-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
 ---
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Hayley Jensen is an artist whose vocal abilities place her in elite company within Australian Country Music. The singer-songwriter who now calls Sydney home experienced a breakout 12-month period with her new record Past Tense and Present Peace, achieving her first iTunes #1 chart position and her hard-work was rewarded with the Southern Stars Rising Female Artist Award.
 
-Maecenas faucibus mollis interdum. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Growing up in regional Australia, Hayley was initially attracted to the honest storytelling and authenticity of Country Music. Her musical journey has been eclectic, bursting onto the scene through Australian Idol, she explored her range as an artist, ultimately returning to the genre that launched her career.
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui.
+The past 12 months have seen Jensen release three singles with all music videos appearing on the Country Music Channel (CMC). Each release has charted higher than the previous, with her latest video Young Years featuring heavily within the CMC rotation.
+
+The year has seen an influx of new fans connecting with Hayley, with online numbers more than doubling across major digital platforms. After stellar performances on the festival circuit and with new music on the horizon in 2019, the future continues to look promising for this wonderful talent.

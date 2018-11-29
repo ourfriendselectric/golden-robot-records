@@ -5,21 +5,16 @@ layout: default
   <div class="container">
     <div class="row">
 
-      {% if page.items == "all" %}
-        {% assign full = site.golden-robot-records | concat: site.x-ray-records %}
-        {% assign full = full | concat: site.riot-records %}
-        {% assign full = full | concat: site.social-family-records %}
-        {% assign items = full | sort: 'sort_number' %}
-      {% else %}
-        {% assign items = site[page.items] | sort: 'sort_number' %}
-      {% endif %}
-
-      {% for artist in items %}
+      {% assign collectionName = page.items %}
+      {% assign items = site.collections | where:'label', collectionName | first %}
+      {% assign items = items.docs | sort: 'sort_number' %}
+      
+      {% for artist in items  %}
         {% if artist.hidden == false %}
           <a href="{{ artist.url | prepend: site.baseurl }}" class="artist col-md-4 col-lg-3 col-xl-2">
             <div class="image">
               <div class="overlay"><div class="text">View Artist</div></div>
-              <img src="{{ artist.image_path }}" class="img-fluid" />
+              <img src="{{ artist.image_path }}" class="img-fluid artists-thumbnail" />
             </div>
             <p class="name">{{ artist.name }}</p>
           </a>

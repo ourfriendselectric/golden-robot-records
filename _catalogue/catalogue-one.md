@@ -1,8 +1,15 @@
 ---
-image_path: /images/al_one.png
-name: Catalogue 1
-album_name: Catalogue 1 Album
-sort_number: 100
+image_path: /uploads/Screen Shot 2018-11-23 at 12.26.00 pm.png
 hidden: false
+sort_number: 50
+name: Dizzy Reed
+album_name: Rock n Roll Ain't Easy (GRR - Album)
+album_url: 'https://itunes.apple.com/au/album/rock-n-roll-aint-easy/1310473348'
 _hide_content: true
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
 ---

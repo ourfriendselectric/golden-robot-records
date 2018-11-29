@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 spotify_username: https://open.spotify.com/user/goldenrobotrecords/playlist/3Ge2LlIDcSr1GjWIrKFZP7?si=EjFoMSKqTeCoAzHIpqHHSg
 facebook_username: https://www.facebook.com/goldenrobotrecords/
 instagram_username: https://www.instagram.com/goldenrobotrecords/
-twitter_username: https://twitter.com/goldenrobotrec
+twitter_username: https://twitter.com/GoldenRobotRcds
 youtube_username: https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ
 
 # Build settings
