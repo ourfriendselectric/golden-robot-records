@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/matt-ward-both-copy.jpg
 name: Matt Ward (AUS - Distro)
-sort_number: 79
+sort_number: 190
 hidden: false
 twitter_url: 'https://twitter.com/mjwstuff?lang=en'
 facebook_url:
