@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/andrew-swift-tile-copy.jpg
 name: Andrew Swift (AUS)
-sort_number: 3
+sort_number: 5
 hidden: false
 twitter_url: 'https://twitter.com/_andrewswift_?lang=en'
 facebook_url: 'https://www.facebook.com/andrewswiftmusic/'
@@ -14,17 +14,16 @@ hero_path: /uploads/as-cover-copy.jpg
 albums:
   - image_path: /uploads/as-cover1-2000px.jpeg
   - image_path: /uploads/as-kingskysingle3-600px.jpeg
-
 _type: social-family-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Swift made a big first impression on the country music world when he became a Toyota Star Maker grand finalist. When the time came to record his debut album, there was no shortage of country music cavalry that flocked to Swift’s side.
