@@ -33,4 +33,4 @@ From Sydney, Australia, Cigars of the Pharaoh are four-piece band that use their
 
 All of this has led to a stellar 2018, being signed to Golden Robot Records and debuting at No.9 on the AMRAP Regional Top 10 with the single “Sincere Karma”.
 
-Cigars of the Pharaoh continue to grow, taking no prisoners as they take the music scene by storm...
+Cigars of the Pharaoh continue to grow, taking no prisoners as they take the music scene by storm.
