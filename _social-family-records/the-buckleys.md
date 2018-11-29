@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/the-bukcleys-both-copy.jpg
 name: The Buckleys (AUS)
-sort_number: 12
+sort_number: 65
 hidden: false
 twitter_url: 'https://twitter.com/the_buckleys'
 facebook_url: 'https://www.facebook.com/Buckleysfamilyband/'
