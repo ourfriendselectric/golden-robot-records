@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/katie-jayne-both-copy.jpg
 name: Katie Jayne (AUS - Distro)
-sort_number: 34
+sort_number: 150
 hidden: false
 twitter_url: 'https://twitter.com/katiejaynerose?lang=en'
 facebook_url: 'https://www.facebook.com/katiejayne.com.au/'
