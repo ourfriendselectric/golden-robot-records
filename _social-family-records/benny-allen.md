@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/benny-allen-tile-copy.jpg
 name: Benny Allen (AUS - Distro)
-sort_number: 8624
+sort_number: 84
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
 facebook_url: 'https://www.facebook.com/bennyallen.rocks/'
