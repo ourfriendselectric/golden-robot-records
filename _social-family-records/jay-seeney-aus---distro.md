@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/jsb-94-of-206-square---500px.jpeg
 name: Jay Seeney (AUS - Distro)
 sort_number: 10
 hidden: true
@@ -27,3 +27,4 @@ _options:
     height: 1000
     resize_style: contain
 ---
+
