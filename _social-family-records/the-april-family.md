@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-11-23-47-am.png
+image_path: /uploads/april-family-promo-2018-500px.jpeg
 name: The April Family (AUS - Distro)
 sort_number: 260
 hidden: false
