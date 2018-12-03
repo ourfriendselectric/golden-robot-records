@@ -57,26 +57,13 @@ layout: default
 			{% if page.albums.size > 0 %}
 				<div class="col-lg-6">
 					<div class="row albums">
-						{% if page.albums[0].image_path != null %}
-							<div class="col-md-6 album">
-								<img src="{{ page.albums[0].image_path }}" class="img-fluid" />
-							</div>
-						{% endif %}
-						{% if page.albums[1].image_path != null %}
-							<div class="col-md-6 album">
-								<img src="{{ page.albums[1].image_path }}" class="img-fluid" />
-							</div>
-						{% endif %}
-						{% if page.albums[2].image_path != null %}
-							<div class="col-md-6 album">
-								<img src="{{ page.albums[2].image_path }}" class="img-fluid" />
-							</div>
-						{% endif %}
-						{% if page.albums[3].image_path != null %}
-							<div class="col-md-6 album">
-								<img src="{{ page.albums[3].image_path }}" class="img-fluid" />
-							</div>
-						{% endif %}
+						{% for album in page.albums  %}
+							{% if album.image_path != null %}
+								<div class="col-md-6 album">
+									<img src="{{ album.image_path }}" class="img-fluid" />
+								</div>
+							{% endif %}
+						{% endfor %}
 					</div>
 				</div>
 			{% endif %}
