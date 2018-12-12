@@ -16,18 +16,16 @@ albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.32.02 pm.png
   - image_path: /images/Screen Shot 2018-11-15 at 4.35.26 pm.png
   - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
-  - image_path: /Screen Shot 2018-11-21 at 11.16.04 am.png
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 In the category of ́cult bands\` Rose Tattoo has been at the top of the pile since 1976. Their raw style of blues rock that the Australians manage to create out of a hot mix of slide guitars, pounding hooks with sharp and tight rhythm, along with the unmistakable voice of their front man, Angry Anderson, is what gives the fans a welcome feast in what is today a fast food orientated music business built around TV shows. Their sound is hard rock mixed with blues rock influences, with songs including "Bad Boy for Love", "Rock 'n' Roll Outlaw", "Nice Boys", "We Can't Be Beaten" and "Scarred for Life".
