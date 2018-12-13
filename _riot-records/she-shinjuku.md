@@ -14,7 +14,8 @@ hero_path: /uploads/she shin cover copy.jpg
 albums:
   - image_path: /images/EP COVER BOLD FINAL 3D.jpg
   - image_path: /uploads/screen-shot-2018-12-13-at-1-29-14-pm.png
-  - image_path: /uploads/screen-shot-2018-12-13-at-1-29-06-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-1-32-41-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-1-33-03-pm.png
 _type: riot-records
 _options:
   image_path:
