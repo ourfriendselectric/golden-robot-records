@@ -12,9 +12,9 @@ apple_url: 'https://itunes.apple.com/au/album/supergiant/1368611209'
 youtube_url: 'https://www.youtube.com/channel/UCzUNddpUfDwVhvRT86G8l0w'
 hero_path: /uploads/screen-shot-2018-12-13-at-1-08-10-pm.png
 albums:
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-53-36-pm.png
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-53-27-pm.png
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-52-59-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-1-16-48-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-1-19-50-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-1-19-15-pm.png
   - image_path: /uploads/screen-shot-2018-12-13-at-12-53-11-pm.png
 _type: riot-records
 _options:
