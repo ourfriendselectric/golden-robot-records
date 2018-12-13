@@ -35,6 +35,8 @@ The Heartache State is a throwback to the 70s-centric approach to music, where s
 
 “We’re not reinventing the wheel, the old wheel goes OK”.
 
+The Heartache State are set to release brand new music across 2019 through Golden Robot Records.&nbsp;
+
 Justin Garner – Vocals and Guitar
 
 Venom – Drums
