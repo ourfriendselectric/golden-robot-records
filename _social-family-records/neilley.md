@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/neillyrich/'
 spotify_url: 'https://open.spotify.com/album/2G4a7h7hIhkPbGmhf3aAZA'
 apple_url: 'https://itunes.apple.com/au/artist/neillyrich/799725740'
 youtube_url: 'https://www.youtube.com/channel/UCsTTHNLhDgdlsr2-_mSyZ2Q'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/neilly-rich-cover-copy.jpg
 albums:
   - image_path: /uploads/neillyrich-herenowforever-ep.jpg

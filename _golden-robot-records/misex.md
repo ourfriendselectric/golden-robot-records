@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/misexmusic/'
 spotify_url: 'https://open.spotify.com/artist/4QDiSLl2fkDWuC4TIV7Z9Q'
 apple_url: 'https://itunes.apple.com/au/album/not-from-here/1316908944'
 youtube_url: 'https://www.youtube.com/channel/UCxYrgmAixVMQ7DXCcxcFdlA'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg

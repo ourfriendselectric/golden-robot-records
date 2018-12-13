@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/kilbeykennedy/'
 spotify_url: 'https://open.spotify.com/search/results/kilbey%20kennedy'
 apple_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg

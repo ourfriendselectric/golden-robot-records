@@ -11,6 +11,9 @@ instagram_url:
 spotify_url: 
 apple_url: 
 youtube_url: 
+amazon_url: 
+jb_url: 
+sanity_url: 
 
 hero_path: 
 albums: 

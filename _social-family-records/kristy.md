@@ -11,6 +11,9 @@ instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
 apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
 youtube_url: 'https://www.youtube.com/user/Kirstyakers'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/screen-shot-2018-11-28-at-1-52-26-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-53-24-pm.png

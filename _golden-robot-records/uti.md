@@ -7,12 +7,12 @@ hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/UndertheInfluence666/'
 instagram_url: 'https://www.instagram.com/undertheinfluence98/'
-spotify_url: >-
-  https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open
-apple_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
+spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
+apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
+youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/Screen Shot 2018-11-25 at 1.24.22 pm.png
 albums:
   - image_path: /images/UTI-1.jpg

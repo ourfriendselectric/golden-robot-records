@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/kingsxofficial/'
 spotify_url: 'https://open.spotify.com/search/results/king''s%20x'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/kings x tile copy.jpg
 albums:
   - image_path: /uploads/kings x tile 2 copy.jpg

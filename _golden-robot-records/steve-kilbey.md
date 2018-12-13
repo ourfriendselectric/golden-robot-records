@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/stevekilbey/'
 spotify_url: 'https://open.spotify.com/artist/6ysAnNqgSIZvZkQY597Bk0'
 apple_url: 'https://itunes.apple.com/au/album/sydney-rococo/1438213222'
 youtube_url: 'https://www.youtube.com/channel/UCzb3iNZaFtaOHC65w06hAIQ'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/kilbeycover copy.jpg
 albums:
   - image_path: /images/SK-Cover-DigitalSquare.jpg

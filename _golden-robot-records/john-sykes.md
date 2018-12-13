@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/3ZZT5Z4TDnzZWq9SiYHS4P'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/JohnSykesFan'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/john sykes cover copy.jpg
 albums:
   - image_path: /uploads/john sykes tile 2 copy.jpg

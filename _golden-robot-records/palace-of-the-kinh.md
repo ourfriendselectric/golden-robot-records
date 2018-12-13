@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/palaceoftheking/'
 spotify_url: 'https://open.spotify.com/search/results/palace%20of%20the%20king'
 apple_url: 'https://itunes.apple.com/au/album/get-right-with-your-maker/1335540227'
 youtube_url: 'https://www.youtube.com/user/PalaceOfTheKing'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg

@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/thecherrydolls/'
 spotify_url: 'https://open.spotify.com/artist/2oLNDqir66xWIn1gmdzeHQ'
 apple_url: 'https://itunes.apple.com/au/album/viva-los-dolls/1313187017'
 youtube_url: 'https://www.youtube.com/user/TheCherryDolls'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg

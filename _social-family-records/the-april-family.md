@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/theaprilfamily/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0PuMNC8vzStjeL5jmdalLc?autoplay=true&v=A'
 apple_url: 'https://itunes.apple.com/au/artist/the-april-family/1087372905'
 youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/screen-shot-2018-11-27-at-7-58-19-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-7-59-25-am.png

@@ -5,9 +5,9 @@ html, body {
 
 #content {
 	padding-top: 10px;
-	margin-bottom: 60px;
+	margin-bottom: 50px;
 	@include media-breakpoint-up(sm) {
-		margin-bottom: 0;
+		margin-bottom: 100px;
 		padding-top: 16px;
 	}
 	@include media-breakpoint-up(md) {

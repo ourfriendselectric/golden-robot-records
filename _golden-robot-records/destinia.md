@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/search/results/destinia'
 apple_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /images/destinia tile 1 copy.jpg

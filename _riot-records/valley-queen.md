@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/valleyqueenmusic/'
 spotify_url: 'https://open.spotify.com/search/results/valley%20queen'
 apple_url: 'https://itunes.apple.com/au/album/supergiant/1368611209'
 youtube_url: 'https://www.youtube.com/channel/UCzUNddpUfDwVhvRT86G8l0w'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /Screen Shot 2018-11-25 at 12.37.59 pm.png
 albums:
   - image_path: /vq tile 2 copy.jpg

@@ -11,6 +11,10 @@ spotify_url: >-
   https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg
 apple_url: 'https://itunes.apple.com/au/artist/the-dungarees/895989335'
 youtube_url:
+amazon_url: 
+jb_url: 
+sanity_url: 
+
 hero_path:
 albums:
   - image_path:

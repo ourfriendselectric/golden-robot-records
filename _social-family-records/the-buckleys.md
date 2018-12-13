@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/the.buckleys/'
 spotify_url: 'https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p'
 apple_url: 'https://itunes.apple.com/au/artist/the-buckleys/375603898'
 youtube_url: 'https://www.youtube.com/user/thebuckleysmusicA1'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/the-buckleys-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-36-11-pm.png

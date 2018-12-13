@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/itsraveneye/'
 spotify_url: 'https://open.spotify.com/search/results/raveneye'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCdKLQB3k1jvUArLckZNhZsg'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/raven cover copy.jpg
 albums:
   - image_path: /images/raven tile 3.jpg

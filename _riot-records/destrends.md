@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/destrends/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0WmjTtt7gMr7qCp2DiZJUh'
 apple_url: 'https://itunes.apple.com/au/album/lousy-lover-ep/1214076964'
 youtube_url: 'https://www.youtube.com/channel/UCNfX9cciOo4lny0hCNMnPHw'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /destrends cover copy.jpg
 albums:
   - image_path: /uploads/destrends tile 2 copy.jpg

@@ -11,6 +11,9 @@ instagram_url: 'https://www.instagram.com/grettaziller/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98'
 apple_url: 'https://itunes.apple.com/au/artist/gretta-ziller/348673625'
 youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/gretta-ziller-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-18-35-pm.png

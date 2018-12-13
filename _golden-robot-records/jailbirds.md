@@ -5,12 +5,14 @@ name: Jailbirds (IRE)
 sort_number: 31
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
-facebook_url: >-
-  https://www.facebook.com/jailbirdsireland/?__tn__=%2Cd%2CP-R&eid=ARD3NdMRyCmV4M6YbplFk0qVrdHJh4bxWG_AvtbvNKlY1XU_xmPbHas9sDppsQO5H823yohtCg2wMBIx
+facebook_url: 'https://www.facebook.com/jailbirdsireland/?__tn__=%2Cd%2CP-R&eid=ARD3NdMRyCmV4M6YbplFk0qVrdHJh4bxWG_AvtbvNKlY1XU_xmPbHas9sDppsQO5H823yohtCg2wMBIx'
 instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/JB cover copy.jpg
 albums:
   - image_path: /images/JB tile copy.jpg

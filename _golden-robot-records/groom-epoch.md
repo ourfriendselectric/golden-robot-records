@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/0m4THJDCqSTvEh450zINS9'
 apple_url: 'https://itunes.apple.com/au/album/solar-warden/1354561530'
 youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg

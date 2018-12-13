@@ -10,6 +10,9 @@ instagram_url: '/https://www.instagram.com/hayleyjensen/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi'
 apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
 youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/hayley-jensen-promo-copy-1.jpg
 albums:
   - image_path: /uploads/Screen Shot 2018-11-27 at 7.49.04 am.png

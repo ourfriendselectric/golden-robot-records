@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/gilbygtr/'
 spotify_url: 'https://open.spotify.com/artist/6Ya7kAthUWvVuSQBX0oIMx'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/gilby .jpg
 albums:
   - image_path:

@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/rosetattooband/'
 spotify_url: 'https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH'
 apple_url: 'https://itunes.apple.com/au/album/blood-brothers-2018-bonus-reissue/1353749186'
 youtube_url: 'https://www.youtube.com/channel/UC2ysUa3j142whGLoN2dkPiQ'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /images/rose tatt cover.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png

@@ -11,6 +11,9 @@ instagram_url: 'https://www.instagram.com/toetotoeshc/'
 spotify_url: 'https://open.spotify.com/artist/2L1PP26AhiUQAMOXjYBy6B'
 apple_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg

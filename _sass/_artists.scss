@@ -115,6 +115,8 @@ $xlHeight: auto;
 }
 
 .single-artist {
+	margin-bottom: 100px;
+
 	.hero {
 		margin-bottom: 30px;
 	}
@@ -132,6 +134,10 @@ $xlHeight: auto;
 		}
 	}
 
+	.purchase {
+		font-size: 30px;
+	}
+
 	.quote {
 		font-size: 3rem;
 		font-style: italic;
@@ -142,4 +148,26 @@ $xlHeight: auto;
 		font-weight: bold;
 	}
 
+}
+
+.purchase-modal {
+
+	.modal-title {
+		color: #000;
+	}
+
+	.modal-body {
+		.row {
+			justify-content: center;
+		}
+	}
+
+	.link {
+		text-align: center;
+		align-self: center;
+		
+		// img {
+		// 	max-width: 200px;
+		// }
+	}
 }

@@ -10,6 +10,9 @@ instagram_url: 'https://www.instagram.com/chalkiewhiteofficial/'
 spotify_url: 'https://open.spotify.com/artist/2gKuNesBW2QLMr5mpbOUB6'
 apple_url: 'https://itunes.apple.com/au/artist/chalkie-white/480597705'
 youtube_url: 'https://www.youtube.com/channel/UCTzy-mPiE7vCDGceOftTPLg'
+amazon_url: 
+jb_url: 
+sanity_url: 
 hero_path: /uploads/chalkie-white-both-copy-1.jpg
 albums:
   - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
