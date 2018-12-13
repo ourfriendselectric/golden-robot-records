@@ -46,3 +46,5 @@ RavenEye released an EP, “Breaking Out” (2015), and its debut Album, “NOVA
 “Hairs-on-the-back-of-your-neck hard rock epic you’ll thank yourself for finding” - The Sun “Keep an eye on RavenEye. They are organic, raw and I hear a real‘70s influence with these guys. When a band like this nails it, you never forget it. Wait for that riff in the middle of the song.” – Nikki Sixx
 
 When RavenEye formed three and one-half years ago, the then 25 year old, Oli Brown, singer and multi-award winning guitarist, had already released four solo albums and toured the world for 10 years with legends such as Jeff Beck, Buddy Guy, Johnny Winter and Joe Satriani. Mojo even hailed Oli as “the hottest young pistol in British blues” and Classic Rock Magazine described him as "one of the best and brightest guitar heroes performing in the world today." RavenEye’s live performances take their present and future fans on a journey to the next level.
+
+In November 2018, the band finished recording their second album which will be released in 2019 through Golden Robot Records.&nbsp;
