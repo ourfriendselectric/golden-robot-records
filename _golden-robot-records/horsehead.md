@@ -15,19 +15,18 @@ hero_path: /uploads/horsehead-cover-copy.jpg
 albums:
   - image_path: /images/horsehead tile 2 copy.jpg
   - image_path: /images/horsehead tile copy.jpg
-  - image_path:
-  - image_path:
-
+  - image_path: /uploads/screen-shot-2018-12-13-at-12-02-12-pm.png
+  - image_path: /uploads/screen-shot-2018-12-13-at-12-02-32-pm.png
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 If you were lucky enough to see Melbourne band Horsehead sometime between 1992 and 2000, chances are you’re a “Horseheadonist” – one of the band’s passionate fans. Horsehead live was an unforgettable experience. As rock historian Ian McFarlane, the author of The Encyclopedia of Australian Rock and Pop, noted, “everything was delivered with great force and conviction”.
