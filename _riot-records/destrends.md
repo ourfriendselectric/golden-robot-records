@@ -13,23 +13,24 @@ youtube_url: 'https://www.youtube.com/channel/UCNfX9cciOo4lny0hCNMnPHw'
 amazon_url: 
 jb_url: 
 sanity_url: 
-hero_path: /destrends cover copy.jpg
+
+hero_path: /uploads/screen-shot-2018-12-13-at-1-25-04-pm.png
+
 albums:
   - image_path: /uploads/destrends tile 2 copy.jpg
   - image_path: /uploads/destrends tile 3 copy.jpg
   - image_path: /uploads/destrends tile 5 copy.jpg
   - image_path: /uploads/destrends tile copy.jpg
-
 _type: riot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 "Local three-piece Destrends have built a reputation as a distinctly theatrical live act, who’s music is a confident mix of gloomy goth-laden post-punk with a serving of Aussie grit. Riding off the back of their debut EP titled ‘Lousy Lover’, Destrends have shared the stage with Spiderbait, Hoodoo Gurus, King Gizzard and the Lizard Wizard, and have headlined the New Music Stage at St Kilda Festival. After a run of successful national tours, the lads are currently ramping up to release their long-awaited debut album."
