@@ -1,0 +1,143 @@
+---
+layout: default
+image_path: /uploads/Screen Shot 2018-11-26 at 7.57.45 pm.png
+
+hidden: true
+
+twitter_url: 
+facebook_url: 
+instagram_url: 
+spotify_url: 
+apple_url:
+youtube_url:
+amazon_url: 
+jb_url: 
+sanity_url: 
+
+hero_path: /uploads/rock-n-food-header.jpg
+thumbnail:
+  - image_path: /uploads/rocknfood1.jpeg
+  - image_path: /uploads/rocknfood2.jpeg
+  - image_path: /uploads/rocknfood3.jpeg
+  - image_path: /uploads/rocknfood4.jpeg
+
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: "contain"
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: "contain"
+---
+
+<div class="single-artist" id="content">
+    <div class="container">
+  
+        <div class="row">
+        <div class="col hero">
+          <img src="{{ page.hero_path }}" alt="" class="img-fluid w-100">
+        </div>
+        </div>
+  
+      <div class="row">
+  
+        <div class="{% if page.albums.size > 0 %} col-lg-6 {% else %} col {% endif %}">
+  
+            <div class="row">
+            <div class="col editable">
+              Editable Content
+            </div>
+          </div>
+  
+            <div class="row social">
+            {% if page.spotify_url %}
+              <a class="col col-md-1" href="{{ page.spotify_url }}" target="_blank" />
+                {% include social/spotify.html %}
+              </a>
+            {% endif %}
+            {% if page.apple_url %}
+              <a class="col col-md-1" href="{{ page.apple_url }}" target="_blank" />
+                {% include social/apple.html %}
+              </a>
+            {% endif %}
+            {% if page.twitter_url %}
+              <a class="col col-md-1" href="{{ page.twitter_url }}" target="_blank" />
+                {% include social/twitter.html %}
+              </a>
+            {% endif %}
+            {% if page.facebook_url %}
+              <a class="col col-md-1" href="{{ page.facebook_url }}" target="_blank" />
+                {% include social/facebook.html %}
+              </a>
+            {% endif %}
+            {% if page.instagram_url %}
+              <a class="col col-md-1" href="{{ page.instagram_url }}" target="_blank" />
+                {% include social/instagram.html %}
+              </a>
+            {% endif %}
+            {% if page.youtube_url %}
+              <a class="col col-md-1" href="{{ page.youtube_url }}" target="_blank" />
+                {% include social/youtube.html %}
+              </a>
+            {% endif %}
+            {% if page.amazon_url or page.jb_url or page.sanity_url %}
+              <a class="col col-md-1 purchase" href="#" target="_blank"  data-toggle="modal" data-target="#purchaseModal"/>
+                <i class="fas fa-shopping-bag"></i>
+              </a>
+            {% endif %}
+  
+          </div>
+        </div>
+  
+        {% if page.thumbnail.size > 0 %}
+          <div class="col-lg-6">
+            <div class="row albums">
+              {% for album in page.thumbnail  %}
+                {% if album.image_path != null %}
+                  <div class="col-md-6 album">
+                    <img src="{{ album.image_path }}" class="img-fluid" />
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+  
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal -->
+  <div class="modal fade purchase-modal" id="purchaseModal" tabindex="-1" role="dialog" aria-labelledby="purchaseModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="purchaseModalLabel">Purchase Online</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            {% if page.amazon_url %}
+              <a class="col-4 link" href="{{ page.amazon_url }}" target="_blank" />
+                <img src="/css/images/amazon.png" alt="Amazon" class="img-fluid">
+              </a>
+            {% endif %}
+            {% if page.jb_url %}
+              <a class="col-4 link" href="{{ page.jb_url }}" target="_blank" />
+                <img src="/css/images/jbhifi.png" alt="JB Hi-Fi" class="img-fluid">
+              </a>
+            {% endif %}
+            {% if page.sanity_url %}
+              <a class="col-4 link" href="{{ page.sanity_url }}" target="_blank" />
+                <img src="/css/images/sanity.png" alt="Sanity" class="img-fluid">
+              </a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
