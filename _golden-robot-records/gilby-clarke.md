@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-12-14-at-4-13-53-pm.png
+image_path: /uploads/screen-shot-2018-12-14-at-4-18-58-pm-1.png
 name: Gilby Clarke (USA)
 sort_number: 2
 hidden: false
