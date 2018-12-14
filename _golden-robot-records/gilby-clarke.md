@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-12-14-at-3-48-25-pm.png
+image_path: /uploads/screen-shot-2018-12-14-at-4-13-53-pm.png
 name: Gilby Clarke (USA)
 sort_number: 2
 hidden: false
@@ -13,11 +13,11 @@ youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
 amazon_url:
 jb_url:
 sanity_url:
-hero_path: /images/gilby .jpg
+hero_path: /uploads/screen-shot-2018-12-14-at-4-14-47-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
-  - image_path: /uploads/screen-shot-2018-12-14-at-3-50-02-pm.png
-  - image_path: /uploads/screen-shot-2018-12-14-at-3-56-41-pm.png
+  - image_path: /uploads/screen-shot-2018-12-14-at-4-16-13-pm.png
+  - image_path: /uploads/screen-shot-2018-12-14-at-4-16-42-pm.png
   - image_path: /uploads/screen-shot-2018-12-14-at-3-48-25-pm-1.png
 _type: golden-robot-records
 _options:
