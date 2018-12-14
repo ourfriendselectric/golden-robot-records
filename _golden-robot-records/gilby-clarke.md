@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/screen-shot-2018-12-14-at-3-48-25-pm.png
 name: Gilby Clarke (USA)
 sort_number: 2
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/gilbyclarke'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
 instagram_url: 'https://www.instagram.com/gilbygtr/'
