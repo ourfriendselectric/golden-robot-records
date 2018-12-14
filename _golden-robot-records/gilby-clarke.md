@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /images/gilby clarke.jpg
+image_path: /uploads/screen-shot-2018-12-14-at-3-48-25-pm.png
 name: Gilby Clarke (USA)
-sort_number: 47
+sort_number: 2
 hidden: true
 twitter_url: 'https://twitter.com/gilbyclarke'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -10,25 +10,24 @@ instagram_url: 'https://www.instagram.com/gilbygtr/'
 spotify_url: 'https://open.spotify.com/artist/6Ya7kAthUWvVuSQBX0oIMx'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /images/gilby .jpg
 albums:
-  - image_path:
-  - image_path:
-  - image_path:
-  - image_path:
-
+  - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
+  - image_path: /uploads/screen-shot-2018-12-14-at-3-50-02-pm.png
+  - image_path: /uploads/screen-shot-2018-12-14-at-3-56-41-pm.png
+  - image_path: /uploads/screen-shot-2018-12-14-at-3-48-25-pm-1.png
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
