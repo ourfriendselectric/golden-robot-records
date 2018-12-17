@@ -18,7 +18,7 @@ albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
   - image_path: /uploads/screen-shot-2018-12-14-at-4-16-13-pm.png
   - image_path: /uploads/screen-shot-2018-12-14-at-4-16-42-pm.png
-  - image_path: /uploads/screen-shot-2018-12-14-at-4-24-00-pm-3.png
+  - image_path: /uploads/screen-shot-2018-12-18-at-9-35-55-am.png
 _type: golden-robot-records
 _options:
   image_path:
