@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
 amazon_url:
 jb_url:
 sanity_url:
-hero_path: /uploads/screen-shot-2018-12-17-at-8-22-13-am.png
+hero_path: /uploads/screen-shot-2018-12-17-at-3-47-14-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
   - image_path: /uploads/screen-shot-2018-12-14-at-4-16-13-pm.png
