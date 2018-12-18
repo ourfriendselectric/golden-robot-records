@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Bare-Feet-Gallery-4.jpg
+image_path: /uploads/Current CJ press photo - March 2018 square.png
 name: Caroline Jones (USA)
 sort_number: 1
 hidden: false
