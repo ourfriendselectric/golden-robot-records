@@ -28,9 +28,69 @@ _options:
     resize_style: contain
 ---
 
+With a career spanning more than 50 years, Glenn Shorrock is one of the elder statesmen of Australian contemporary show business and has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB and as a solo artist.
+
+The founding frontman of The Twilights, Axiom and ‘70s hitmakers Little River Band (later known as LRB), Shorrock carved out astonishing success around the globe, particularly in the USA, where LRB shifted the bulk of its 25 million-plus career album sales.
+
+Moving forward, 2019 sees the release of the living legend’s latest and somewhat “reminiscent” solo album, Glenn Shorrock Sings Little River Band, produced and recorded live in the studio by producer and artist, Steve Balbi, at Rancom St Studio and The Engine Room and mixed by Tony Wall.
+
+Out through indie label, Social Family Records, the album is set for release on Friday, 8 March and available for pre-order now. It features ten of Shorrock’s favourite LRB hits, including first single and instant grat track, The Night Owls, penned by long-time friend, Graeham Goble.&nbsp;
+
+BUY/LISTEN TO THE NIGHT OWLS HERE:
+
+[http://smarturl.it/ShorrockTheNightOwls](http://smarturl.it/ShorrockTheNightOwls){: target="_blank"}
+
+The outstanding musicians who joined Shorrock to record the album live in studio included Pete Drummond (drums), Jak Housden (guitar 1), James Van Cooper (guitar 2), Dario Bortolin (bass), Robbie Woolf (keys), Glenn Cunningham (bv’s), Hugh Wilson (bv’s), Phil Stack (upright bass on Reminiscing), Mitchell Rogers (lap steel), and Ross Middleton (sax).&nbsp; The album was engineered by Ted Howard and mastered by Paul Gomersall.
+
+GLENN SHORROCK SINGS LITTLE RIVER BAND
+
+TRACK LISTING
+
+01 It's A Long Way There
+
+02 Help Is On Its Way
+
+03 Home On Monday
+
+04 Shut Down Turn Off
+
+05 Take It Easy On Me
+
+06 Lonesome Loser
+
+07 Cool Change
+
+08 Curiosity Killed the Cat
+
+09 The Night Owls
+
+10 Reminiscing
+
+Pre-Order Glenn Shorrock Sings Little River Band here:
+
+http://smarturl.it/Get-ShorrockSingsLRB
+
+\*\*\* Pre-orders through iTunes (MP3) or the Social Family Records merch store (CD)
+
+receive The Night Owls instantly \*\*\*
+
+ABOUT
+
+Born in Kent, England, Glenn migrated with his family at the age of 10 to Adelaide in the mid-1950s. A self-confessed child of rock ‘n’ roll, he began singing in 1962.&nbsp;
+
+At the end of 1974, Glenn helped form Little River Band as lead singer. Managed by long-time friend, Glenn Wheatley, Little River Band cracked the lucrative United States market in 1976 and began a string of eight Top Ten hits there and around the world, and often been credited for opening the door for many Australian acts on the international circuit. In 1995, Glenn fronted Little River Band during their 20th year anniversary, three and a half-month tour of the United States.&nbsp;
+
+Fast forward to 2016 and the acclaimed singer/songwriter returned with a collection of songs composed by himself and friends, old and new, offering a mix of folk-rock and easy listening tracks with his solo album, Rise Again, also released through Social Family Records and available on CD and digital platforms.
+
+Although now in his 70s, Glenn continues to tour constantly, with 2018 seeing the June release of his autobiography, “Now, Where Was I?” about his career with the Twilights, Axiom and Little River Band and back again. With the new solo album out on March 8, fans can catch Glenn at a run shows later that month and further into 2019.&nbsp; He’s certainly not ready to slow down yet!
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+RISE AGAIN (2016)
+
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
 
-Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist. 
+Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist.&nbsp;
 
 I've been lucky enough, I've never had a proper job over my career, he quips. It's one of the measures of success as far as I'm concerned. People say, what's your success down to? It's about surviving and keeping busy in the entertainment industry. It's something I think a lot about now, being 72 and being a so-called rock legend, which I find amusing.
 
