@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-12-17-at-3-44-25-pm.png
+image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpg
 name: Anthem (JAP)
 sort_number: 46
 hidden: false
