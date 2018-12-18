@@ -15,8 +15,8 @@ jb_url:
 sanity_url:
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
-  - image_path: /uploads/screen-shot-2018-11-27-at-8-02-13-am.png
-  - image_path: 'http://smarturl.it/Get-ShorrockSingsLRB'
+  - image_path: /uploads/GS_RA600x600.jpg
+  - image_path: /uploads/GlennShorrockSingsLRB-album cover 600px.jpeg
 _type: social-family-records
 _options:
   image_path:
