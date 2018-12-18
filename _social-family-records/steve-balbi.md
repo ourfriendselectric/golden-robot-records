@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/balbi-tile-copy.jpg
 name: Steve Balbi (AUS)
-sort_number: 60
+sort_number: 4
 hidden: false
 twitter_url: >-
   https://twitter.com/SteveBalbi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
@@ -11,9 +11,9 @@ instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: 'https://open.spotify.com/artist/7llMZbc53OJaCqJPyoCstY'
 apple_url: 'https://itunes.apple.com/au/artist/steve-balbi/58029023'
 youtube_url: 'https://www.youtube.com/channel/UCqUoN0or4oGyat8NaTeQFhw/featured'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-1-09-42-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-15-29-pm.png
