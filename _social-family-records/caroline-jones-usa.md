@@ -13,7 +13,7 @@ youtube_url:
 amazon_url:
 jb_url:
 sanity_url:
-hero_path:
+hero_path: /uploads/CJ-fbcover.jpg
 albums:
   - image_path:
   - image_path:
