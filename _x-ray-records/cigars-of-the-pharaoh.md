@@ -10,8 +10,7 @@ instagram_url: 'https://www.instagram.com/cigars_of_the_pharaoh/'
 spotify_url: 'https://open.spotify.com/artist/32l1BTBWJYTQhx52MlLaNH'
 apple_url: 'https://itunes.apple.com/au/album/sincere-karma-single/1378184668'
 youtube_url: 'https://www.youtube.com/channel/UCPnHezF4YpAzwljOc9CsnYQ'
-amazon_url: >-
-  https://play.google.com/store/music/album?id=Bonq4bjkfialrpgibxujinzrima&tid=song-Tm3m6sa7eetfswlxgqmt7rnin4u
+amazon_url:
 jb_url:
 sanity_url:
 hero_path: /images/Screen Shot 2018-11-25 at 1.04.29 pm.png
