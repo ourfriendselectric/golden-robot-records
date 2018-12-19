@@ -10,26 +10,25 @@ instagram_url: 'https://www.instagram.com/thecherrydolls/'
 spotify_url: 'https://open.spotify.com/artist/2oLNDqir66xWIn1gmdzeHQ'
 apple_url: 'https://itunes.apple.com/au/album/viva-los-dolls/1313187017'
 youtube_url: 'https://www.youtube.com/user/TheCherryDolls'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url: 'https://www.jbhifi.com.au/music/browse/rock/viva-los-dolls/459194/'
+sanity_url: 'https://www.sanity.com.au/products/2342734'
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
   - image_path: /uploads/screen-shot-2018-11-27-at-3-58-30-pm.png
   - image_path: /uploads/screen-shot-2018-11-27-at-4-02-55-pm.png
   - image_path: /images/the cherry tile 2 copy.jpg
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 With two critically acclaimed EPs under their belt and more broken guitar strings and tour damaged gear than they'd care to recall, The Cherry Dolls are ready to deliver their highly anticipated debut album, Viva Los Dolls, out Friday 28th July. Recorded in a frenetic blast of activity while the rest of town was sleeping off their New Year's hangovers, their debut long player saw Alex Markwell of The Delta Riggs sitting in on production duties to capture their blistering live show on record.
