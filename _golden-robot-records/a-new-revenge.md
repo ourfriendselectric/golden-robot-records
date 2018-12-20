@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/anr-group-shot-edit1.jpeg
+image_path: /uploads/anr.jpg
 name: A New Revenge (USA)
 sort_number: 24
 hidden: false
@@ -18,6 +18,7 @@ hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
 albums:
   - image_path: /uploads/anr-group-shot-edit1.jpeg
   - image_path: /uploads/screen-shot-2018-12-19-at-10-52-49-am.png
+  - image_path: /uploads/anr.jpg
 _type: golden-robot-records
 _options:
   image_path:
