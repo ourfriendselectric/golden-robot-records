@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/Screen Shot 2018-11-27 at 7.47.45 am.png
+image_path: /uploads/hayley-jensen---album-promo-shot-square-copy.jpg
 name: Hayley Jensen (AUS)
 sort_number: 21
 hidden: false
