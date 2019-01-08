@@ -29,23 +29,25 @@ _options:
     resize_style: contain
 ---
 
-With a career spanning more than 50 years, Glenn Shorrock is one of the elder statesmen of Australian contemporary show business and has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB and as a solo artist.
+# Glenn Shorrock (AUS)
+
+With a career spanning more than 50 years, **Glenn Shorrock** is one of the elder statesmen of Australian contemporary show business and has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB and as a solo artist.
 
 The founding frontman of The Twilights, Axiom and ‘70s hitmakers Little River Band (later known as LRB), Shorrock carved out astonishing success around the globe, particularly in the USA, where LRB shifted the bulk of its 25 million-plus career album sales.
 
-Moving forward, 2019 sees the release of the living legend’s latest and somewhat “reminiscent” solo album, Glenn Shorrock Sings Little River Band, produced and recorded live in the studio by producer and artist, Steve Balbi, at Rancom St Studio and The Engine Room and mixed by Tony Wall.
+Moving forward, 2019 sees the release of the living legend’s latest and somewhat “reminiscent” solo album, **Glenn Shorrock Sings Little River Band**, produced and recorded live in the studio by producer and artist, Steve Balbi, at Rancom St Studio and The Engine Room and mixed by Tony Wall.
 
-Out through indie label, Social Family Records, the album is set for release on Friday, 8 March and available for pre-order now. It features ten of Shorrock’s favourite LRB hits, including first single and instant grat track, The Night Owls, penned by long-time friend, Graeham Goble.&nbsp;
+The album is set for release on Friday, 8 March and available for pre-order now. It features ten of Shorrock’s favourite LRB hits, including first single and instant grat track, *The Night Owls*, penned by long-time friend, Graeham Goble.&nbsp;
 
-BUY/LISTEN TO THE NIGHT OWLS HERE:
+**BUY/LISTEN TO THE NIGHT OWLS HERE:**
 
 [http://smarturl.it/ShorrockTheNightOwls](http://smarturl.it/ShorrockTheNightOwls){: target="_blank"}
 
 The outstanding musicians who joined Shorrock to record the album live in studio included Pete Drummond (drums), Jak Housden (guitar 1), James Van Cooper (guitar 2), Dario Bortolin (bass), Robbie Woolf (keys), Glenn Cunningham (bv’s), Hugh Wilson (bv’s), Phil Stack (upright bass on Reminiscing), Mitchell Rogers (lap steel), and Ross Middleton (sax).&nbsp; The album was engineered by Ted Howard and mastered by Paul Gomersall.
 
-GLENN SHORROCK SINGS LITTLE RIVER BAND
+**GLENN SHORROCK SINGS LITTLE RIVER BAND**
 
-TRACK LISTING
+**TRACK LISTING**
 
 01 It's A Long Way There
 
@@ -67,15 +69,13 @@ TRACK LISTING
 
 10 Reminiscing
 
-Pre-Order Glenn Shorrock Sings Little River Band here:
+**Pre-Order Glenn Shorrock Sings Little River Band here**:
 
 [http://smarturl.it/Get-ShorrockSingsLRB](http://smarturl.it/Get-ShorrockSingsLRB){: target="_blank"}
 
-\*\*\* Pre-orders through iTunes (MP3) or the Social Family Records merch store (CD)
+***\*\*\* Pre-orders through iTunes (MP3) or the Social Family Records merch store (CD)&nbsp;******receive The Night Owls instantly \*\*\****
 
-receive The Night Owls instantly \*\*\*
-
-ABOUT
+## **ABOUT**
 
 Born in Kent, England, Glenn migrated with his family at the age of 10 to Adelaide in the mid-1950s. A self-confessed child of rock ‘n’ roll, he began singing in 1962.&nbsp;
 
@@ -87,7 +87,7 @@ Although now in his 70s, Glenn continues to tour constantly, with 2018 seeing th
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-RISE AGAIN (2016)
+## **RISE AGAIN (2016)**
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
 
