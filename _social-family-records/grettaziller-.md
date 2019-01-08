@@ -55,4 +55,6 @@ While the album title might appear to be big-noting, one listen to title track Q
 
 Buy/Listen to Queen of Boomtown here: &nbsp;[http://smarturl.it/GZ-QueenOfBoomtown](http://smarturl.it/GZ-QueenOfBoomtown){: target="_blank"}
 
+&nbsp;
+
 ## **FOLLOW GRETTA ZILLER:**
