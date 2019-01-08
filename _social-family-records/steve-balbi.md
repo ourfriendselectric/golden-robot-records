@@ -50,4 +50,8 @@ Casting a renewed focus upon the notion humanity in both riff and verse, ***Mode
 
 ![](/uploads/stevebalbi-modernlove-500px.jpeg)
 
+## FOLLOW SOCIAL FAMILY RECORDS:
+
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"} | [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"} | [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}
+
 ## **FOLLOW STEVE BALBI:**
