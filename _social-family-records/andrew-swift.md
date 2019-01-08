@@ -75,3 +75,11 @@ Across the 10 impressive songs is a recurring theme, an observation of our need 
 It seems Swift’s days of drifting may be over. Buoyed by the passionate and supportive country music scene, shore won’t ever be so far away.
 
 Buy Call Out For The Cavalry on digital or CD here:&nbsp; [http://smarturl.it/CallOutForTheCavalry](http://smarturl.it/CallOutForTheCavalry){: target="_blank"}
+
+## FOLLOW SOCIAL FAMILY RECORDS:
+
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+
+&nbsp;
+
+## FOLLOW ANDREW SWIFT:
