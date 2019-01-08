@@ -33,7 +33,7 @@ _options:
 
 # Gretta Ziller (AUS)
 
-First impressions aren't always right. If you've been foolish enough to nail down the sound of acclaimed songwriter Gretta Ziller, then prepare to have the rug pulled out from under you. **Queen of Boomtown**, her stunning debut record, which received a **2018 Golden Guitar nomination for Alt Country Album of the Year**, almost defies categorisation and demands repeated listens.
+First impressions aren't always right. If you've been foolish enough to nail down the sound of acclaimed songwriter Gretta Ziller, then prepare to have the rug pulled out from under you. **Queen of Boomtown**, her stunning debut record, (which received a **2018 Golden Guitar nomination for Alt Country Album of the Year**, **2018 Country Music Channel Awards nomination for CMC New Artist of the Year, a finalist for The Australian Music Prize for Best Album fo 2017**), almost defies categorisation and demands repeated listens.
 
 Ziller's sound may bear the hallmarks of classic Americana music, but it's essence is far more diverse. The Melbourne songstress roots span jazz, blues, rock, pop and classical, and that eclectic musical upbringing is reflected in the varied tracks on this new collection.
 
