@@ -15,8 +15,8 @@ jb_url:
 sanity_url:
 hero_path: /uploads/hayley-jensen---album-promo-shot-web.jpeg
 albums:
-  - image_path: /uploads/Screen Shot 2018-11-27 at 7.49.04 am.png
-  - image_path: /uploads/screen-shot-2018-11-27-at-7-49-22-am.png
+  - image_path: /uploads/hayley-jensen---turning-up-the-dial---500px.jpeg
+  - image_path:
 _type: social-family-records
 _options:
   image_path:
