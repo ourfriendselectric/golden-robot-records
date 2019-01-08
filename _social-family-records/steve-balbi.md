@@ -16,10 +16,10 @@ jb_url:
 sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-1-09-42-pm.png
 albums:
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-15-29-pm.png
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-12-16-pm.png
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-15-14-pm.png
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-12-47-pm.png
+  - image_path: /uploads/sb-blackrainbow-coverart-500px.jpeg
+  - image_path: /uploads/rainbow-black-cover-500px.jpeg
+  - image_path:
+  - image_path:
 _type: social-family-records
 _options:
   image_path:
@@ -46,8 +46,8 @@ In April this year, the world became a very different place for millions of Aust
 
 Yet it is Balbi's debut solo LP, **Black Rainbow (2013)**, and its subsequent surreal reprise, **Rainbow Black (2016)**, which appears to have set a point of departure for his enigmatic artistry, and manifestation of his forthcoming solo LP- Humans. Inspired by ten photographs from Brandon Stanton's Humans of New York series, Balbi’s second solo endeavour is an eclectic collection of words and music that navigates a wistful path from melancholy through madness.
 
-Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019.&nbsp;
+Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019. 
 
-&nbsp;
+ 
 
 ## **FOLLOW STEVE BALBI:**
