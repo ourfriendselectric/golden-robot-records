@@ -52,3 +52,5 @@ Queen of Boomtown is threaded with a gentle fatalism, each song conveying an acc
 While the album title might appear to be big-noting, one listen to title track Queen of Boomtown and its self-deprecating context becomes apparent. Ziller's radiant tune paints a picture of isolation, standing tall in a metaphorically abandoned town. "Picking this song as the title was tough for me because at first glance it may come across as me thinking I’m the top of the pile," Ziller explains. "But, in fact, the song is the opposite. I guess that’s what I wanted my album to sound like people may think it’s going to be like my EP maybe more country but it's not. First impressions aren’t always right".
 
 Buy/Listen to Queen of Boomtown here: &nbsp;[http://smarturl.it/GZ-QueenOfBoomtown](http://smarturl.it/GZ-QueenOfBoomtown){: target="_blank"}
+
+## **FOLLOW GRETTA ZILLER:**
