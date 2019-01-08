@@ -31,10 +31,12 @@ _options:
     resize_style: contain
 ---
 
-Named as one of the “10 Country Artists You Need to Know” by Rolling Stone in 2017 and one of the “15 Country Artists to Watch in 2018” according to Billboard, rising US country singer-songwriter and multi-instrumentalist, Caroline Jones, has signed a deal with Social Family Records for the Australian and UK release of her acclaimed album, Bare Feet, which she co-produced with Grammy and Academy Award-winning producer, Ric Wake (Mariah Carey, Celine Dion, Whitney Houston, Trisha Yearwood).  Caroline is the first international signing for the Aussie indie record label.
+# Caroline Jones (USA)
+
+Named as one of the “10 Country Artists You Need to Know” by Rolling Stone in 2017 and one of the “15 Country Artists to Watch in 2018” according to Billboard, rising US country singer-songwriter and multi-instrumentalist, Caroline Jones, has signed a deal with Social Family Records for the Australian and UK release of her acclaimed album, Bare Feet, which she co-produced with Grammy and Academy Award-winning producer, Ric Wake (Mariah Carey, Celine Dion, Whitney Houston, Trisha Yearwood).&nbsp; Caroline is the first international signing for the Aussie indie record label.
 
 Born in New York City to her American father and Australian mother, Caroline has family in Sydney. With the first single slated for release early in 2019, she’s looking forward to heading down here to perform in the near future.
 
 Throughout 2017 and 2018, Caroline has toured with the likes of Jimmy Buffett, The Eagles, Zac Brown Band and OneRepublic, Tim McGraw & Faith Hill, Kip Moore and Vince Gill, and is scheduled to hit the road with Kenny Chesney in April 2019, following Country to Country in Ireland in March.
 
-It was in 2017 when Caroline was on the road with Zac Brown Band and sharing the stage with Jimmy Buffett, Kenny Chesney, and Toby Keith at the Trying to Reason hurricane relief benefit concert, that led to a live duet with Buffett, which then turned into a charity single release and ultimately, a partnership with his Mailboat Records in the USA – and the rest is history.  Previously, Caroline has toured schools and universities across the States, including underserved and charter schools with Stedman Graham on The Heart is Smart School Tour. Caroline is also the host of Art & Soul on Sirius XM.
+It was in 2017 when Caroline was on the road with Zac Brown Band and sharing the stage with Jimmy Buffett, Kenny Chesney, and Toby Keith at the Trying to Reason hurricane relief benefit concert, that led to a live duet with Buffett, which then turned into a charity single release and ultimately, a partnership with his Mailboat Records in the USA – and the rest is history.&nbsp; Previously, Caroline has toured schools and universities across the States, including underserved and charter schools with Stedman Graham on The Heart is Smart School Tour. Caroline is also the host of Art & Soul on Sirius XM.
