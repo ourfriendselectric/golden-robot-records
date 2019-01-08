@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2018-11-27-at-1-30-16-pm.png
+image_path: /uploads/img-1685-2-copy.jpg
 name: Gretta Ziller (AUS)
 sort_number: 18
 hidden: false
@@ -11,14 +11,14 @@ instagram_url: 'https://www.instagram.com/grettaziller/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98'
 apple_url: 'https://itunes.apple.com/au/artist/gretta-ziller/348673625'
 youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
-amazon_url: 
-jb_url: 
-sanity_url: 
-hero_path: /uploads/gretta-ziller-cover-copy.jpg
+amazon_url:
+jb_url:
+sanity_url:
+hero_path: /uploads/img-1810-copy.jpg
 albums:
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-18-35-pm.png
-  - image_path: /uploads/screen-shot-2018-11-27-at-1-28-37-pm.png
-  - image_path: /uploads/screen-shot-2018-11-27-at-1-28-27-pm.png
+  - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-500px.jpeg
+  - image_path: /uploads/hhanewspecs-copy.jpg
+  - image_path:
 _type: social-family-records
 _options:
   image_path:
