@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/hayley-jensen---album-promo-shot-square-copy.jpg
+image_path: /uploads/hayley-jensen---album-promo-shot-square-copy-1.jpg
 name: Hayley Jensen (AUS)
 sort_number: 21
 hidden: false
