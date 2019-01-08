@@ -32,6 +32,8 @@ _options:
     resize_style: contain
 ---
 
+# Andrew Swift (AUS)
+
 4 x 2019 Golden Guitar Finalist!
 
 **Call Out For The Cavalry** was a debut album, of sorts – not Swift’s first album, but his first Alt-country record.&nbsp; Upon release in March 2018, it found itself on the charts and achieved the following positions:
