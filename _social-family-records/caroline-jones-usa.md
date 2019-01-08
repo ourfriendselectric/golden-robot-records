@@ -40,3 +40,13 @@ Born in New York City to her American father and Australian mother, Caroline has
 Throughout 2017 and 2018, Caroline has toured with the likes of Jimmy Buffett, The Eagles, Zac Brown Band and OneRepublic, Tim McGraw & Faith Hill, Kip Moore and Vince Gill, and is scheduled to hit the road with Kenny Chesney in April 2019, following Country to Country in Ireland in March.
 
 It was in 2017 when Caroline was on the road with Zac Brown Band and sharing the stage with Jimmy Buffett, Kenny Chesney, and Toby Keith at the Trying to Reason hurricane relief benefit concert, that led to a live duet with Buffett, which then turned into a charity single release and ultimately, a partnership with his Mailboat Records in the USA – and the rest is history.&nbsp; Previously, Caroline has toured schools and universities across the States, including underserved and charter schools with Stedman Graham on The Heart is Smart School Tour. Caroline is also the host of Art & Soul on Sirius XM.
+
+&nbsp;
+
+## FOLLOW SOCIAL FAMILY RECORDS:
+
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=jBde7q3FTHmYB6KTk-JWNA){: target="_blank"}
+
+&nbsp;
+
+## FOLLOW CAROLINE JONES:
