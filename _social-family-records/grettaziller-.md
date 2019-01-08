@@ -14,7 +14,7 @@ youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
 amazon_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
 jb_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
 sanity_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
-hero_path: /uploads/img-1810-copy.jpg
+hero_path: /uploads/img-1810-copy-1.jpg
 albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-500px.jpeg
   - image_path: /uploads/hhanewspecs-copy.jpg
@@ -37,11 +37,11 @@ First impressions aren't always right. If you've been foolish enough to nail dow
 
 Ziller's sound may bear the hallmarks of classic Americana music, but it's essence is far more diverse. The Melbourne songstress roots span jazz, blues, rock, pop and classical, and that eclectic musical upbringing is reflected in the varied tracks on this new collection.
 
-"*I didn't want to make an album that sounded like anything in the Americana scene right now,*" says Ziller.&nbsp; "*I wanted my album to reflect the soundtrack of my childhood, yet sonically and lyrically sound like who I am now. I really wanted to push the boundaries of what country music, or Americana, alt-country whatever you want to call it can sound like. I didn't want to fit neat and tidy into the country music box*".
+"*I didn't want to make an album that sounded like anything in the Americana scene right now,*" says Ziller.  "*I wanted my album to reflect the soundtrack of my childhood, yet sonically and lyrically sound like who I am now. I really wanted to push the boundaries of what country music, or Americana, alt-country whatever you want to call it can sound like. I didn't want to fit neat and tidy into the country music box*".
 
 Ziller brought together an impressive array of musicians to perform on Queen of Boomtown, the recordings featuring members of Saskwatch, The Cat Empire, and the bands of Angus & Julia Stone, Passenger and Dan Sultan. Accomplished songwriter Jen Mize provides backing vocals while Henry Wagons appears as a guest on *Round and Round*.
 
-Recorded at Woodstock Studios, Balaclava, the album was produced by New Zealand-born, Melbourne-based singer-songwriter Paul Ruske. "*Working with Paul was the most amazing experience*," Ziller recalls. "*Not only is he such a beautiful person and talented musician, but he understood me and what I wanted with this record*".&nbsp;
+Recorded at Woodstock Studios, Balaclava, the album was produced by New Zealand-born, Melbourne-based singer-songwriter Paul Ruske. "*Working with Paul was the most amazing experience*," Ziller recalls. "*Not only is he such a beautiful person and talented musician, but he understood me and what I wanted with this record*". 
 
 Ziller and Ruske's combined desire to break the country mould paid off. There's certainly some classic country influence in the gorgeous production of *Jude* and *Go On*, but that vanishes quickly on the rock stomper *Let It Go* or the sparse, aching piano ballad *This is Gonna Hurt* and the sultry *Whiskey Shivers*. Written over an almost six-year period, this collection covers vast emotional territory.
 
@@ -53,12 +53,12 @@ Queen of Boomtown is threaded with a gentle fatalism, each song conveying an acc
 
 While the album title might appear to be big-noting, one listen to title track Queen of Boomtown and its self-deprecating context becomes apparent. Ziller's radiant tune paints a picture of isolation, standing tall in a metaphorically abandoned town. "*Picking this song as the title was tough for me because at first glance it may come across as me thinking I’m the top of the pile*," Ziller explains. "*But, in fact, the song is the opposite. I guess that’s what I wanted my album to sound like people may think it’s going to be like my EP maybe more country but it's not. First impressions aren’t always right*".
 
-**Buy Queen of Boomtown on digital or CD here:** &nbsp;[http://smarturl.it/GZ-QueenOfBoomtown](http://smarturl.it/GZ-QueenOfBoomtown){: target="_blank"}
+**Buy Queen of Boomtown on digital or CD here:**  [http://smarturl.it/GZ-QueenOfBoomtown](http://smarturl.it/GZ-QueenOfBoomtown){: target="_blank"}
 
 ## FOLLOW SOCIAL FAMILY RECORDS ON:
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW GRETTA ZILLER:**
