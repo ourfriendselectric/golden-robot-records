@@ -32,6 +32,8 @@ _options:
     resize_style: contain
 ---
 
+# Steve Balbi (AUS)
+
 The music of singer, composer, performer and producer Steve Balbi mines a kaleidoscope of life at the margins. Transcending rock and pop as he coalesces sentimentality and soul, Balbi bespeaks Bowie and Dylan in melody and verse, exploring the heterogeneity, refinement and dirty rotten groove of Radiohead.
 
 First cutting his chops on bass with Kevin Borich Express at just 17 years of age, Balbi was very much the child prodigy. Although the creative chameleon's species being was soon liberated as Balbi cultivated an indelible production and song-writing partnership with Justin Stanley; first founding and producing Aussie chart-toppers Noiseworks (1986), before forming the Electric Hippies (1993).
@@ -45,3 +47,7 @@ In April this year, the world became a very different place for millions of Aust
 Yet it is Balbi's debut solo LP, Black Rainbow (2013), and its subsequent surreal reprise, Rainbow Black (2016), which appears to have set a point of departure for his enigmatic artistry, and manifestation of his forthcoming solo LP- Humans. Inspired by ten photographs from Brandon Stanton's Humans of New York series, Balbi’s second solo endeavour is an eclectic collection of words and music that navigates a wistful path from melancholy through madness.
 
 Casting a renewed focus upon the notion humanity in both riff and verse is the first single' Modern Love’, which is due for release on Friday 26 October; pre-sales from Friday 21 September; with the studio album, Humans, to follow in early 2019.
+
+&nbsp;
+
+## **FOLLOW STEVE BALBI:**
