@@ -46,8 +46,8 @@ In April this year, the world became a very different place for millions of Aust
 
 Yet it is Balbi's debut solo LP, **Black Rainbow (2013)**, and its subsequent surreal reprise, **Rainbow Black (2016)**, which appears to have set a point of departure for his enigmatic artistry, and manifestation of his forthcoming solo LP- Humans. Inspired by ten photographs from Brandon Stanton's Humans of New York series, Balbi’s second solo endeavour is an eclectic collection of words and music that navigates a wistful path from melancholy through madness.
 
-Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019. 
+Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019.&nbsp;
 
- 
+![](/uploads/stevebalbi-modernlove-500px.jpeg)
 
 ## **FOLLOW STEVE BALBI:**
