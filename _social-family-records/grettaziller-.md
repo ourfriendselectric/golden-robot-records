@@ -55,6 +55,8 @@ While the album title might appear to be big-noting, one listen to title track Q
 
 Buy&nbsp;**Queen of Boomtown**&nbsp;on digital or CD here: &nbsp;[http://smarturl.it/GZ-QueenOfBoomtown](http://smarturl.it/GZ-QueenOfBoomtown){: target="_blank"}
 
-&nbsp;
+## FOLLOW SOCIAL FAMILY RECORDS ON:
+
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
 ## **FOLLOW GRETTA ZILLER:**
