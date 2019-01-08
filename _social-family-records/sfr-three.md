@@ -29,6 +29,8 @@ _options:
     resize_style: contain
 ---
 
+# Hayley Jensen (AUS)
+
 Hayley Jensen is an artist whose vocal abilities place her in elite company within Australian Country Music. The singer-songwriter who now calls Sydney home experienced a breakout 12-month period with her new record Past Tense and Present Peace, achieving her first iTunes #1 chart position and her hard-work was rewarded with the Southern Stars Rising Female Artist Award.
 
 Growing up in regional Australia, Hayley was initially attracted to the honest storytelling and authenticity of Country Music. Her musical journey has been eclectic, bursting onto the scene through Australian Idol, she explored her range as an artist, ultimately returning to the genre that launched her career.
