@@ -113,7 +113,9 @@ Shorrock's had his hands full since the release of his last album of originals, 
 
 Shorrock always looks forward, though his live performances pay respect to the past. His typical set list will feature a wealth of classic tracks from across his 50-year-plus career, woven in with material from his latest album. "*It's an eclectic bunch of material*," he says of Rise Again. "*I didn't want to reproduce the same song over and again and not everybody is going to like everything. But I wanted it to be a very dynamic record. And I think I've succeeded in that*."
 
-## FOLLOW SOCIAL FAMILY RECORDS:
+&nbsp;
+
+## **FOLLOW SOCIAL FAMILY RECORDS:**
 
 [Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=GlGf_564T3qRYGTwRoTm_g){: target="_blank"}
 
