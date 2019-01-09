@@ -48,7 +48,7 @@ Yet it is Balbi's debut solo LP, **Black Rainbow (2013)**, and its subsequent su
 
 Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019.&nbsp;
 
-![](/uploads/stevebalbi-modernlove-250px-1.jpeg)![](/uploads/stevebalbi-modernlove-250px.jpeg)
+![](/uploads/stevebalbi-modernlove-250px.jpeg)
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
