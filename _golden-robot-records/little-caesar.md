@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/lc square.jpg
-name: Little Caesar (USA)
+name: Little Caesar
 sort_number: 27
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
