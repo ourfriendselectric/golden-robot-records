@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/the cherry dolls tile copy.jpg
-name: The Cherry Dolls (AUS)
+name: The Cherry Dolls
 sort_number: 40
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
