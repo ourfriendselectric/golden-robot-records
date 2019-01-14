@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/THS TILE 4 copy.jpg
-name: The Heartache State (AUS)
+name: The Heartache State
 sort_number: 45
 hidden: false
 twitter_url: 'https://twitter.com/heartachestate'
