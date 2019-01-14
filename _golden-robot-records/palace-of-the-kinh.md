@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/potk tile 4 copy.jpg
-name: Palace of the King (AUS)
+name: Palace of the King
 sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/PalaceOfTheKing'
