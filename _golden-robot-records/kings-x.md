@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/kings x image path tile.jpg
-name: King's X (USA)
+name: King's X
 sort_number: 3
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
@@ -10,26 +10,25 @@ instagram_url: 'https://www.instagram.com/kingsxofficial/'
 spotify_url: 'https://open.spotify.com/search/results/king''s%20x'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/kings x tile copy.jpg
 albums:
   - image_path: /uploads/kings x tile 2 copy.jpg
   - image_path: /uploads/kings x tile 4 copy.jpg
   - image_path: /uploads/kings x tile 32 copy.jpg
   - image_path: /uploads/kings x tile 34 copy.jpg
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Since the release of their debut record, Out Of The Silent Planet, in 1988, KING’S X released a dozen albums that have seen them rightfully earn their place on the rock royalty family tree. Fusing progressive metal, funk and soul grooves with vocal arrangements rooted in blues, gospel and even the British Invasion era influences, KING’S X created a style all their own which continues to be an inspiration for bands to this day.
