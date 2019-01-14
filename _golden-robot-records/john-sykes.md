@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/john sykes tile 5 copy.jpg
-name: John Sykes (USA/UK)
+name: John Sykes
 sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
