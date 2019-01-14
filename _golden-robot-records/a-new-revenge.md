@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/anr-group-shot-edit1-1.jpeg
-name: A New Revenge (USA)
+name: A New Revenge
 sort_number: 24
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
