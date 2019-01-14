@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpg
-name: Anthem (JAP)
+name: Anthem
 sort_number: 46
 hidden: false
 twitter_url: 'https://twitter.com/anthem_official'
