@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/flicker tile 7 copy.jpg
-name: Flickertail (AUS)
+name: Flickertail
 sort_number: 38
 hidden: false
 twitter_url:
