@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/groom epoch tile copy.jpg
-name: Groom Epoch (AUS)
+name: Groom Epoch
 sort_number: 6587
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
