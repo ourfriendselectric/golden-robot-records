@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-12-14-at-4-24-00-pm-2.png
-name: Gilby Clarke (USA)
+name: Gilby Clarke
 sort_number: 2
 hidden: false
 twitter_url: 'https://twitter.com/gilbyclarke'
