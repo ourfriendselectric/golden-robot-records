@@ -1,35 +1,35 @@
 ---
 layout: artist
 image_path: /images/the kids both images copy.jpg
-name: The Kids (AUS)
+name: The Kids
 sort_number: 30
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
 instagram_url: 'https://www.instagram.com/thekidspunkrock/'
 spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
-apple_url: 'https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120'
+apple_url: >-
+  https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/screen-shot-2018-11-27-at-6-08-12-pm.png
 albums:
   - image_path: /uploads/TheKids-IJWBH-600px.jpeg
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
   - image_path: /uploads/the kids tile 4 copy.jpg
   - image_path: /uploads/the kids tile 2 copy.jpg
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth. 
