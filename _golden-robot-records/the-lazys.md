@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/the lazys tile copy.jpg
-name: The Lazys (CAN)
+name: The Lazys
 sort_number: 29
 hidden: false
 twitter_url: 'https://twitter.com/thelazysband?lang=en'
