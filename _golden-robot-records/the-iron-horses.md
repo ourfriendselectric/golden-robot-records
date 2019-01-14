@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 5.42.56 pm.png
-name: The Iron Horses (AUS)
+name: The Iron Horses
 sort_number: 33
 hidden: false
 twitter_url: 'https://twitter.com/TheIronHorses1'
@@ -10,26 +10,25 @@ instagram_url: 'https://www.instagram.com/theironhorses/'
 spotify_url: 'https://open.spotify.com/artist/0KvH4F4ldUQADRihrAECUU'
 apple_url: 'https://itunes.apple.com/au/album/salvation-single/1435276237'
 youtube_url: 'https://www.youtube.com/channel/UCk-pxELR-n_ZiPH7WkRZEgA'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/Screen Shot 2018-11-05 at 4.08.47 pm.png
 albums:
   - image_path: /uploads/April Rain Artwork-01-01-01.png
   - image_path: /images/Traffic single cover.jpg
   - image_path: /uploads/tih tile copy.jpg
   - image_path: /uploads/tih tile 6 copy.jpg
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 The Iron Horses were forged in the fiery heat of late night, boozy jam sessions in Sydney’s North Shore when singer Duncan Welsh and guitarist Ciaran Loughran found drummer Peter Holt and bassist Rahul Ranjit in 2015. Now, the band has taken their emotionally driven rock sound from the bars of Sydney to the international stage following their 2017 signing with Golden Robot Records. Taking influence from the likes of Ryan Adams, Kingswood, British India and Kings Of Leon and infusing some Jethro Tull inspired vocals, The Iron Horses are exactly what defines Australian rock today.
