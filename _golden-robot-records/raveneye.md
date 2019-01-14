@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/Screen Shot 2018-11-25 at 7.31.15 pm.png
-name: RavenEye (UK)
+name: RavenEye
 sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/ItsRavenEye'
@@ -10,26 +10,25 @@ instagram_url: 'https://www.instagram.com/itsraveneye/'
 spotify_url: 'https://open.spotify.com/search/results/raveneye'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCdKLQB3k1jvUArLckZNhZsg'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /images/raven cover copy.jpg
 albums:
   - image_path: /images/raven tile 3.jpg
   - image_path: /images/raven tile 2.jpg
   - image_path: /images/Screen Shot 2018-11-25 at 7.19.55 pm.png
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.33.35 pm.png
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Since releasing their wildly successful EP, Breaking Out, and debut album NOVA, UK rock trio RavenEye has toured globally, including as direct support for Slash w/ Myles Kennedy (US and Europe), KISS (European arena tour, May 2017), BUSH (Europe), Aerosmith (Lisbon),
@@ -50,4 +49,4 @@ RavenEye released an EP, “Breaking Out” (2015), and its debut Album, “NOVA
 
 When RavenEye formed three and one-half years ago, the then 25 year old, Oli Brown, singer and multi-award winning guitarist, had already released four solo albums and toured the world for 10 years with legends such as Jeff Beck, Buddy Guy, Johnny Winter and Joe Satriani. Mojo even hailed Oli as “the hottest young pistol in British blues” and Classic Rock Magazine described him as "one of the best and brightest guitar heroes performing in the world today." RavenEye’s live performances take their present and future fans on a journey to the next level.
 
-In November 2018, the band finished recording their second album which will be released in 2019 through Golden Robot Records.&nbsp;
+In November 2018, the band finished recording their second album which will be released in 2019 through Golden Robot Records.
