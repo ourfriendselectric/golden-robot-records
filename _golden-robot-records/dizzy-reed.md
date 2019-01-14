@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/dizzy tile copy.jpg
-name: Dizzy Reed (USA)
+name: Dizzy Reed
 sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/dizzyreed'
