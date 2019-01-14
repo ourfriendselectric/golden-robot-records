@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/kibey kennedy both copy.jpg
-name: Kilbey Kennedy (AUS)
+name: Kilbey Kennedy
 sort_number: 42
 hidden: false
 twitter_url: 'https://twitter.com/KilbeyKennedy'
@@ -10,26 +10,25 @@ instagram_url: 'https://www.instagram.com/kilbeykennedy/'
 spotify_url: 'https://open.spotify.com/search/results/kilbey%20kennedy'
 apple_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg
   - image_path: /images/kk tile 2 copy.jpg
   - image_path: /images/kk tile  copy.jpg
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-14-pm.png
-
 _type: golden-robot-records
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
   hero_path:
     width: 1500
     height: 1000
-    resize_style: "contain"
+    resize_style: contain
 ---
 
 Steve Kilbey, band singer, songwriter, bassist, painter,writer, poet, actor, sage, dispenser of arcane wisdom is one of Australia’s most loved artists.
