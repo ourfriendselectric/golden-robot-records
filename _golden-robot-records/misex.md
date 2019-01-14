@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/mi-sex tile2.jpg
-name: Mi-Sex (AUS/NZ)
+name: Mi-Sex
 sort_number: 36
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
