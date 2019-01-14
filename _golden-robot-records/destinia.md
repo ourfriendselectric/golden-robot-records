@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /images/destinia tile 1 copy.jpg
-name: Destinia (JAP)
+name: Destinia
 sort_number: 35
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
