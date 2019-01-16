@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/skidrow.jpg
+image_path: /uploads/screen-shot-2019-01-16-at-12-04-26-pm.png
 name: Skidrow
 sort_number: 48
 hidden: false
@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/channel/UCncr4k7oPRqXOqMl3vvymqQ'
 amazon_url:
 jb_url:
 sanity_url:
-hero_path: /uploads/screen-shot-2019-01-16-at-11-56-48-am.png
+hero_path: /uploads/screen-shot-2019-01-16-at-12-05-17-pm.png
 albums:
   - image_path:
 _type: golden-robot-records
