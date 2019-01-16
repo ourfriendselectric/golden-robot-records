@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2019-01-16-at-12-04-26-pm.png
 name: Skidrow
-sort_number: 22
+sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/OfficialSkidRow'
 facebook_url: 'https://www.facebook.com/OfficialSkidRow/?tn-str=k*F'
