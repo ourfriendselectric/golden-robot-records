@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/anr-group-shot-edit1-1.jpeg
+image_path: /uploads/screen-shot-2019-01-16-at-12-00-23-pm.png
 name: A New Revenge
 sort_number: 24
 hidden: false
