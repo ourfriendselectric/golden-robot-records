@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/dani-young-tile-copy-2.jpg
-name: Dani Young (AUS - Distro)
+name: Dani Young
 sort_number: 100
 hidden: false
 twitter_url: 'https://twitter.com/daniyoungmusic'
@@ -10,9 +10,9 @@ instagram_url: 'http://instagram.com/socialfamilyrecords'
 spotify_url: 'https://open.spotify.com/artist/36tSQtqslGaoT8C0gWwUvg'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/DanielleYoungMusic'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-2-03-30-pm.png
 albums:
   - image_path: /uploads/dani-young-cover-copy-1.jpg
