@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/benny-allen-tile-copy.jpg
-name: Benny Allen (AUS - Distro)
+name: Benny Allen
 sort_number: 84
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/6id9uO8Ma9coSv1iHFpx1w'
 apple_url: 'https://itunes.apple.com/au/artist/benny-allen/1277457865'
 youtube_url: 'https://www.youtube.com/channel/UCPMJwbX9dK5aiiKgxQ1FK_A'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/benny-allen-cover-copy.jpg
 albums:
   - image_path: /uploads/benny-allen-album-3000-px.jpg
