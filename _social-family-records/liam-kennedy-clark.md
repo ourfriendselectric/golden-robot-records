@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/liam-kennedy-promo-copy.jpg
-name: Liam Kennedy-Clark (NZ/AUS - Distro)
+name: Liam Kennedy-Clark
 sort_number: 170
 hidden: false
 twitter_url: 'https://twitter.com/LiamKCmusic'
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/liamkennedyclark/'
 spotify_url: 'https://open.spotify.com/artist/17jr24YbxseXLwINv8BiH4'
 apple_url: 'https://itunes.apple.com/au/artist/liam-kennedy-clark/920708357'
 youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/liam-kennedy-cover-copy.jpg
 albums:
   - image_path: /uploads/lkc-3000x3000.jpg
