@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jasmine-atkins-both-copy.jpg
-name: Jasmine Atkins (AUS - Distro)
+name: Jasmine Atkins
 sort_number: 120
 hidden: false
 twitter_url: 'https://twitter.com/jazzatkinsmusic'
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/jasmine_atkins_music/'
 spotify_url: 'https://open.spotify.com/artist/6Qt79wH1FOI7PWao5UGBqH?autoplay=true&v=A'
 apple_url: 'https://itunes.apple.com/au/artist/jasmine-atkins/789812124'
 youtube_url: 'https://www.youtube.com/channel/UCtLmj6R3RnDojDy2n2ZQKYw'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-2-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-2-07-47-pm.png
