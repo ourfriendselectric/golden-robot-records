@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/dungarees-2400-2016-33-500px.jpeg
-name: The Dungarees (CA - Distro)
+name: The Dungarees
 sort_number: 350
 hidden: false
 twitter_url: 'https://twitter.com/DungareesBand'
@@ -11,10 +11,9 @@ spotify_url: >-
   https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg
 apple_url: 'https://itunes.apple.com/au/artist/the-dungarees/895989335'
 youtube_url:
-amazon_url: 
-jb_url: 
-sanity_url: 
-
+amazon_url:
+jb_url:
+sanity_url:
 hero_path:
 albums:
   - image_path:
