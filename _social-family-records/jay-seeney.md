@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jsb-94-of-206-square---500px.jpeg
-name: Jay Seeney (AUS - Distro)
+name: Jay Seeney
 sort_number: 130
 hidden: false
 twitter_url:
@@ -10,9 +10,9 @@ instagram_url:
 spotify_url:
 apple_url:
 youtube_url:
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path:
 albums:
   - image_path:
