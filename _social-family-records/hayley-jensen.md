@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/hayley-jensen---album-promo-shot-square-copy-1.jpg
-name: Hayley Jensen (AUS)
+name: Hayley Jensen
 sort_number: 21
 hidden: false
 twitter_url: 'https://twitter.com/thehayleyjensen?lang=en'
@@ -89,14 +89,14 @@ Hayley released her third single of the album, titled ‘Forever Wont Be Long En
 
 The fourth single from Turning Up the Dial, This Love, was released in November 2018.
 
-**Buy Turning Up The Dial on digital or CD here**: &nbsp;[http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
+**Buy Turning Up The Dial on digital or CD here**:  [http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW HAYLEY JENSEN:**
