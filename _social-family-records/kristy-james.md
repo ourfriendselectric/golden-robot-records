@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/kristy-james-both-copy.jpg
-name: Kristy James (AUS)
+name: Kristy James
 sort_number: 34
 hidden: false
 twitter_url: 'https://twitter.com/kristyjamesmus?lang=en'
@@ -10,9 +10,9 @@ instagram_url: 'https://www.instagram.com/kristyjamesmusic/'
 spotify_url: 'https://open.spotify.com/artist/4ycTm72puHRZpj6WkZCPb0'
 apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
-amazon_url: 
-jb_url: 
-sanity_url: 
+amazon_url:
+jb_url:
+sanity_url:
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
