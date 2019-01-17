@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jetty-road-both-copy.jpg
-name: Jetty Road (AUS)
+name: Jetty Road
 sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/jettyroad?lang=en'
@@ -42,6 +42,6 @@ The trio signed with Social Family Records and their new album is slated for rel
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
 ## **FOLLOW JETTY ROAD:**
