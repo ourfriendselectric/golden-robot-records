@@ -1,7 +1,7 @@
 ---
 image_path: /uploads/screen-shot-2019-01-23-at-9-28-34-am.png
 hidden: false
-sort_number: 92
+sort_number: 94
 name: Palace of the King
 album_name: Get Right With Your Maker (GRR - Single)
 album_url: >-
