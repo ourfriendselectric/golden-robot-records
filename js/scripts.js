@@ -6,13 +6,17 @@ $(document).ready(function(){
 		autoplaySpeed: 4000,
 	});
 
+	$('#department').change(function(){
+		$('#contact_form').attr('action', 'https://formspree.io/' + $(this).val());
+	});
+
 	var success = getUrlParameter('success');
 
 	if(success) {
-		console.log('asd');
 		$('.email-success').removeClass('invisible');
 	}
 });
+
 
 var getUrlParameter = function getUrlParameter(sParam) {
     var sPageURL = decodeURIComponent(window.location.search.substring(1)),
