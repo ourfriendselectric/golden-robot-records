@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Glenn Shorro
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /uploads/screen-shot-2019-01-25-at-1-50-12-pm.png
+hidden: false
+sort_number: 66
+name: Glenn Shorrock
+album_name: Rise Again (SFR - Album)
+album_url: 'https://itunes.apple.com/au/album/rise-again/1139241781'
 _hide_content: true
 _options:
   image_path:
@@ -12,3 +12,4 @@ _options:
     height: 500
     resize_style: contain
 ---
+
