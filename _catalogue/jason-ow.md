@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Jason Ow
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /uploads/screen-shot-2019-01-25-at-1-23-16-pm.png
+hidden: false
+sort_number: 98767
+name: Jason Owen
+album_name: Jason Owen Sings John Denver (SFR - Album)
+album_url: 'https://itunes.apple.com/au/album/jason-owen-sings-john-denver/1232120799'
 _hide_content: true
 _options:
   image_path:
@@ -12,3 +12,4 @@ _options:
     height: 500
     resize_style: contain
 ---
+
