@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
+image_path: /uploads/screen-shot-2019-01-25-at-1-38-17-pm.png
+hidden: false
+sort_number: 3
 name: Glenn Shorrock
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+album_name: Sings Little River Band (SFR - Album)
+album_url: 'http://goldenrobotrecords.com/catalogue/'
 _hide_content: true
 _options:
   image_path:
