@@ -4,10 +4,11 @@ image_path: /uploads/kate-hindle-1-500px.jpeg
 name: Kate Hindle (Distro only)
 sort_number: 140
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
+twitter_url: 'https://twitter.com/katehindlemusic'
+facebook_url: 'https://www.facebook.com/katehindlemusic/'
+instagram_url: 'https://www.instagram.com/katehindlemusic/'
+spotify_url: >-
+  https://open.spotify.com/artist/1sAlsJc7pSiSObYDfDBFCN?si=6B1AlYBMQ9ODFd2sEuw5IA
 apple_url:
 youtube_url:
 amazon_url:
@@ -28,3 +29,4 @@ _options:
     resize_style: contain
 ---
 
+Get Kate Hindle's brand new single, Heart Bleed, here: &nbsp;[http://smarturl.it/Get-KateH-HeartBleed](http://smarturl.it/Get-KateH-HeartBleed)
