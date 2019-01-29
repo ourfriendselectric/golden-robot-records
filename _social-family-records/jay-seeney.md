@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jsb-94-of-206-square---500px.jpeg
-name: Jay Seeney
+name: Jay Seeney (Distro only)
 sort_number: 130
 hidden: false
 twitter_url:
