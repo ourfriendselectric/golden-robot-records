@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-7-54-03-am.png
-name: Amy Nelson
+name: Amy Nelson (Distro only)
 sort_number: 78
 hidden: false
 twitter_url: 'https://twitter.com/amynelson'
