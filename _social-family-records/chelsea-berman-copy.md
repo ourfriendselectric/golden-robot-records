@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/kate-hindle-1-500px.jpeg
 name: Kate Hindle (Distro only)
 sort_number: 140
 hidden: false
@@ -13,10 +13,9 @@ youtube_url:
 amazon_url:
 jb_url:
 sanity_url:
-hero_path:
+hero_path: /uploads/kate-hindle-1-web-banner-hero.jpeg
 albums:
-  - image_path: >-
-      /uploads/chelsea-berman---kiss-me-like-you-miss-me---single-cover-600px.jpeg
+  - image_path: /uploads/kate-hindle---heart-bleed---single-cover-500px.jpeg
 _type: social-family-records
 _options:
   image_path:
