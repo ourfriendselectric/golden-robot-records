@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/dani-young-tile-copy-2.jpg
-name: Dani Young
+name: Dani Young (Distro only)
 sort_number: 100
 hidden: false
 twitter_url: 'https://twitter.com/daniyoungmusic'
