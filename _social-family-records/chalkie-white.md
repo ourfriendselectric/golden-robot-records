@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/chalkie-white-both-copy.jpg
-name: Chalkie White
+name: Chalkie White (Distro only)
 sort_number: 90
 hidden: false
 twitter_url: 'https://twitter.com/ChalkieWhite101'
