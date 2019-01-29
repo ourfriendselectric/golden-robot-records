@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/benny-allen-tile-copy.jpg
-name: Benny Allen
+name: Benny Allen (Distro only)
 sort_number: 84
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
