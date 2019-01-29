@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/liam-kennedy-promo-copy.jpg
-name: Liam Kennedy-Clark
+name: Liam Kennedy-Clark (Distro only)
 sort_number: 170
 hidden: false
 twitter_url: 'https://twitter.com/LiamKCmusic'
