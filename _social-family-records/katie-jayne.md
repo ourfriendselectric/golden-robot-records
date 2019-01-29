@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/katie-jayne-both-copy.jpg
-name: Katie Jayne
+name: Katie Jayne (Distro only)
 sort_number: 150
 hidden: false
 twitter_url: 'https://twitter.com/katiejaynerose?lang=en'
