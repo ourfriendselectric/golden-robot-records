@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/jasmine-atkins-both-copy.jpg
-name: Jasmine Atkins
+name: Jasmine Atkins (Distro only)
 sort_number: 120
 hidden: false
 twitter_url: 'https://twitter.com/jazzatkinsmusic'
