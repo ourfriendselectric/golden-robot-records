@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/matt-ward-both-copy.jpg
-name: Matt Ward
+name: Matt Ward (Distro only)
 sort_number: 190
 hidden: false
 twitter_url: 'https://twitter.com/mjwstuff?lang=en'
