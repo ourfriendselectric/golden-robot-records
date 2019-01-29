@@ -15,7 +15,7 @@ jb_url:
 sanity_url:
 hero_path: /uploads/cj-webbanner-hero.jpeg
 albums:
-  - image_path: /uploads/2018 promo pics.png
+  - image_path:
   - image_path:
   - image_path:
   - image_path:
