@@ -1,21 +1,22 @@
 ---
 layout: artist
-image_path: /uploads/-dsc7260-500px.jpeg
-name: Abbie Ferris (Distro only)
-sort_number: 75
+image_path: /uploads/chelsea-berman---promo-pic-2-500px.jpeg
+name: Chelsea Berman (Distro only)
+sort_number: 100
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
-facebook_url: 'https://www.facebook.com/AbbieFerrisMusic/'
-instagram_url: 'https://www.instagram.com/abbieferrismusic/?hl=en'
-spotify_url: 'https://open.spotify.com/album/6BBihOQK3PRkxu5labTGje'
-apple_url: 'https://itunes.apple.com/au/artist/abbie-ferris/1394444105'
-youtube_url: 'https://www.youtube.com/channel/UCqwupwlVTbD5UIO70oEcORA'
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
 amazon_url:
 jb_url:
 sanity_url:
-hero_path: /uploads/ab-cover.jpg
+hero_path: /uploads/chelsea-berman---web-banner-hero.jpeg
 albums:
-  - image_path: /uploads/abbie-ferris-tile-copy.jpg
+  - image_path: >-
+      /uploads/chelsea-berman---kiss-me-like-you-miss-me---single-cover-600px.jpeg
 _type: social-family-records
 _options:
   image_path:
