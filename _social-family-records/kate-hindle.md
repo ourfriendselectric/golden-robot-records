@@ -29,4 +29,6 @@ _options:
     resize_style: contain
 ---
 
+# **Kate Hindle (Distro only)**
+
 Get **Kate Hindle's** brand new single, ***Heart Bleed***, here: &nbsp;[http://smarturl.it/Get-KateH-HeartBleed](http://smarturl.it/Get-KateH-HeartBleed)
