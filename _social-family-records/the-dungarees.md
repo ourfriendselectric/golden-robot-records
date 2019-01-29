@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/dungarees-2400-2016-33-500px.jpeg
-name: The Dungarees
+name: The Dungarees (Distro only)
 sort_number: 350
 hidden: false
 twitter_url: 'https://twitter.com/DungareesBand'
