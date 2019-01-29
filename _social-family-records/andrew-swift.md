@@ -34,7 +34,9 @@ _options:
 
 # Andrew Swift
 
-2 x 2019 Golden Guitar winner for Alt Country Album of the Year and New Talent of the Year!
+2 x 2019 Golden Guitar winner for **Alt Country Album of the Year** and **New Talent of the Year**!
+
+![](/uploads/2019ggwinner-altcountryalbum.jpeg)![](/uploads/2019ggwinner-newtalent.jpeg)
 
 **Call Out For The Cavalry** was a debut album, of sorts – not Swift’s first album, but his first Alt-country record.&nbsp; Upon release in March 2018, it found itself on the charts and achieved the following positions:
 
