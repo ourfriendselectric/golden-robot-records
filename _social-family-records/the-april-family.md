@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/april-family-promo-2018-500px.jpeg
-name: The April Family
+name: The April Family (Distro only)
 sort_number: 260
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
