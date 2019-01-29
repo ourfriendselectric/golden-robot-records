@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/-dsc7260-500px.jpeg
-name: Abbie Ferris
+name: Abbie Ferris (Distro only)
 sort_number: 75
 hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
