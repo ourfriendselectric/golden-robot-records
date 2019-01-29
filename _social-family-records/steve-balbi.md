@@ -32,7 +32,7 @@ _options:
     resize_style: contain
 ---
 
-# Steve Balbi (AUS)
+# Steve Balbi
 
 The music of singer, composer, performer and producer **Steve Balb****i** mines a kaleidoscope of life at the margins. Transcending rock and pop as he coalesces sentimentality and soul, Balbi bespeaks Bowie and Dylan in melody and verse, exploring the heterogeneity, refinement and dirty rotten groove of Radiohead.
 
@@ -46,14 +46,14 @@ In April this year, the world became a very different place for millions of Aust
 
 Yet it is Balbi's debut solo LP, **Black Rainbow (2013)**, and its subsequent surreal reprise, **Rainbow Black (2016)**, which appears to have set a point of departure for his enigmatic artistry, and manifestation of his forthcoming solo LP- Humans. Inspired by ten photographs from Brandon Stanton's Humans of New York series, Balbi’s second solo endeavour is an eclectic collection of words and music that navigates a wistful path from melancholy through madness.
 
-Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019. 
+Casting a renewed focus upon the notion humanity in both riff and verse, ***Modern Love***, is out now and is the first single from his forthcoming solo album, **Humans**, set for release in 2019.&nbsp;
 
 ![](/uploads/stevebalbi-modernlove-250px.jpeg)
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=YWp-6v_MRDenogHdh7iQjw){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=YWp-6v_MRDenogHdh7iQjw){: target="_blank"}
 
- 
+&nbsp;
 
 ## **FOLLOW STEVE BALBI:**
