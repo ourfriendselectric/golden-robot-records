@@ -15,7 +15,7 @@ jb_url:
 sanity_url:
 hero_path: /uploads/john sykes cover copy.jpg
 albums:
-  - image_path: /uploads/img-2865.jpg
+  - image_path: /uploads/image-2019-01-29-2.jpg
   - image_path: /uploads/john sykes tile 3 copy.jpg
   - image_path: /uploads/screen-shot-2019-01-29-at-10-22-24-am.png
   - image_path: /uploads/john sykes tile 5 copy.jpg
