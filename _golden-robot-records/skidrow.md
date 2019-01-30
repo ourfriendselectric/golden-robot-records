@@ -17,6 +17,7 @@ hero_path: /uploads/screen-shot-2019-01-16-at-12-05-17-pm.png
 albums:
   - image_path: /uploads/image-2019-01-29-3.jpg
   - image_path: /uploads/image-2019-01-29-4.jpg
+  - image_path: /uploads/image-2019-01-30.jpg
 _type: golden-robot-records
 _options:
   image_path:
