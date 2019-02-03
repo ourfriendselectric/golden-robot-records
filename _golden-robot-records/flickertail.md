@@ -32,10 +32,12 @@ _options:
     resize_style: contain
 ---
 
-A four-headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
+A four headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter
 
-Since their inception, the band have played relentlessly and are reaping the rewards. 2014's single "The End" received airplay on Triple M and regional radio throughout New South Wales, Victoria and Queensland, while new single "Guinness is Thicker than Blood" has been played everywhere from Bendigo to Brisbane. The tail end of 2015 saw the band landing coveted opening slots with Aussie rock heroes Buffalo and Sarah McLeod on top of endless sweaty shows with local legends Black Aces, The Lockhearts, The Cherry Dolls and Foreign Kings.
+Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
 
-The band brought their infamous zero-bullshit live show on the road once more in 2016, including support slots with The Casanovas and US juggernaut Supersuckers.
+Since their inception, the band have played relentlessly and are reaping the rewards. An incendiary live performance honed in the booze dens and back yard of Australia's Eastern coast was refined on stages shared with Aussie legends Buffalo and the Superjesus, before international support slots with the likes of Supersuckers, Zak Starkey (Oasis, the Who) and Living Colour.
 
-In 2017, armed with only their wits, guitars and their stunning good looks, Flickertail plan on conquering every state across this vast, thirsty continent.
+After years building a dedicated following throughout Australia, and rave reviews for debut EP "Hurry Up and Wait", the boys brought their infamous live show to the UK for a international tour in October 2018.
+
+In 2019, armed with only their wits, guitars and their stunning good looks, Flickertail will continue to to preach the good word of honest, authentic Aussie rock and roll around the globe.
