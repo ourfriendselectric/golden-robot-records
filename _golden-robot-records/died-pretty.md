@@ -2,10 +2,10 @@
 layout: artist
 image_path:
 name: Died Pretty
-sort_number: 10
+sort_number: 281093728974
 hidden: true
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/Died-Pretty-974754159324964/'
 instagram_url:
 spotify_url:
 apple_url:
@@ -30,3 +30,4 @@ _options:
     height: 1000
     resize_style: contain
 ---
+
