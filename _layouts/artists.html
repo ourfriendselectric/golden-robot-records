@@ -22,7 +22,17 @@ layout: default
       {% endfor %}
 
       {% if page.artist_footer[0].show == true %}
-        <a href="{{ page.artist_footer[0].link_url }}" class="w-100 text-center h5">{{ page.artist_footer[0].link_content }}</a>
+        {% if page.artist_footer[0].link_url != undefined %}
+          <a href="{{ page.artist_footer[0].link_url }}" class="w-100 text-center h5">
+        {% else %}
+          <p class="w-100 text-center h5 mt-5">
+        {% endif %}
+            {{ page.artist_footer[0].link_content }}
+        {% if page.artist_footer[0].link_url != undefined %}
+          </a>
+        {% else %}
+          </p>
+        {% endif %}
       {% endif %}
 
     </div>
