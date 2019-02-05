@@ -124,7 +124,23 @@ $xlHeight: auto;
 		margin-top: 40px;
 		margin-bottom: 40px;
 		align-items: center;
+
+		.col {
+			max-width: 80px;
+		}
 	}
+
+	.buy-now {
+		margin-bottom: 40px;
+
+		.btn {
+			min-width: 200px;
+			@include media-breakpoint-down(sm) {
+				min-width: 100%;
+			}
+		}
+	}
+
 	.albums {
 		.album {
 			margin-bottom: $grid-gutter-width;
