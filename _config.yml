@@ -47,6 +47,8 @@ collections:
     output: true
   social-family-records:
     output: true
+  scratches-records:
+    output: true
   catalogue:
     output: false
 
