@@ -16,9 +16,13 @@ sanity_url: 'https://www.sanity.com.au/products/2378536/Metal_Souls'
 hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /images/destinia tile 1 copy.jpg
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.41.49 pm.png
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.49.37 pm.png
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.46.21 pm.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

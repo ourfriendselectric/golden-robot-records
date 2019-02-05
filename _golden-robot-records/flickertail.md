@@ -17,9 +17,13 @@ sanity_url: 'https://www.sanity.com.au/products/2366447/Hurry_Up_And_Wait'
 hero_path: /uploads/flickertail cover photo copy.jpg
 albums:
   - image_path: /uploads/FLICKERTAIL%20HURRY%20UP%20AND%20WAIT%204000x4000px.jpg
+    image_url:
   - image_path: /uploads/flicker tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/flicker tile 1 copy.jpg
+    image_url:
   - image_path: /uploads/flicker tile 7 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

@@ -17,9 +17,13 @@ sanity_url:
 hero_path: /uploads/EH cover copy.jpg
 albums:
   - image_path: /uploads/EH tile 24 copy.jpg
+    image_url:
   - image_path: /uploads/eh-tile-35-copy.jpg
+    image_url:
   - image_path: /uploads/EH tile copy.jpg
+    image_url:
   - image_path: /uploads/EH tile2 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

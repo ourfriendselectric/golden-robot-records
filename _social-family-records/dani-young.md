@@ -16,6 +16,7 @@ sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-2-03-30-pm.png
 albums:
   - image_path: /uploads/dani-young-cover-copy-1.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

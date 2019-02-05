@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/hayley-jensen---album-promo-shot-web.jpeg
 albums:
   - image_path: /uploads/hayley-jensen---turning-up-the-dial---500px.jpeg
+    image_url:
   - image_path: /uploads/past-tense-present-peace---hayley-jensen---ep-cover-500px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

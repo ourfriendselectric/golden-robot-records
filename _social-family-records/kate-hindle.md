@@ -17,6 +17,7 @@ sanity_url:
 hero_path: /uploads/kate-hindle-1-web-banner-hero.jpeg
 albums:
   - image_path: /uploads/kate-hindle---heart-bleed---single-cover-500px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

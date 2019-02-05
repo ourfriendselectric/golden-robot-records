@@ -17,9 +17,13 @@ sanity_url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
+    image_url:
   - image_path: /uploads/Extended Play.jpg
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.11.33 pm.png
+    image_url:
   - image_path: /uploads/mi-sex tile2.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

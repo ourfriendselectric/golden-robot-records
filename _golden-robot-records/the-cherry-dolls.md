@@ -16,9 +16,13 @@ sanity_url: 'https://www.sanity.com.au/products/2342734'
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-3-58-30-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-02-55-pm.png
+    image_url:
   - image_path: /images/the cherry tile 2 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

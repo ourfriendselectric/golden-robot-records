@@ -16,9 +16,13 @@ sanity_url: 'https://www.deezer.com/en/album/58101332'
 hero_path: /uploads/she shin cover copy.jpg
 albums:
   - image_path: /images/EP COVER BOLD FINAL 3D.jpg
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-29-14-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-36-28-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-33-03-pm.png
+    image_url:
 _type: riot-records
 _options:
   image_path:

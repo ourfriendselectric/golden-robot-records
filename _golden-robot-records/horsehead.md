@@ -17,9 +17,13 @@ sanity_url:
 hero_path: /uploads/horsehead-cover-copy.jpg
 albums:
   - image_path: /images/horsehead tile 2 copy.jpg
+    image_url:
   - image_path: /images/horsehead tile copy.jpg
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-12-02-12-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-12-02-32-pm.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

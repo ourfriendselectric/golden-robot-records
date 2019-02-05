@@ -16,10 +16,15 @@ sanity_url:
 hero_path: /uploads/as-ggwins.jpg
 albums:
   - image_path: /uploads/as-cover1-2000px.jpeg
+    image_url:
   - image_path: /uploads/as-reckless1-500px.jpeg
+    image_url:
   - image_path: /uploads/as-rt-single-500px.jpeg
+    image_url:
   - image_path: /uploads/as-kingskysingle3-600px.jpeg
+    image_url:
   - image_path: /uploads/as-fireicesingleart-500px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

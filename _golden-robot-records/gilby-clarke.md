@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/gilby-cover-photo-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-14-at-4-16-13-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-14-at-4-16-42-pm.png
+    image_url:
   - image_path: /uploads/gilby-clarke-joe-daly-1.jpeg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

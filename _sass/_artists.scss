@@ -144,9 +144,52 @@ $xlHeight: auto;
 	.albums {
 		.album {
 			margin-bottom: $grid-gutter-width;
-		}
-		img {
-			width: 100%;
+
+			img {
+				width: 100%;
+			}
+
+			a {
+				position: relative;
+				display: block;
+			}
+
+			.overlay {
+				@include transition();
+				opacity: 0;
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background: rgba(0,0,0,0.5);
+				text-align: center;
+				padding-top: 50%;
+				.text {
+					transform: translateY(-50%);
+					font-weight: bold;
+
+					@include media-breakpoint-up(sm) {
+						font-size: 1rem;
+					}
+					@include media-breakpoint-up(md) {
+						font-size: 1.2rem;
+					}
+					@include media-breakpoint-up(lg) {
+						font-size: 1.375rem;
+					}
+					@include media-breakpoint-up(sm) {
+		
+					}
+				}
+			}
+
+			&:hover {
+				text-decoration: none;	
+				.overlay {
+					opacity: 1;
+				}
+			}
 		}
 	}
 

@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /images/raven cover copy.jpg
 albums:
   - image_path: /images/raven tile 3.jpg
+    image_url:
   - image_path: /images/raven tile 2.jpg
+    image_url:
   - image_path: /images/Screen Shot 2018-11-25 at 7.19.55 pm.png
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.33.35 pm.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

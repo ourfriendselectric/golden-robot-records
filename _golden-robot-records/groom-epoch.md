@@ -16,9 +16,13 @@ sanity_url: 'https://www.sanity.com.au/products/2368232/Solar_Warden'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg
+    image_url:
   - image_path: /images/GROOM TILE 1 copy.jpg
+    image_url:
   - image_path: /images/GROOM TILE 2 copy.jpg
+    image_url:
   - image_path: /uploads/GROOM TILE 3 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

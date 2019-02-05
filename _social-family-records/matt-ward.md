@@ -17,6 +17,7 @@ sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-1-57-22-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
+    image_url:
 _type: social-family-records
 _options:
   image_path:
