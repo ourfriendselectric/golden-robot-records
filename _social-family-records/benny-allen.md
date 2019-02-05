@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/benny-allen-cover-copy.jpg
 albums:
   - image_path: /uploads/benny-allen-album-3000-px.jpg
+    image_url:
   - image_path: /uploads/benny-allen-day-one-of-missing-you-500px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/GS_RA600x600.jpg
+    image_url:
   - image_path: /uploads/GlennShorrockSingsLRB-album cover 600px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

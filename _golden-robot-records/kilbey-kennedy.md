@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg
+    image_url:
   - image_path: /images/kk tile 2 copy.jpg
+    image_url:
   - image_path: /images/kk tile  copy.jpg
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-14-pm.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

@@ -17,9 +17,13 @@ sanity_url:
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg
+    image_url:
   - image_path: /images/TOE TILE 3 copy.jpg
+    image_url:
   - image_path: /images/TOE TILE 5 copy.jpg
+    image_url:
   - image_path: /images/TOE TILE 2 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

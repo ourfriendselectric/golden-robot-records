@@ -17,7 +17,9 @@ sanity_url:
 hero_path: /uploads/katie-jayne-cover-copy.jpg
 albums:
   - image_path: /uploads/katiejayne-sunlitavenue-800px-2.jpeg
+    image_url:
   - image_path: /uploads/noshadow-singlecover.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

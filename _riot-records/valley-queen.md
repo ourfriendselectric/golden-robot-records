@@ -18,9 +18,13 @@ hero_path: /uploads/screen-shot-2018-12-13-at-1-08-10-pm.png
 
 albums:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-16-48-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-19-50-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-1-19-15-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-12-53-11-pm.png
+    image_url:
 _type: riot-records
 _options:
   image_path:

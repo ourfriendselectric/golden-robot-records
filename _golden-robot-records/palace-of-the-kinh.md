@@ -16,9 +16,13 @@ sanity_url: 'https://www.sanity.com.au/products/2366911/Get_Right_With_Your_Make
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg
+    image_url:
   - image_path: /images/potk tile 2 copy.jpg
+    image_url:
   - image_path: /images/potk tile 3 copy.jpg
+    image_url:
   - image_path: /images/potk tile 4 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

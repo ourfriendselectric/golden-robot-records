@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /images/Screen Shot 2018-11-25 at 1.04.29 pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-35-23-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-37-20-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-36-57-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-37-13-pm.png
+    image_url:
 _type: x-ray-records
 _options:
   image_path:

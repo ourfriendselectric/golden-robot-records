@@ -16,6 +16,7 @@ sanity_url:
 hero_path: /uploads/ab-cover.jpg
 albums:
   - image_path: /uploads/abbie-ferris-tile-copy.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/kilbeycover copy.jpg
 albums:
   - image_path: /images/SK-Cover-DigitalSquare.jpg
+    image_url:
   - image_path: /uploads/SK tile 3 copy.jpg
+    image_url:
   - image_path: /images/SK tile 4 copy.jpg
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 6.51.27 pm.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

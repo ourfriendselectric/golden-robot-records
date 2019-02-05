@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /images/hero-placeholder.jpg
 albums:
   - image_path: /images/al_one.png
+    image_url:
   - image_path: /images/al_tho.png
+    image_url:
   - image_path: /images/al_three.png
+    image_url:
   - image_path: /images/al_four.png
+    image_url:
 
 _type: golden-robot-records
 _options:

@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/kings x tile copy.jpg
 albums:
   - image_path: /uploads/kings x tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/kings x tile 4 copy.jpg
+    image_url:
   - image_path: /uploads/kings x tile 32 copy.jpg
+    image_url:
   - image_path: /uploads/kings x tile 34 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

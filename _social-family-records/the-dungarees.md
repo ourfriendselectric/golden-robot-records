@@ -17,9 +17,13 @@ sanity_url:
 hero_path:
 albums:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
 _type: social-family-records
 _options:
   image_path:
