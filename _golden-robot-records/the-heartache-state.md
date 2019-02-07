@@ -17,9 +17,13 @@ sanity_url: 'https://www.sanity.com.au/products/2294288/Heartache_State_-_Hearta
 hero_path: /uploads/ths-cover-copy.jpg
 albums:
   - image_path: /uploads/ths-tile-3-copy.jpg
+    image_url:
   - image_path: /images/THS TILE 1 copy.jpg
+    image_url:
   - image_path: /images/THS TILE 2 copy.jpg
+    image_url:
   - image_path: /images/THS TILE 4 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/Fyre byrd cover copy-copy.jpg
 albums:
   - image_path: /uploads/Take Me Out Single Art 600px.jpeg
+    image_url:
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
+    image_url:
   - image_path: /uploads/fb tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/fb tile 3 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

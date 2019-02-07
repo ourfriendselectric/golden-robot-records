@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-11-26-at-6-46-36-pm.png
+    image_url:
   - image_path: /uploads/the-art-tile-copy.jpg
+    image_url:
   - image_path: /uploads/the art tile 1 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

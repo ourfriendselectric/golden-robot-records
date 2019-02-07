@@ -16,10 +16,15 @@ sanity_url:
 hero_path: /images/Screen Shot 2018-11-15 at 9.53.28 am.png
 albums:
   - image_path: /images/Screen Shot 2018-11-25 at 7.38.24 pm.png
+    image_url:
   - image_path: /images/superjesus 2.jpg
+    image_url:
   - image_path: /images/superjesus tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.40.20 pm.png
+    image_url:
   - image_path:
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

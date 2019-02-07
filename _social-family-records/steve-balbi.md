@@ -17,9 +17,13 @@ sanity_url:
 hero_path: /uploads/screen-shot-2018-11-28-at-1-09-42-pm.png
 albums:
   - image_path: /uploads/sb-blackrainbow-coverart-500px.jpeg
+    image_url:
   - image_path: /uploads/rainbow-black-cover-500px.jpeg
+    image_url:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
 _type: social-family-records
 _options:
   image_path:

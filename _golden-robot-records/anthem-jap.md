@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png
+    image_url:
   - image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpeg
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-04-at-8-49-47-am.png
+    image_url:
   - image_path: /uploads/screen-shot-2018-12-04-at-8-56-03-am.png
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/liam-kennedy-cover-copy.jpg
 albums:
   - image_path: /uploads/lkc-3000x3000.jpg
+    image_url:
   - image_path: /uploads/ofh-3000x3000.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

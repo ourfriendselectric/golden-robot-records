@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
+    image_url:
   - image_path: /uploads/kristy-james---dark-sunglasses---single-cover-1.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

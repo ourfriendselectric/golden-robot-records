@@ -17,9 +17,13 @@ sanity_url:
 hero_path: /uploads/JB cover copy.jpg
 albums:
   - image_path: /images/JB tile copy.jpg
+    image_url:
   - image_path: /uploads/JB tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/JB tile 3 copy.jpg
+    image_url:
   - image_path: /uploads/JB tile 4 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

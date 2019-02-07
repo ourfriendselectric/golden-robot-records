@@ -17,8 +17,11 @@ sanity_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
 hero_path: /uploads/img-1810-copy-1.jpg
 albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-500px.jpeg
+    image_url:
   - image_path: /uploads/hhanewspecs-copy.jpg
+    image_url:
   - image_path:
+    image_url:
 _type: social-family-records
 _options:
   image_path:

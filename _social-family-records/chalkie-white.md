@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/chalkie-white-both-copy-1.jpg
 albums:
   - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
+    image_url:
   - image_path: /uploads/chalkie-album-final-rgb-250px-1.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

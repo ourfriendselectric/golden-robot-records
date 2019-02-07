@@ -18,9 +18,13 @@ hero_path: /uploads/screen-shot-2018-12-13-at-1-25-04-pm.png
 
 albums:
   - image_path: /uploads/destrends tile 2 copy.jpg
+    image_url:
   - image_path: /uploads/destrends tile 3 copy.jpg
+    image_url:
   - image_path: /uploads/destrends tile 5 copy.jpg
+    image_url:
   - image_path: /uploads/destrends tile copy.jpg
+    image_url:
 _type: riot-records
 _options:
   image_path:

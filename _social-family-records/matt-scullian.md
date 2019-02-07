@@ -16,6 +16,7 @@ sanity_url:
 hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-outta-my-own-way-600px.jpeg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

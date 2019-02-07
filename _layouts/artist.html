@@ -68,7 +68,14 @@ layout: default
 						{% for album in page.albums  %}
 							{% if album.image_path != null %}
 								<div class="col-md-6 album">
-									<img src="{{ album.image_path }}" class="img-fluid" />
+									{% if album.image_url != null %}
+										<a href="{{ album.image_url }}" target="_blank">
+											<div class="overlay"><div class="text">View Album</div></div>
+									{% endif %}
+											<img src="{{ album.image_path }}" class="img-fluid" />
+									{% if album.image_url != null %}
+										</a>
+									{% endif %}
 								</div>
 							{% endif %}
 						{% endfor %}

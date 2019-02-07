@@ -16,6 +16,7 @@ sanity_url:
 hero_path: /uploads/neilly-rich-cover-copy.jpg
 albums:
   - image_path: /uploads/neillyrich-herenowforever-ep.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:

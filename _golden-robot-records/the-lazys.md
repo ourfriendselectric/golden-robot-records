@@ -17,9 +17,13 @@ sanity_url: 'https://www.sanity.com.au/products/2368231/Tropical_Hazards'
 hero_path: /images/Screen Shot 2018-11-23 at 6.51.21 pm.png
 albums:
   - image_path: /images/the lazys tile copy.jpg
+    image_url:
   - image_path: /images/the lazys tile 1 copy.jpg
+    image_url:
   - image_path: /images/the lazys tile 3 copy.jpg
+    image_url:
   - image_path: /images/the lazys tile 2 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

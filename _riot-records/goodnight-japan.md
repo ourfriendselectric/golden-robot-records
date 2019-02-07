@@ -16,9 +16,13 @@ sanity_url:
 hero_path:
 albums:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
   - image_path:
+    image_url:
 _type: riot-records
 _options:
   image_path:

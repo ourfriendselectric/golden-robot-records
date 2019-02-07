@@ -16,9 +16,13 @@ sanity_url:
 hero_path: /uploads/Screen Shot 2018-11-05 at 4.08.47 pm.png
 albums:
   - image_path: /uploads/April Rain Artwork-01-01-01.png
+    image_url:
   - image_path: /images/Traffic single cover.jpg
+    image_url:
   - image_path: /uploads/tih tile copy.jpg
+    image_url:
   - image_path: /uploads/tih tile 6 copy.jpg
+    image_url:
 _type: golden-robot-records
 _options:
   image_path:

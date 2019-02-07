@@ -16,7 +16,9 @@ sanity_url:
 hero_path: /uploads/an-cover-copy.jpg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
+    image_url:
   - image_path: /uploads/amy-nelson-tile-copy.jpg
+    image_url:
 _type: social-family-records
 _options:
   image_path:
