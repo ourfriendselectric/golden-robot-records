@@ -16,7 +16,8 @@ sanity_url: 'https://www.sanity.com.au/products/2365251/Eight'
 hero_path: /uploads/little caesar cover copy.jpg
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/little-ceaser-eight-lp.html
   - image_path: /images/lc square.jpg
     image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-56-56-am.png
