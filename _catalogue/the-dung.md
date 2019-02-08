@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: The Dung
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /uploads/screen-shot-2019-02-08-at-1-52-36-pm.png
+hidden: false
+sort_number: 263876398716
+name: The Dungarees
+album_name: I'm Down (SFR - Single)
+album_url: 'https://itunes.apple.com/au/album/im-down-single/1441724347'
 _hide_content: true
 _options:
   image_path:
@@ -12,3 +12,4 @@ _options:
     height: 500
     resize_style: contain
 ---
+
