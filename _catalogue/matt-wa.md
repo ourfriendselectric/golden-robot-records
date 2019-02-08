@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Matt Wa
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /uploads/screen-shot-2019-02-08-at-1-55-36-pm.png
+hidden: false
+sort_number: 8027498274100
+name: Matt Ward
+album_name: Back to the Country (SFR - Single)
+album_url: 'https://itunes.apple.com/au/album/back-to-the-country-single/1445520073'
 _hide_content: true
 _options:
   image_path:
@@ -12,3 +12,4 @@ _options:
     height: 500
     resize_style: contain
 ---
+
