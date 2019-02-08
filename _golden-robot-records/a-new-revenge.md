@@ -7,11 +7,11 @@ hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/A-New-Revenge-956387151231909/'
 instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
-spotify_url: >-
-  https://open.spotify.com/playlist/3Ge2LlIDcSr1GjWIrKFZP7?fbclid=IwAR06rcXEt2l20oXQC_V81L7w9e8b4uMf7HIhcJLnbNqsQQhkZqj_ypxJ4qw
-apple_url:
+spotify_url:
+apple_url: 'https://itunes.apple.com/au/album/enemies-lovers/1451044052'
 youtube_url:
-amazon_url:
+amazon_url: >-
+  https://www.amazon.com/Enemies-Lovers-New-Revenge/dp/B07MWQ9C83/ref=sr_1_1?ie=UTF8&qid=1549269106&sr=8-1&keywords=884860237628&tag=smarturl-pivot-20
 jb_url:
 sanity_url:
 hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
