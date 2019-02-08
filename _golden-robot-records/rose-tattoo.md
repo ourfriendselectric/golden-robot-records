@@ -20,7 +20,8 @@ albums:
     image_url: >-
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/rose-tattoo-blood-brothers-cd.html
   - image_path: /images/Screen Shot 2018-11-15 at 4.32.02 pm.png
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/rose-tattoo-lives-in-brunswick-cd.html
   - image_path: /images/Screen Shot 2018-11-15 at 4.35.26 pm.png
     image_url:
   - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
