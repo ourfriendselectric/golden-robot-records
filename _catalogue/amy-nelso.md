@@ -1,10 +1,10 @@
 ---
-image_path: /images/al_one.png
-hidden: true
-sort_number: 100
-name: Amy Nelso
-album_name: Catalogue Albumn Name
-album_url: 'http://goldenrobotrecords.com/'
+image_path: /uploads/screen-shot-2019-02-08-at-1-49-38-pm.png
+hidden: false
+sort_number: 982739812
+name: Amy Nelson
+album_name: Dontcha Dare Do It (SFR Single)
+album_url: 'https://itunes.apple.com/au/album/dontcha-dare-do-it-single/1444715880'
 _hide_content: true
 _options:
   image_path:
@@ -12,3 +12,4 @@ _options:
     height: 500
     resize_style: contain
 ---
+
