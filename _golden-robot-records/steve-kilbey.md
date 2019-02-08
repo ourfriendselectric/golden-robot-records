@@ -16,7 +16,8 @@ sanity_url:
 hero_path: /uploads/kilbeycover copy.jpg
 albums:
   - image_path: /images/SK-Cover-DigitalSquare.jpg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/steve-kilbey-sydney-rococo-lp.html
   - image_path: /uploads/SK tile 3 copy.jpg
     image_url:
   - image_path: /images/SK tile 4 copy.jpg
