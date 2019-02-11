@@ -22,6 +22,9 @@ albums:
     image_url:
   - image_path: /uploads/screen-shot-2018-12-21-at-8-51-57-am.png
     image_url:
+  - image_path: /uploads/screen-shot-2019-02-11-at-4-17-41-pm.png
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html
 _type: golden-robot-records
 _options:
   image_path:
