@@ -17,7 +17,8 @@ sanity_url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/mi-sex-not-from-here-signed-cd.html
   - image_path: /uploads/Extended Play.jpg
     image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.11.33 pm.png

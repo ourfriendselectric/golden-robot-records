@@ -16,7 +16,8 @@ sanity_url: 'https://www.sanity.com.au/products/2368232/Solar_Warden'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/groom-epoch-solar-warden-cd.html
   - image_path: /images/GROOM TILE 1 copy.jpg
     image_url:
   - image_path: /images/GROOM TILE 2 copy.jpg

@@ -17,7 +17,8 @@ sanity_url:
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/toe-to-toe-rise-up-vinyl.html
   - image_path: /images/TOE TILE 3 copy.jpg
     image_url:
   - image_path: /images/TOE TILE 5 copy.jpg

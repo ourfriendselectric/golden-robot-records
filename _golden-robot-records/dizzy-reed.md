@@ -16,7 +16,8 @@ sanity_url: 'https://www.sanity.com.au/products/2356856/Rock_n_Roll_Aint_Easy'
 hero_path: /uploads/screen-shot-2018-11-27-at-6-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-35-09-am-2.png
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/dizzy-reed-rock-n-roll-aint-easy-lp.html
   - image_path: /uploads/dizzy tile 2 copy.jpg
     image_url:
   - image_path: /uploads/dizzy tile 24 copy.jpg

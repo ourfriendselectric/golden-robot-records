@@ -17,7 +17,8 @@ sanity_url:
 hero_path: /uploads/screen-shot-2018-11-27-at-6-08-12-pm.png
 albums:
   - image_path: /uploads/TheKids-IJWBH-600px.jpeg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-kids-longsleeve-tee.html
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
     image_url:
   - image_path: /uploads/the kids tile 4 copy.jpg

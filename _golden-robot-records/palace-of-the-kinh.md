@@ -16,7 +16,8 @@ sanity_url: 'https://www.sanity.com.au/products/2366911/Get_Right_With_Your_Make
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/palace-of-the-king-get-right-with-your-maker-lp.html
   - image_path: /images/potk tile 2 copy.jpg
     image_url:
   - image_path: /images/potk tile 3 copy.jpg
