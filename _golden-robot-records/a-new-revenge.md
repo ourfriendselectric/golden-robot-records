@@ -4,10 +4,10 @@ image_path: /uploads/screen-shot-2019-01-16-at-12-00-23-pm.png
 name: A New Revenge
 sort_number: 24
 hidden: false
-twitter_url: 'https://twitter.com/GoldenRobotRcds'
+twitter_url: 'https://twitter.com/ANewRevenge'
 facebook_url: 'https://www.facebook.com/A-New-Revenge-956387151231909/'
-instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
-spotify_url:
+instagram_url: 'https://www.instagram.com/anewrevenge/'
+spotify_url: 'https://open.spotify.com/artist/3SsqbBCnsylFDt8Qq3Fiq1'
 apple_url: 'https://itunes.apple.com/au/album/enemies-lovers/1451044052'
 youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
 amazon_url: >-
