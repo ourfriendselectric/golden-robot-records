@@ -21,6 +21,9 @@ buy_now:
   - name: Test
     logo_path: /uploads/screenshot-2019-02-08-at-11-05-44.png
     url: 'http://google.com'
+  - name: Another Test
+    logo_path: /uploads/logos/screenshot-2019-02-08-at-11-05-44.png
+    url: google.com
 hero_path: /images/rose tatt cover.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png
