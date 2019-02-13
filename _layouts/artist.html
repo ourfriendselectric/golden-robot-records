@@ -102,7 +102,7 @@ layout: default
 
 					{% for supplier in page.buy_now  %}
 						<a class="col link" href="{{ supplier.url }}" target="_blank" />
-							{% if supplier.logo %}
+							{% if supplier.logo_path %}
 								<img src="{{ supplier.logo_path }}" alt="{{ supplier.name }}" class="img-fluid">
 							{% else %}
 								<h3 class="text-dark">{{ supplier.name }}</h3>

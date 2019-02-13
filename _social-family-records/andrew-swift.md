@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/andrewswiftmusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd'
 apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
 youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/as-ggwins.jpg
 albums:
   - image_path: /uploads/as-cover1-2000px.jpeg

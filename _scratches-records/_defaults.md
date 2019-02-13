@@ -11,9 +11,11 @@ instagram_url:
 spotify_url: 
 apple_url: 
 youtube_url: 
-amazon_url: 
-jb_url: 
-sanity_url: 
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
 
 hero_path: 
 albums: 

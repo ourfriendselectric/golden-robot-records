@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/officialskidrow/'
 spotify_url: 'https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCncr4k7oPRqXOqMl3vvymqQ'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2019-01-16-at-12-05-17-pm.png
 albums:
   - image_path: /uploads/image-2019-01-29-3.jpg

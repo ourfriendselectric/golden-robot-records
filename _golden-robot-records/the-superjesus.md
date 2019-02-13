@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/the_superjesus/'
 spotify_url: 'https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd'
 apple_url: 'https://itunes.apple.com/au/album/love-and-violence-ep/1316022655'
 youtube_url: 'https://www.youtube.com/channel/UCSnMC_EWGqnkozLRUBWFHvA'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /images/Screen Shot 2018-11-15 at 9.53.28 am.png
 albums:
   - image_path: /images/Screen Shot 2018-11-25 at 7.38.24 pm.png
