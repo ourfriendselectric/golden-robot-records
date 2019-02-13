@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/abbieferrismusic/?hl=en'
 spotify_url: 'https://open.spotify.com/album/6BBihOQK3PRkxu5labTGje'
 apple_url: 'https://itunes.apple.com/au/artist/abbie-ferris/1394444105'
 youtube_url: 'https://www.youtube.com/channel/UCqwupwlVTbD5UIO70oEcORA'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/ab-cover.jpg
 albums:
   - image_path: /uploads/abbie-ferris-tile-copy.jpg

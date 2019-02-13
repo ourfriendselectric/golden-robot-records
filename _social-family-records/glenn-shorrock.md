@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/glennboshorrock/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/1mBRVjszEFRT7OhukskPnX'
 apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
 youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/GS_RA600x600.jpg

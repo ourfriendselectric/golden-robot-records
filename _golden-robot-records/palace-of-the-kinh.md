@@ -10,14 +10,19 @@ instagram_url: 'https://www.instagram.com/palaceoftheking/'
 spotify_url: 'https://open.spotify.com/search/results/palace%20of%20the%20king'
 apple_url: 'https://itunes.apple.com/au/album/get-right-with-your-maker/1335540227'
 youtube_url: 'https://www.youtube.com/user/PalaceOfTheKing'
-amazon_url:
-jb_url: 'https://www.jbhifi.com.au/music/browse/metal/get-right-with-your-maker/577038/'
-sanity_url: 'https://www.sanity.com.au/products/2366911/Get_Right_With_Your_Maker'
+
+buy_now:
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/metal/get-right-with-your-maker/577038/' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2366911/Get_Right_With_Your_Maker'
+
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/palace-of-the-king-get-right-with-your-maker-lp.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/palace-of-the-king-get-right-with-your-maker-lp.html'
   - image_path: /images/potk tile 2 copy.jpg
     image_url:
   - image_path: /images/potk tile 3 copy.jpg

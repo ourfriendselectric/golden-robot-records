@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/mattscullionmusic/'
 spotify_url: 'https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml'
 apple_url: 'https://itunes.apple.com/us/artist/matt-scullion/254734557'
 youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-outta-my-own-way-600px.jpeg

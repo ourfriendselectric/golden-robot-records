@@ -10,14 +10,16 @@ instagram_url: 'https://www.instagram.com/theartmusic/'
 spotify_url: 'https://open.spotify.com/artist/4Xi3yYIlYSwiLuIAeWpL1O'
 apple_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 youtube_url: 'https://www.youtube.com/user/ViewTheArt'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-art-all-in-the-mind-cd-signed.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-art-all-in-the-mind-cd-signed.html'
   - image_path: /uploads/screen-shot-2018-11-26-at-6-46-36-pm.png
     image_url:
   - image_path: /uploads/the-art-tile-copy.jpg

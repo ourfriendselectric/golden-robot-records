@@ -4,16 +4,18 @@ image_path: /uploads/kla-both-copy.jpg
 name: Kirsty Lee Akers
 sort_number: 30
 hidden: false
-twitter_url: >-
-  https://twitter.com/kirstyleeakers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+twitter_url: 'https://twitter.com/kirstyleeakers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
 facebook_url: 'https://www.facebook.com/KirstyLeeAkers/'
 instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
 apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
 youtube_url: 'https://www.youtube.com/user/Kirstyakers'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-11-28-at-1-52-26-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-53-24-pm.png

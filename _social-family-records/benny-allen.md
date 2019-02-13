@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/6id9uO8Ma9coSv1iHFpx1w'
 apple_url: 'https://itunes.apple.com/au/artist/benny-allen/1277457865'
 youtube_url: 'https://www.youtube.com/channel/UCPMJwbX9dK5aiiKgxQ1FK_A'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/benny-allen-cover-copy.jpg
 albums:
   - image_path: /uploads/benny-allen-album-3000-px.jpg
