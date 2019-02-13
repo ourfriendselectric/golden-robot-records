@@ -53,13 +53,13 @@ layout: default
 					{% endif %}
 				</div>
 
-				<div class="row buy-now">
-					<div class="col col-md-2">
-						{% if page.amazon_url or page.jb_url or page.sanity_url %}
-							<a class="btn btn-light" href="#" target="_blank"  data-toggle="modal" data-target="#purchaseModal"/>Buy Now</a>
-						{% endif %}
+				{% if page.buy_now.size > 0 %}
+					<div class="row buy-now">
+						<div class="col col-md-2">
+							<a class="btn btn-grr" href="#" target="_blank"  data-toggle="modal" data-target="#purchaseModal"/>Buy Now</a>
+						</div>
 					</div>
-				</div>
+				{% endif %}
 			</div>
 
 			{% if page.albums.size > 0 %}
@@ -99,21 +99,17 @@ layout: default
 			</div>
 			<div class="modal-body">
 				<div class="row">
-					{% if page.amazon_url %}
-						<a class="col link" href="{{ page.amazon_url }}" target="_blank" />
-							<img src="/css/images/amazon.png" alt="Amazon" class="img-fluid">
+
+					{% for supplier in page.buy_now  %}
+						<a class="col link" href="{{ supplier.url }}" target="_blank" />
+							{% if supplier.logo %}
+								<img src="{{ supplier.logo_path }}" alt="{{ supplier.name }}" class="img-fluid">
+							{% else %}
+								<h3 class="text-dark">{{ supplier.name }}</h3>
+							{% endif %}
 						</a>
-					{% endif %}
-					{% if page.jb_url %}
-						<a class="col link" href="{{ page.jb_url }}" target="_blank" />
-							<img src="/css/images/jbhifi.png" alt="JB Hi-Fi" class="img-fluid">
-						</a>
-					{% endif %}
-					{% if page.sanity_url %}
-						<a class="col link" href="{{ page.sanity_url }}" target="_blank" />
-							<img src="/css/images/sanity.png" alt="Sanity" class="img-fluid">
-						</a>
-					{% endif %}
+					{% endfor %}
+
 				</div>
 			</div>
 		</div>
