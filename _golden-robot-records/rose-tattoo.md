@@ -10,10 +10,15 @@ instagram_url: 'https://www.instagram.com/rosetattooband/'
 spotify_url: 'https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH'
 apple_url: 'https://itunes.apple.com/au/album/blood-brothers-2018-bonus-reissue/1353749186'
 youtube_url: 'https://www.youtube.com/channel/UC2ysUa3j142whGLoN2dkPiQ'
-amazon_url:
-jb_url: >-
-  https://www.jbhifi.com.au/music/browse/metal/blood-brothers-bonus-reissue-edition/605318/
-sanity_url: 'https://www.sanity.com.au/products/2367968/Blood_Brothers_-_Reissue'
+
+buy_now:
+  - name: JB HiFi
+    logo_path: 
+    url: https://www.jbhifi.com.au/music/browse/metal/blood-brothers-bonus-reissue-edition/605318/
+  - name: Sanity
+    logo_path: /css/images/sanity.png
+    url: 'https://www.sanity.com.au/products/2367968/Blood_Brothers_-_Reissue'
+
 hero_path: /images/rose tatt cover.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png
@@ -27,6 +32,7 @@ albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
     image_url:
 _type: golden-robot-records
+
 _options:
   image_path:
     width: 500
@@ -36,6 +42,8 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  buy_now:
+    uploads_dir: uploads/logos
 ---
 
 In the category of ́cult bands\` Rose Tattoo has been at the top of the pile since 1976. Their raw style of blues rock that the Australians manage to create out of a hot mix of slide guitars, pounding hooks with sharp and tight rhythm, along with the unmistakable voice of their front man, Angry Anderson, is what gives the fans a welcome feast in what is today a fast food orientated music business built around TV shows. Their sound is hard rock mixed with blues rock influences, with songs including "Bad Boy for Love", "Rock 'n' Roll Outlaw", "Nice Boys", "We Can't Be Beaten" and "Scarred for Life".
