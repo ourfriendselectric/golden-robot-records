@@ -13,10 +13,10 @@ youtube_url: 'https://www.youtube.com/channel/UC2ysUa3j142whGLoN2dkPiQ'
 
 buy_now:
   - name: JB HiFi
-    logo_path: 
+    logo_path: /uploads/logos/jbhifi.png
     url: https://www.jbhifi.com.au/music/browse/metal/blood-brothers-bonus-reissue-edition/605318/
   - name: Sanity
-    logo_path: /css/images/sanity.png
+    logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2367968/Blood_Brothers_-_Reissue'
 
 hero_path: /images/rose tatt cover.png
@@ -43,7 +43,8 @@ _options:
     height: 1000
     resize_style: contain
   buy_now:
-    uploads_dir: uploads/logos
+    logo_path:
+      uploads_dir: uploads/logos
 ---
 
 In the category of ́cult bands\` Rose Tattoo has been at the top of the pile since 1976. Their raw style of blues rock that the Australians manage to create out of a hot mix of slide guitars, pounding hooks with sharp and tight rhythm, along with the unmistakable voice of their front man, Angry Anderson, is what gives the fans a welcome feast in what is today a fast food orientated music business built around TV shows. Their sound is hard rock mixed with blues rock influences, with songs including "Bad Boy for Love", "Rock 'n' Roll Outlaw", "Nice Boys", "We Can't Be Beaten" and "Scarred for Life".
