@@ -10,15 +10,17 @@ instagram_url: 'https://www.instagram.com/rosetattooband/'
 spotify_url: 'https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH'
 apple_url: 'https://itunes.apple.com/au/album/blood-brothers-2018-bonus-reissue/1353749186'
 youtube_url: 'https://www.youtube.com/channel/UC2ysUa3j142whGLoN2dkPiQ'
-
 buy_now:
   - name: JB HiFi
     logo_path: /uploads/logos/jbhifi.png
-    url: https://www.jbhifi.com.au/music/browse/metal/blood-brothers-bonus-reissue-edition/605318/
+    url: >-
+      https://www.jbhifi.com.au/music/browse/metal/blood-brothers-bonus-reissue-edition/605318/
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2367968/Blood_Brothers_-_Reissue'
-
+  - name: Test
+    logo_path: /uploads/screenshot-2019-02-08-at-11-05-44.png
+    url: 'http://google.com'
 hero_path: /images/rose tatt cover.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png
@@ -32,7 +34,6 @@ albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.33.52 pm.png
     image_url:
 _type: golden-robot-records
-
 _options:
   image_path:
     width: 500
