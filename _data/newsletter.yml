@@ -2,5 +2,5 @@ popup:
   heading: 'Sign Up To Our Newsletter'
   intro_html: ''
   show_signup_form_code_block: false
-  signup_form_code_block: ''
+  signup_form_code_block: 
   outro_html: ''
