@@ -4,7 +4,7 @@ hidden: false
 sort_number: 797309873810
 name: MOON
 album_name: The Orbitor (GRR - Album)
-album_url: 'https://itunes.apple.com/au/album/the-orbitor/1062146653'
+album_url: 'http://store.socialfamilyrecords.com/index.php/moon-the-oribitor-lp.html'
 _hide_content: true
 _options:
   image_path:
