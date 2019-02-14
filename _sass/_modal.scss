@@ -1,0 +1,28 @@
+.modal {
+
+	.modal-title {
+		color: #000;
+	}
+
+	.modal-body {
+        color: #000;
+
+        .block {
+            margin-bottom: 20px;
+        } 
+    }
+
+    &.purchase-modal {
+        .modal-body {
+            padding: $modal-inner-padding*3 $modal-inner-padding*2;
+            .row {
+                justify-content: center;
+            }
+        }
+    
+        .link {
+            text-align: center;
+            align-self: center;
+        }   
+    }
+}
