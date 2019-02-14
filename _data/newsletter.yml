@@ -1,6 +1,9 @@
 popup:
   heading: 'Sign Up To Our Newsletter'
-  intro_html: ''
-  show_signup_form_code_block: false
-  signup_form_code_block: 
-  outro_html: ''
+  intro_html: |
+    <p>Intro</p>
+  outro_html: |
+    <p>Outro</p>
+  form_code_block: false
+  form_code_block: |
+    Embed form here
