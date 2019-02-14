@@ -15,8 +15,20 @@ $(document).ready(function(){
 	if(success) {
 		$('.email-success').removeClass('invisible');
 	}
+
+	showNewsletterModal();
 });
 
+function showNewsletterModal() {
+
+	if (typeof $.cookie('newsletter') === 'undefined'){ // Checks to see if the cookie exists
+		setTimeout(function() { 
+			$('#newsletter').modal('show')
+			$.cookie('newsletter', true, { expires: null, path: '/' });
+		}, 2000);
+	}
+
+}
 
 var getUrlParameter = function getUrlParameter(sParam) {
     var sPageURL = decodeURIComponent(window.location.search.substring(1)),
