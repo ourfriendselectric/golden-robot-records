@@ -10,14 +10,22 @@ instagram_url: 'https://www.instagram.com/dizzyfnreed'
 spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
 apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-amazon_url: 'https://www.amazon.com/Rock-N-Roll-Aint-Easy/dp/B079NBWJLH'
-jb_url: 'https://www.jbhifi.com.au/music/browse/rock/rock-n-roll-aint-easy/549693/'
-sanity_url: 'https://www.sanity.com.au/products/2356856/Rock_n_Roll_Aint_Easy'
+
+buy_now:
+  - name: Amazon
+    logo_path: /uploads/logos/amazon.png
+    url: 'https://www.amazon.com/Rock-N-Roll-Aint-Easy/dp/B079NBWJLH'
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/rock/rock-n-roll-aint-easy/549693/' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2356856/Rock_n_Roll_Aint_Easy'
+
 hero_path: /uploads/screen-shot-2018-11-27-at-6-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-35-09-am-2.png
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/dizzy-reed-rock-n-roll-aint-easy-lp.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/dizzy-reed-rock-n-roll-aint-easy-lp.html'
   - image_path: /uploads/dizzy tile 2 copy.jpg
     image_url:
   - image_path: /uploads/dizzy tile 24 copy.jpg
@@ -34,6 +42,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018.

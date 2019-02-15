@@ -4,16 +4,18 @@ image_path: /uploads/kla-both-copy.jpg
 name: Kirsty Lee Akers
 sort_number: 30
 hidden: false
-twitter_url: >-
-  https://twitter.com/kirstyleeakers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+twitter_url: 'https://twitter.com/kirstyleeakers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
 facebook_url: 'https://www.facebook.com/KirstyLeeAkers/'
 instagram_url: 'https://www.instagram.com/kirstyleeakers/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/6xNGI1HoZIMXNdUk9YHyif'
 apple_url: 'https://itunes.apple.com/au/artist/kirsty-lee-akers/260139835'
 youtube_url: 'https://www.youtube.com/user/Kirstyakers'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-11-28-at-1-52-26-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-53-24-pm.png
@@ -28,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Kirsty Lee Akers is one of Australia's most unique and authentic recording artists. She is a rare talent who is proud of her indigenous heritage as a woman of the Wonnarua nation. Akers describes herself as a fusion of modern Country and Americana, with Pop stylings. While Australia will always be her spiritual home, she spends a lot of her time in North America, having toured both the United States and Canada throughout 2016 and 2017. The year 2018 sees her return to Canada to play two major festivals (Calgary Stampede and Big Valley Jamboree) while also expanding her horizons as she showcases her music in the United Kingdom for the first time(Buckle and Boots Festival).

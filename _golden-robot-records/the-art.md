@@ -10,14 +10,16 @@ instagram_url: 'https://www.instagram.com/theartmusic/'
 spotify_url: 'https://open.spotify.com/artist/4Xi3yYIlYSwiLuIAeWpL1O'
 apple_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 youtube_url: 'https://www.youtube.com/user/ViewTheArt'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-art-all-in-the-mind-cd-signed.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-art-all-in-the-mind-cd-signed.html'
   - image_path: /uploads/screen-shot-2018-11-26-at-6-46-36-pm.png
     image_url:
   - image_path: /uploads/the-art-tile-copy.jpg
@@ -34,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 The Art have spent a full year touring in order to perfect their rock n’ roll sound and live their rock n’ roll dream. Now they are back in Australia, having signed with Golden Robot Records in 2016, delivering real rock n’ roll to their native land. With vocalists and guitarists, Azaria and Kara, joined by drummer Jordan, the band has a wealth of experience, performing since 2007 under their previous name, The Follow. The self-described “palette of infinite colour” are classic rock with vintage glam, punk rock urgency and a heavy metal attitude. This fusion of rock’s varied colours has culminated in their latest album, produced with Stevie Wright, All in the Mind.

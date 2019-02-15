@@ -10,10 +10,15 @@ instagram_url: 'https://www.instagram.com/theheartachestate/'
 spotify_url: 'https://open.spotify.com/search/results/the%20heartache%20state'
 apple_url: 'https://itunes.apple.com/au/album/the-last-of-the-buffalo/1316941691'
 youtube_url: 'https://www.youtube.com/channel/UCZPgMTxWmjLgeXIIXPp-mgg'
-amazon_url:
-jb_url: >-
-  https://www.jbhifi.com.au/music/browse/rock-alternative-blues/last-of-the-buffalo/471872/
-sanity_url: 'https://www.sanity.com.au/products/2294288/Heartache_State_-_Heartache_State'
+
+buy_now:
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/rock-alternative-blues/last-of-the-buffalo/471872/' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2294288/Heartache_State_-_Heartache_State'
+
 hero_path: /uploads/ths-cover-copy.jpg
 albums:
   - image_path: /uploads/ths-tile-3-copy.jpg
@@ -34,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Justin Garner and Nick Barker are two veterans of the Australian music scene who have been playing music with one another for 15 years. Justin has performed vocals and guitar as part of Adelaide’s own Southpaw, with Nick producing their debut album back in 2004, while Nick has remained a cornerstone of Australian Blues Rock since the 1980s, with Justin last performing on Nick’s 2009 solo album Backwater Blues. Where Justin loves The Allman Bros and Nick loves The Replacements, the two love The Rolling Stones. It is the combination of the two, along with long-time friend Venom and drums and Michael Hubbard on bass, that culminates in The Heartache State.

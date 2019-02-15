@@ -7,13 +7,15 @@ hidden: false
 twitter_url: 'https://twitter.com/mjwstuff?lang=en'
 facebook_url:
 instagram_url: 'http://www.instagram.com/matt_j_ward'
-spotify_url: >-
-  https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A
+spotify_url: 'https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A'
 apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
 youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-11-28-at-1-57-22-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
@@ -28,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Delivering a soulful blend Australian Country and Americana music, Matt Ward's musical journey has not been typical.

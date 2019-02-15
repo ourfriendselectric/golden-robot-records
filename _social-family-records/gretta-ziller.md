@@ -4,16 +4,24 @@ image_path: /uploads/img-1685-2-copy.jpg
 name: Gretta Ziller
 sort_number: 18
 hidden: false
-twitter_url: >-
-  https://twitter.com/GrettaZiller?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+twitter_url: 'https://twitter.com/GrettaZiller?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
 facebook_url: 'https://www.facebook.com/GrettaZiller/'
 instagram_url: 'https://www.instagram.com/grettaziller/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98'
 apple_url: 'https://itunes.apple.com/au/artist/gretta-ziller/348673625'
 youtube_url: 'https://www.youtube.com/channel/UChPv-iLi8eL8eTYrsvlleiQ'
-amazon_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
-jb_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
-sanity_url: 'http://smarturl.it/GZ-QueenOfBoomtown'
+
+buy_now:
+  - name: Amazon
+    logo_path: /uploads/logos/amazon.png
+    url: 'http://smarturl.it/GZ-QueenOfBoomtown'
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'http://smarturl.it/GZ-QueenOfBoomtown' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'http://smarturl.it/GZ-QueenOfBoomtown'
+
 hero_path: /uploads/img-1810-copy-1.jpg
 albums:
   - image_path: /uploads/gretta-ziller---queen-of-boomtown---album-cover-500px.jpeg
@@ -32,6 +40,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 # Gretta Ziller

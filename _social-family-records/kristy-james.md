@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/kristyjamesmusic/'
 spotify_url: 'https://open.spotify.com/artist/4ycTm72puHRZpj6WkZCPb0'
 apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
@@ -29,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.

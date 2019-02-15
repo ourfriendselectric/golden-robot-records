@@ -10,9 +10,12 @@ instagram_url: '/https://www.instagram.com/hayleyjensen/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi'
 apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
 youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/hayley-jensen---album-promo-shot-web.jpeg
 albums:
   - image_path: /uploads/hayley-jensen---turning-up-the-dial---500px.jpeg
@@ -29,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 # Hayley Jensen

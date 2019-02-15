@@ -10,10 +10,12 @@ instagram_url: 'https://www.instagram.com/anewrevenge/'
 spotify_url: 'https://open.spotify.com/artist/3SsqbBCnsylFDt8Qq3Fiq1'
 apple_url: 'https://itunes.apple.com/au/album/enemies-lovers/1451044052'
 youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
-amazon_url: >-
-  http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: Amazon
+    logo_path: /uploads/logos/amazon.png
+    url: 'http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html'
+
 hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
 albums:
   - image_path: /uploads/anr-group-shot-edit1.jpeg
@@ -23,8 +25,7 @@ albums:
   - image_path: /uploads/screen-shot-2018-12-21-at-8-51-57-am.png
     image_url:
   - image_path: /uploads/screen-shot-2019-02-11-at-4-17-41-pm.png
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html'
 _type: golden-robot-records
 _options:
   image_path:
@@ -35,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Every so often members from various bands will collaborate as part of a new project. Every so often, these members are of such high esteem that only the term "supergroup" does this new project justice. Signing to Golden Robot Records in 2018, A New Revenge is a new supergroup, ready to assault audiences with their aggressive hard rock sound and unique brand of metal.

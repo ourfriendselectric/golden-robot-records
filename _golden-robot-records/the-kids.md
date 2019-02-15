@@ -11,9 +11,12 @@ spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: >-
   https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-11-27-at-6-08-12-pm.png
 albums:
   - image_path: /uploads/TheKids-IJWBH-600px.jpeg
@@ -35,6 +38,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth. 

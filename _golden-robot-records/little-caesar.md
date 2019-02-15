@@ -10,14 +10,22 @@ instagram_url: 'https://www.instagram.com/littlecaesarband/'
 spotify_url: 'https://open.spotify.com/artist/5IOstYUATS0EQ77A1DG7gy'
 apple_url: 'https://itunes.apple.com/au/album/eight/1344728018'
 youtube_url: 'https://www.youtube.com/channel/UCEsJy_yVg6dliOUd-6Hc_Mg'
-amazon_url: 'https://www.amazon.com/Eight-Little-Caesar/dp/B078Y34WJW?tag=smarturl-pivot-20'
-jb_url: 'https://www.jbhifi.com.au/music/browse/hard-rock-rock/eight/570987/'
-sanity_url: 'https://www.sanity.com.au/products/2365251/Eight'
+
+buy_now:
+  - name: Amazon
+    logo_path: /uploads/logos/amazon.png
+    url: 'https://www.amazon.com/Eight-Little-Caesar/dp/B078Y34WJW?tag=smarturl-pivot-20'
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/hard-rock-rock/eight/570987/' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2365251/Eight'
+
 hero_path: /uploads/little caesar cover copy.jpg
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/little-ceaser-eight-lp.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/little-ceaser-eight-lp.html'
   - image_path: /images/lc square.jpg
     image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-56-56-am.png
@@ -34,6 +42,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Nobody quite  knew what to think  of these long haired,  tattooed  bikers singing such soulful, yet  ballsy, rock music  when they  arrived  on the scene  in Los Angeles in 1987. They stood  out amongst  the "Hair Bands"  that populated the music scene at the time… a distinction the  band wore as a badge  of honour.<br><br>Much hype surrounded  the band as they were  managed by  music  legend Jimmy Iovine, guided  by legendary A&R man  John Kalodner  and produced by  Bob Rock. It seemed  like a formula  for success,  yet the band met  an unfortunate set of circumstances  that left many  scratching their heads  shortly  after  the release  of their self-titled  debut album.

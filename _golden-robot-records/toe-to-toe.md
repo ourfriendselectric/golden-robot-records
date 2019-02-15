@@ -11,14 +11,16 @@ instagram_url: 'https://www.instagram.com/toetotoeshc/'
 spotify_url: 'https://open.spotify.com/artist/2L1PP26AhiUQAMOXjYBy6B'
 apple_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/toe-to-toe-rise-up-vinyl.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/toe-to-toe-rise-up-vinyl.html'
   - image_path: /images/TOE TILE 3 copy.jpg
     image_url:
   - image_path: /images/TOE TILE 5 copy.jpg
@@ -35,6 +37,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Toe to Toe mean a lot to the Australian hardcore punk community. A soundtrack for outsiders and outcasts since 1992 – the band spearheaded the rebirth of Sydney hardcore and inspired countless bands with their no frills, uncompromising passion and intensity. Themselves inspired by Melbourne bands that came before them, Vicious Circle, Death Sentence, and Permanent Damage along with earliest major influence US punks, Poison Idea; Toe To Toe played their first show in true DIY-spirit at a backyard barbeque next to a skate ramp. I’m a massive fan of punk rock, I feel pretty blessed to make my own, frontman and sole original member standing, Scott Mac, humbly offers still, 25 years on from the band’s inception.

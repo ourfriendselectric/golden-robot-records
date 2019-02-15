@@ -7,13 +7,15 @@ hidden: false
 twitter_url: 'https://twitter.com/DungareesBand'
 facebook_url: 'https://www.facebook.com/TheDungarees'
 instagram_url: 'https://www.instagram.com/thedungareesband/'
-spotify_url: >-
-  https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg
+spotify_url: 'https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg'
 apple_url: 'https://itunes.apple.com/au/artist/the-dungarees/895989335'
 youtube_url:
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path:
 albums:
   - image_path:
@@ -34,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 The Dungarees have been making a splash in the country scene here recently, and in Canada since 2016.

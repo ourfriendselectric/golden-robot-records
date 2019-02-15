@@ -10,9 +10,15 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/search/results/destinia'
 apple_url: 'https://itunes.apple.com/au/album/metal-souls/1401188239'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-amazon_url:
-jb_url: 'https://www.jbhifi.com.au/music/browse/metal/metal-souls/649305/'
-sanity_url: 'https://www.sanity.com.au/products/2378536/Metal_Souls'
+
+buy_now:
+  - name: JB HiFi
+    logo_path: /uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/metal/metal-souls/649305/' 
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2378536/Metal_Souls'
+
 hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /images/destinia tile 1 copy.jpg
@@ -33,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.

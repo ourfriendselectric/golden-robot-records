@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/amynelsonmusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w'
 apple_url: 'https://itunes.apple.com/au/artist/amy-nelson/5479141'
 youtube_url: 'https://www.youtube.com/user/amynelsonmusic'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/an-cover-copy.jpg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
@@ -29,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Saskatchewan’s own Amy Nelson, has been waving the Canadian flag on stages all over the world. This high school music teacher turned country singer has recently been making waves down under with the two singles released to Australian country radio, both going Top 10.

@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/chalkiewhiteofficial/'
 spotify_url: 'https://open.spotify.com/artist/2gKuNesBW2QLMr5mpbOUB6'
 apple_url: 'https://itunes.apple.com/au/artist/chalkie-white/480597705'
 youtube_url: 'https://www.youtube.com/channel/UCTzy-mPiE7vCDGceOftTPLg'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/chalkie-white-both-copy-1.jpg
 albums:
   - image_path: /uploads/chalkie-white---new-day-single-cover.jpg
@@ -29,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Chalkie White is a pure entertainer, touring and performing across Australia for the past 20 years, cementing himself in the Country Music scene with his latest album.

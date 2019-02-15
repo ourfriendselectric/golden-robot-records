@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/3ZZT5Z4TDnzZWq9SiYHS4P'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/JohnSykesFan'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/john sykes cover copy.jpg
 albums:
   - image_path: /uploads/image-2019-01-29-2.jpg
@@ -33,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Golden Robot Records is very proud to have signed guitar legend and incredible songwriter John Sykes.

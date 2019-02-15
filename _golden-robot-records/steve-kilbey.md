@@ -10,14 +10,16 @@ instagram_url: 'https://www.instagram.com/stevekilbey/'
 spotify_url: 'https://open.spotify.com/artist/6ysAnNqgSIZvZkQY597Bk0'
 apple_url: 'https://itunes.apple.com/au/album/sydney-rococo/1438213222'
 youtube_url: 'https://www.youtube.com/channel/UCzb3iNZaFtaOHC65w06hAIQ'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/kilbeycover copy.jpg
 albums:
   - image_path: /images/SK-Cover-DigitalSquare.jpg
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/steve-kilbey-sydney-rococo-lp.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/steve-kilbey-sydney-rococo-lp.html'
   - image_path: /uploads/SK tile 3 copy.jpg
     image_url:
   - image_path: /images/SK tile 4 copy.jpg
@@ -34,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Steve Kilbey is Australian contemporary music royalty. A prolific artist who has written, performed and produced 21 solo albums, as well as 30 with rock legends The Church. He frequently collaborates with notable artists worldwide and has over a dozen albums with these creative partners, in addition to the aforementioned bodies of work. His artistic oeuvre spans more than 45 years, and reaches outside the world of music, flowing in a cellular formation through his poetic lyrics into his psychedelic art paintings and far beyond. Steve has 3 published 3 books (with a new one in the works), composed and written 750 songs, has conjured lyrics of biblical proportions, poured out plenteous poetry and imagined and realized hundreds of original paintings.

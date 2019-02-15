@@ -9,11 +9,13 @@ facebook_url: 'https://www.facebook.com/Horsehead-113232788697411/'
 instagram_url: 'https://www.instagram.com/horseheadrocks/'
 spotify_url: 'https://open.spotify.com/artist/6fKX13yzBb6lMxaZ4PllSw'
 apple_url: 'https://itunes.apple.com/au/artist/horsehead/72770950'
-youtube_url: >-
-  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
-amazon_url:
-jb_url:
-sanity_url:
+youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/horsehead-cover-copy.jpg
 albums:
   - image_path: /images/horsehead tile 2 copy.jpg
@@ -34,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 If you were lucky enough to see Melbourne band Horsehead sometime between 1992 and 2000, chances are you’re a “Horseheadonist” – one of the band’s passionate fans. Horsehead live was an unforgettable experience. As rock historian Ian McFarlane, the author of The Encyclopedia of Australian Rock and Pop, noted, “everything was delivered with great force and conviction”.

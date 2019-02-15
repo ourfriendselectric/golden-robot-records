@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/sheshinjuku/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/3IPiXNNRCAY44b6M0RQP3g'
 apple_url: 'https://itunes.apple.com/au/album/supersonic-ep/1354592731'
 youtube_url: 'https://www.youtube.com/channel/UChN-bjOR9w-vP8ZgjmqJrnw'
-amazon_url:
-jb_url:
-sanity_url: 'https://www.deezer.com/en/album/58101332'
+
+buy_now:
+  - name: Sanity
+    logo_path: /uploads/logos/sanity.png
+    url: 'https://www.deezer.com/en/album/58101332'
+
 hero_path: /uploads/she shin cover copy.jpg
 albums:
   - image_path: /images/EP COVER BOLD FINAL 3D.jpg
@@ -33,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 A 90’s child with a micro-chip on her shoulder.<br>Escaper of death and stereotypes.<br>Toured the world in a rock band.<br>Leading role in a Flume video.<br>Run over by a ten tonne truck scratch free.<br>Found salvation in electronica with the jilted generation.<br>Lover of space and dimensional travel.<br>Frequenter of the future.<br>6 out of 9 lives left.<br>Don’t ask questions but you can come if you want to.

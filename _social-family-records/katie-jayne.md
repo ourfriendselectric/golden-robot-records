@@ -9,11 +9,13 @@ facebook_url: 'https://www.facebook.com/katiejayne.com.au/'
 instagram_url: 'https://www.instagram.com/misskatiejaynemusic/'
 spotify_url: 'https://open.spotify.com/artist/0ssWamf0INpzr2G71GxTkC'
 apple_url: 'https://itunes.apple.com/us/artist/katie-jayne/id533671969'
-youtube_url: >-
-  https://www.youtube.com/channel/UCSUIDUn-NG3jAqCI3FNF8MA/featured?view_as=subscriber
-amazon_url:
-jb_url:
-sanity_url:
+youtube_url: 'https://www.youtube.com/channel/UCSUIDUn-NG3jAqCI3FNF8MA/featured?view_as=subscriber'
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/katie-jayne-cover-copy.jpg
 albums:
   - image_path: /uploads/katiejayne-sunlitavenue-800px-2.jpeg
@@ -30,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Katie Jayne embodies the new generation of pop country Artists, already making waves on the Australian scene.

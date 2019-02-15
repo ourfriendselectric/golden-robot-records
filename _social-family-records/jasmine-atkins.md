@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/jasmine_atkins_music/'
 spotify_url: 'https://open.spotify.com/artist/6Qt79wH1FOI7PWao5UGBqH?autoplay=true&v=A'
 apple_url: 'https://itunes.apple.com/au/artist/jasmine-atkins/789812124'
 youtube_url: 'https://www.youtube.com/channel/UCtLmj6R3RnDojDy2n2ZQKYw'
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-11-28-at-2-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-2-07-47-pm.png
@@ -27,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Jasmine Atkins is well on her way to making her mark on the Australian country music industry. Born in Rockingham, WA, Jasmine started her musical journey at a young age. Learning piano at three years old and teaching herself to read music, she was singing, writing songs, playing guitar and performing all before her 10th birthday. Combining country and pop genres in her music has already earned her fans and accolades, drawing influences from Kasey Chambers, Keith Urban and Carrie Underwood.

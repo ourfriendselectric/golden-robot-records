@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/67BObUWOkPPGftw3ITCHXH'
 apple_url: 'https://itunes.apple.com/jp/artist/anthem/1202041659'
 youtube_url:
-amazon_url:
-jb_url:
-sanity_url:
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png
@@ -33,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Formed in Tokyo in 1981, ANTHEM turned heads with their intense and heated performances. They released their major debut, “ANTHEM” in 1985 and continued to tour relentlessly. The band's popularity grew with the release of their 2nd album, “TIGHTROPE” (1986), and they were able to break into the American market with their 3rd full length, “BOUND TO BREAK” (1987).

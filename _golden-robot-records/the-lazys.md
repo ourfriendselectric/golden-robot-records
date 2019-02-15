@@ -10,10 +10,18 @@ instagram_url: 'https://www.instagram.com/thelazys/'
 spotify_url: 'https://open.spotify.com/artist/3wPGLbWYOwMPC4oTGykAJ3'
 apple_url: 'https://itunes.apple.com/au/album/tropical-hazards/1353793547'
 youtube_url: 'https://www.youtube.com/channel/UClxW-XHk7G64pROxIwr0KSg'
-amazon_url: >-
-  https://www.amazon.com/Tropical-Hazards-Lazys/dp/B07B16RGLH/ref=sr_1_1?ie=UTF8&qid=1525390070&sr=8-1&keywords=the+lazys+tropical+hazards&tag=smarturl-pivot-20
-jb_url: 'https://www.jbhifi.com.au/music/browse/rock/tropical-hazards/605372/'
-sanity_url: 'https://www.sanity.com.au/products/2368231/Tropical_Hazards'
+
+buy_now:
+  - name: Amazon 
+    logo_path: uploads/logos/amazon.png
+    url: 'https://www.amazon.com/Tropical-Hazards-Lazys/dp/B07B16RGLH/ref=sr_1_1?ie=UTF8&qid=1525390070&sr=8-1&keywords=the+lazys+tropical+hazards&tag=smarturl-pivot-20'
+  - name: JB HiFi
+    logo_path: uploads/logos/jbhifi.png
+    url: 'https://www.jbhifi.com.au/music/browse/rock/tropical-hazards/605372/' 
+  - name: Sanity
+    logo_path: uploads/logos/sanity.png
+    url: 'https://www.sanity.com.au/products/2368231/Tropical_Hazards'
+
 hero_path: /images/Screen Shot 2018-11-23 at 6.51.21 pm.png
 albums:
   - image_path: /images/the lazys tile copy.jpg
@@ -34,6 +42,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Crossing the world to deliver Australian Rock to the shores of Canada, The Lazys have brought a storm with them to kick down doors and abuse authority. This storm is their latest album Tropical Harzards, a high octane, hell-raising rock ‘n’ roll riot. While sounding modern, The Lazys are a heavily retro rock band as singer Leon Harrison and lead guitarist Matty Morris have been paying their dues in garage bands and local acts since 2006. Big hair, black leather and rough tattoos all accompany a hard rock style that evokes Australian Rock legends like AC/DC and The Angels.

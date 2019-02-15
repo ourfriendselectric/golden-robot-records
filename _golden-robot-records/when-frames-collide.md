@@ -10,9 +10,12 @@ instagram_url: 'https://www.instagram.com/thelockhearts/'
 spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
 apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
 youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-amazon_url: 
-jb_url: 
-sanity_url: 
+
+buy_now:
+  - name: 
+    logo_path: 
+    url: 
+
 hero_path: /images/hero-placeholder.jpg
 albums:
   - image_path: /images/al_one.png
@@ -34,4 +37,9 @@ _options:
     width: 1500
     height: 1000
     resize_style: "contain"
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
