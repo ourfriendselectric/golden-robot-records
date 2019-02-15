@@ -1,3 +1,4 @@
+enable: false
 heading: 'Sign Up To Our Newsletter'
 intro_html: |
   <p>Intro</p>
