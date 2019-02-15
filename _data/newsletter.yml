@@ -1,9 +1,7 @@
-enabled: true
-heading: 'Sign Up To Our Newsletter'
-intro_html: |
-  <p>Intro</p>
-outro_html: |
-  <p>Outro</p>
+enabled: false
+heading: Sign Up To Our Newsletter
+intro_html: <p>Intro</p>
+outro_html: <p>Outro</p>
 show_form_code_block: false
 form_code_block: |
   Embed form here
