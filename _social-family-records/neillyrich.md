@@ -30,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 In 2012, two paths converged when New Zealand born Matthew McNeilly met Kempsey girl, Amelia Richards in Tamworth. Their musical passions aligned at the CMAA Academy, resulting in the formation of the contemporary country music duo NeillyRich

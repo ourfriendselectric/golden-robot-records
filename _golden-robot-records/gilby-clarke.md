@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Gilbert "Gilby" J. Clake is an American musician, singer, songwriter and record producer best known for a 3-year tenure as the rhythm guitarist of Guns N' Roses, replacing Izzy Stradlin in 1991 during the Use Your Illusion Tour. Following his departure from the group, Clarke went on to forge a solo career as well playing guitar with Slash's Snakepit, Kat Men, Heart, Nancy Sinatra, Kathy Valentine (of the Go-Go's), MC5 and forming his own group Rock Star Supernova with members of Metallica and M&ouml;tley Cr&uuml;e.

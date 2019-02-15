@@ -32,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.

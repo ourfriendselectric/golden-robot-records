@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 If you were lucky enough to see Melbourne band Horsehead sometime between 1992 and 2000, chances are you’re a “Horseheadonist” – one of the band’s passionate fans. Horsehead live was an unforgettable experience. As rock historian Ian McFarlane, the author of The Encyclopedia of Australian Rock and Pop, noted, “everything was delivered with great force and conviction”.

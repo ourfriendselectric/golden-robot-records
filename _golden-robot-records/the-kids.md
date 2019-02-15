@@ -38,6 +38,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth. 

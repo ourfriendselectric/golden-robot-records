@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Since releasing their wildly successful EP, Breaking Out, and debut album NOVA, UK rock trio RavenEye has toured globally, including as direct support for Slash w/ Myles Kennedy (US and Europe), KISS (European arena tour, May 2017), BUSH (Europe), Aerosmith (Lisbon),

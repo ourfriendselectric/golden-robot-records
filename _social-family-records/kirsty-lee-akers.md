@@ -30,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Kirsty Lee Akers is one of Australia's most unique and authentic recording artists. She is a rare talent who is proud of her indigenous heritage as a woman of the Wonnarua nation. Akers describes herself as a fusion of modern Country and Americana, with Pop stylings. While Australia will always be her spiritual home, she spends a lot of her time in North America, having toured both the United States and Canada throughout 2016 and 2017. The year 2018 sees her return to Canada to play two major festivals (Calgary Stampede and Big Valley Jamboree) while also expanding her horizons as she showcases her music in the United Kingdom for the first time(Buckle and Boots Festival).

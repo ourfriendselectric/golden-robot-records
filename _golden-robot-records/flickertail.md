@@ -39,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 A four headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter

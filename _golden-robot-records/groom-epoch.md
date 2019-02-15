@@ -39,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Groom Epoch is a new band created by former drummer from The Church, Richard Ploog. Groom Epoch is about to release their second album Solar Warden on Golden Robot Records.

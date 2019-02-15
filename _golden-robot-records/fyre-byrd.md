@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Fyre  Byrd are  guitarist/vocalist Joshua  and female  drummer, Daniella. The  brother,  sister  two piece  formed at  the beginning  of 2017, although they  have spent  time on the road extensively touring nationally and internationally  in other projects.

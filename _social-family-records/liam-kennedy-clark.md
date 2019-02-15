@@ -32,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Music flows through the veins of Liam Kennedy-Clark. Originally from New Zealand, Liam now calls Australia home. Hailing from the serene Sunshine Coast of Queensland, Liam is a talented multi-instrumentalist as well as a gifted singer/songwriter.

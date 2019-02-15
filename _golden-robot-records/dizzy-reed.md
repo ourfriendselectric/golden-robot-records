@@ -42,6 +42,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 When in 1990 the Guns N’ Roses matured beyond their aggressive hard rock sound, it was the addition of keyboardist Dizzy Reed and the epic tones of the Hammond B-3 that drove this stylistic evolution. After more than 25 years as a powerhouse in Guns N’ Roses, Reed signed with Golden Robot Records, releasing his highly anticipated solo album “Rock ‘N Roll Ain’t Easy” in 2018.

@@ -39,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Nozomu Wakai, hailed globally as the guitarist to bring forward authentic and melodic heavy metal into the 21st century, is Japanese metal royalty and known for his contribution to countless compositions and production for Japan’s leading musicians and anime’s.

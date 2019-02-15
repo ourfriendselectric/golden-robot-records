@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 A 90’s child with a micro-chip on her shoulder.<br>Escaper of death and stereotypes.<br>Toured the world in a rock band.<br>Leading role in a Flume video.<br>Run over by a ten tonne truck scratch free.<br>Found salvation in electronica with the jilted generation.<br>Lover of space and dimensional travel.<br>Frequenter of the future.<br>6 out of 9 lives left.<br>Don’t ask questions but you can come if you want to.

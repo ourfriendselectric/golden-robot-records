@@ -39,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 With two critically acclaimed EPs under their belt and more broken guitar strings and tour damaged gear than they'd care to recall, The Cherry Dolls are ready to deliver their highly anticipated debut album, Viva Los Dolls, out Friday 28th July. Recorded in a frenetic blast of activity while the rest of town was sleeping off their New Year's hangovers, their debut long player saw Alex Markwell of The Delta Riggs sitting in on production duties to capture their blistering live show on record.

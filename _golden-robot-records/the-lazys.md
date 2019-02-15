@@ -42,6 +42,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Crossing the world to deliver Australian Rock to the shores of Canada, The Lazys have brought a storm with them to kick down doors and abuse authority. This storm is their latest album Tropical Harzards, a high octane, hell-raising rock ‘n’ roll riot. While sounding modern, The Lazys are a heavily retro rock band as singer Leon Harrison and lead guitarist Matty Morris have been paying their dues in garage bands and local acts since 2006. Big hair, black leather and rough tattoos all accompany a hard rock style that evokes Australian Rock legends like AC/DC and The Angels.

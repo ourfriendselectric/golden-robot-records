@@ -39,6 +39,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Formed in late 2012, Palace Of The King - nameless at that point - quickly recorded a 3 track demo and developed the vision of a blues-in fused rock and roll band. Far from a grave-robbing retro trip, Palace Of The King has just as much in common with Rival Sons, Graveyard & JackWhite as they do Led Zeppelin, Black Sabbath & Deep Purple. Remember when bands released an album a year and toured ’til the wheels fell off the tour van?

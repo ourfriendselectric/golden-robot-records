@@ -32,6 +32,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Saskatchewan’s own Amy Nelson, has been waving the Canadian flag on stages all over the world. This high school music teacher turned country singer has recently been making waves down under with the two singles released to Australian country radio, both going Top 10.

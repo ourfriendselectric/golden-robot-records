@@ -30,6 +30,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Sydney based combo The April Family have been quietly working away, building a name and a steady body of work since forming in 2015. Featuring the soulful twang of the enigmatic Kylie Whitney on lead vocals, the blistering skills of Casey Atkins on lead guitar and backing vocals, and the production and all rounder abilities of Michael Carpenter on rhythm guitar and backing vocals, the band developed a sound that fused Classic Country with the timeless colours of West Coast American Country Rock.

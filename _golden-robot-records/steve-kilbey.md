@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Steve Kilbey is Australian contemporary music royalty. A prolific artist who has written, performed and produced 21 solo albums, as well as 30 with rock legends The Church. He frequently collaborates with notable artists worldwide and has over a dozen albums with these creative partners, in addition to the aforementioned bodies of work. His artistic oeuvre spans more than 45 years, and reaches outside the world of music, flowing in a cellular formation through his poetic lyrics into his psychedelic art paintings and far beyond. Steve has 3 published 3 books (with a new one in the works), composed and written 750 songs, has conjured lyrics of biblical proportions, poured out plenteous poetry and imagined and realized hundreds of original paintings.

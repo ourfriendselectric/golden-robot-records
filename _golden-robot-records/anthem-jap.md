@@ -36,6 +36,11 @@ _options:
     width: 1500
     height: 1000
     resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
 ---
 
 Formed in Tokyo in 1981, ANTHEM turned heads with their intense and heated performances. They released their major debut, “ANTHEM” in 1985 and continued to tour relentlessly. The band's popularity grew with the release of their 2nd album, “TIGHTROPE” (1986), and they were able to break into the American market with their 3rd full length, “BOUND TO BREAK” (1987).
