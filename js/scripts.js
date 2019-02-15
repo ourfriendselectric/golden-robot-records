@@ -20,14 +20,18 @@ $(document).ready(function(){
 });
 
 function showNewsletterModal() {
-
-	if (typeof $.cookie('newsletter') === 'undefined'){ // Checks to see if the cookie exists
-		setTimeout(function() { 
-			$('#newsletter').modal('show')
-			$.cookie('newsletter', true, { expires: null, path: '/' });
-		}, 2000);
+	// only run this script if the newsletter is enabled
+	if ($('#newsletter').length){
+		if (typeof $.cookie('newsletter') === 'undefined' || $.cookie("newsletter") === 'false') { // Checks to see if the cookie exists
+			setTimeout(function() { 
+				$('#newsletter').modal('show')
+				$.cookie('newsletter', 'true', { expires: null, path: '/' });
+			}, 2000);
+		}
+	} else {
+		// remove the cookie do users see it next time it's turned on
+		$.cookie("newsletter", 'false', { path: '/' });
 	}
-
 }
 
 var getUrlParameter = function getUrlParameter(sParam) {
