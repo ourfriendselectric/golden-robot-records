@@ -4,6 +4,6 @@ heading: >-
   Entertainment
 intro_html: <h6>Get 20% off at our web-store when you sign up to our newsletter</h6>
 outro_html:
-show_form_code_block: false
+show_form_code_block: true
 form_code_block: |
   Embed form here
