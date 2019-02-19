@@ -4,13 +4,13 @@ hidden: false
 sort_number: 673
 name: Kirsty Lee Akers
 album_name: Under My Skin (SFR - Album)
-album_url: 'https://itunes.apple.com/au/album/under-my-skin/1377117028'
+album_url: >-
+  http://store.socialfamilyrecords.com/index.php/social-family-records/kirsty-lee-akers-under-my-skin-cd.html
 _hide_content: true
-
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
 ---
 
