@@ -4,13 +4,13 @@ hidden: false
 sort_number: 763
 name: Kristy James
 album_name: Raw (SFR - EP)
-album_url: 'https://itunes.apple.com/au/album/raw-ep/1381327657'
+album_url: >-
+  http://store.socialfamilyrecords.com/index.php/social-family-records/kristy-james-raw-cd.html
 _hide_content: true
-
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
 ---
 
