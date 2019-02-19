@@ -4,7 +4,8 @@ hidden: false
 sort_number: 65
 name: Glenn Shorrock
 album_name: Sings Little River Band (SFR - Album)
-album_url: 'http://goldenrobotrecords.com/catalogue/'
+album_url: >-
+  http://store.socialfamilyrecords.com/index.php/social-family-records/glenn-shorrock-glenn-shorrock-sings-little-river-band.html
 _hide_content: true
 _options:
   image_path:
