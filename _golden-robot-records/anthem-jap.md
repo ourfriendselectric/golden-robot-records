@@ -10,16 +10,15 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/67BObUWOkPPGftw3ITCHXH'
 apple_url: 'https://itunes.apple.com/jp/artist/anthem/1202041659'
 youtube_url:
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
   - image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpeg
     image_url:
   - image_path: /uploads/screen-shot-2018-12-04-at-8-49-47-am.png
