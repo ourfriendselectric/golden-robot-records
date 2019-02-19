@@ -10,16 +10,15 @@ instagram_url: 'https://www.instagram.com/kilbeykennedy/'
 spotify_url: 'https://open.spotify.com/search/results/kilbey%20kennedy'
 apple_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg
-    image_url:
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/steve-kilbey-glow-fade-cd.html
   - image_path: /images/kk tile 2 copy.jpg
     image_url:
   - image_path: /images/kk tile  copy.jpg
