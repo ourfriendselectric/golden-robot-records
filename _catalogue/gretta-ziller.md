@@ -4,13 +4,13 @@ hidden: false
 sort_number: 283
 name: Gretta Ziller
 album_name: Queen of Boomtown (SFR - Album)
-album_url: 'https://itunes.apple.com/au/album/queen-of-boomtown/1257739198'
+album_url: >-
+  http://store.socialfamilyrecords.com/index.php/social-family-records/gretta-ziller-queen-of-boomtown-cd.html
 _hide_content: true
-
 _options:
   image_path:
     width: 500
     height: 500
-    resize_style: "contain"
+    resize_style: contain
 ---
 
