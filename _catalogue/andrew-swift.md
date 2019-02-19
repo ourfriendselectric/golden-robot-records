@@ -4,7 +4,8 @@ hidden: false
 sort_number: 471
 name: Andrew Swift
 album_name: Call Out For The Cavalry (SFR - Album)
-album_url: 'http://smarturl.it/CallOutForTheCavalry'
+album_url: >-
+  http://store.socialfamilyrecords.com/index.php/social-family-records/andrew-swift-call-out-for-calvery-signed-cd.html
 _hide_content: true
 _options:
   image_path:
