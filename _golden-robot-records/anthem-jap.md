@@ -13,7 +13,8 @@ youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png
