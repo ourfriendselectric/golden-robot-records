@@ -5,5 +5,7 @@ heading: >-
 intro_html: <h6>Get 20% off at our web-store when you sign up to our newsletter</h6>
 outro_html:
 show_form_code_block: true
-form_code_block: |
+form_code_block: >-
   Embed form here
+
+  https://socialfamilyrecords.us5.list-manage.com/subscribe?u=0769272353712e30e2a31cd25&id=288ea28f27
