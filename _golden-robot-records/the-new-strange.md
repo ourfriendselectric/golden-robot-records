@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-02-21-1-1.jpg
+image_path: /uploads/image-2019-02-21-2-1.jpg
 name: The New Strange
 sort_number: 983181638
 hidden: false
@@ -17,8 +17,6 @@ buy_now:
 hero_path: /uploads/screen-shot-2019-02-21-at-11-31-30-am.png
 albums:
   - image_path: /uploads/screen-shot-2019-02-21-at-11-33-00-am.png
-    image_url:
-  - image_path: /uploads/image-2019-02-21-1.jpg
     image_url:
   - image_path: /uploads/image-2019-02-21-2.jpg
     image_url:
