@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/image-2019-02-21-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-02-21-2.jpg
     image_url:
   - image_path:
     image_url:
