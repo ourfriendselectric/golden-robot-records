@@ -6,8 +6,19 @@ $(document).ready(function(){
 		autoplaySpeed: 4000,
 	});
 
-	$('#department').change(function(){
+	$('#contact_address').change(function(){
 		$('#contact_form').attr('action', 'https://formspree.io/' + $(this).val());
+
+		// Remove all name attributes the inputs with id="cc_#"
+		// Remove all name attributes the inputs with id="department_#"
+		$($("[id^=cc_]")).removeAttr('name');
+		$($("[id^=department_]")).removeAttr('name');
+
+		const selected_id = $(this).children(":selected").attr('id');
+		const cc_id = selected_id.replace("option_", "cc_"); // option's id is 'option_#' and cc field is 'cc_#'
+		const department_id = selected_id.replace("option_", "department_"); // option's id is 'option_#' and cc field is 'cc_#'
+		$('#' + cc_id).attr('name', '_cc');
+		$('#' + department_id).attr('name', 'department');
 	});
 
 	var success = getUrlParameter('success');
