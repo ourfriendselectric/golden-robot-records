@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-02-21-1-1.jpg
 name: The New Strange
 sort_number: 983181638
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/thenewstrangeofficial/'
 instagram_url: 'https://www.instagram.com/thenewstrangeofficial/'
