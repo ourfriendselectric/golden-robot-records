@@ -56,11 +56,11 @@ layout: default
             </div>
 
             {% for emails in page.emails %}
-              {% if emails.cc_email_addresses.size > 0 %}
+              {% if emails.cc_email_addresses != null %}
                 {% if forloop.first == true %}
-                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses | reverse | join: ',' }}" name="_cc" />
+                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses }}" name="_cc" />
                 {% else %}
-                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses | reverse | join: ',' }}" />
+                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses }}" />
                 {% endif %}
               {% endif %}           
             {% endfor %}
