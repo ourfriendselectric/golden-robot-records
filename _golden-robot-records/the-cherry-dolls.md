@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/the cherry dolls tile copy.jpg
+image_path: /uploads/image-2019-02-22.jpg
 name: The Cherry Dolls
 sort_number: 40
 hidden: false
@@ -10,19 +10,18 @@ instagram_url: 'https://www.instagram.com/thecherrydolls/'
 spotify_url: 'https://open.spotify.com/artist/2oLNDqir66xWIn1gmdzeHQ'
 apple_url: 'https://itunes.apple.com/au/album/viva-los-dolls/1313187017'
 youtube_url: 'https://www.youtube.com/user/TheCherryDolls'
-
 buy_now:
   - name: JB HiFi
     logo_path: /uploads/logos/jbhifi.png
-    url: 'https://www.jbhifi.com.au/music/browse/rock/viva-los-dolls/459194/' 
+    url: 'https://www.jbhifi.com.au/music/browse/rock/viva-los-dolls/459194/'
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2342734'
-
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-cherry-dolls-viva-los-dolls-lp.html'
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-cherry-dolls-viva-los-dolls-lp.html
   - image_path: /uploads/screen-shot-2018-11-27-at-3-58-30-pm.png
     image_url:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-02-55-pm.png
