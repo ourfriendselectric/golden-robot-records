@@ -34,18 +34,36 @@ layout: default
             We've received your message, we'll be in contact shortly.
           </div>
 
-          <form action="https://formspree.io/{{ page.emails[0].email_address }}" method="POST" id="contact_form">
+          <form action="https://formspree.io/{{ page.emails[0].main_email_address }}" method="POST" id="contact_form">
             <input type="hidden" name="_next" value="{{ site.baseurl }}{% link contact.html %}?success=true" />
             <input type="hidden" name="_subject" value="New message via contact form" />
+
+            {% for emails in page.emails %}
+              {% if forloop.first == true %}
+                <input type="hidden" id="department_{{ forloop.index }}" value="{{ emails.dropdown_label }}" name="department" />
+              {% else %}
+                <input type="hidden" id="department_{{ forloop.index }}" value="{{ emails.dropdown_label }}" />
+              {% endif %}
+            {% endfor %}  
   
             <div class="form-group">
               <label for="name">Which department would you like to contact?</label>
-              <select class="form-control" id="department" name="department">
+              <select class="form-control" id="contact_address" name="To">
                 {% for emails in page.emails %}
-                  <option value="{{ emails.email_address }}">{{ emails.dropdown_label }}</option>
+                  <option value="{{ emails.main_email_address }}" id="option_{{ forloop.index }}">{{ emails.dropdown_label }}</option>
                 {% endfor %}
               </select>
             </div>
+
+            {% for emails in page.emails %}
+              {% if emails.cc_email_addresses != null %}
+                {% if forloop.first == true %}
+                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses }}" name="_cc" />
+                {% else %}
+                  <input type="hidden" id="cc_{{ forloop.index }}" value="{{ emails.cc_email_addresses }}" />
+                {% endif %}
+              {% endif %}           
+            {% endfor %}
   
             <div class="form-group">
               <label for="name">Your name</label>
