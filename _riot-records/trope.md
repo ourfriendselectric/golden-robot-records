@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/screen-shot-2019-02-22-at-11-01-39-am.png
 name: Trope
 sort_number: 2
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/tropeband?lang=en'
 facebook_url: 'https://www.facebook.com/TropeBand/'
 instagram_url: 'https://www.instagram.com/tropeband/'
