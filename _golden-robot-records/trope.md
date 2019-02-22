@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/image-2019-02-22-3.jpg
 name: Trope
-sort_number: 7
-hidden: true
+sort_number: 8
+hidden: false
 twitter_url: 'https://twitter.com/tropeband?lang=en'
 facebook_url: 'https://www.facebook.com/TropeBand/'
 instagram_url: 'https://www.instagram.com/tropeband/'
