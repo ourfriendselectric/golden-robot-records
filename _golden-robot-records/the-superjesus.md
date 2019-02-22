@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/superjesus tile 2 copy.jpg
 name: The Superjesus
-sort_number: 34
+sort_number: 8923981
 hidden: false
 twitter_url: 'https://twitter.com/The_Superjesus'
 facebook_url: 'https://www.facebook.com/thesuperjesusofficial/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/the_superjesus/'
 spotify_url: 'https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd'
 apple_url: 'https://itunes.apple.com/au/album/love-and-violence-ep/1316022655'
 youtube_url: 'https://www.youtube.com/channel/UCSnMC_EWGqnkozLRUBWFHvA'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /images/Screen Shot 2018-11-15 at 9.53.28 am.png
 albums:
   - image_path: /images/Screen Shot 2018-11-25 at 7.38.24 pm.png
