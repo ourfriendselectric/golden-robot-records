@@ -41,3 +41,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
+TROPE is an alternative rock band based in Los Angeles, California. The band formed in 2016 when guitarist/producer Dave Thompson showed vocalist Diana Studenberg the embryo of what came to be their first song, Lambs. The duo spent the next 2 years writing and recording while searching for bandmates who could keep up with the constant time signature changes and feels in the music.
+
+After filming a short teaser video of Lambs, they garnered the attention of the music industry including Mike Fraser (AC/DC, Metallica) who agreed to engineer the album with Thompson producing, and David Bottrill (Tool, Peter Gabriel), who agreed to creatively consult and mix the album.
+
+Pre-production on the debut Trope record began in April 2017, and tracking has occurred at both Armoury Studios and Hipposonic. The album titled ‘Eleutheromania’ will be released May 2019.
+
+Trope’s music has been likened to A Perfect Circle and Tool with female vocals, their sound falling into the Alternative Rock genre. Their ‘music first’ focus pairs with the groups sound, which is quite progressive.
