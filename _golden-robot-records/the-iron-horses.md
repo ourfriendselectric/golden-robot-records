@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 5.42.56 pm.png
 name: The Iron Horses
-sort_number: 33
+sort_number: 27816323
 hidden: false
 twitter_url: 'https://twitter.com/TheIronHorses1'
 facebook_url: 'https://www.facebook.com/theironhorsesband/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/theironhorses/'
 spotify_url: 'https://open.spotify.com/artist/0KvH4F4ldUQADRihrAECUU'
 apple_url: 'https://itunes.apple.com/au/album/salvation-single/1435276237'
 youtube_url: 'https://www.youtube.com/channel/UCk-pxELR-n_ZiPH7WkRZEgA'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/Screen Shot 2018-11-05 at 4.08.47 pm.png
 albums:
   - image_path: /uploads/April Rain Artwork-01-01-01.png
