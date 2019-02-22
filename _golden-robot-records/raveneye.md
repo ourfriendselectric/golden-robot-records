@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-25 at 7.31.15 pm.png
 name: RavenEye
-sort_number: 25
+sort_number: 78972398
 hidden: false
 twitter_url: 'https://twitter.com/ItsRavenEye'
 facebook_url: 'https://www.facebook.com/ItsRavenEye/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/itsraveneye/'
 spotify_url: 'https://open.spotify.com/search/results/raveneye'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCdKLQB3k1jvUArLckZNhZsg'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /images/raven cover copy.jpg
 albums:
   - image_path: /images/raven tile 3.jpg
