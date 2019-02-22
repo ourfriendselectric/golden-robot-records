@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/john sykes tile 5 copy.jpg
+image_path: /uploads/image-2019-02-22-9.jpg
 name: John Sykes
 sort_number: 1
 hidden: false
@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/screen-shot-2019-01-29-at-10-22-24-am.png
     image_url:
-  - image_path: /uploads/john sykes tile 5 copy.jpg
+  - image_path: /uploads/image-2019-02-22-8.jpg
     image_url:
 _type: golden-robot-records
 _options:
