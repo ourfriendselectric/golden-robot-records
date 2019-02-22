@@ -11,7 +11,7 @@ spotify_url: 'https://open.spotify.com/artist/67BObUWOkPPGftw3ITCHXH'
 apple_url: 'https://itunes.apple.com/jp/artist/anthem/1202041659'
 youtube_url:
 buy_now:
-  - name:
+  - name: GRGE Online Store
     logo_path:
     url: >-
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
