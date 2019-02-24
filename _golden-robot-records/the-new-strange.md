@@ -4,12 +4,12 @@ image_path: /uploads/image-2019-02-25.jpg
 name: The New Strange
 sort_number: 34
 hidden: false
-twitter_url: 'https://twitter.com/GoldenRobotRcds'
+twitter_url: 'https://twitter.com/DurbinRock'
 facebook_url: 'https://www.facebook.com/DurbinRock/'
 instagram_url: 'https://www.instagram.com/jamesdurbinofficial/?hl=en'
 spotify_url:
 apple_url:
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCriaQTu2uEaCW30rfOn1WBw'
 buy_now:
   - name:
     logo_path:
