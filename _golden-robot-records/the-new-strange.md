@@ -5,8 +5,8 @@ name: The New Strange
 sort_number: 34
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
-facebook_url: 'https://www.facebook.com/thenewstrangeofficial/'
-instagram_url: 'https://www.instagram.com/thenewstrangeofficial/'
+facebook_url: 'https://www.facebook.com/DurbinRock/'
+instagram_url: 'https://www.instagram.com/jamesdurbinofficial/?hl=en'
 spotify_url:
 apple_url:
 youtube_url:
