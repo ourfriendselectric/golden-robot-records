@@ -59,6 +59,6 @@ It was as part of the club band The Wild in the late 1980s, while rehearsing and
 
 In 2012, Dizzy was inducted into the Rock n’ Roll Hall of Fame as a member of Guns n’ Roses. He has also toured with the Psychedelic Furs and has toured, recorded and written with supergroup The Dead Daisies.
 
-With his first solo album released through Golden Robot Records, Dizzy Reed remains in the rock industry’s ‘sharky’ waters, continuously growing as an individual and flourishing as an artist.
+With his first solo album released through Golden Robot Records in 2018, Dizzy Reed remains in the rock industry’s ‘sharky’ waters, continuously growing as an individual and flourishing as an artist.
 
 “Never stop learning and exploring, but don’t forget what you do best. Stick to your guns.”
