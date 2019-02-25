@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/image-2019-02-25-2-1.jpg
 name: Hookers and Blow
-sort_number:
-hidden: true
+sort_number: 25
+hidden: false
 twitter_url: 'https://twitter.com/hookers_n_blow?lang=en'
 facebook_url: 'https://www.facebook.com/HNBMerch/'
 instagram_url: 'https://www.instagram.com/hnb_official/'
