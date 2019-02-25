@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/image-2019-02-25-7.jpg
+hero_path: /uploads/hnb-2.jpg
 albums:
   - image_path: /uploads/image-2019-02-25-8.jpg
     image_url:
