@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-02-25-2-1.jpg
+image_path: /uploads/image-2019-02-25-3-1.jpg
 name: Hookers and Blow
 sort_number: 25
 hidden: false
@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/hnb-2.jpg
 albums:
-  - image_path: /uploads/hnb-logo-1.jpg
+  - image_path: /uploads/image-2019-02-25-8-1.jpg
     image_url:
   - image_path: /uploads/image-2019-02-25-3.jpg
     image_url:
