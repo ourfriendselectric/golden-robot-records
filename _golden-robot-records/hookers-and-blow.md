@@ -1,12 +1,12 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/image-2019-02-25-2-1.jpg
 name: Hookers and Blow
 sort_number:
 hidden: true
-twitter_url:
+twitter_url: 'https://twitter.com/hookers_n_blow?lang=en'
 facebook_url: 'https://www.facebook.com/HNBMerch/'
-instagram_url:
+instagram_url: 'https://www.instagram.com/hnb_official/'
 spotify_url:
 apple_url:
 youtube_url:
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/screen-shot-2019-02-25-at-11-43-31-am.png
 albums:
   - image_path: /uploads/hnb-logo.jpg
     image_url:
@@ -41,10 +41,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-**Hookers & Blow,**&nbsp;the now legendary project formed by longtime&nbsp;**Guns N' Roses&nbsp;**keyboardist&nbsp;**Dizzy Reed&nbsp;**and**&nbsp;Quiet Riot&nbsp;**guitarist&nbsp;**Alex Grossi**, have entered the recording studio to record a covers album set for a 2019 release via The world’s fastest growing independent record label,&nbsp;**Golden Robot Records**,&nbsp;
+**Hookers & Blow,** the now legendary project formed by longtime **Guns N' Roses** keyboardist **Dizzy Reed** and **Quiet Riot** guitarist **Alex Grossi**, have entered the recording studio to record a covers album set for a 2019 release via The world’s fastest growing independent record label, **Golden Robot Records**, 
 
-"We have been asked for years about putting out an actual recording since we started this thing in 2003," says&nbsp;**Alex Grossi**. "It never really made sense until now, as we have actually found the perfect record label in&nbsp;**Golden Robot Records&nbsp;**- They actually get&nbsp;*"IT"*&nbsp;as far as what&nbsp;**Hookers & Blow**&nbsp;is all about, so we have decided to go for it and are currently in the studio tracking an album of some of our favorite tunes, with some of our favorite people and just having FUN with it. We can't fucking wait to share some of what we have planned for this thing."
+"We have been asked for years about putting out an actual recording since we started this thing in 2003," says **Alex Grossi**. "It never really made sense until now, as we have actually found the perfect record label in **Golden Robot Records** - They actually get *"IT"* as far as what **Hookers & Blow** is all about, so we have decided to go for it and are currently in the studio tracking an album of some of our favorite tunes, with some of our favorite people and just having FUN with it. We can't fucking wait to share some of what we have planned for this thing."
 
-**Hookers & Blow**&nbsp;celebrated it's 15th anniversary with two extensive tours in 2018, headlining their own 25 city Holiday Hangover Tour&nbsp; in January, as well as supporting&nbsp;**The Dead Daisies**&nbsp;on their first headline trek of North America, which kicked off on August 15th in Cleveland, OH, and wrapped in Hollywood on September 16th with a sold out show at The Roxy Theater in Hollywood, CA.
+**Hookers & Blow** celebrated it's 15th anniversary with two extensive tours in 2018, headlining their own 25 city Holiday Hangover Tour  in January, as well as supporting **The Dead Daisies** on their first headline trek of North America, which kicked off on August 15th in Cleveland, OH, and wrapped in Hollywood on September 16th with a sold out show at The Roxy Theater in Hollywood, CA.
 
-In addition to&nbsp;**Reed&nbsp;**and&nbsp;**Grossi, Hookers & Blow's&nbsp;**current line-up includes&nbsp;**Johnny Kelly (Type O Negative, Danzig**) and&nbsp;**Robbie Crane (Black Star Riders).&nbsp;**
+In addition to **Reed** and **Grossi, Hookers & Blow's** current line-up includes **Johnny Kelly (Type O Negative, Danzig**) and **Robbie Crane (Black Star Riders). **
