@@ -18,7 +18,7 @@ development:
   url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 production:
-  url: "https://azure-chasm.cloudvent.net" # the base hostname & protocol for your site, e.g. http://example.com
+  url: "https://goldenrobotrecords.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Golden Robot Records
 email: info@goldenrobotrecords.com
@@ -36,6 +36,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 permalink: pretty
 
 collections:
