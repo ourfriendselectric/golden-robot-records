@@ -51,10 +51,10 @@ They’ve shared the stage with the who’s who of Classic rocks big guns. White
 
 10 years, Five Albums… Three E.P’s… American and European tours… broken teeth, broken bones & broken records.
 
-2019 sees the release of a brand new studio album ‘**Mother**‘, the first full length to be issued by the band since their critically acclaimed live recording “Live at Helldorado”. For USA and Japan, Golden Robot Records will be releasing the album.&nbsp;
+2019 sees the release of a brand new studio album ‘**Mother**‘, the first full length to be issued by the band since their critically acclaimed live recording “Live at Helldorado”.
 
 Electric Mary are hungrier than ever. For those who are un-initiated, there’s only one thing left to say:
 
 **…come and see what all the fuss is about.**
 
-&nbsp;
+Golden Robot Records will be releasing Electric Mary's new album 'Mother' across the USA and Japan in 2019.&nbsp;
