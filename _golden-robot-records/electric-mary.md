@@ -1,15 +1,15 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-02-28-5.jpg
+image_path: /uploads/image-2019-02-28-2.jpg
 name: Electric Mary
 sort_number: 10
-hidden: true
+hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: 'https://www.facebook.com/electricmary/'
+instagram_url: 'https://www.instagram.com/electricmarymusic/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/5L1rOWU3saDGam8QkWPDqO'
+apple_url: 'https://itunes.apple.com/au/artist/electric-mary/78760762'
+youtube_url: 'https://www.youtube.com/channel/UC2slDQNi4ST1Tm79F-Tnf9w'
 buy_now:
   - name:
     logo_path:
