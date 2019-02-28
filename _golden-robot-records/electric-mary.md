@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-02-28-2.jpg
 name: Electric Mary
 sort_number: 27
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/electricmary?lang=en'
 facebook_url: 'https://www.facebook.com/electricmary/'
 instagram_url: 'https://www.instagram.com/electricmarymusic/?hl=en'
@@ -41,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” -&nbsp;**Only Australian Music Blog**
+“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” - **Only Australian Music Blog**
 
 Electric Mary are revered as one of the Australia’s best live bands.
 
@@ -57,4 +57,4 @@ Electric Mary are hungrier than ever. For those who are un-initiated, there’s 
 
 **…come and see what all the fuss is about.**
 
-Golden Robot Records will be releasing Electric Mary's new album 'Mother' across the USA and Japan in 2019.&nbsp;
+Golden Robot Records will be releasing Electric Mary's new album 'Mother' across the USA and Japan in 2019.
