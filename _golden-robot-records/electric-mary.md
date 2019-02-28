@@ -41,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” - **Only Australian Music Blog**
+“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” -&nbsp;**Only Australian Music Blog**
 
 Electric Mary are revered as one of the Australia’s best live bands.
 
@@ -51,8 +51,10 @@ They’ve shared the stage with the who’s who of Classic rocks big guns. White
 
 10 years, Five Albums… Three E.P’s… American and European tours… broken teeth, broken bones & broken records.
 
-2019 sees the release of a brand new studio album ‘**Mother**‘, the first full length to be issued by the band since their critically acclaimed live recording “Live at Helldorado”.
+2019 sees the release of a brand new studio album ‘**Mother**‘, the first full length to be issued by the band since their critically acclaimed live recording “Live at Helldorado”. It will be released through Golden Robot Records in USA and Japan.&nbsp;
 
 Electric Mary are hungrier than ever. For those who are un-initiated, there’s only one thing left to say:
 
 **…come and see what all the fuss is about.**
+
+&nbsp;
