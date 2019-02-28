@@ -41,6 +41,8 @@ _options:
     uploads_dir: uploads/logos
 ---
 
+“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” -&nbsp;**Only Australian Music Blog**
+
 Electric Mary are revered as one of the Australia’s best live bands.
 
 In the fickle fires of Oz Rock, “The Mary’s” are a rock band that just keep rolling on. It is clearly evident that Electric Mary haven’t rest on their laurels as they’re still working as hard as ever and continue to make new music with energy and raw power.
