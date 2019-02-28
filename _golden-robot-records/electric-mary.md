@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/image-2019-02-28-5.jpg
 name: Electric Mary
 sort_number: 10
 hidden: true
@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/image-2019-02-28-1.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/image-2019-02-28-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-02-28-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-02-28-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-02-28-5.jpg
     image_url:
 _type: golden-robot-records
 _options:
