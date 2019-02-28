@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/image-2019-02-28-3.jpg
     image_url:
-  - image_path: /uploads/.jpg
+  - image_path: /uploads/screen-shot-2019-02-28-at-3-10-33-pm.png
     image_url:
   - image_path: /uploads/image-2019-02-28-5.jpg
     image_url:
@@ -41,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” -&nbsp;**Only Australian Music Blog**
+“ELECTRIC MARY IS A DELICACY BEST TASTED LIVE (IN THE FLESH), AND HOT.” - **Only Australian Music Blog**
 
 Electric Mary are revered as one of the Australia’s best live bands.
 
