@@ -4,7 +4,7 @@ image_path: /uploads/image-2019-02-28-2.jpg
 name: Electric Mary
 sort_number: 27
 hidden: false
-twitter_url:
+twitter_url: 'https://twitter.com/electricmary?lang=en'
 facebook_url: 'https://www.facebook.com/electricmary/'
 instagram_url: 'https://www.instagram.com/electricmarymusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/5L1rOWU3saDGam8QkWPDqO'
