@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-28-2.jpg
 name: Electric Mary
-sort_number: 10
+sort_number: 27
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/electricmary/'
