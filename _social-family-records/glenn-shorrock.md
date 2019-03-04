@@ -10,18 +10,16 @@ instagram_url: 'https://www.instagram.com/glennboshorrock/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/1mBRVjszEFRT7OhukskPnX'
 apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
 youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url: 'http://smarturl.it/Get-ShorrockSingsLRB'
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/GS_RA600x600.jpg
     image_url:
   - image_path: /uploads/GlennShorrockSingsLRB-album cover 600px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/Get-ShorrockSingsLRB'
 _type: social-family-records
 _options:
   image_path:
@@ -47,13 +45,13 @@ The founding frontman of The Twilights, Axiom and ‘70s hitmakers Little River 
 
 Moving forward, 2019 sees the release of the living legend’s latest and somewhat “reminiscent” solo album, **Glenn Shorrock Sings Little River Band**, produced and recorded live in the studio by producer and artist, Steve Balbi, at Rancom St Studio and The Engine Room and mixed by Tony Wall.
 
-The album is set for release on Friday, 8 March, 2019, and available for pre-order now. It features ten of Shorrock’s favourite LRB hits, including first single and instant grat track, *The Night Owls*, penned by long-time friend, Graeham Goble.&nbsp;
+The album is set for release on Friday, 8 March, 2019, and available for pre-order now. It features ten of Shorrock’s favourite LRB hits, including first single and instant grat track, *The Night Owls*, penned by long-time friend, Graeham Goble. 
 
 **BUY/LISTEN TO THE NIGHT OWLS HERE:**
 
 [http://smarturl.it/ShorrockTheNightOwls](http://smarturl.it/ShorrockTheNightOwls){: target="_blank"}
 
-The outstanding musicians who joined Shorrock to record the album live in studio included Pete Drummond (drums), Jak Housden (guitar 1), James Van Cooper (guitar 2), Dario Bortolin (bass), Robbie Woolf (keys), Glenn Cunningham (bv’s), Hugh Wilson (bv’s), Phil Stack (upright bass on Reminiscing), Mitchell Rogers (lap steel), and Ross Middleton (sax).&nbsp; The album was engineered by Ted Howard and mastered by Paul Gomersall.
+The outstanding musicians who joined Shorrock to record the album live in studio included Pete Drummond (drums), Jak Housden (guitar 1), James Van Cooper (guitar 2), Dario Bortolin (bass), Robbie Woolf (keys), Glenn Cunningham (bv’s), Hugh Wilson (bv’s), Phil Stack (upright bass on Reminiscing), Mitchell Rogers (lap steel), and Ross Middleton (sax).  The album was engineered by Ted Howard and mastered by Paul Gomersall.
 
 **GLENN SHORROCK SINGS LITTLE RIVER BAND**
 
@@ -83,17 +81,17 @@ The outstanding musicians who joined Shorrock to record the album live in studio
 
 [http://smarturl.it/Get-ShorrockSingsLRB](http://smarturl.it/Get-ShorrockSingsLRB){: target="_blank"}
 
-***\*\*\* Pre-orders through iTunes (MP3) or the Social Family Records merch store (CD)&nbsp;******receive The Night Owls instantly \*\*\****
+***\*\*\* Pre-orders through iTunes (MP3) or the Social Family Records merch store (CD) ******receive The Night Owls instantly \*\*\****
 
 ## **ABOUT**
 
-Born in Kent, England, Glenn migrated with his family at the age of 10 to Adelaide in the mid-1950s. A self-confessed child of rock ‘n’ roll, he began singing in 1962.&nbsp;
+Born in Kent, England, Glenn migrated with his family at the age of 10 to Adelaide in the mid-1950s. A self-confessed child of rock ‘n’ roll, he began singing in 1962. 
 
-At the end of 1974, Glenn helped form Little River Band as lead singer. Managed by long-time friend, Glenn Wheatley, Little River Band cracked the lucrative United States market in 1976 and began a string of eight Top Ten hits there and around the world, and often been credited for opening the door for many Australian acts on the international circuit. In 1995, Glenn fronted Little River Band during their 20th year anniversary, three and a half-month tour of the United States.&nbsp;
+At the end of 1974, Glenn helped form Little River Band as lead singer. Managed by long-time friend, Glenn Wheatley, Little River Band cracked the lucrative United States market in 1976 and began a string of eight Top Ten hits there and around the world, and often been credited for opening the door for many Australian acts on the international circuit. In 1995, Glenn fronted Little River Band during their 20th year anniversary, three and a half-month tour of the United States. 
 
 Fast forward to 2016 and the acclaimed singer/songwriter returned with a collection of songs composed by himself and friends, old and new, offering a mix of folk-rock and easy listening tracks with his solo album, Rise Again, also released through Social Family Records and available on CD and digital platforms.
 
-Although now in his 70s, Glenn continues to tour constantly, with 2018 seeing the June release of his autobiography, “Now, Where Was I?” about his career with the Twilights, Axiom and Little River Band and back again. With the new solo album out on March 8, fans can catch Glenn at a run shows later that month and further into 2019.&nbsp; He’s certainly not ready to slow down yet!
+Although now in his 70s, Glenn continues to tour constantly, with 2018 seeing the June release of his autobiography, “Now, Where Was I?” about his career with the Twilights, Axiom and Little River Band and back again. With the new solo album out on March 8, fans can catch Glenn at a run shows later that month and further into 2019.  He’s certainly not ready to slow down yet!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -101,7 +99,7 @@ Although now in his 70s, Glenn continues to tour constantly, with 2018 seeing th
 
 Glenn Shorrock's story, when it is finally told, will have the ingredients of an epic. It's one of ambition, global stardom, longevity and battles. Shorrock is back with his first album of new material in 16 years, Rise Again. And he' s got stories to tell.
 
-Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist.&nbsp;
+Shorrock, the founding frontman of The Twilights, Axiom and 70s hitmakers Little River Band (later known as LRB) carved out astonishing success around the globe and in particular the U.S., where LRB shifted the bulk of its 25 million-plus career album sales. The living legend has the unusual distinction of having been inducted into the ARIA Hall of Fame on two occasions, both as a member of LRB, and as a solo artist. 
 
 "*I've been lucky enough, I've never had a proper job over my career*," he quips. "*It's one of the measures of success as far as I'm concerned. People say, what's your success down to? It's about surviving and keeping busy in the entertainment industry. It's something I think a lot about now, being 72 and being a so-called rock legend, which I find amusing*."
 
@@ -123,12 +121,12 @@ Shorrock's had his hands full since the release of his last album of originals, 
 
 Shorrock always looks forward, though his live performances pay respect to the past. His typical set list will feature a wealth of classic tracks from across his 50-year-plus career, woven in with material from his latest album. "*It's an eclectic bunch of material*," he says of Rise Again. "*I didn't want to reproduce the same song over and again and not everybody is going to like everything. But I wanted it to be a very dynamic record. And I think I've succeeded in that*."
 
-&nbsp;
+ 
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=GlGf_564T3qRYGTwRoTm_g){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=GlGf_564T3qRYGTwRoTm_g){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW GLENN SHORROCK:**
