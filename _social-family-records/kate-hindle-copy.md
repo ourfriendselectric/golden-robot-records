@@ -1,24 +1,25 @@
 ---
 layout: artist
-image_path: /uploads/kate-hindle-1-500px.jpeg
-name: Kate Hindle (Distro only)
-sort_number: 140
+image_path: /uploads/route33-20jan18-photobystephenbooth-2-square-1000px.jpeg
+name: Route 33 (Distro only)
+sort_number: 155
 hidden: false
-twitter_url: 'https://twitter.com/katehindlemusic'
-facebook_url: 'https://www.facebook.com/katehindlemusic/'
-instagram_url: 'https://www.instagram.com/katehindlemusic/'
-spotify_url: 'https://open.spotify.com/artist/1sAlsJc7pSiSObYDfDBFCN?si=6B1AlYBMQ9ODFd2sEuw5IA'
+twitter_url:
+facebook_url: 'https://www.facebook.com/route33entertainment/'
+instagram_url: 'https://www.instagram.com/route33music/'
+spotify_url: >-
+  https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE?si=lgFk0nsvT2efFNUBaKL29QCN?si=6B1AlYBMQ9ODFd2sEuw5IA
 apple_url:
 youtube_url:
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
-hero_path: /uploads/kate-hindle-1-web-banner-hero.jpeg
+  - name:
+    logo_path:
+    url:
+hero_path: /uploads/route33-20jan18-photobystephenbooth-1-1500.jpeg
 albums:
-  - image_path: /uploads/kate-hindle---heart-bleed---single-cover-500px.jpeg
+  - image_path: /uploads/route-33---kryptonite---single-cover-600px.jpeg
+    image_url: 'http://smarturl.it/Route33-Kryptonite'
+  - image_path:
     image_url:
 _type: social-family-records
 _options:
@@ -37,6 +38,6 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Kate Hindle (Distro only)**
+# **Route 33 (Distro only)**
 
-Get **Kate Hindle's** brand new single, ***Heart Bleed***, here: &nbsp;[http://smarturl.it/Get-KateH-HeartBleed](http://smarturl.it/Get-KateH-HeartBleed)
+Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite)
