@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/route33-20jan18-photobystephenbooth-2-square-1000px.jpeg
 name: Route 33 (Distro only)
-sort_number: 155
+sort_number: 225
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/route33entertainment/'
@@ -40,4 +40,4 @@ _options:
 
 # **Route 33 (Distro only)**
 
-Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite)
+Get **Route 33's** brand new single, ***Kryptonite***, here:  [http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite)
