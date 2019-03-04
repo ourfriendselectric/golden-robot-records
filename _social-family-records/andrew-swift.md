@@ -10,24 +10,22 @@ instagram_url: 'https://www.instagram.com/andrewswiftmusic/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd'
 apple_url: 'https://itunes.apple.com/au/artist/andrew-swift/269827452'
 youtube_url: 'https://www.youtube.com/channel/UC3cObi33hxDHzJOhoPjZhxA'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url: 'http://smarturl.it/CallOutForTheCavalry'
 hero_path: /uploads/as-ggwins.jpg
 albums:
   - image_path: /uploads/as-cover1-2000px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/CallOutForTheCavalry'
   - image_path: /uploads/as-reckless1-500px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/CallOutForTheCavalry'
   - image_path: /uploads/as-rt-single-500px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/CallOutForTheCavalry'
   - image_path: /uploads/as-kingskysingle3-600px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/CallOutForTheCavalry'
   - image_path: /uploads/as-fireicesingleart-500px.jpeg
-    image_url:
+    image_url: 'http://smarturl.it/CallOutForTheCavalry'
 _type: social-family-records
 _options:
   image_path:
@@ -89,7 +87,7 @@ Across the 10 impressive songs is a recurring theme, an observation of our need 
 
 It seems Swift’s days of drifting may be over. Buoyed by the passionate and supportive country music scene, shore won’t ever be so far away.
 
-**Buy Call Out For The Cavalry on digital or CD here:**[http://smarturl.it/CallOutForTheCavalry](http://smarturl.it/CallOutForTheCavalry){: target="_blank"}
+**Buy Call Out For The Cavalry on digital or CD here:&nbsp;**[http://smarturl.it/CallOutForTheCavalry](http://smarturl.it/CallOutForTheCavalry){: target="_blank"}
 
 &nbsp;
 
