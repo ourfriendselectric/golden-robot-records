@@ -14,7 +14,7 @@ youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://smarturl.it/Route33-Kryptonite'
 hero_path: /uploads/route33-20jan18-photobystephenbooth-1-1500.jpeg
 albums:
   - image_path: /uploads/route-33---kryptonite---single-cover-600px.jpeg
@@ -40,4 +40,4 @@ _options:
 
 # **Route 33 (Distro only)**
 
-Get **Route 33's** brand new single, ***Kryptonite***, here:  [http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite)
+Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
