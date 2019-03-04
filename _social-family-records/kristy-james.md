@@ -10,18 +10,16 @@ instagram_url: 'https://www.instagram.com/kristyjamesmusic/'
 spotify_url: 'https://open.spotify.com/artist/4ycTm72puHRZpj6WkZCPb0'
 apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url: 'http://smarturl.it/EP-KristyJames-RAW'
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
-    image_url:
+    image_url: 'http://smarturl.it/EP-KristyJames-RAW'
   - image_path: /uploads/kristy-james---dark-sunglasses---single-cover-1.jpg
-    image_url:
+    image_url: 'http://smarturl.it/EP-KristyJames-RAW'
 _type: social-family-records
 _options:
   image_path:
@@ -39,8 +37,28 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Kristy James is a multi-award winning singer-songwriter from Newcastle. James has been in the music industry most of her life. Kristy’s first EP achieved a #2 spot on the iTunes chart, her first single - Overdrive - was included on 3 ABC Compilation albums. Kristy followed this up with a further 2 iTunes #2 Singles.
+# Kristy James
 
-In 2016 Kristy was named a Top 5 finalist in the Music oz Australian Independent Music in the country section, in the same year Kristy won the 2016 Australian Songwriters Association Awards the country's largest and longest running competition. To add to her achievements, Kristy was also awarded the PPCA (Phonographic Performance Company Of Australia) Best Live Performance Award of 2016. Last year, Kristy yet again won the Country section of the 2017 Australian Songwriters Association Awards with her original song "Take Me Down", Kristy followed this by winning the 2017 PPCA Best Live Performance Award once again.
+The&nbsp;**RAW** EP from award-winning Newcastle singer-songwriter, **Kristy James** has been unveiled in its superb entirety. Co-produced with her husband, **RAW** is an inspiring and truthful offering from James.
 
-After recently signing a record deal with Social Family Records, James will have her next full release out in mid 2018, with a single in late February. Later this year she will embark on an Australia wide tour including 4 launch shows for her album. The next twelve months are looking extremely promising for Kristy James.
+Created from her own vision from the ground up, the new EP is a body of work that she feels truly represents her as an artist for the first time. The listener will find stories of romance, crime and broken hearts, plus empowering anthems that present opportunity and hope for times ahead. **RAW** is a journey, a rollercoaster of emotions and leaves the audience with a new understanding of Kristy James as “raw” as she has ever been.
+
+James discusses each track. “*Musically,* **Everything to Nothing**, *is one of my favourite pieces I have written.&nbsp; When Matt Scullion and I decided to write a song together, we wanted to challenge ourselves and write a song with the same repetition of chords and I really love the outcome*,” she says.&nbsp;
+
+“**Cinderella** *is my latest single and a tale of love that’s just not meant to be and my previous single*, **Dark Sunglasses**, *is one of those haunting, catchy, rocky type tracks, very imaginative and creative…about situations possible when we’re left to our own thoughts versus what we’d do in reality. The fourth track is***Brand New**, *which I wrote with Damien Leith.&nbsp; It’s a deep and powerful song about a tragic past – but it does serve a positive message.&nbsp; And then there’s* **Stone Cold Sober**.&nbsp; *It’s a bluesy, soulful song written after something I overheard when I was walking along Broadway in Nashville.&nbsp; Last, but not least, is* **Push**, *which completes the EP nicely.&nbsp; It’s a message of hope, faith and encouragement.&nbsp; Sometimes the best things in life are just a little ‘push’ away*.”
+
+**TRACK LISTING**
+
+Everything To Nothing
+
+Cinderella
+
+Dark Sunglasses
+
+Brand New
+
+Stone Cold Sober
+
+Push
+
+**Listen/Order:&nbsp; [http://smarturl.it/EP-KristyJames-RAW](http://smarturl.it/EP-KristyJames-RAW){: target="_blank"}**
