@@ -10,16 +10,16 @@ instagram_url: 'https://www.instagram.com/socialfamilyrecords/'
 spotify_url: 'https://open.spotify.com/artist/20W58iDk72EzCy1ugW6Ix7'
 apple_url: 'https://itunes.apple.com/au/artist/jetty-road/432886500'
 youtube_url: 'https://www.youtube.com/user/JettyRoad1'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url: 'http://smarturl.it/Jetties-BecauseWeCan'
 hero_path: /uploads/jettyroad-web.jpg
 albums:
   - image_path: /uploads/jettyrd-frontcover-square-itunes.jpg
     image_url:
+  - image_path: /uploads/jetty-road---because-we-can---single-cover-600px.jpeg
+    image_url: 'http://smarturl.it/Jetties-BecauseWeCan'
 _type: social-family-records
 _options:
   image_path:
@@ -47,10 +47,10 @@ A decade or so on, this talented trio are now stars of Country Music in their ow
 
 The trio has also a multitude of awards and accolades along the way with two Golden Guitars (CMAA), an APRA Award nomination, five Southern Star Independent Artist of Australia Awards and 10 number one charting songs to their name.
 
-The trio signed with Social Family Records and their new album is slated for release mid to late 2019. The first single, *Because We Can*, is out now.
+The trio signed with Social Family Records and their new album is slated for release mid to late 2019. The first single, *Because We Can*, is out now - buy or listen here: &nbsp;[http://smarturl.it/Jetties-BecauseWeCan](http://smarturl.it/Jetties-BecauseWeCan){: target="_blank"}
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
 ## **FOLLOW JETTY ROAD:**
