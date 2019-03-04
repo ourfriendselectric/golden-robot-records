@@ -9,7 +9,7 @@ facebook_url: 'https://www.facebook.com/neillyrich/'
 instagram_url: 'https://www.instagram.com/neillyrich/'
 spotify_url: 'https://open.spotify.com/album/2G4a7h7hIhkPbGmhf3aAZA'
 apple_url: 'https://itunes.apple.com/au/artist/neillyrich/799725740'
-youtube_url: 'https://www.youtube.com/channel/UCsTTHNLhDgdlsr2-_mSyZ2Q'
+youtube_url:
 buy_now:
   - name:
     logo_path:
@@ -53,6 +53,4 @@ Through to January 2016, the partnership between these two emerging artists has 
 
 2017 saw the release of NeillyRich’s first ever studio recording entitled Here Now Forever, the 7 track EP exceeding expectations by reaching number four on both the ARIA Australian Country Album Chart as well as the iTunes Australian Country Album Chart. The success of the release led to bookings on both the Norfolk Island and Broadbeach Country Music Festivals, as well as support slots on tour with Travis Collins, Amber Lawrence, The Viper Creek Band and a return to Kirsty Lee Akers’ tour schedule.
 
-Their new album is slated for release in late 2019, with the first single, ***Hey You***, due to drop on April 1.&nbsp; Check it out here:&nbsp;[http://smarturl.it/NeillyRich-HeyYou](http://smarturl.it/NeillyRich-HeyYou){: target="_blank"}
-
-&nbsp;
+Their new album is slated for release in late 2019, with the first single, ***Hey You***, due to drop on April 1.  Check it out here: [http://smarturl.it/NeillyRich-HeyYou](http://smarturl.it/NeillyRich-HeyYou){: target="_blank"}
