@@ -10,16 +10,14 @@ instagram_url: 'https://www.instagram.com/carolinejones/'
 spotify_url:
 apple_url:
 youtube_url:
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url: 'http://smarturl.it/Get-BareFeet-Single'
 hero_path: /uploads/cj-webbanner-hero.jpeg
 albums:
-  - image_path:
-    image_url:
+  - image_path: /uploads/carolinejones-barefeet-600px.jpeg
+    image_url: 'http://smarturl.it/Get-BareFeet-Single'
   - image_path:
     image_url:
   - image_path:
@@ -45,7 +43,9 @@ _options:
 
 # Caroline Jones
 
-Buy/stream Bare Feet (single) from Caroline Jones now: &nbsp;[http://smarturl.it/Get-BareFeet-Single](http://smarturl.it/Get-BareFeet-Single){: target="_blank"}
+Buy/stream ***Bare Feet*** (single) from Caroline Jones now: &nbsp;[http://smarturl.it/Get-BareFeet-Single](http://smarturl.it/Get-BareFeet-Single){: target="_blank"}
+
+**ABOUT**
 
 Named as one of the “10 Country Artists You Need to Know” by Rolling Stone in 2017 and one of the “15 Country Artists to Watch in 2018” according to Billboard, rising US country singer-songwriter and multi-instrumentalist, Caroline Jones, has signed a deal with Social Family Records for the Australian and UK release of her acclaimed album, Bare Feet, which she co-produced with Grammy and Academy Award-winning producer, Ric Wake (Mariah Carey, Celine Dion, Whitney Houston, Trisha Yearwood).&nbsp; Caroline is the first international signing for the Aussie indie record label.
 
