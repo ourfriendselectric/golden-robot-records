@@ -25,13 +25,13 @@ instagram_username: https://www.instagram.com/goldenrobotrecords/
 twitter_username: https://twitter.com/GoldenRobotRcds
 youtube_username: https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ
 
-url: "https://goldenrobotrecords.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://goldenrobotrecords.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 development:
   url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 production:
-  url: "https://goldenrobotrecords.com/" # the base hostname & protocol for your site, e.g. http://example.com
+  url: "https://goldenrobotrecords.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
