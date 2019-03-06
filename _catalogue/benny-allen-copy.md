@@ -4,7 +4,7 @@ hidden: false
 sort_number: 860
 name: Whiskey Business
 album_name: Positive Attitude (SFR - EP)
-album_url: 'https://itunes.apple.com/au/album/never-knew-i-was-country/1439543141'
+album_url: 'http://smarturl.it/GetWhiskeyBusinessEP'
 _hide_content: true
 _options:
   image_path:
