@@ -46,9 +46,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-A four headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter
-
-Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
+A four headed Irish-Australian rock Hydra from Sydney's Inner West, Flickertail, (formerly The Bitter Sweethearts), play guitar-fuelled rock and roll exactly the way it's supposed to be played. Drawing inspiration from the likes of Thin Lizzy, the Dubliners, Airbourne and The Darkness, the band honed their sound in the garages and booze dens of Sydney before hitting the road in 2015 to showcase their unique sound at every pub, club and back yard along Australia's eastern coast.
 
 Since their inception, the band have played relentlessly and are reaping the rewards. An incendiary live performance honed in the booze dens and back yard of Australia's Eastern coast was refined on stages shared with Aussie legends Buffalo and the Superjesus, before international support slots with the likes of Supersuckers, Zak Starkey (Oasis, the Who) and Living Colour.
 
