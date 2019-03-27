@@ -32,8 +32,7 @@ shows:
         trailer_thumbnail_path: /uploads/tv-film/rnf_trailer_3.jpg
     seasons:
       - name: Season One
-        playlist_url: >-
-          https://www.youtube.com/watch?v=IOQOMyeWjVQ&list=PLcA5ai83AS8vfl1r41E15VRuQoWyGm2mz
+        playlist_url: https://www.youtube.com/watch?v=IOQOMyeWjVQ&list=PLcA5ai83AS8vfl1r41E15VRuQoWyGm2mz
         episodes:
           - feature: false
             hero_path: /uploads/tv-film/episode_five_hero.jpg
@@ -78,7 +77,7 @@ shows:
             thumbnail_path: /uploads/tv-film/rnf_ep4.jpg
             youtube_id: BsjE6jpM4U8
           - feature: true
-            hero_path: /uploads/tv-film/test.jpg
+            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 5 Featuring Glenn Shorrock (Little River Band)
             blurb_html: >-
               <p>Glenn Shorrock is an Australian legend who has been involved
@@ -196,7 +195,7 @@ _options:
               <div class="scollable">
                 <div class="episodes container">
                   {% for episode in season.episodes %}
-                    <div class="col-md-5 col-lg-4 col-xl-3 episode">
+                    <div class="col episode">
                       <button type="button" data-toggle="modal" data-target="#video" class="episodeTrigger" data-code="{{ episode.youtube_id }}">
                         <img src="{{ episode.thumbnail_path }}" alt="{{ episode.title }}" class="img-fluid">
                       </button>

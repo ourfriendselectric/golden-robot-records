@@ -5,6 +5,7 @@
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
+            // background-position: center top;
             position: relative;
             padding: 60px 0;
 
@@ -140,6 +141,22 @@
                         @include media-breakpoint-down(sm) {
                             padding: 0;
                             margin-bottom: $grid-gutter-width / 2;
+                        }
+
+
+                        flex: 0 0 100%;
+                        max-width: 100%;
+                        @include media-breakpoint-up(md) {
+                            flex: 0 0 40%;
+                            max-width: 40%;
+                        }
+                        @include media-breakpoint-up(lg) {
+                            flex: 0 0 30%;
+                            max-width: 30%;
+                        }
+                        @include media-breakpoint-up(xl) {
+                            flex: 0 0 20.4%;
+                            max-width: 20.4%;
                         }
 
                         &:first-child {
