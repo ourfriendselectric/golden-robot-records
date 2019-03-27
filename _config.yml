@@ -30,6 +30,9 @@ url: "https://goldenrobotrecords.com" # the base hostname & protocol for your si
 development:
   url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
+uat:
+  url: "https://vogue-hill.cloudvent.net" # the base hostname & protocol for your site, e.g. http://example.com
+
 production:
   url: "https://goldenrobotrecords.com" # the base hostname & protocol for your site, e.g. http://example.com
 
