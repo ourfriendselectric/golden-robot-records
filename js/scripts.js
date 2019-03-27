@@ -28,6 +28,14 @@ $(document).ready(function(){
 	}
 
 	showNewsletterModal();
+
+	// Scripts for the loading of video in modal on the TV/Film page
+	$('.episodeTrigger').click(function(e) {
+		const code = $(this).attr('data-code');
+		const url = 'https://www.youtube.com/embed/'
+
+		$('#episodeiFrame').attr('src', url + code);
+	});
 });
 
 function showNewsletterModal() {
