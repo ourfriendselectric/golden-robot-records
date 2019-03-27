@@ -2,7 +2,6 @@
 # this ensures Jekyll reads the file to be transformed into CSS later
 # only Main files contain this front matter, not partials.
 ---
-
 @import "bootstrap/bootstrap";
 @import "variables";
 // @import "normalise";
@@ -15,8 +14,11 @@
 @import "navigation";
 @import "footer";
 @import "contact";
-// @import "typography";
+@import "typography";
 // @import "home";
 @import "artists";
 // @import "tours";
 @import "modal";
+
+// Pages
+@import "tv-film";

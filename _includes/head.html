@@ -13,19 +13,19 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/brands.css" integrity="sha384-whKHCkwP9f4MyD1vda26+XRyEg2zkyZezur14Kxc784RxUU1E7HvWVYj9EoJnUV7" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/fontawesome.css" integrity="sha384-WK8BzK0mpgOdhCxq86nInFqSWLzR5UAsNg0MGX9aDaIIrFWQ38dGdhwnNCAoXFxL" crossorigin="anonymous">
 
-  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/styles.css">
+  <link rel="stylesheet" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/css/styles.css">
 
   <link rel="canonical" href="{{ page.url | replace:'/golden-robot-records','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/favicon/favicon-16x16.png">
-  <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/favicon/site.webmanifest">
-  <link rel="mask-icon" href="{{ site.url }}{{ site.baseurl }}/favicon/safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/favicon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/favicon-16x16.png">
+  <link rel="manifest" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/site.webmanifest">
+  <link rel="mask-icon" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/favicon.ico">
   <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="msapplication-config" content="{{ site.url }}{{ site.baseurl }}/favicon/browserconfig.xml">
+  <meta name="msapplication-config" content="{{ site[jekyll.environment].url }}{{ site.baseurl }}/favicon/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
   
   {% if jekyll.environment == 'production' %}

@@ -2,7 +2,7 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
-      <a class="navbar-brand logo-link" href="{{ site.url }}{{ site.baseurl }}">
+      <a class="navbar-brand logo-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}">
         {% if page.layout == "catalogue" or page.url == '/tv-film/' %}
           <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
         {% else %}
@@ -42,17 +42,17 @@
               Labels
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
-              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link social-family-records.html %}">Social Family Records</a>
-              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
-              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
-              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{% link scratches-records.html %}">Scratches Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link social-family-records.html %}">Social Family Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link scratches-records.html %}">Scratches Records</a>
             </div>
           </li>
-          <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{% link tv-film.html %}">TV / Film</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link tv-film.html %}">Rock n Food</a></li>
           <li class="nav-item"><a class="nav-link" href="http://store.socialfamilyrecords.com/">Store</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{% link contact.html %}">Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link contact.html %}">Contact</a></li>
         </ul>
 
       </div>
