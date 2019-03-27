@@ -14,6 +14,7 @@ shows:
         trailer_thumbnail_path: /uploads/tv-film/rnf_trailer_3.jpg
     seasons:
       - name: Season One
+        playlist_url: https://www.youtube.com/watch?v=IOQOMyeWjVQ&list=PLcA5ai83AS8vfl1r41E15VRuQoWyGm2mz
         episodes:
           - order: 100
             feature: false
@@ -52,6 +53,7 @@ shows:
             youtube_id: FzWDPAuUfGM
 
 _comments:
+  playlist_url: The YouTube link the playlist containing all the videos
   youtube_id: To find the YouTube Id, open the video within YouTube, click 'Share', and copy the last part of the 'Share Link'. For example, if the Share Link is 'https://youtu.be/BsjE6jpM4U8', then enter 'BsjE6jpM4U8'
   feature: Show this as the main feature on the page.
   hero_path: The hero image that will show if this episode is featured.
@@ -108,7 +110,7 @@ _options:
                               </button>
                             </div>
                             <div class="col-md-6">
-                              <a href="#" class="btn btn-block btn-light">Watch All</a>
+                              <a href="{{ season.playlist_url }}" class="btn btn-block btn-light">Watch All</a>
                             </div>
                           </div>
 
