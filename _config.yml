@@ -31,7 +31,7 @@ development:
 uat:
   url: 'https://vogue-hill.cloudvent.net'
 production:
-  url: 'http://goldenrobotrecords.com'
+  url: 'https://goldenrobotrecords.com'
 
 
 # Build settings
