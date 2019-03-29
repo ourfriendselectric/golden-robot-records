@@ -3,7 +3,7 @@ image_path: /uploads/anthem.jpeg
 hidden: false
 sort_number: 2
 name: Anthem
-album_name: Immortal Bind (Pre-Order Now)
+album_name: Immortal Bind (GRR - Album)
 album_url: 'http://store.socialfamilyrecords.com/index.php/anthem-nucleus-cd.html'
 _hide_content: true
 _options:
