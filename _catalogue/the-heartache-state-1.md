@@ -5,7 +5,7 @@ sort_number: 98282628468
 name: The Heartache State
 album_name: Airstrike & I Ain't Complaining (GRR - Single)
 album_url: >-
-  https://itunes.apple.com/au/album/airstrike-i-aint-complaining-single/1454359530
+  http://store.socialfamilyrecords.com/index.php/new-releases/the-heartache-state-last-of-the-buffalo-cd.html
 _hide_content: true
 _options:
   image_path:
