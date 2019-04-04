@@ -1,26 +1,24 @@
 ---
 layout: artist
-image_path: /uploads/route33-20jan18-photobystephenbooth-2-square-1000px.jpeg
-name: Route 33 (Distro only)
-sort_number: 225
+image_path:
+name: Taylor Moss (Distro only)
+sort_number: 255
 hidden: false
 twitter_url:
-facebook_url: 'https://www.facebook.com/route33entertainment/'
-instagram_url: 'https://www.instagram.com/route33music/'
+facebook_url: 'https://www.facebook.com/taylormossmusic/'
+instagram_url: 'https://www.instagram.com/taylormossmusic/'
 spotify_url: >-
-  https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE?si=lgFk0nsvT2efFNUBaKL29QCN?si=6B1AlYBMQ9ODFd2sEuw5IA
-apple_url:
+  https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj?si=nU6kQpjOQYi_MTr9CLa7mg
+apple_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url: 'http://smarturl.it/Route33-Kryptonite'
-hero_path: /uploads/route33-20jan18-photobystephenbooth-1-1500.jpeg
+    url: 'http://smarturl.it/TaylorM-TakeItFromMe'
+hero_path: /uploads/taylor-moss---promo-image-1500px.jpeg
 albums:
-  - image_path: /uploads/route-33---kryptonite---single-cover-600px.jpeg
-    image_url: 'http://smarturl.it/Route33-Kryptonite'
-  - image_path:
-    image_url:
+  - image_path: /uploads/taylor-moss---single-cover-600px.jpeg
+    image_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
 _type: social-family-records
 _options:
   image_path:
@@ -38,6 +36,6 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Route 33 (Distro only)**
+# **Taylor Moss (Distro only)**
 
-Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
+Get **Taylor's** brand new single, ***Take It From Me***, here:&nbsp;[http://smarturl.it/TaylorM-TakeItFromMe](http://smarturl.it/TaylorM-TakeItFromMe?fbclid=IwAR3HUDyWKKslsOOe5-f8KnUtH45m9Pd70tnJfova7Em72FhzbtXbwxtbGRk){: target="_blank"}
