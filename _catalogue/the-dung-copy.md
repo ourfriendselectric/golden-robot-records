@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/screen-shot-2019-02-08-at-1-52-36-pm.png
+image_path: /uploads/taylor-moss---single-cover-600px-2.jpeg
 hidden: false
-sort_number: 263876398716
-name: The Dungarees
-album_name: I'm Down (SFR - Single)
-album_url: 'https://itunes.apple.com/au/album/im-down-single/1441724347'
+sort_number: 285050
+name: Taylor Moss
+album_name: Take It From Me (SFR - Single)
+album_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
 _hide_content: true
 _options:
   image_path:
