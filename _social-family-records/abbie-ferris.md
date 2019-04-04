@@ -7,7 +7,8 @@ hidden: false
 twitter_url: 'https://twitter.com/socialfamilyrec'
 facebook_url: 'https://www.facebook.com/AbbieFerrisMusic/'
 instagram_url: 'https://www.instagram.com/abbieferrismusic/?hl=en'
-spotify_url: 'https://open.spotify.com/album/6BBihOQK3PRkxu5labTGje'
+spotify_url: >-
+  https://open.spotify.com/artist/0oXHdeqCzxWbyaE8ChA08p?si=TWv0M4EeS6mLJryxRTyqEA
 apple_url: 'https://itunes.apple.com/au/artist/abbie-ferris/1394444105'
 youtube_url: 'https://www.youtube.com/channel/UCqwupwlVTbD5UIO70oEcORA'
 buy_now:
