@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/taylor-moss---single-cover-600px-1.jpeg
 name: Taylor Moss (Distro only)
 sort_number: 255
 hidden: false
@@ -38,4 +38,4 @@ _options:
 
 # **Taylor Moss (Distro only)**
 
-Get **Taylor's** brand new single, ***Take It From Me***, here:&nbsp;[http://smarturl.it/TaylorM-TakeItFromMe](http://smarturl.it/TaylorM-TakeItFromMe?fbclid=IwAR3HUDyWKKslsOOe5-f8KnUtH45m9Pd70tnJfova7Em72FhzbtXbwxtbGRk){: target="_blank"}
+Get **Taylor's** brand new single, ***Take It From Me***, here: [http://smarturl.it/TaylorM-TakeItFromMe](http://smarturl.it/TaylorM-TakeItFromMe?fbclid=IwAR3HUDyWKKslsOOe5-f8KnUtH45m9Pd70tnJfova7Em72FhzbtXbwxtbGRk){: target="_blank"}
