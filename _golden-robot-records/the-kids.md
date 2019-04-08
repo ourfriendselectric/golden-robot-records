@@ -11,17 +11,17 @@ spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
 apple_url: >-
   https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-9.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/screen-shot-2018-11-27-at-6-08-12-pm.png
 albums:
   - image_path: /uploads/TheKids-IJWBH-600px.jpeg
-    image_url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/the-kids-longsleeve-tee.html
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
   - image_path: /uploads/The%20Kids%20-%20School%20-%20single%20cover%20.jpg
     image_url:
   - image_path: /uploads/the kids tile 4 copy.jpg
