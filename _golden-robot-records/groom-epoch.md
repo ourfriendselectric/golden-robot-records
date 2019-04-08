@@ -10,19 +10,21 @@ instagram_url: 'https://www.instagram.com/goldenrobotrecords/'
 spotify_url: 'https://open.spotify.com/artist/0m4THJDCqSTvEh450zINS9'
 apple_url: 'https://itunes.apple.com/au/album/solar-warden/1354561530'
 youtube_url: 'https://www.youtube.com/channel/UCiqDfXgMrtILmzkvL8cOkfA'
-
 buy_now:
   - name: JB HiFi
     logo_path: /uploads/logos/jbhifi.png
-    url: 'https://www.jbhifi.com.au/music/browse/rock/solar-warden/605254/' 
+    url: 'https://www.jbhifi.com.au/music/browse/rock/solar-warden/605254/'
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2368232/Solar_Warden'
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-12.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/groom-epoch.html'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/groom-epoch-solar-warden-cd.html'
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/groom-epoch-solar-warden-cd.html
   - image_path: /images/GROOM TILE 1 copy.jpg
     image_url:
   - image_path: /images/GROOM TILE 2 copy.jpg
