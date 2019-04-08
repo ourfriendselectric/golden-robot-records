@@ -13,8 +13,7 @@ youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
 buy_now:
   - name: Amazon
     logo_path: /uploads/logos/amazon.png
-    url: >-
-      http://store.socialfamilyrecords.com/index.php/a-new-revenge-enemies-and-lovers-cd.html
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
   - name:
     logo_path:
     url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
