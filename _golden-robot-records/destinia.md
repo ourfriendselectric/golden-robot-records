@@ -17,6 +17,10 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2378536/Metal_Souls'
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-1.png
+    url: >-
+      http://store.socialfamilyrecords.com/index.php/artists/destina-metal-soul-cd.html
 hero_path: /images/destinia cover copy.jpg
 albums:
   - image_path: /images/destinia tile 1 copy.jpg
