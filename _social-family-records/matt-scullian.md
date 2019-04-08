@@ -12,12 +12,12 @@ apple_url: 'https://itunes.apple.com/us/artist/matt-scullion/254734557'
 youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
 buy_now:
   - name:
-    logo_path:
-    url: 'http://smarturl.it/MattSc-ImJustASong'
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-20.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/matt-scullion.html'
 hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-ijas-600px.jpeg
-    image_url: 'http://smarturl.it/MattSc-ImJustASong'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/matt-scullion.html'
 _type: social-family-records
 _options:
   image_path:
@@ -37,15 +37,15 @@ _options:
 
 # Matt Scullion
 
-Ten years in the making, **I’m Just A Song**, is thirteen beautifully written songs and the first album from the “man behind the music”, **Matt Scullion**, in a decade.&nbsp; Released in January 2018, the record is available online and from all good retailers, with the limited vinyl edition available exclusively from the [**Store**](http://store.socialfamilyrecords.com/artists/matt-scullion.html){: target="_blank"} and Matt’s live shows.
+Ten years in the making, **I’m Just A Song**, is thirteen beautifully written songs and the first album from the “man behind the music”, **Matt Scullion**, in a decade.  Released in January 2018, the record is available online and from all good retailers, with the limited vinyl edition available exclusively from the [**Store**](http://store.socialfamilyrecords.com/artists/matt-scullion.html){: target="_blank"} and Matt’s live shows.
 
 The thirteen tracks of love, loss and dare it be said, drunken escapades, have lyrics that resonate and melodies that stick in your head, with the second single, ***Favourite Distraction***, proving a favourite amongst fans since its recent release, receiving support across country radio and taking out CMC Country Pick for the music video.
 
 [Click here to view Favourite Distraction by Matt Scullion on YouTube](https://www.youtube.com/watch?v=r83jgIUtUIM){: target="_blank"}
 
-**Matt Scullion** has seen 16 of the songs he’s written and co-written hit #1 in Australia in recent years for many outstanding artists, including Lee Kernaghan, Sara Storer, Brian Cadd, Travis Collins, Amber Lawrence, Drew McAlister, The Wolfe Brothers and more, and is regarded as one of the most respected singer/songwriters to come out of Australia.&nbsp; Matt also won a Golden Guitar Awards, for penning&nbsp;***Our Backyard*** with Amber Lawrence and Travis Collins.
+**Matt Scullion** has seen 16 of the songs he’s written and co-written hit #1 in Australia in recent years for many outstanding artists, including Lee Kernaghan, Sara Storer, Brian Cadd, Travis Collins, Amber Lawrence, Drew McAlister, The Wolfe Brothers and more, and is regarded as one of the most respected singer/songwriters to come out of Australia.  Matt also won a Golden Guitar Awards, for penning ***Our Backyard*** with Amber Lawrence and Travis Collins.
 
-With a definitive sound of his own, but varying influences, from The Eagles to Bruce Springsteen to Steve Earle, and a little bit of James Taylor thrown in for good measure, Matt sounds like none of them, but channels a little of all of them.&nbsp; I’m Just A Song, showcases just that.
+With a definitive sound of his own, but varying influences, from The Eagles to Bruce Springsteen to Steve Earle, and a little bit of James Taylor thrown in for good measure, Matt sounds like none of them, but channels a little of all of them.  I’m Just A Song, showcases just that.
 
 The digital and CD release include all thirteen album tracks, with the vinyl consisting of ten of the tracks:
 
@@ -103,4 +103,4 @@ I’m Just A Song
 
 Roadside Cross
 
-**Buy/Listen to I'm Just A Song here: &nbsp;[http://smarturl.it/MattSc-ImJustASong](http://smarturl.it/MattSc-ImJustASong){: target="_blank"}**
+**Buy/Listen to I'm Just A Song here:  [http://smarturl.it/MattSc-ImJustASong](http://smarturl.it/MattSc-ImJustASong){: target="_blank"}**
