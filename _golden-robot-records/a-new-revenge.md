@@ -11,8 +11,8 @@ spotify_url: 'https://open.spotify.com/artist/3SsqbBCnsylFDt8Qq3Fiq1'
 apple_url: 'https://itunes.apple.com/au/album/enemies-lovers/1451044052'
 youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
 buy_now:
-  - name: Amazon
-    logo_path: /uploads/logos/amazon.png
+  - name:
+    logo_path:
     url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
   - name:
     logo_path:
