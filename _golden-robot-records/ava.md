@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-04-4.jpg
 name: AVA
 sort_number: 3
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
