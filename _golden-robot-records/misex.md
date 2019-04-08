@@ -10,22 +10,25 @@ instagram_url: 'https://www.instagram.com/misexmusic/'
 spotify_url: 'https://open.spotify.com/artist/4QDiSLl2fkDWuC4TIV7Z9Q'
 apple_url: 'https://itunes.apple.com/au/album/not-from-here/1316908944'
 youtube_url: 'https://www.youtube.com/channel/UCxYrgmAixVMQ7DXCcxcFdlA'
-
 buy_now:
   - name: Amazon
     logo_path: /uploads/logos/amazon.png
     url: 'https://www.amazon.com/Not-Here-Mi-Sex/dp/B01LERKBOM?tag=smarturl-pivot-20'
   - name: JB HiFi
     logo_path: /uploads/logos/jbhifi.png
-    url: 'https://www.jbhifi.com.au/music/browse/electro-rock-new-wave-rock-pop/not-from-here/982454/' 
+    url: >-
+      https://www.jbhifi.com.au/music/browse/electro-rock-new-wave-rock-pop/not-from-here/982454/
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-4.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/mi-sex.html'
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/mi-sex-not-from-here-signed-cd.html'
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/mi-sex-not-from-here-signed-cd.html
   - image_path: /uploads/Extended Play.jpg
     image_url:
   - image_path: /uploads/Screen Shot 2018-11-25 at 7.11.33 pm.png
