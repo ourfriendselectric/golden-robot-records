@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/au/artist/kristy-james/497014766'
 youtube_url: 'https://www.youtube.com/user/officialkristyjames'
 buy_now:
   - name:
-    logo_path:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-19.png
     url: 'http://store.socialfamilyrecords.com/index.php/artists/kirsty-james.html'
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
