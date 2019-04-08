@@ -13,11 +13,11 @@ youtube_url: 'https://www.youtube.com/user/officialkristyjames'
 buy_now:
   - name:
     logo_path:
-    url: 'http://smarturl.it/EP-KristyJames-RAW'
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/kirsty-james.html'
 hero_path: /uploads/kj-cover-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-48-20-pm.png
-    image_url: 'http://smarturl.it/EP-KristyJames-RAW'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/kirsty-james.html'
   - image_path: /uploads/kristy-james---dark-sunglasses---single-cover-1.jpg
     image_url: 'http://smarturl.it/EP-KristyJames-RAW'
 _type: social-family-records
@@ -39,13 +39,13 @@ _options:
 
 # Kristy James
 
-The&nbsp;**RAW** EP from award-winning Newcastle singer-songwriter, **Kristy James** has been unveiled in its superb entirety. Co-produced with her husband, **RAW** is an inspiring and truthful offering from James.
+The **RAW** EP from award-winning Newcastle singer-songwriter, **Kristy James** has been unveiled in its superb entirety. Co-produced with her husband, **RAW** is an inspiring and truthful offering from James.
 
 Created from her own vision from the ground up, the new EP is a body of work that she feels truly represents her as an artist for the first time. The listener will find stories of romance, crime and broken hearts, plus empowering anthems that present opportunity and hope for times ahead. **RAW** is a journey, a rollercoaster of emotions and leaves the audience with a new understanding of Kristy James as “raw” as she has ever been.
 
-James discusses each track. “*Musically,* **Everything to Nothing**, *is one of my favourite pieces I have written.&nbsp; When Matt Scullion and I decided to write a song together, we wanted to challenge ourselves and write a song with the same repetition of chords and I really love the outcome*,” she says.&nbsp;
+James discusses each track. “*Musically,* **Everything to Nothing**, *is one of my favourite pieces I have written.  When Matt Scullion and I decided to write a song together, we wanted to challenge ourselves and write a song with the same repetition of chords and I really love the outcome*,” she says. 
 
-“**Cinderella** *is my latest single and a tale of love that’s just not meant to be and my previous single*, **Dark Sunglasses**, *is one of those haunting, catchy, rocky type tracks, very imaginative and creative…about situations possible when we’re left to our own thoughts versus what we’d do in reality. The fourth track is***Brand New**, *which I wrote with Damien Leith.&nbsp; It’s a deep and powerful song about a tragic past – but it does serve a positive message.&nbsp; And then there’s* **Stone Cold Sober**.&nbsp; *It’s a bluesy, soulful song written after something I overheard when I was walking along Broadway in Nashville.&nbsp; Last, but not least, is* **Push**, *which completes the EP nicely.&nbsp; It’s a message of hope, faith and encouragement.&nbsp; Sometimes the best things in life are just a little ‘push’ away*.”
+“**Cinderella** *is my latest single and a tale of love that’s just not meant to be and my previous single*, **Dark Sunglasses**, *is one of those haunting, catchy, rocky type tracks, very imaginative and creative…about situations possible when we’re left to our own thoughts versus what we’d do in reality. The fourth track is***Brand New**, *which I wrote with Damien Leith.  It’s a deep and powerful song about a tragic past – but it does serve a positive message.  And then there’s* **Stone Cold Sober**.  *It’s a bluesy, soulful song written after something I overheard when I was walking along Broadway in Nashville.  Last, but not least, is* **Push**, *which completes the EP nicely.  It’s a message of hope, faith and encouragement.  Sometimes the best things in life are just a little ‘push’ away*.”
 
 **TRACK LISTING**
 
@@ -61,4 +61,4 @@ Stone Cold Sober
 
 Push
 
-**Listen/Order:&nbsp; [http://smarturl.it/EP-KristyJames-RAW](http://smarturl.it/EP-KristyJames-RAW){: target="_blank"}**
+**Listen/Order:  [http://smarturl.it/EP-KristyJames-RAW](http://smarturl.it/EP-KristyJames-RAW){: target="_blank"}**
