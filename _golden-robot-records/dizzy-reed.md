@@ -10,22 +10,24 @@ instagram_url: 'https://www.instagram.com/dizzyfnreed'
 spotify_url: 'https://open.spotify.com/artist/2s6kXkIHq0sbwBjBF47iQH'
 apple_url: 'https://itunes.apple.com/us/artist/dizzy-reed/254303121'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-
 buy_now:
   - name: Amazon
     logo_path: /uploads/logos/amazon.png
     url: 'https://www.amazon.com/Rock-N-Roll-Aint-Easy/dp/B079NBWJLH'
   - name: JB HiFi
     logo_path: /uploads/logos/jbhifi.png
-    url: 'https://www.jbhifi.com.au/music/browse/rock/rock-n-roll-aint-easy/549693/' 
+    url: 'https://www.jbhifi.com.au/music/browse/rock/rock-n-roll-aint-easy/549693/'
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2356856/Rock_n_Roll_Aint_Easy'
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-2.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/dizzy-read.html'
 hero_path: /uploads/screen-shot-2018-11-27-at-6-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-35-09-am-2.png
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/dizzy-reed-rock-n-roll-aint-easy-lp.html'
+    image_url: >-
+      http://store.socialfamilyrecords.com/index.php/golden-robot-records/dizzy-reed-rock-n-roll-aint-easy-lp.html
   - image_path: /uploads/dizzy tile 2 copy.jpg
     image_url:
   - image_path: /uploads/dizzy tile 24 copy.jpg
