@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/au/album/enemies-lovers/1451044052'
 youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
 buy_now:
   - name:
-    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-35-21-pm.png
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm.png
     url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
   - name:
     logo_path:
