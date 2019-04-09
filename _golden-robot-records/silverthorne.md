@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-09-4.jpg
 name: Silverthorne
-sort_number: 78628642974
+sort_number: 36
 hidden: false
 twitter_url:
 facebook_url:
