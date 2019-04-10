@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/screen-shot-2019-04-11-at-9-41-43-am.png
 name: The Kids
 sort_number: 1
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
 instagram_url: 'https://www.instagram.com/thekidspunkrock/'
