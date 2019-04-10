@@ -13,17 +13,17 @@ apple_url: >-
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-22.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
 hero_path: /uploads/screen-shot-2019-04-11-at-9-46-18-am.png
 albums:
-  - image_path:
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-46-53-am.png
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-01-am.png
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-10-am.png
     image_url:
-  - image_path:
-    image_url:
-  - image_path:
-    image_url:
-  - image_path:
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-18-am.png
     image_url:
 _type: riot-records
 _options:
@@ -42,6 +42,6 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth.&nbsp;
+With each member under the age of 15, The Kids are exactly that, kids. But don’t let their age fool you, because this young band can rock. Channelling their teenage angst into their music, The Kids’ rage fuelled rock embraces the punk and grunge greats of the past, with their inspirations ranging from Nirvana, Dead Kennedys and Bad Brains, to The Descendents, Black Flag and the Sex Pistols. Reinventing punk rock for a new generation, they maintain the rebellious streak the genre is known for, while modernising it through their youth. 
 
 Led by prodigy drummer Jagger Alexander-Erber who is already playing with other bands including Moon also on GRR , the band has rocked shows across the world, supporting both national and international acts ranging from Skidrow, LA Guns to Rose Tattoo to name but a few gaining rave reviews from stages at LA’s famous Whisky-a-go-go to The Cherry Bar in Melbourne and everything in between. At only 16 Jagger has had a life full of experiences. Taking these ups and down in stride, he has written his debut album I Just Wanna Be Happy, set for release with Golden Robot Records in 2019 ,The title track “I Just Wanna Be Happy” and their debut single “School” both with videos was released earlier in the year with the there full debut album being dropped in mid 2019. The band has been very busy also writing and will spend much of 2019 releasing material and playing in the UK , USA and Australia.
