@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/screen-shot-2019-04-11-at-10-03-55-am.png
 albums:
-  - image_path: /uploads/screen-shot-2019-04-11-at-10-02-31-am.png
+  - image_path: /uploads/image-2019-04-11-3-1.jpg
     image_url:
   - image_path: /uploads/screen-shot-2019-04-11-at-10-02-22-am.png
     image_url:
