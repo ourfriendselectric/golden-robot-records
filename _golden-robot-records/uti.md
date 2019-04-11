@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-25 at 1.32.42 pm.png
+image_path: /uploads/screen-shot-2019-04-11-at-10-04-15-am.png
 name: UTI
 sort_number: 984686
 hidden: false
@@ -18,7 +18,7 @@ hero_path: /images/Screen Shot 2018-11-25 at 1.24.22 pm.png
 albums:
   - image_path: /images/UTI-1.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-44-01-pm.png
+  - image_path: /uploads/screen-shot-2019-04-11-at-10-04-10-am.png
     image_url:
   - image_path: /uploads/screen-shot-2018-12-13-at-12-49-44-pm.png
     image_url:
