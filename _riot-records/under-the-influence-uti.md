@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2019-04-11-at-10-02-31-am.png
+image_path: /uploads/image-2019-04-11.jpg
 name: Under the Influence (UTI)
 sort_number: 3
 hidden: false
