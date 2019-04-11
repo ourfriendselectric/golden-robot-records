@@ -18,11 +18,11 @@ hero_path: /uploads/screen-shot-2019-04-11-at-10-03-55-am.png
 albums:
   - image_path: /uploads/image-2019-04-11-3-1.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2019-04-11-at-10-02-22-am.png
+  - image_path: /uploads/image-2019-04-12.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2019-04-11-at-10-02-11-am.png
+  - image_path: /uploads/image-2019-04-11-2.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2019-04-11-at-10-02-40-am.png
+  - image_path: /uploads/image-2019-04-11-1.jpg
     image_url:
 _type: riot-records
 _options:
