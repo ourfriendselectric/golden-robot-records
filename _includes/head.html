@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/solid.css" integrity="sha384-aj0h5DVQ8jfwc8DA7JiM+Dysv7z+qYrFYZR+Qd/TwnmpDI6UaB3GJRRTdY8jYGS4" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/brands.css" integrity="sha384-whKHCkwP9f4MyD1vda26+XRyEg2zkyZezur14Kxc784RxUU1E7HvWVYj9EoJnUV7" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/fontawesome.css" integrity="sha384-WK8BzK0mpgOdhCxq86nInFqSWLzR5UAsNg0MGX9aDaIIrFWQ38dGdhwnNCAoXFxL" crossorigin="anonymous">
-  <link rel="stylesheet" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/css/styles.css">
+  <link rel="stylesheet" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}/css/styles.css?{{site.time | date: '%s%N'}}">
 
   {% if page.url == "/golden-robot-records/" %}
     <link rel="canonical" href="{{ site[jekyll.environment].url | replace:'/golden-robot-records','' | absolute_url }}/">
