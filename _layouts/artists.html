@@ -7,32 +7,30 @@ layout: default
 
       {% assign collectionName = page.items %}
       {% assign items = site.collections | where:'label', collectionName | first %}
-      {% assign items = items.docs | sort: 'sort_number' %}
-      
-      {% for artist in items  %}
-        {% if artist.hidden == false %}
-          <a href="{{ artist.url | prepend: site.baseurl }}" class="artist col-md-4 col-lg-3 col-xl-2">
-            <div class="image">
-              <div class="overlay"><div class="text">View Artist</div></div>
-              <img src="{{ artist.image_path }}" class="img-fluid artists-thumbnail" />
-            </div>
-            <p class="name">{{ artist.name }}</p>
-          </a>
-        {% endif %}
-      {% endfor %}
 
-      {% if page.artist_footer[0].show == true %}
-        {% if page.artist_footer[0].link_url != undefined %}
-          <a href="{{ page.artist_footer[0].link_url }}" class="w-100 text-center h5">
-        {% else %}
-          <p class="w-100 text-center h5 mt-5">
-        {% endif %}
-            {{ page.artist_footer[0].link_content }}
-        {% if page.artist_footer[0].link_url != undefined %}
-          </a>
-        {% else %}
-          </p>
-        {% endif %}
+      {% if items %}
+        {% assign items = items.docs | sort: 'sort_number' %}
+        
+        {% for artist in items %}
+          {% if artist.hidden == false %}
+            <a href="{{ artist.url | prepend: site.baseurl }}" class="artist col-md-4 col-lg-3 col-xl-2">
+              <div class="image">
+                <div class="overlay"><div class="text">View Artist</div></div>
+                <img src="{{ artist.image_path }}" class="img-fluid artists-thumbnail" />
+              </div>
+              <p class="name">{{ artist.name }}</p>
+            </a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+      {% if page.footer.show == true %}
+        <div class="w-100 text-center h5 mt-5">
+          {{ page.footer.content_html }}
+          {% if page.footer.button_url != undefined %}
+              <a class="btn btn-gold" href="{{ page.footer.button_url }}" target="_blank">{{ page.footer.button_text }}</a>
+          {% endif %}
+        </div>
       {% endif %}
 
     </div>
