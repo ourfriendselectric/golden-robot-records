@@ -10,16 +10,17 @@ instagram_url: 'https://www.instagram.com/stevekilbey/'
 spotify_url: 'https://open.spotify.com/artist/6ysAnNqgSIZvZkQY597Bk0'
 apple_url: 'https://itunes.apple.com/au/album/sydney-rococo/1438213222'
 youtube_url: 'https://www.youtube.com/channel/UCzb3iNZaFtaOHC65w06hAIQ'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-6.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/steve-kilbey.html'
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/kilbeycover copy.jpg
 albums:
   - image_path: /images/SK-Cover-DigitalSquare.jpg
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/steve-kilbey-sydney-rococo-lp.html'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/steve-kilbey.html'
   - image_path: /uploads/SK tile 3 copy.jpg
     image_url:
   - image_path: /images/SK tile 4 copy.jpg

@@ -11,16 +11,17 @@ instagram_url: 'https://www.instagram.com/toetotoeshc/'
 spotify_url: 'https://open.spotify.com/artist/2L1PP26AhiUQAMOXjYBy6B'
 apple_url: 'https://itunes.apple.com/au/album/rise-up/1313681372'
 youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-11.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/toe-to-toe.html'
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg
-    image_url: 'http://store.socialfamilyrecords.com/index.php/golden-robot-records/toe-to-toe-rise-up-vinyl.html'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/toe-to-toe.html'
   - image_path: /images/TOE TILE 3 copy.jpg
     image_url:
   - image_path: /images/TOE TILE 5 copy.jpg

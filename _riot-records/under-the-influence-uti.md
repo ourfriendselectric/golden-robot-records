@@ -1,32 +1,30 @@
 ---
 layout: artist
-image_path: /images/Screen Shot 2018-11-25 at 1.32.42 pm.png
-name: UTI
-sort_number: 984686
+image_path: /uploads/image-2019-04-11.jpg
+name: Under the Influence (UTI)
+sort_number: 3
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/UndertheInfluence666/'
 instagram_url: 'https://www.instagram.com/undertheinfluence98/'
-spotify_url: 'https://play.spotify.com/artist/4jwlfmCT5QVyh9fgxGLEcA?play=true&utm_source=open.spotify.com&utm_medium=open'
-apple_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
+spotify_url:
+apple_url:
+youtube_url:
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
-hero_path: /images/Screen Shot 2018-11-25 at 1.24.22 pm.png
+  - name:
+    logo_path:
+    url:
+hero_path: /uploads/screen-shot-2019-04-11-at-10-03-55-am.png
 albums:
-  - image_path: /images/UTI-1.jpg
+  - image_path: /uploads/image-2019-04-11-3-1.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-44-01-pm.png
+  - image_path: /uploads/image-2019-04-12.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-49-44-pm.png
+  - image_path: /uploads/image-2019-04-11-2.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-12-42-16-pm.png
+  - image_path: /uploads/image-2019-04-11-1.jpg
     image_url:
-_type: golden-robot-records
+_type: riot-records
 _options:
   image_path:
     width: 500

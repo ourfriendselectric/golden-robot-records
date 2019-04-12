@@ -107,7 +107,8 @@ header {
 			float: left;
 		}
 		.logo {
-			svg {
+			svg,
+			img {
 				height: 35px;
 				@include media-breakpoint-up(sm) {
 					height: 65px;

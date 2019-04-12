@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /images/she shin tile copy.jpg
+image_path: /uploads/she-shin-tile-copy.jpg
 name: She Shinjuku
-sort_number: 3
+sort_number: 8326893
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/sheshinjuku/'
@@ -10,23 +10,21 @@ instagram_url: 'https://www.instagram.com/sheshinjuku/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/3IPiXNNRCAY44b6M0RQP3g'
 apple_url: 'https://itunes.apple.com/au/album/supersonic-ep/1354592731'
 youtube_url: 'https://www.youtube.com/channel/UChN-bjOR9w-vP8ZgjmqJrnw'
-
 buy_now:
-  - name: Sanity
-    logo_path: /uploads/logos/sanity.png
+  - name:
+    logo_path:
     url: 'https://www.deezer.com/en/album/58101332'
-
-hero_path: /uploads/she shin cover copy.jpg
+hero_path: /uploads/she-shin-cover-copy.jpg
 albums:
-  - image_path: /images/EP COVER BOLD FINAL 3D.jpg
+  - image_path: /uploads/ep-cover-bold-final-3d.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-1-29-14-pm.png
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-30-25-am.png
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-1-36-28-pm.png
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-32-52-am.png
     image_url:
-  - image_path: /uploads/screen-shot-2018-12-13-at-1-33-03-pm.png
+  - image_path: /uploads/screen-shot-2019-04-11-at-9-30-39-am.png
     image_url:
-_type: riot-records
+_type: golden-robot-records
 _options:
   image_path:
     width: 500

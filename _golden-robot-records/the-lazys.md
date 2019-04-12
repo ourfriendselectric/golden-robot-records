@@ -10,18 +10,20 @@ instagram_url: 'https://www.instagram.com/thelazys/'
 spotify_url: 'https://open.spotify.com/artist/3wPGLbWYOwMPC4oTGykAJ3'
 apple_url: 'https://itunes.apple.com/au/album/tropical-hazards/1353793547'
 youtube_url: 'https://www.youtube.com/channel/UClxW-XHk7G64pROxIwr0KSg'
-
 buy_now:
-  - name: Amazon 
+  - name: Amazon
     logo_path: uploads/logos/amazon.png
-    url: 'https://www.amazon.com/Tropical-Hazards-Lazys/dp/B07B16RGLH/ref=sr_1_1?ie=UTF8&qid=1525390070&sr=8-1&keywords=the+lazys+tropical+hazards&tag=smarturl-pivot-20'
+    url: >-
+      https://www.amazon.com/Tropical-Hazards-Lazys/dp/B07B16RGLH/ref=sr_1_1?ie=UTF8&qid=1525390070&sr=8-1&keywords=the+lazys+tropical+hazards&tag=smarturl-pivot-20
   - name: JB HiFi
     logo_path: uploads/logos/jbhifi.png
-    url: 'https://www.jbhifi.com.au/music/browse/rock/tropical-hazards/605372/' 
+    url: 'https://www.jbhifi.com.au/music/browse/rock/tropical-hazards/605372/'
   - name: Sanity
     logo_path: uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2368231/Tropical_Hazards'
-
+  - name:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-10.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-lazys.html'
 hero_path: /images/Screen Shot 2018-11-23 at 6.51.21 pm.png
 albums:
   - image_path: /images/the lazys tile copy.jpg

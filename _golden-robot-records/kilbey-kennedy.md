@@ -12,8 +12,9 @@ apple_url: 'https://itunes.apple.com/au/album/glow-and-fade/1313262697'
 youtube_url: 'https://www.youtube.com/user/kilbeykennedy'
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-13.png
+    url: >-
+      http://store.socialfamilyrecords.com/index.php/artists/steve-kilbey/steve-kilbey-glow-fade-cd.html
 hero_path: /images/KK cover copy.jpg
 albums:
   - image_path: /images/KK_Digital Album Cover 1500px.jpeg

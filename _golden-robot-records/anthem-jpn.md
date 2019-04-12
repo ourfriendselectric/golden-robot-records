@@ -12,7 +12,7 @@ apple_url: 'https://itunes.apple.com/jp/artist/anthem/1202041659'
 youtube_url:
 buy_now:
   - name: GRGE Online Store
-    logo_path:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-15.png
     url: >-
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png

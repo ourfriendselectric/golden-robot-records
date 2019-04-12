@@ -12,12 +12,12 @@ apple_url: 'https://itunes.apple.com/au/artist/hayley-jensen/199809583'
 youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
 buy_now:
   - name:
-    logo_path:
-    url: 'http://smarturl.it/Get-TurningUpTheDial'
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-18.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/hayley-jensen.html'
 hero_path: /uploads/hayley-jensen---album-promo-shot-web.jpeg
 albums:
   - image_path: /uploads/hayley-jensen---turning-up-the-dial---500px.jpeg
-    image_url: 'http://smarturl.it/Get-TurningUpTheDial'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/hayley-jensen.html'
   - image_path: /uploads/past-tense-present-peace---hayley-jensen---ep-cover-500px.jpeg
     image_url:
 _type: social-family-records
@@ -97,14 +97,14 @@ Hayley released her third single of the album, titled ‘Forever Wont Be Long En
 
 The fourth single from Turning Up the Dial, This Love, was released in November 2018.
 
-**Buy Turning Up The Dial on digital or CD here**: &nbsp;[http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
+**Buy Turning Up The Dial on digital or CD here**:  [http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
-&nbsp;
+ 
 
 ## **FOLLOW HAYLEY JENSEN:**

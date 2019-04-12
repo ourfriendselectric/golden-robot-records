@@ -12,14 +12,14 @@ apple_url: 'https://itunes.apple.com/au/artist/glenn-shorrock/118979433'
 youtube_url: 'https://www.youtube.com/channel/UCnoj8RtRVgQufPcBANOlmLw'
 buy_now:
   - name:
-    logo_path:
-    url: 'http://smarturl.it/Get-ShorrockSingsLRB'
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-21.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/glenn-shorrock.html'
 hero_path: /uploads/gs-cover-copy.jpg
 albums:
   - image_path: /uploads/GS_RA600x600.jpg
-    image_url:
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/glenn-shorrock.html'
   - image_path: /uploads/GlennShorrockSingsLRB-album cover 600px.jpeg
-    image_url: 'http://smarturl.it/Get-ShorrockSingsLRB'
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/glenn-shorrock.html'
 _type: social-family-records
 _options:
   image_path:
