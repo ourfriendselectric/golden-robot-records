@@ -3,30 +3,24 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
       <a class="navbar-brand logo-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}">
-        {% if page.layout == "catalogue" or page.url == '/tv-film/' %}
-          <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
+        {% if page.items == "golden-robot-records" or page._type == "golden-robot-records" %}
+          <div class="logo">{% include logos/golden-robot-records.html %}</div>
+
+        {% elsif page.items == "riot-records" or page._type == "riot-records" %}
+          <div class="logo">{% include logos/riot-records.html %}</div>
+
+        {% elsif page.items == "x-ray-records" or page._type == "x-ray-records" %}
+          <div class="logo">{% include logos/x-ray-records.html %}</div>
+
+        {% elsif page.items == "social-family-records" or page._type == "social-family-records" %}
+          <div class="logo">{% include logos/social-family-records.html %}</div>
+
+        {% elsif page.items == "bread-and-butter-records" or page._type == "bread-and-butter-records" %}
+          <div class="logo"><img src="/images/logos/bread-and-butter-records.png" /></div>
+
         {% else %}
-          {% if page.items == "riot-records" %}
-            <div class="logo">{% include logos/riot-records.html %}</div>
-          {% elsif page.items == "x-ray-records" %}
-            <div class="logo">{% include logos/x-ray-records.html %}</div>
-          {% elsif page.items == "social-family-records" %}
-            <div class="logo">{% include logos/social-family-records.html %}</div>
-          {% else %}
+          <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
 
-            {% if page._type == "golden-robot-records" %}
-              <div class="logo">{% include logos/golden-robot-records.html %}</div>
-            {% elsif page._type == "riot-records" %}
-              <div class="logo">{% include logos/riot-records.html %}</div>
-            {% elsif page._type == "social-family-records" %}
-              <div class="logo">{% include logos/social-family-records.html %}</div>
-            {% elsif page._type == "x-ray-records" %}
-              <div class="logo">{% include logos/x-ray-records.html %}</div>
-            {% else %}
-              <div class="logo">{% include logos/golden-robot-records.html %}</div>
-            {% endif %}
-
-          {% endif %}
         {% endif %}
       </a>
 
@@ -45,8 +39,9 @@
               <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
               <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link social-family-records.html %}">Social Family Records</a>
               <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
               <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link scratches-records.html %}">Scratches Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link bread-and-butter-records.html %}">Bread and Butter Records</a>
+              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
             </div>
           </li>
           <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a></li>
