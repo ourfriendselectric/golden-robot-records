@@ -53,6 +53,8 @@ collections:
     output: true
   scratches-records:
     output: true
+  bread-and-butter-records:
+    output: true
   catalogue:
     output: false
 
