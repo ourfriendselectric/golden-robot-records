@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/screen-shot-2019-04-11-at-9-41-43-am.png
+image_path: /uploads/image-2019-04-15-1.jpg
 name: The Kids
 sort_number: 1
 hidden: false
