@@ -5,7 +5,7 @@ name: Silverthorne
 sort_number: 36
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: Facebook.com/Silverthorne
 instagram_url: 'https://www.instagram.com/silverthorneband/'
 spotify_url:
 apple_url:
