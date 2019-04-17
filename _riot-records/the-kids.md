@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-04-15-1.jpg
+image_path: /uploads/image-2019-04-17-4.jpg
 name: The Kids
 sort_number: 1
 hidden: false
