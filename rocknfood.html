@@ -23,6 +23,10 @@ shows:
       &lsquo;n&rsquo; Food is a new way to have a sneak peek into the lives of
       your favourite rock stars. It brings a unique perspective, developed for
       your enjoyment.</p>
+    hero:
+      hero_path: /uploads/tv-film/rnfbg.jpg
+      vertical_position: center
+      horizontal_position: center
     trailers:
       - youtube_id: lXBigk7TQ8U
         trailer_thumbnail_path: /uploads/tv-film/rnf_trailer_1.jpg
@@ -32,10 +36,10 @@ shows:
         trailer_thumbnail_path: /uploads/tv-film/rnf_trailer_3.jpg
     seasons:
       - name: Season One
-        playlist_url: https://www.youtube.com/watch?v=IOQOMyeWjVQ&list=PLcA5ai83AS8vfl1r41E15VRuQoWyGm2mz
+        playlist_url: >-
+          https://www.youtube.com/watch?v=IOQOMyeWjVQ&list=PLcA5ai83AS8vfl1r41E15VRuQoWyGm2mz
         episodes:
           - feature: false
-            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 1 Featuring Steve Balbi
             blurb_html: >-
               Steve is an Australian Music legend , he has had an amazing career
@@ -44,7 +48,6 @@ shows:
             thumbnail_path: /uploads/tv-film/rnf_ep1.jpg
             youtube_id: IOQOMyeWjVQ
           - feature: false
-            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 2 Featuring Flickertail
             blurb_html: >-
               Flickertail are an Australian band born in the streets of Newtown
@@ -54,7 +57,6 @@ shows:
             thumbnail_path: /uploads/tv-film/rnf_ep2.jpg
             youtube_id: B9OhbqULZsU
           - feature: false
-            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 3 Featuring Hayley Jensen
             blurb_html: >-
               Hayley is a rising country superstar she has featured on the Voice
@@ -64,7 +66,6 @@ shows:
             thumbnail_path: /uploads/tv-film/rnf_ep3.jpg
             youtube_id: T_wQusXtV8k
           - feature: false
-            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 4 Featuring Jagger Alexander-Erber
             blurb_html: >-
               Jagger Alexander-Erber is a rising drumming superstar he has
@@ -77,13 +78,12 @@ shows:
             thumbnail_path: /uploads/tv-film/rnf_ep4.jpg
             youtube_id: BsjE6jpM4U8
           - feature: true
-            hero_path: /uploads/tv-film/episode_five_hero.jpg
             title: Rock N Food Episode 5 Featuring Glenn Shorrock (Little River Band)
             blurb_html: >-
               <p>Glenn Shorrock is an Australian legend who has been involved
-              with some incredible bands, but most importantly Little River
-              Band who has sold over 35 million albums world wide and toured
-              with some of the biggest bands in in the world like The Eagles /
+              with some incredible bands, but most importantly Little River Band
+              who has sold over 35 million albums world wide and toured with
+              some of the biggest bands in in the world like The Eagles /
               Fleetwood Mac and the like.</p>
             thumbnail_path: /uploads/tv-film/rnf_ep5.jpg
             youtube_id: FzWDPAuUfGM
@@ -128,7 +128,20 @@ _options:
       {% for season in show.seasons %}
         {% for episode in season.episodes %}
           {% if episode.feature == true %}
-            <div class="hero" style="background-image: url('{{ episode.hero_path }}');">
+
+            {% if show.hero.horizontal_position %}
+              {% assign horizontal = show.hero.horizontal_position %}
+            {% else %}
+              {% assign horizontal = 'center' %} 
+            {% endif %}
+
+            {% if show.hero.vertical_position %}
+              {% assign vertical = show.hero.vertical_position %}
+            {% else %}
+              {% assign vertical = 'center' %}
+            {% endif %}
+
+            <div class="hero" style="background-image: url('{{ show.hero.hero_path }}'); background-position: {{ horizontal }} {{ vertical }};">
               <div class="info">
                 <div class="container">
                   <div class="row">
