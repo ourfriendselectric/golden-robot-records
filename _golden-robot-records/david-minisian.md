@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/screen-shot-2019-04-17-at-2-17-05-pm.png
 albums:
   - image_path: /uploads/david-minasian-random-acts-cd-cover-final.jpg
     image_url:
