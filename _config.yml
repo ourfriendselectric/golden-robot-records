@@ -58,6 +58,16 @@ collections:
   catalogue:
     output: false
 
+# Dropdown Values
+vertical_positions:
+  center: Center
+  top: Top
+  bototm: Bottom
+horizontal_positions:
+  center: Center
+  left: Left
+  right: Right
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
