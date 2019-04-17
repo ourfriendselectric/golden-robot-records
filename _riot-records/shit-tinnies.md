@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/image-2019-04-17-5.jpg
 name: Shit Tinnies
 sort_number: 4
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/image-2019-04-17-5.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-17-6.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-17-7.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-17-8.jpg
     image_url:
 _type: riot-records
 _options:
