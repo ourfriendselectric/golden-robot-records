@@ -5,7 +5,7 @@ name: David Minisian
 sort_number: 8917293891
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/David-Minasian-Music-281325343740/'
 instagram_url:
 spotify_url:
 apple_url:
