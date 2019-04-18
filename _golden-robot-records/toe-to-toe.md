@@ -3,7 +3,7 @@ layout: artist
 image_path: /images/TOE TILE 2 copy.jpg
 name: Toe to Toe
 sort_number: 44
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: >-
   https://www.facebook.com/tttshc/?__tn__=%2Cd%2CP-R&eid=ARCwru9hxcbalIow3L7jWi0IsgL8Mmi-VCnMQb-tae_IDxtsYC5yYaItFW3IrYN0spj7tsYzTRiPkOc2
@@ -51,6 +51,6 @@ Over the years TTT have shared the stage with Mad ball, Sick Of It All, Agnostic
 
 Since day one, Toe To Toe have been fighting the good fight. Fuelled by observations and frustrations of the socio-political climate and day-to-day personal experience of navigating existence in an uncertain world, TTT’s music brings solace and hope; it lets you know you’re not alone in your struggle.
 
-People have to come together, Mac affirms. We have a lot of people come up to us as fans and they end up being our friends — it’s what it’s all about really, he says without hesitation, Toe To Toe fans are a little different to everyone else’s fans, they’re a little bit more fucked up, which is what I love! Returning the love, peers and the community of supporters have called TTT: all-time, the greatest hardcore band, the benchmark, game changers and legends! 7 EP’s, 4 LP’s, a couple of splits, compilation appearances and various other releases in, the band are as revered and relevant as ever, as they unleash latest LP, Rise Up.
+People have to come together, Mac affirms. We have a lot of people come up to us as fans and they end up being our friends — it’s what it’s all about really, he says without hesitation, Toe To Toe fans are a little different to everyone else’s fans, they’re a little bit more fucked up, which is what I love\! Returning the love, peers and the community of supporters have called TTT: all-time, the greatest hardcore band, the benchmark, game changers and legends\! 7 EP’s, 4 LP’s, a couple of splits, compilation appearances and various other releases in, the band are as revered and relevant as ever, as they unleash latest LP, Rise Up.
 
-12-tracks in total, Rise Up, sounds like the TTT you love but reinvigorated by looking to the past melding the band’s varied taste in music — punk, hardcore, heavy metal, oi and rock n roll. We didn’t want to make the same record again, explains Mac, it’s more listenable the whole way through…It has different production. We had a bit more fun with it. Noiseworks’ Steve Balbi helmed production duties. At times the album could be describe as what a hardcore version of Social Distortion might sound like. This is probably the most satisfied I’ve been with a record…we’re ready to rock!
+12-tracks in total, Rise Up, sounds like the TTT you love but reinvigorated by looking to the past melding the band’s varied taste in music — punk, hardcore, heavy metal, oi and rock n roll. We didn’t want to make the same record again, explains Mac, it’s more listenable the whole way through…It has different production. We had a bit more fun with it. Noiseworks’ Steve Balbi helmed production duties. At times the album could be describe as what a hardcore version of Social Distortion might sound like. This is probably the most satisfied I’ve been with a record…we’re ready to rock\!
