@@ -19,7 +19,7 @@ albums:
   - image_path: /uploads/image-2019-04-18-3.jpg
   - image_path: /uploads/image-2019-04-18-1.jpg
   - image_path: /uploads/image-2019-04-18-2.jpg
-  - image_path: /uploads/image-2019-04-18-4.jpg
+  - image_path: /uploads/image-2019-04-18-6.jpg
 _type: scratches-records
 _options:
   image_path:
