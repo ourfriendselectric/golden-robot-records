@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/image-2019-04-17-1.jpg
-name: David Minisian
+name: David Minasian
 sort_number: 8917293891
 hidden: false
 twitter_url: 'https://twitter.com/DavidMinasian'
