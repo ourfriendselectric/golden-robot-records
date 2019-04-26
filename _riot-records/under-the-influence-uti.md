@@ -12,8 +12,8 @@ apple_url:
 youtube_url:
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-25.png
+    url: ' http://store.socialfamilyrecords.com/index.php/artists/under-the-influence.html'
 hero_path: /uploads/screen-shot-2019-04-11-at-10-03-55-am.png
 albums:
   - image_path: /uploads/image-2019-04-11-3-1.jpg
