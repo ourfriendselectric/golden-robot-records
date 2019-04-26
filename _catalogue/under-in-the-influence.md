@@ -4,7 +4,7 @@ hidden: false
 sort_number: 893479028364028400000
 name: Under in the Influence
 album_name: Propaganda Leaks
-album_url:
+album_url: ' http://store.socialfamilyrecords.com/index.php/artists/under-the-influence.html'
 _hide_content: true
 _options:
   image_path:
