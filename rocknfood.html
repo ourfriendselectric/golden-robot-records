@@ -209,9 +209,13 @@ _options:
                 <div class="episodes container">
                   {% for episode in season.episodes %}
                     <div class="col-md-5 col-lg-4 col-xl-3 episode episode">
-                      <button type="button" data-toggle="modal" data-target="#video" class="episodeTrigger" data-code="{{ episode.youtube_id }}">
-                        <img src="{{ episode.thumbnail_path }}" alt="{{ episode.title }}" class="img-fluid">
-                      </button>
+                      {% if episode.youtube_id %}
+                        <button type="button" data-toggle="modal" data-target="#video" class="episodeTrigger" data-code="{{ episode.youtube_id }}">
+                      {% endif %}
+                          <img src="{{ episode.thumbnail_path }}" alt="{{ episode.title }}" class="img-fluid">
+                      {% if episode.youtube_id %}
+                        </button>
+                      {% endif %}
                       {{ episode.title }}
                     </div>
                   {% endfor %}
