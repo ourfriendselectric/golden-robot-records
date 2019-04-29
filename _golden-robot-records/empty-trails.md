@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/emptylowres.png
+hero_path: /uploads/emptytrail-logo-vertical-transwhite.png
 albums:
   - image_path: /uploads/image-2019-04-29-1.jpg
     image_url:
