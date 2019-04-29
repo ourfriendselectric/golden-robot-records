@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/emptylowres.png
 albums:
-  - image_path:
+  - image_path: /uploads/image-2019-04-29-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-29-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-29-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-04-29-4.jpg
     image_url:
 _type: golden-robot-records
 _options:
