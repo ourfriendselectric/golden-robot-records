@@ -1,15 +1,15 @@
 ---
 layout: artist
 image_path: /uploads/image-2019-04-29.jpg
-name: Empty Trails
+name: Empty Trail
 sort_number: 9819816398
-hidden: true
+hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: Facebook.com/emptytrailmusic
+instagram_url: Instagram.com/emptytrail
+spotify_url: 'https://open.spotify.com/artist/3TaRoxCRNfchmN7P0odIdE'
+apple_url: 'https://itunes.apple.com/us/artist/empty-trail/947084445'
+youtube_url: 'https://www.youtube.com/channel/UCp0vWRjybRLXvWR4s3vis3g'
 buy_now:
   - name:
     logo_path:
