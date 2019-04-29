@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/SK tile 4 copy.jpg
 name: Steve Kilbey
-sort_number: 28
+sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/stevekilbey'
 facebook_url: 'https://www.facebook.com/Kilbey.TheTimeBeing/'
