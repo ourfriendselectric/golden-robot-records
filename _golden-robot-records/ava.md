@@ -12,8 +12,8 @@ apple_url:
 youtube_url:
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-26.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/ava.html'
 hero_path: /uploads/image-2019-04-15.jpg
 albums:
   - image_path:
