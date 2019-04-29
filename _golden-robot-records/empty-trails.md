@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/image-2019-04-29.jpg
 name: Empty Trails
 sort_number: 9819816398
 hidden: true
