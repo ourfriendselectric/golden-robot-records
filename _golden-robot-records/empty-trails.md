@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/emptylowres.png
 albums:
   - image_path:
     image_url:
@@ -51,6 +51,6 @@ And as evidenced by such standout tracks as Empty Trail’s most recent single, 
 
 And speaking of the single - which manages to combine the metallic with the melodic - the singer/guitarist offered some insight behind its creation: “I remember when I told my producer, Kfir Gov, I wanted to record a single with him. He wanted me to start writing and we would decide together what song we felt was the strongest. ‘My World’ just clicked. It essentially just came out and I knew it was a good song. Kfir agreed and we produced it together. Kfir pushed me out of a lot of comfort zones, but I’m really happy with what we accomplished, especially since this song has stirred up a lot of positive attention. I would say that everyone in this band is a pretty stellar musician, so the recording process was pretty quick.” And what about the meaning behind the song, lyrically? “We ALL have a ‘world’ of our own that very few people know about- for some of us, no one. It’s about having to put on a fake face and get through the day, when inside you are fighting a battle no one knows. An urge to be honest with the world. I can’t be the only one who’s feeling this way? No one says anything; we just ignore it. I think that’s where true connection lies, as we are much more alike than we are different. Although everyone wants to point out our differences.”
 
-As is the case with many modern-day rock bands, Empty Trail plans on issuing a steady stream of singles - rather than an album’s worth of tunes. “I’d like to just focus on singles. As much as a full-length would be cool, I don’t see how it makes sense for how the market is. I’d rather spend time on specific songs than on an album that only a few people will have the patience to listen through. Sad but true.” Hopefully, the buzz surrounding Empty Trail will soon lead to a full-on tour. “I would love to tour when it makes sense to. I want to connect with people who get this in any fashion. Maybe this is my personality, but I want to go where we are wanted\!”&nbsp;
+As is the case with many modern-day rock bands, Empty Trail plans on issuing a steady stream of singles - rather than an album’s worth of tunes. “I’d like to just focus on singles. As much as a full-length would be cool, I don’t see how it makes sense for how the market is. I’d rather spend time on specific songs than on an album that only a few people will have the patience to listen through. Sad but true.” Hopefully, the buzz surrounding Empty Trail will soon lead to a full-on tour. “I would love to tour when it makes sense to. I want to connect with people who get this in any fashion. Maybe this is my personality, but I want to go where we are wanted\!” 
 
 And lastly, where can fans connect and correspond with the band? “We are almost everywhere you would imagine. The most activity tends to be on Instagram, until a new platform comes around and knocks that one out. Connect with us there\!”
