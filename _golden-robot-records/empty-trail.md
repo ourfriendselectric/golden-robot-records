@@ -5,8 +5,8 @@ name: Empty Trail
 sort_number: 28
 hidden: false
 twitter_url:
-facebook_url: Facebook.com/emptytrailmusic
-instagram_url: Instagram.com/emptytrail
+facebook_url: 'https://www.facebook.com/emptytrailmusic/'
+instagram_url: 'https://www.instagram.com/emptytrail/'
 spotify_url: 'https://open.spotify.com/artist/3TaRoxCRNfchmN7P0odIdE'
 apple_url: 'https://itunes.apple.com/us/artist/empty-trail/947084445'
 youtube_url: 'https://www.youtube.com/channel/UCp0vWRjybRLXvWR4s3vis3g'
