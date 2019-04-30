@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-04-29.jpg
 name: Empty Trail
 sort_number: 28
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: Facebook.com/emptytrailmusic
 instagram_url: Instagram.com/emptytrail
