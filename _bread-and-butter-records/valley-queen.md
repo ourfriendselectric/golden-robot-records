@@ -12,8 +12,8 @@ apple_url: 'https://itunes.apple.com/au/album/supergiant/1368611209'
 youtube_url: 'https://www.youtube.com/channel/UCzUNddpUfDwVhvRT86G8l0w'
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/grge.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/valleyarm.html'
 hero_path: /uploads/image-2019-04-12-7.jpg
 albums:
   - image_path: /uploads/image-2019-04-12-4.jpg
