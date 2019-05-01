@@ -9,7 +9,7 @@ facebook_url: 'https://www.facebook.com/HNBMerch/'
 instagram_url: 'https://www.instagram.com/hnb_official/'
 spotify_url:
 apple_url:
-youtube_url:
+youtube_url: 'https://www.youtube.com/watch?v=A_JJXrAgAIQ&feature=youtu.be'
 buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-24.png
