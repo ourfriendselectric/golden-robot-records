@@ -7,9 +7,9 @@ hidden: false
 twitter_url: 'https://twitter.com/BGibbsmusic'
 facebook_url: 'https://www.facebook.com/bgibbsmusic/'
 instagram_url: 'https://www.instagram.com/bgibbsmusic/'
-spotify_url:
-apple_url:
-youtube_url:
+spotify_url: ' https://open.spotify.com/brandon%20gibbs'
+apple_url: 'https://www.amazon.com/s?k=brandon+gibbs&i=digital-music&ref=nb_sb_noss_2'
+youtube_url: 'https://music.youtube.com/search?q=brandon+gibbs  '
 buy_now:
   - name:
     logo_path:
