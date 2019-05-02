@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-05-02-2.jpg
+image_path: /uploads/image-2019-05-3.jpg
 name: Brandon Gibbs
 sort_number: 3874
 hidden: false
