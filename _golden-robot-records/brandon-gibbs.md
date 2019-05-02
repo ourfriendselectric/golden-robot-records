@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-05-02-2.jpg
 name: Brandon Gibbs
-sort_number: 739817391
+sort_number: 739817391873
 hidden: false
 twitter_url: 'https://twitter.com/BGibbsmusic'
 facebook_url: 'https://www.facebook.com/bgibbsmusic/'
