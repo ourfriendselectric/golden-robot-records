@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/image-2019-05-02-3.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-02-2.jpg
+  - image_path: /uploads/image-2019-05-4.jpg
     image_url:
 _type: golden-robot-records
 _options:
