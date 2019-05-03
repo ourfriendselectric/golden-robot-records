@@ -7,17 +7,18 @@ hidden: false
 twitter_url: 'https://twitter.com/mjwstuff?lang=en'
 facebook_url:
 instagram_url: 'http://www.instagram.com/matt_j_ward'
-spotify_url: 'https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A'
+spotify_url: >-
+  https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A
 apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
 youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
-hero_path: /uploads/screen-shot-2018-11-28-at-1-57-22-pm.png
+  - name:
+    logo_path:
+    url:
+hero_path: /uploads/matt-ward-1---sfr-page-image.jpeg
 albums:
+  - image_path: /uploads/matt-ward---heartland---album-cover---600px.jpg
+    image_url: 'https://orcd.co/mattward-heartland'
   - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
     image_url:
 _type: social-family-records
@@ -37,22 +38,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Delivering a soulful blend Australian Country and Americana music, Matt Ward's musical journey has not been typical.
+# **Matt Ward (distro only)**
 
-Working for years in land management across South Australia, Matt has an intimate knowledge of the country's interior and its people. Time on the road, connection to country, emotions experienced along the way - it is the lifeblood of country musicians, and Matt has it in spades.
+*Heartland* is the debut album from Australian Country and Americana musician Matt Ward. Recorded at Love Hz studios with multiple Golden Guitar winning Producer Matt Fell, the album is an outstanding reflection of the Australian and Americana influences that Matt Ward has sought during his journey as an artist.
 
-Strong urban roots also ground his songwriting in compelling authenticity, and recently living and touring out of Texas has only served to expand Matt's influences and rich life experiences.
+A mixture of personal reflections and stories Matt has experienced along life’s journey, *Heartland* is an album in its truest sense and has been carefully crafted to allow the listener on a journey on matters of the heart, country and love. With significant contributions from some of Australia’s best musicians, a highlight is the duet with Arkansas native Bonnie Montgomery (Arkansas Americana Artist & Female Singer of the year 2018), recorded in Dale Watson’s Ameripolitan Studios in Austin, Texas.&nbsp;
 
-Produced by the award-winning Matt Fell at Sydney's Love Hz Studio, Annabelle is the first single release from Ward's upcoming album Heartland.
-
-Seamlessly combining classic Australian influences with modern country finesse, it is easy to draw comparison to Paul Kelly, Whiskeytown (Ryan Adams) and Jason Isbell in Matt's songwriting, vocals and band arrangements.
-
-"Matt Ward is THAT guy" Fell said of Ward. Wordsmith, tunesmith, craftsman. A songwriter's songwriter whose material speaks deeply and simultaneously of his own journey and of ours.
-
-That is high praise and there is no doubt Matt is forging his own sound within the Australian country and Americana scenes.
-
-Australian Music Network described Matt as a" musician of high promise "and since the successful release of his debut EP in 2016, Matt has showcased at Australian Music Week, performed at some of Tamworth's hottest events such as Late Nite Alt and Country Cocktails, and has often been selected to showcase for the Americana Association of Australia.
-
-With soulful vocals, a compelling narrative and rich arrangements, Matt Ward and his debut album Heartland will prove to be one of the best country finds of recent years.
-
-(Matt is also strengthening his reputation internationally, recently touring in America's south with acclaimed country outlaw Bonnie Montgomery. Matt's songs evoke the vastness and expanse of Australia while speaking with true heart. Bonnie said of Matt. He is a spokesman of our time and his music a perfect blend of Australian country outlaw)
+Released on 3 May, 2019, Heartland landed at \#1 on the iTunes Country Albums chart and has spawned three singles - Annabelle, Back to the Country, and Take Me Home.
