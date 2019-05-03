@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/screen-shot-2019-05-02-at-9-40-02-am.png
 albums:
-  - image_path: /uploads/image-2019-05-02-1.jpg
+  - image_path: /uploads/image-2019-05-4.jpg
     image_url:
   - image_path: /uploads/image-2019-05-2.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-02-3.jpg
+  - image_path: /uploads/image-2019-05-02-1.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-4.jpg
+  - image_path: /uploads/image-2019-05-02-3.jpg
     image_url:
 _type: golden-robot-records
 _options:
