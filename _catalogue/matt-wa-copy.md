@@ -1,5 +1,5 @@
 ---
-image_path: /uploads/screen-shot-2019-02-08-at-1-55-36-pm.png
+image_path: /uploads/matt-ward---heartland---album-cover---600px-1.jpg
 hidden: false
 sort_number: 8027498274101
 name: Matt Ward
