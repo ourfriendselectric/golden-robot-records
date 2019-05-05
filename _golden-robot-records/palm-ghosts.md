@@ -20,9 +20,9 @@ albums:
     image_url:
   - image_path: /uploads/image-2019-05-06-6.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-06-5.jpg
+  - image_path: /uploads/image-2019-05-06-8.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-05-06-8.jpg
     image_url:
 _type: golden-robot-records
 _options:
