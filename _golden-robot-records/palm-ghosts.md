@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-05-06-7.jpg
 name: Palm Ghosts
-sort_number: 10
+sort_number: 827398173917
 hidden: false
 twitter_url:
 facebook_url:
