@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-05-6.jpg
 name: Cicadastone
 sort_number: 982379827982
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
