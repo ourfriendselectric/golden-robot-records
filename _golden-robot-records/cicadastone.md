@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/image-2019-05-6.jpg
 name: Cicadastone
 sort_number: 982379827982
 hidden: true
@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/screen-shot-2019-05-06-at-8-37-17-am.png
 albums:
-  - image_path:
+  - image_path: /uploads/image-2019-05-6.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-05-06-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-05-06-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/image-2019-05-06-1.jpg
     image_url:
 _type: golden-robot-records
 _options:
