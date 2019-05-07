@@ -41,16 +41,22 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Palm Ghosts is a band based in Nashville led by songwriter / producer Joseph Lekkas.
+Palm Ghosts is a dream pop&nbsp; / post punk band based in Nashville TN led by songwriter and producer Joseph Lekkas.
 
-Having spent the early aughts playing in Philadelphia bands such as Grammar Debate\! and Hilliard, Joseph took a long hiatus from writing and performing music to book shows and festivals in Philadelphia.
+Taking cues from such bands as Cocteau Twins, Peter Gabriel, Echo and The Bunnymen, New Order, early U2 and The Cure, Palm Ghosts takes the sounds of early 80s alternative music and brings it into the new millennium. &nbsp;
 
-Palm Ghosts began in early 2013 as a creative outlet for dealing with a severe bout of depression and anxiety that left him incapacitated. Discovering that music was his only path through the mire, Joseph spent a particularly long Philadelphia winter recording a batch of introspective songs that was to become the first Palm Ghosts record, a tapestry of lo-fi indie folk and dreamy pop he christened&nbsp;*Sun-damaged American music.*
+Palm Ghosts self-released three records before signing with Golden Robot Records. &nbsp;
 
-After a short tour in 2013 supporting the release of the first record, Joseph packed up his belongings and headed south to Nashville to take part in the southern city’s musical renaissance.
+Their self-titled debut is a tapestry of lo-fi folk and indie pop.*&nbsp;*Their second record*, Greenland*,&nbsp; consists of songs that walk the line of electronic, indie and Americana music.&nbsp;
 
-Joseph set up a small home studio in the guest bedroom of a rental house on Greenland Ave in East Nashville. Two years later, in February of 2017, he released&nbsp;*Greenland*, Palm Ghosts’ second record, consisting of 15 songs that walk the line of electronic, folk and indie music, a collection clearly influenced by the song-is-king culture of his newly adopted city.
+In May of 2017 Palm Ghosts finally found their sound with the release of&nbsp;*Architecture*, a critically lauded collection of cinematic dream pop songs.&nbsp;
 
-In May of 2017, Joseph began work on his next project, a cinematic dream pop / dark indie LP celebrating his favorite sounds from the most colorful of musical decades, the 1980s. Influenced by groups such as Cocteau Twins, Peter Gabriel, Dead Can Dance, New Order and The Cure, he began sketching song ideas to create the lush, cinematic arrangements he was hearing in his head. The fruit of his labors,&nbsp;*Architecture*, is now complete\!
+Music News UK wrote&nbsp;*“The commodified and codified 80’s are here to stay, from the fake consciousness pop culture nostalgia that dominates the virtual shopping aisles to recreated and reimagined movie memories that manipulate and skew the present. Saddled with the past, culture’s inertia offers up facsimile pap and xerox rock. However, hope exists, listen as true light continues to glisten, appearing through the cracks and haunting the NOW are Nashville’s Palm Ghosts.”&nbsp;*
 
-Also, for the first time since 2014, Palm Ghosts is performing live, featuring Joseph Lekkas, Ben Douglas, Jason Springman and Rene Lambert.
+England’s&nbsp;*Dancing About Architecture*&nbsp;said the record is*&nbsp;“A fantastic slice of all things that sit on the border of cultish and commercial, cool enough to appeal to the discerning tastes of the underground and hot enough to sell to the masses. Not only does that blend not come together very often, who’d have thought that you’d find it in the alt-country confines of East Nashville.”*
+
+Germany’s*&nbsp;Jammerzine&nbsp;*&nbsp;said Architecture was*&nbsp;“Tight in execution and filled with relevant ambiance, Nashville’s own Palm Ghosts deliver a solidly retro-modern album in the form of ‘Architecture’. designed with&nbsp; an electric style symphony of sound and a penchant for that left of center vibe that only comes with future masterpieces, Palm Ghosts give the masses an album rife with creativity and abound with aural astonishment. Bravo\!”*
+
+The band is currently hard at work preparing new music for release this summer on Golden Robot Records.&nbsp;
+
+Palm Ghosts is Joseph Lekkas, Ben Douglas, Jason Springman and Rene Lambert.
