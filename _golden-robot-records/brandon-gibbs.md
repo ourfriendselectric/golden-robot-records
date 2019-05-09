@@ -41,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-**Brandon Gibbs** is an explosive guitar player that has a powerful, soulful voice and a brilliant sense of melody that sets him apart from his contemporaries. Brandon’s songwriting takes you on an incredible journey throughout the performance, often transcending genres of rock, blues, pop and country. His heart and soul pour out of him on stage and through his music.
+**Brandon Gibbs** is an explosive guitar player that has a powerful, soulful voice, and a brilliant sense of melody that sets him apart from his contemporaries. Brandon’s songwriting takes you on an incredible journey throughout the performance, often transcending genres of rock, blues, pop and country. His heart and soul pour out of him on stage and through his music.
 
 Brandon’ passion for guitar began around the age of eight. At the age of fourteen, he and his twin formed The Gibbs Brothers Band and would perform together for the next 10 years while also writing and recording together. Their reputation for harmonies, instrumentation, and pure entertainment was earning them more opportunities than most unsigned bands ever see.
 
