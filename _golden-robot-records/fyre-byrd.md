@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/fyre.byrd/'
 spotify_url: 'https://open.spotify.com/search/results/fyre%20byrd'
 apple_url: 'https://itunes.apple.com/au/artist/fyre-byrd/1368232166'
 youtube_url: 'https://www.youtube.com/channel/UC8PbgyLXAExJDpVQsg7GmmQ'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/Fyre byrd cover copy-copy.jpg
 albums:
   - image_path: /uploads/Take Me Out Single Art 600px.jpeg
@@ -43,8 +41,20 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Fyre  Byrd are  guitarist/vocalist Joshua  and female  drummer, Daniella. The  brother,  sister  two piece  formed at  the beginning  of 2017, although they  have spent  time on the road extensively touring nationally and internationally  in other projects.
+**FYRE BYRD** are fronted by vocalist/guitarist Josh and female drummer Daniella. Formed in only 2017, **FYRE BYRD** have already made serious ground with their fresh approach, blending classic songwriting with Josh’s distinctive vocal sound and wired modern guitar on top of Daniella’s animalistic, hard hitting drums which is so dynamic and incredible to watch live.
 
-Based  in Adelaide, Fyre  Byrd have  taken advantage  of the chemistry  they have built over  the years and  make their presence  known with animalistic drums  and heavily  distorted guitar  that drive the melodic  energy of their songs,  alongside Joshua's vocals.
+After signing with Golden Robot Records (GRR), their debut singles were recorded in Sydney, Australia with producer Steve Balbi. Their debut single "*Take Me Ou*t" peaked at number 9 on rock charts across US radio networks, and hit 10,000 streams on Spotify within the first month of its release.
 
-The Australian  duo's sound  moulds the rock  dynamism  of the likes  of The White Stripes  and Muse. "From  the opening  track, there was  no doubt in our minds  these rockers weren’t  just here  to play a set,  they wanted to leave  us gasping for air as they  sucked  it  from  our lungs!  There were no  nerves on stage  as Fyre Byrd tore  through  their set,  song after song  bringing high energy, electrifying  rock and roll  for the generation  of today.” - All  Over Adelaide
+**FYRE BYRD** are on a nationwide tour to support their single ‘*Take Me Out*’ with back to back sold out shows. They have supported Andrew Stockdale (Wolfmother), SkidRow (USA),Living Colour (USA) and Nothing But Thieves (UK).
+
+<u>Press Highlights:</u>
+
+***“Fyre Byrd*** *put on a high energy rock show complete with instrument destroying theatrics, as****Daniella Breeze*** *danced around her drum kit, leapt onto the stool and smashed the shit out of the cymbals. Meantime, vocalist/guitarist****Josh Samtre*** *lay flat on his back, taking the feedback to fever pitch. The cacophony ended with an Epiphone flying across the stage and landing in a distortion inducing heap. Come back anytime****Fyre Byrd****, that was rock n fn roll.” - Wall Of Sound*
+
+*“****Fyre Byrd*** *are fantastic. Daniella is an amazing drummer. A very full sound, and the songs have great hooks.” – Frank Stallone*
+
+*"From the opening track, there was no doubt in our minds these rockers weren’t just here to play a set, they wanted to leave us gasping for air as they sucked it from our lungs\! There were no nerves on stage as****Fyre Byrd*** *tore through their set, song after song bringing high energy, electrifying rock and roll for the generation of today.” - All Over Adelaide*
+
+***“Fyre Byrd*** *have slayed. It was a vibrant, exciting, old school, new school, rock show. It’s not hard to see why they’ve made waves. They like to rock, they like to jam, they like to do as they please. They make a hell of a lot of noise for just two people. It’s good noise too. - Adelaide Rock Metal Lovers*
+
+*“This band is hot stuff right now.”* *- Hi-Fi Way : The Pop Chronicles *
