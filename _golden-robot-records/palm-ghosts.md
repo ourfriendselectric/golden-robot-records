@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-05-06-7.jpg
+image_path: /uploads/palm-ghosts-1-bw.jpg
 name: Palm Ghosts
 sort_number: 827398173917
 hidden: false
