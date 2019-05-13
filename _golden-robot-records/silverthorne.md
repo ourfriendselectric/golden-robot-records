@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-04-09-4.jpg
+image_path: /uploads/image-2019-05-13-5.jpg
 name: Silverthorne
 sort_number: 36
 hidden: false
@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/silverthorne-logo.jpeg
 albums:
-  - image_path: /uploads/image-2019-04-09-1.jpg
+  - image_path: /uploads/image-2019-05-13-6.jpg
     image_url:
   - image_path: /uploads/image-2019-04-10.jpg
     image_url:
@@ -41,11 +41,11 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Silverthorne came together when vocalist/guitarist Pete Shoulder (Winterville / The Union) and drummer Brian Tichy (Foreigner / Whitesnake /  Billy Idol) decided to finally collaborate on some songs together. Having run into each other over the years on various projects and tours the two knew that given the chance, they could come up with something pretty special between them. 
+Silverthorne came together when vocalist/guitarist Pete Shoulder (Winterville / The Union) and drummer Brian Tichy (Foreigner / Whitesnake / &nbsp;Billy Idol) decided to finally collaborate on some songs together. Having run into each other over the years on various projects and tours the two knew that given the chance, they could come up with something pretty special between them.&nbsp;
 
-The result is a set of exciting, soulful and earthy rock songs that tips its hat to the classic rock bands of yesteryear as well as looking firmly to the future. 
+The result is a set of exciting, soulful and earthy rock songs that tips its hat to the classic rock bands of yesteryear as well as looking firmly to the future.&nbsp;
 
-After drafting in Tichy’s bud, Los Angeles based Daniel Spree on bass the trio was complete. 
+After drafting in Tichy’s bud, Los Angeles based Daniel Spree on bass the trio was complete.&nbsp;
 
 Upon hearing the music, Golden Robot Records President and Founder Mark Alexander-Erber reacted instantly and offered the band a record contract.
 
