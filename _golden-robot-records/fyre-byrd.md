@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/Anywhere I Am Is Home single art 600px.jpeg
     image_url:
-  - image_path: /uploads/fb tile 2 copy.jpg
+  - image_path: /uploads/image-2019-05-13-7.jpg
     image_url:
   - image_path: /uploads/fb tile 3 copy.jpg
     image_url:
@@ -57,4 +57,4 @@ After signing with Golden Robot Records (GRR), their debut singles were recorded
 
 ***“Fyre Byrd*** *have slayed. It was a vibrant, exciting, old school, new school, rock show. It’s not hard to see why they’ve made waves. They like to rock, they like to jam, they like to do as they please. They make a hell of a lot of noise for just two people. It’s good noise too. - Adelaide Rock Metal Lovers*
 
-*“This band is hot stuff right now.”* *- Hi-Fi Way : The Pop Chronicles *
+*“This band is hot stuff right now.”* \*- Hi-Fi Way : The Pop Chronicles \*
