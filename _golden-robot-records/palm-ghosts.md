@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/palm-ghosts-header.jpeg
 albums:
-  - image_path: /uploads/image-2019-05-06-4.jpg
+  - image_path: /uploads/palm-ghosts-1-bw-1.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-06-6.jpg
+  - image_path: /uploads/palm-ghosts-2.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-06-8.jpg
+  - image_path: /uploads/palm-ghosts-4-bw.jpg
     image_url:
-  - image_path: /uploads/image-2019-05-06-8.jpg
+  - image_path: /uploads/palm-ghosts-3.jpg
     image_url:
 _type: golden-robot-records
 _options:
