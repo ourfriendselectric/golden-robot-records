@@ -1,7 +1,7 @@
 ---
 image_path: /uploads/vqsupergiant300dpi1500x1500.jpg
 hidden: false
-sort_number: 870287498276478
+sort_number: 58
 name: Valley Queen
 album_name: Supergiant (BAB - Pre-Order)
 album_url: 'http://store.socialfamilyrecords.com/index.php/artists/valleyqueen.html'
