@@ -1,25 +1,23 @@
 ---
 layout: artist
-image_path: /uploads/2018-promo-pic2---sfr-web.jpg
-name: Liam Brew (Distro only)
-sort_number: 160
+image_path: /uploads/sammy-white---500px-web.jpg
+name: Sammy White (Distro only)
+sort_number: 500000
 hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url: >-
-  https://open.spotify.com/artist/0plATOXnboAx02n3xEPfvN?si=_OpRcQgBQjS_Y2xr2G-_gQ
-apple_url: >-
-  https://itunes.apple.com/au/album/a-few-more-dirt-roads/1458823149?i=1458823153
+facebook_url: 'https://www.facebook.com/SammyWhiteMusic/'
+instagram_url: 'https://www.instagram.com/sammywhitemusic/'
+spotify_url:
+apple_url:
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url: 'https://orcd.co/liambrew-afewmoredirtroads'
-hero_path: /uploads/2018-promo-pic1-sfr-web-2.jpeg
+    url: 'https://orcd.co/sammywhite-drowningmysorrows'
+hero_path: /uploads/sammy-white---image-2.JPG
 albums:
-  - image_path: /uploads/liam-brew---a-few-more-dirt-roads---cover-art-600px.jpg
-    image_url: 'https://orcd.co/liambrew-afewmoredirtroads'
+  - image_path: /uploads/sammy-white---drowning-my-sorrows---single-cover-600px.jpg
+    image_url: 'https://orcd.co/sammywhite-drowningmysorrows'
 _type: social-family-records
 _options:
   image_path:
@@ -37,10 +35,24 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Liam Brew (Distro only)**
+# **Sammy White (Distro only)**
 
-Liam Brew made his musical mark in January 2009 when he was named the 30th Toyota Star Maker. **Wild Heart**, his debut album, was released in August 2009 and garnered a finalist placement in the 2010 CMAA Country Music Awards Of Australia, which features the hit single, *Doghouse*. Liam's follow-up album **Faster**, was released in 2013, debuted at \#20 on the ARIA Australian Artist Country Albums Chart and peaked at \#9 on the iTunes Australia Top Country Music Albums Chart.
+Sammy holds a teaching position at Townsville’s highly regarded, ‘The Voice Singing School’ as a Vocal/Guitar Coach and is mentored by Toyota Star Maker and multiple Golden Guitar winner, Lyn Bowtell.
 
-The College Of Country Music graduate has been asked to join some of Australia’s finest in concert – Adam Brand, James Blundell, The Sunny Cowgirls, Lee Kernaghan and The McClymonts. Opening the inaugural CMC Rocks the Hunter festival and sharing the bill with US superstars Alan Jackson, Joe Nichols & Jack Ingram plus Aussie heavyweights Kasey Chambers & Troy Cassar-Daley was a career highlight.
+Sammy’s career highlights including:
 
-After a hiatus, Brew is back with his new single, *A Few More Dirt Roads*.
+\-Performing at the 2018 TCMF opening concert with an audience of over 7,000 people
+
+\-Graduating both the Junior & Senior Academy of Country Music
+
+\-Performance with O’Shea at the 2018 Toyota Golden Guitar Awards
+
+\-Performance with The Bushwackers at the 2018 Tamworth Country Music Festival
+
+\-Supporting artist for Dianna Corcoran and Aleyce Simmonds
+
+Her debut single, Drowning My Sorrows, was well received across radio, including being added on rotation to ABC Country and Kix Country, with the music video also seeing airplay on CMC.
+
+A brilliant debut from the 21 year old, &nbsp;***Drowning My Sorrows***, was co-written by White with alt country’s Lachlan Bryan and is available now on digital platforms.
+
+***Drowning My Sorrows*** is as it suggests – about hitting the bottle a little too hard to cope with the “things” life throws at us.&nbsp; The warm vocal tones of White exude with emotion and make the audience feel the heartfelt, lyrically driven stories behind her music. &nbsp;The young alt country artist’s sound is a perfect blend of her love for country with a hint of pop and soul, inspired by her favourite performers, including Bonnie Raitt, Chris Stapleton and Amy Winehouse.
