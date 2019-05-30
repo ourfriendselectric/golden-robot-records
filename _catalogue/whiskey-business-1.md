@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/positiveattitude-whiskey-business-500px.jpeg
+image_path:
 hidden: false
-sort_number: 8726522
-name: Whiskey Business
-album_name: Positive Attitude (SFR - EP)
-album_url: 'http://smarturl.it/GetWhiskeyBusinessEP'
+sort_number: 777788
+name: Sammy White
+album_name: Sammy White (SFR - Single)
+album_url: 'https://orcd.co/sammywhite-drowningmysorrows'
 _hide_content: true
 _options:
   image_path:
