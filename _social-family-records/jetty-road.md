@@ -20,6 +20,8 @@ albums:
     image_url:
   - image_path: /uploads/jetty-road---because-we-can---single-cover-600px.jpeg
     image_url: 'http://smarturl.it/Jetties-BecauseWeCan'
+  - image_path: /uploads/jetty-road---no-heartbreaks---single-cover-600px.jpg
+    image_url: 'https://orcd.co/jettyroad-noheartbreaks-streaming'
 _type: social-family-records
 _options:
   image_path:
@@ -39,7 +41,7 @@ _options:
 
 # Jetty Road
 
-The Melbourne-based trio Paula and Lee Bowman (identical twins) and Julian Sammut are **Jetty Road**. They have a sound described as a tapestry of pop and country, with a hint of folk. Imagine The Corrs, Fleetwood Mac and The Dixie Chicks with a unique Australian flavour. Jetty Road is a band with a story to tell. Their 2015 Album Hearts On Fire has firmly reinforced the band’s status as one of the premiere acts in Australian Country Music. After seeing their previous album Far Away Places debut at #9 on the ARIA chart, and the first two singles off the new album chart at #1 across the country, the hopes were high for the album release. This potential was realized when the new album reached a new high for the band of an ARIA #2 album chart position on release.Travelling half way across the globe to Canada to record once more with producer Paul Shatto at the helm, the new album is a reflection of the band’s emotional journey over the past few years.
+The Melbourne-based trio Paula and Lee Bowman (identical twins) and Julian Sammut are **Jetty Road**. They have a sound described as a tapestry of pop and country, with a hint of folk. Imagine The Corrs, Fleetwood Mac and The Dixie Chicks with a unique Australian flavour. Jetty Road is a band with a story to tell. Their 2015 Album Hearts On Fire has firmly reinforced the band’s status as one of the premiere acts in Australian Country Music. After seeing their previous album Far Away Places debut at \#9 on the ARIA chart, and the first two singles off the new album chart at \#1 across the country, the hopes were high for the album release. This potential was realized when the new album reached a new high for the band of an ARIA \#2 album chart position on release.Travelling half way across the globe to Canada to record once more with producer Paul Shatto at the helm, the new album is a reflection of the band’s emotional journey over the past few years.
 
 January 2015 marked their 10-year anniversary together, a milestone rarely seen within the industry today. It’s easy to see the progression from their humble beginnings at Australia’s Tamworth Country Music Festival in 2005, from busking on Tamworth’s famous Peel Street to winning Golden Guitar Awards.<br>After returning from Tamworth in 2005 it didn’t take long for the group to start racking up some credentials. A chance meeting with Australian country music legend James Blundell turned into an 18-month tour as his support act that provided the band with exposure across Australia.
 
@@ -47,7 +49,7 @@ A decade or so on, this talented trio are now stars of Country Music in their ow
 
 The trio has also a multitude of awards and accolades along the way with two Golden Guitars (CMAA), an APRA Award nomination, five Southern Star Independent Artist of Australia Awards and 10 number one charting songs to their name.
 
-The trio signed with Social Family Records and their new album is slated for release mid to late 2019. The first single, *Because We Can*, is out now - buy or listen here: &nbsp;[http://smarturl.it/Jetties-BecauseWeCan](http://smarturl.it/Jetties-BecauseWeCan){: target="_blank"}
+The trio signed with Social Family Records and their new album is slated for release mid to late 2019, with the first two singles out now (Because We Can and No Heartbreaks).
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
