@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/liam-kennedy-cover-copy.jpg
+hero_path: /uploads/lkc-2-web.jpeg
 albums:
   - image_path: /uploads/liam-kennedy-clark-another-habit-600px.jpg
     image_url: 'https://orcd.co/liam-kennedy-clark-anotherhabit-album'
