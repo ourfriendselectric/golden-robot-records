@@ -39,9 +39,7 @@ _options:
 
 **Dani Young** is a Sydney singer-songwriter whose musical pilgrimage to the heart of the Australian outback, Alice Springs, and back again has infused earthy country and roots influences in her music. An artist unafraid to bleed through deeply personal storytelling, expect to be confronted and soothed with unspoken truths and soaring vocals. Gutsy, vulnerable, powerful, inspired. You’ll leave with her melodies still dancing through your head and fire in your soul.&nbsp;
 
-​
-
-Dani catapulted onto the Australian country music scene, with her debut record **Desert Water** named a Golden Guitar finalist in 2017. The album of duets with Aboriginal singer **Warren H Williams** reached \#2 on the ARIA Country Albums chart and was also nominated for Best International Release at the Canadian Indigenous Music Awards.&nbsp;
+​Dani catapulted onto the Australian country music scene, with her debut record **Desert Water** named a Golden Guitar finalist in 2017. The album of duets with Aboriginal singer **Warren H Williams** reached \#2 on the ARIA Country Albums chart and was also nominated for Best International Release at the Canadian Indigenous Music Awards.&nbsp;
 
 2018 has seen Dani touring alongside Damien Leith, who is producing her upcoming record, and also joining Jason Owen for a string of shows. She headlined the Western Australian Country Music Awards in February, the Southern Star Australian Independent Country Music Awards in October and made her Australian Music Week debut in November.&nbsp;
 
