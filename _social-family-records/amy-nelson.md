@@ -17,9 +17,9 @@ buy_now:
 hero_path: /uploads/an-cover-copy.jpg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
-    image_url:
-  - image_path: /uploads/amy-nelson-tile-copy.jpg
-    image_url:
+    image_url: 'http://smarturl.it/AmyNelson-HeyLove'
+  - image_path: /uploads/amy-nelson---dontcha-dare-do-it-600px.jpg
+    image_url: 'http://smarturl.it/Amy-DontchaDareDoIt'
 _type: social-family-records
 _options:
   image_path:
@@ -39,12 +39,10 @@ _options:
 
 # Amy Nelson
 
-Saskatchewan’s own Amy Nelson, has been waving the Canadian flag on stages all over the world. This high school music teacher turned country singer has recently been making waves down under with the two singles released to Australian country radio, both going Top 10.
+***Dontcha Dare Do It ***is the latest single and third release here from Canadian country artist, **Amy Nelson**, following ***ish*** and ***Hey Love*** from her unreleased album titled **Good Intentions**.
 
-This summer Amy performed at the Calgary Stampede before heading on tour in New Zealand and Australia, making her main stage debut at Australia’s Groundwater country music festival - one of the fastest growing country festivals down under. She finished off the summer performing before headliners Kip More and Craig Morgan at the Queen City Ex and made an appearance at Alberta’s Big Valley Jamboree.
+An up-tempo, catchy song, ***Dontcha Dare Do It*** pokes fun at the bad decisions people sometimes make (Amy included) even though they know they shouldn’t and will regret it later.&nbsp; It’s available for pre-order on digital platforms now and set for release on 14 January, in time for Nelson’s return to Australia – her eighth time travelling down under in the past 2 years\!
 
-Amy was named the 2018 Entertainer of the Year at the Saskatchewan Country Music Awards and was featured in both Creative Saskatchewan and Saskatchewan Arts Boards’ Annual Reports. She was also selected to be in a video featuring Canadian artists succeeding internationally, which played at the 2018 JUNO awards.&nbsp;
+Heading back to perform at the Tamworth Country Music Festival, Amy has previously performed on the main stage at the Groundwater Country Music Festival, showcased at Australian Music Week and supported Kirsty Lee Akers on her “Nashville to the Top” tour.
 
-Amy has joined Social Family Records (Universal Australia) to release her third album, which will be released as a pre-sale on August 28, 2018. This new material features her strong vocal ability through fun, catchy, melodies and lyrics fueled by her self-proclaimed “bad luck” in love. It also includes a bonus track, which is sure to be a big hit with Rider fans across the province.&nbsp;
-
-Alongside her busy musical career Amy has started her own singing school for kids called “Sing Like A STAR” which now has over 300 families and multiple locations throughout southern Saskatchewan.
+Back home, Nelson manages a busy schedule performing at events such as the Calgary Stampede and Canadian Music Week and was this year named the 2018 SCMA Fans Choice Entertainer of the Year and released her third album in Canada. Despite all of this excitement in the Great White North, she always finds time to come back and perform in Australia.
