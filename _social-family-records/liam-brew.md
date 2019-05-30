@@ -37,7 +37,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Liam Brew (distro only)**
+# **Liam Brew (Distro only)**
 
 Liam Brew made his musical mark in January 2009 when he was named the 30th Toyota Star Maker. **Wild Heart**, his debut album, was released in August 2009 and garnered a finalist placement in the 2010 CMAA Country Music Awards Of Australia, which features the hit single, *Doghouse*. Liam's follow-up album **Faster**, was released in 2013, debuted at \#20 on the ARIA Australian Artist Country Albums Chart and peaked at \#9 on the iTunes Australia Top Country Music Albums Chart.
 
