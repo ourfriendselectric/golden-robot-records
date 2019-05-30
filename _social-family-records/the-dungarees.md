@@ -7,23 +7,22 @@ hidden: false
 twitter_url: 'https://twitter.com/DungareesBand'
 facebook_url: 'https://www.facebook.com/TheDungarees'
 instagram_url: 'https://www.instagram.com/thedungareesband/'
-spotify_url: 'https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg'
+spotify_url: >-
+  https://open.spotify.com/artist/5MQpGQsV4sEZkMr2avQdd9?si=g_oyrIOnQtqqtclv4pOQwg
 apple_url: 'https://itunes.apple.com/au/artist/the-dungarees/895989335'
 youtube_url:
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
-hero_path:
+  - name:
+    logo_path:
+    url:
+hero_path: /uploads/dungarees-web.jpeg
 albums:
-  - image_path:
+  - image_path: /uploads/anywhere-with-you---the-dungarees---single-cover-600px.jpg
     image_url:
-  - image_path:
-    image_url:
-  - image_path:
-    image_url:
+  - image_path: /uploads/the-dungarees---dont-hold-back---single-cover-600px.jpg
+    image_url: 'http://smarturl.it/Get-TD-DontHoldBack'
+  - image_path: /uploads/the-dungarees---im-down-600px.jpg
+    image_url: 'http://smarturl.it/TheDungarees-ImDown'
   - image_path:
     image_url:
 _type: social-family-records
@@ -42,6 +41,8 @@ _options:
     expandable: false
     uploads_dir: uploads/logos
 ---
+
+# The Dungarees (Distro only)
 
 The Dungarees have been making a splash in the country scene here recently, and in Canada since 2016.
 
