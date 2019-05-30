@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/an-cover-copy.jpg
+hero_path: /uploads/amy-nelson-1-web.jpeg
 albums:
   - image_path: /uploads/amy-nelson---hey-love-600px.jpeg
     image_url: 'http://smarturl.it/AmyNelson-HeyLove'
@@ -37,9 +37,9 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Amy Nelson
+# Amy Nelson (Distro only)
 
-***Dontcha Dare Do It ***is the latest single and third release here from Canadian country artist, **Amy Nelson**, following ***ish*** and ***Hey Love*** from her unreleased album titled **Good Intentions**.
+***Dontcha Dare Do It \*\**is the latest single and third release here from Canadian country artist, \*\*Amy Nelson**, following ***ish*** and ***Hey Love*** from her unreleased album titled **Good Intentions**.
 
 An up-tempo, catchy song, ***Dontcha Dare Do It*** pokes fun at the bad decisions people sometimes make (Amy included) even though they know they shouldn’t and will regret it later.&nbsp; It’s available for pre-order on digital platforms now and set for release on 14 January, in time for Nelson’s return to Australia – her eighth time travelling down under in the past 2 years\!
 
