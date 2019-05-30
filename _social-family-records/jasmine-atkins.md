@@ -38,7 +38,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Jasmine Atkins
+# Jasmine Atkins (Distro only)
 
 Jasmine Atkins is a vibrant new personality on the Australian Music landscape, quickly winning over audiences with her infectious personality and distinctive vocals, her sound drawing influences from the likes of Kasey Chambers, Keith Urban and Carrie Underwood.
 
