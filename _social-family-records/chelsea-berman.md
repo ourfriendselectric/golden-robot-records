@@ -38,7 +38,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Chelsea Berman
+# Chelsea Berman (Distro only)
 
 Chelsea Berman started performing at the tender age of 8, getting her start on the stage in musical theatre. From these humble beginnings on the Central Coast of New South Wales, her determination to become a professional recording artist, touring consistently throughout Australia, has seen her grow into an accomplished young performer.
 
