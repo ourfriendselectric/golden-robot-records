@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/sammy-white---500px-web.jpg
 name: Sammy White (Distro only)
-sort_number: 500000
+sort_number: 235
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/SammyWhiteMusic/'
