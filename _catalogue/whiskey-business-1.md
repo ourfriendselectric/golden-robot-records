@@ -1,5 +1,5 @@
 ---
-image_path:
+image_path: /uploads/sammy-white---drowning-my-sorrows---single-cover-600px-1.jpg
 hidden: false
 sort_number: 777788
 name: Sammy White
