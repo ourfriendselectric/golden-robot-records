@@ -10,14 +10,14 @@ instagram_url: 'https://www.instagram.com/liamkennedyclark/'
 spotify_url: 'https://open.spotify.com/artist/17jr24YbxseXLwINv8BiH4'
 apple_url: 'https://itunes.apple.com/au/artist/liam-kennedy-clark/920708357'
 youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/liam-kennedy-cover-copy.jpg
 albums:
+  - image_path: /uploads/liam-kennedy-clark-another-habit-600px.jpg
+    image_url: 'https://orcd.co/liam-kennedy-clark-anotherhabit-album'
   - image_path: /uploads/lkc-3000x3000.jpg
     image_url:
   - image_path: /uploads/ofh-3000x3000.jpg
@@ -38,6 +38,8 @@ _options:
     expandable: false
     uploads_dir: uploads/logos
 ---
+
+# Liam Kennedy-Clark
 
 Music flows through the veins of Liam Kennedy-Clark. Originally from New Zealand, Liam now calls Australia home. Hailing from the serene Sunshine Coast of Queensland, Liam is a talented multi-instrumentalist as well as a gifted singer/songwriter.
 
