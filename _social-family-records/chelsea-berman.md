@@ -50,4 +50,4 @@ Already a polished songwriter, Berman has created many exciting opportunities on
 
 The remainder of 2018 represented an exciting period for Berman, having already supported top ARIA charting talent in Kirsty Lee Akers and Kristy James. She was also added to her first three major festival circuit spots on Country At The Camp, Central Coast Country Music Festival and Great Northern Country Festival.
 
-When it comes to emerging talent on the Australian music scene, Chelsea Berman is certainly turning heads and gaining traction. Heading into 2019, Berman was been named as a 2019 Toyota Star Maker finalist and coupled with her personal drive and will to succeed, as well as her new single, there is little doubt that we will all be hearing a lot about this unique talent in future.
+When it comes to emerging talent on the Australian music scene, Chelsea Berman is certainly turning heads and gaining traction. Heading into 2019, Berman was named as a 2019 Toyota Star Maker finalist and coupled with her personal drive and will to succeed, as well as her new single, there is little doubt that we will all be hearing a lot about this unique talent in future.
