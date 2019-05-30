@@ -38,7 +38,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Matt Ward (distro only)**
+# **Matt Ward (Distro only)**
 
 *Heartland* is the debut album from Australian Country and Americana musician Matt Ward. Recorded at Love Hz studios with multiple Golden Guitar winning Producer Matt Fell, the album is an outstanding reflection of the Australian and Americana influences that Matt Ward has sought during his journey as an artist.
 
