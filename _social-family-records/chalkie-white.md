@@ -37,7 +37,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Chalkie White
+# Chalkie White (Distro only)
 
 Chalkie White was one of Australian music’s best kept secrets, until 2018. He can now add ARIA \#1 Australian Country Album to his resume, a far cry from the previous 20 years touring regional Australia playing with a level of anonymity that echoes his personality. This life on the road has produced a seasoned, experienced singer-songwriter that has now risen to the challenges of being a professional recording artist.&nbsp; White is an artist whose understated nature, matched with the authenticity of his music, has most certainly struck a chord with Aussie audiences.
 
