@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/dani-young-tile-copy-2.jpg
 name: Dani Young (Distro only)
-sort_number: 100
+sort_number: 102
 hidden: false
 twitter_url: 'https://twitter.com/daniyoungmusic'
 facebook_url: 'https://www.facebook.com/DaniYoungMusic/'
@@ -10,12 +10,10 @@ instagram_url: 'http://instagram.com/socialfamilyrecords'
 spotify_url: 'https://open.spotify.com/artist/36tSQtqslGaoT8C0gWwUvg'
 apple_url:
 youtube_url: 'https://www.youtube.com/user/DanielleYoungMusic'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/screen-shot-2018-11-28-at-2-03-30-pm.png
 albums:
   - image_path: /uploads/dani-young-cover-copy-1.jpg
