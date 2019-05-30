@@ -35,7 +35,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Dani Young
+# Dani Young (Distro only)
 
 **Dani Young** is a Sydney singer-songwriter whose musical pilgrimage to the heart of the Australian outback, Alice Springs, and back again has infused earthy country and roots influences in her music. An artist unafraid to bleed through deeply personal storytelling, expect to be confronted and soothed with unspoken truths and soaring vocals. Gutsy, vulnerable, powerful, inspired. You’ll leave with her melodies still dancing through your head and fire in your soul.&nbsp;
 
