@@ -5,8 +5,8 @@ name: Cicadastone
 sort_number: 32
 hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
+facebook_url: 'https://www.facebook.com/cicadastone/'
+instagram_url: 'https://www.instagram.com/cicadastonemusic/'
 spotify_url:
 apple_url:
 youtube_url:
