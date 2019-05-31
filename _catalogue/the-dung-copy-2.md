@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/taylor-moss---single-cover-600px-2.jpeg
+image_path: /uploads/positiveattitude-whiskey-business-500px.jpg
 hidden: false
-sort_number: 285050
-name: Taylor Moss
-album_name: Take It From Me (SFR - Single)
-album_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
+sort_number: 500334
+name: Whiskey Business
+album_name: Whiskey Business (SFR - Album)
+album_url:
 _hide_content: true
 _options:
   image_path:
