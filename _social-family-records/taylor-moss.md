@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/taylor-moss---single-cover-600px-1.jpeg
+image_path: /uploads/taylor-moss---promo-image-500px-square.jpg
 name: Taylor Moss (Distro only)
 sort_number: 255
 hidden: false
