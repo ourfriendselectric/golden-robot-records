@@ -48,4 +48,4 @@ From the Brit's gigantic Mohawk hair to the Serb's adidas sneakers, the Kiwi's d
 
 Joined soon after by Stefan Radulovic on bass and Ryan Powers on drums, they began a cycle of songwriting, rehearsal, and relentless partying, before taking the stage bleary-eyed in 2018.
 
-The future holds many things for Shit Tinnies; as their energy on stage and grit on record gains momentum with every stride, they show no signs of easing up the pressure.
+The future holds many things for Shit Tinnies; as their energy on stage and grit on record gains momentum with every stride, they show no signs of easing up the pressure...
