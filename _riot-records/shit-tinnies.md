@@ -44,7 +44,7 @@ _options:
 
 Introducing themselves to the dim-lit room of half-cut punters as “The Kiwi, the Brit, the Serb and the Canadian”, it's impossible to mistake Shit Tinnies for another band.
 
-From the Brit's gigantic Mohawk hair to the Serb's adidas sneakers, the Kiwi's denim and piercings to the Canadian's sleeves of tattoos, Shit Tinnies look and sound like they came here to drink you under the table.Shit Tinnies started out as a conversation between buddies James and Braydin - "Hey, why don't we start a punk band and play some gigs?".
+From the Brit's gigantic Mohawk hair, to the Serb's adidas sneakers, the Kiwi's denim and piercings to the Canadian's sleeves of tattoos, Shit Tinnies look and sound like they came here to drink you under the table.Shit Tinnies started out as a conversation between buddies James and Braydin - "Hey, why don't we start a punk band and play some gigs?".
 
 Joined soon after by Stefan Radulovic on bass and Ryan Powers on drums, they began a cycle of songwriting, rehearsal, and relentless partying, before taking the stage bleary-eyed in 2018.
 
