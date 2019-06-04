@@ -12,8 +12,8 @@ apple_url:
 youtube_url:
 buy_now:
   - name:
-    logo_path:
-    url:
+    logo_path: /uploads/logos/grge-1.png
+    url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
 hero_path:
 albums:
   - image_path:
