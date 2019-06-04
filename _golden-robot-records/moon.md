@@ -16,14 +16,14 @@ buy_now:
     url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/moon-1.png
     image_url:
-  - image_path:
-    image_url:
-  - image_path:
-    image_url:
-  - image_path:
-    image_url:
+  - image_path: /uploads/screen-shot-2019-06-04-at-2-21-13-pm.png
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
+  - image_path: /uploads/screen-shot-2019-06-04-at-2-21-21-pm.png
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
+  - image_path: /uploads/screen-shot-2019-06-04-at-2-21-30-pm.png
+    image_url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
 _type: golden-robot-records
 _options:
   image_path:
