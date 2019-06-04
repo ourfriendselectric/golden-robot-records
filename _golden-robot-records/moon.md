@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path: /uploads/logos/grge-1.png
     url: 'http://store.socialfamilyrecords.com/index.php/artists/moon.html'
-hero_path:
+hero_path: /uploads/screen-shot-2019-06-04-at-5-09-24-pm.png
 albums:
   - image_path: /uploads/moon-1.png
     image_url:
