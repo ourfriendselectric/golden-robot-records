@@ -5,7 +5,7 @@ name: MOON
 sort_number: 9739827982798275000
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/thebandmoon/'
 instagram_url:
 spotify_url:
 apple_url:
