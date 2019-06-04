@@ -7,8 +7,8 @@ hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thebandmoon/'
 instagram_url:
-spotify_url:
-apple_url:
+spotify_url: 'https://open.spotify.com/artist/5Asmy4dMEfP3kX5CtNgUQa'
+apple_url: 'https://music.apple.com/au/artist/moon/1053592422'
 youtube_url:
 buy_now:
   - name:
