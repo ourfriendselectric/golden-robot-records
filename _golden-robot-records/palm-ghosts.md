@@ -4,9 +4,9 @@ image_path: /uploads/image-2019-05-13-1.jpg
 name: Palm Ghosts
 sort_number: 827398173917
 hidden: false
-twitter_url:
-facebook_url:
-instagram_url:
+twitter_url: 'https://twitter.com/palmghosts?lang=en'
+facebook_url: 'https://www.facebook.com/palmghosts/'
+instagram_url: 'https://www.instagram.com/palmghosts/'
 spotify_url: 'https://open.spotify.com/artist/6VyUs0vMgqSNdVtLHzKaa7'
 apple_url: 'https://itunes.apple.com/au/artist/palm-ghosts/874960072'
 youtube_url: 'https://www.youtube.com/user/palmghosts'
