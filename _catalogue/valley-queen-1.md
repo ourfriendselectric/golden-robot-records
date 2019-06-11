@@ -1,7 +1,7 @@
 ---
 image_path: /uploads/silver-tongue-artwork-v2.jpg
 hidden: false
-sort_number: 0
+sort_number: 59
 name: Valley Queen
 album_name: Silver Tongue (BAB - Single)
 album_url: 'http://store.socialfamilyrecords.com/index.php/artists/valleyqueen.html'
