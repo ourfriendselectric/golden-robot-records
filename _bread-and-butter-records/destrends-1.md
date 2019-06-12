@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/destrends-cover.jpg
 albums:
   - image_path: /uploads/des-trends-01.jpg
     image_url:
