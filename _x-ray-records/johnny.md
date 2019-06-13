@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/image-2019-06-13.jpg
 name: Johnny
 sort_number: 2
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/Johnny-2302745403152789/?modal=admin_todo_tour'
 instagram_url:
