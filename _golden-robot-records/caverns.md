@@ -7,9 +7,9 @@ hidden: true
 twitter_url:
 facebook_url: 'https://www.facebook.com/cavernsofficial/'
 instagram_url: 'https://www.instagram.com/caverns'
-spotify_url:
+spotify_url: 'https://open.spotify.com/artist/5cirK76m4r89ix2BvR4YqS'
 apple_url: 'https://itunes.apple.com/us/artist/caverns/id962824957'
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UC2PhQA7Y5lDe1Qr7WpFWOuw'
 buy_now:
   - name:
     logo_path:
