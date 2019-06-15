@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/caverns-01.jpg
 name: Caverns
 sort_number: 10
 hidden: true
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/caverns-02.jpg
 albums:
   - image_path:
     image_url:
