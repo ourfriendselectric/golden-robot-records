@@ -4,7 +4,7 @@ image_path: /uploads/caverns-01.jpg
 name: Caverns
 sort_number: 10
 hidden: true
-twitter_url:
+twitter_url: 'https://twitter.com/cavernsofficial?lang=en'
 facebook_url: 'https://www.facebook.com/cavernsofficial/'
 instagram_url: 'https://www.instagram.com/caverns'
 spotify_url: 'https://open.spotify.com/artist/5cirK76m4r89ix2BvR4YqS'
