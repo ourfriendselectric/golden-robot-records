@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path: /uploads/caverns-02.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/caverns-03.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/caverns-04.jpg
     image_url:
   - image_path:
     image_url:
