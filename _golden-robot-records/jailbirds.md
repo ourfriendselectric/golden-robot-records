@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/JB tile copy.jpg
+image_path: /uploads/jailbirds-01.jpg
 name: Jailbirds
 sort_number: 31
 hidden: false
@@ -11,12 +11,10 @@ instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/JB cover copy.jpg
 albums:
   - image_path: /images/JB tile copy.jpg
