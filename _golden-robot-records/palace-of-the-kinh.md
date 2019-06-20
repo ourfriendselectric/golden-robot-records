@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/potk tile 4 copy.jpg
 name: Palace of the King
-sort_number: 39
+sort_number: 24
 hidden: false
 twitter_url: 'https://twitter.com/PalaceOfTheKing'
 facebook_url: 'https://www.facebook.com/palaceofthekingmusic/'
@@ -54,7 +54,7 @@ Formed in late 2012, Palace Of The King - nameless at that point - quickly recor
 
 Having spent their formative years storming stages in every corner of Australia - alongside bands as varied as Airbourne and The Tea Party - and priming themselves for an international assault, Palace Of The King took their finely-honed live show through Europe in October 2015. Armed with 2 EPs, a full-length vinyl LP and a second full length studio album; this is a band that has earned their stripes and wear them with pride. “Palace Of The King is literally like a huge ground shaking Palace of RIFFS, SOUL and Rock’n’Roll.” comments Joel O’Keeffe, lead singer and guitarist of Airbourne.
 
-“With more hooks and lines than a hard working Bering Sea fishing fleet they are guaranteed to tangle you up, reel you in and blow you away with their unique six-stringing, soul singing, sexy stomping Rock’n’Roll\! They are the real fuckin’ deal\!  Crank up POTK\!”
+“With more hooks and lines than a hard working Bering Sea fishing fleet they are guaranteed to tangle you up, reel you in and blow you away with their unique six-stringing, soul singing, sexy stomping Rock’n’Roll\! They are the real fuckin’ deal\!&nbsp; Crank up POTK\!”
 
 In 2015, it was time for the White Bird to take flight. From three minute funk-infused rockers through to seven minute Sabbath-esque crushers, Palace Of The King seized the opportunity to explore every intricate corner of their influences and craft a debut album that caught a band at a point where ‘scratching the surface’ wasn’t nearly enough.
 
