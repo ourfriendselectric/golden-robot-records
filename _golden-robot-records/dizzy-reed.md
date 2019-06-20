@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/dizzy tile copy.jpg
 name: Dizzy Reed
-sort_number: 25
+sort_number: 8
 hidden: false
 twitter_url: 'https://twitter.com/dizzyreed'
 facebook_url: 'https://www.facebook.com/DizzyFnReed/'
