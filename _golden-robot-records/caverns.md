@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/caverns-05.jpg
     image_url:
-  - image_path: /uploads/caverns-06.jpg
+  - image_path: /uploads/caverns-07.jpg
     image_url:
 _type: golden-robot-records
 _options:
