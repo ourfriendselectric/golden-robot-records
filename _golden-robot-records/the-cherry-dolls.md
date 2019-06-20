@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-22.jpg
 name: The Cherry Dolls
-sort_number: 40
+sort_number: 25
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/TheCherryDolls/'
