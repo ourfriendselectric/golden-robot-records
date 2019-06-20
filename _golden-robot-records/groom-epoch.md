@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/groom epoch tile copy.jpg
 name: Groom Epoch
-sort_number: 6587
+sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/GroomEpoch/'
