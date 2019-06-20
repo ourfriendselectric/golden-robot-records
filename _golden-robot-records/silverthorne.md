@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-05-13-5.jpg
 name: Silverthorne
-sort_number: 36
+sort_number: 9
 hidden: false
 twitter_url:
 facebook_url: Facebook.com/Silverthorne
