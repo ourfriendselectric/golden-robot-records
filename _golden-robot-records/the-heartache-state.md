@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/THS TILE 4 copy.jpg
 name: The Heartache State
-sort_number: 45
+sort_number: 29
 hidden: false
 twitter_url: 'https://twitter.com/heartachestate'
 facebook_url: 'https://www.facebook.com/theheartachestate/'
@@ -56,7 +56,7 @@ The Heartache State is a throwback to the 70s-centric approach to music, where s
 
 “We’re not reinventing the wheel, the old wheel goes OK”.
 
-The Heartache State are set to release brand new music across 2019 through Golden Robot Records. 
+The Heartache State are set to release brand new music across 2019 through Golden Robot Records.&nbsp;
 
 Justin Garner – Vocals and Guitar
 
