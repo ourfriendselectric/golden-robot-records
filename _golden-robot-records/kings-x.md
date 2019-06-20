@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/kings x image path tile.jpg
+image_path: /uploads/kings-x-01.jpg
 name: King's X
 sort_number: 1
 hidden: false
