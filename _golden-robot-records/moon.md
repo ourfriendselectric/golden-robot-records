@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/moon.png
 name: MOON
-sort_number: 9739827982798275000
+sort_number: 39
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thebandmoon/'
