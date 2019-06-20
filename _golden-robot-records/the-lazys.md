@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/the lazys tile copy.jpg
 name: The Lazys
-sort_number: 29
+sort_number: 15
 hidden: false
 twitter_url: 'https://twitter.com/thelazysband?lang=en'
 facebook_url: 'https://www.facebook.com/thelazysofficial/'
@@ -59,7 +59,7 @@ Having signed with Golden Robot Records in 2018, The Lazys and their latest albu
 
 With the release of Tropical Hazard, the band’s rock odyssey is taking them across Canada as one of the country’s best live acts.
 
-“I want people to leave feeling entertained,” says Matty. “I want them to leave thinking that was the best rock show they’ve ever seen. To leave sweaty, dirty, horny!”
+“I want people to leave feeling entertained,” says Matty. “I want them to leave thinking that was the best rock show they’ve ever seen. To leave sweaty, dirty, horny\!”
 
 Leon Harrison - Vocals
 
