@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/destinia tile 1 copy.jpg
 name: Destinia
-sort_number: 92719
+sort_number: 33
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Nozomu-Wakais-Destinia-693130460762628/'
@@ -55,7 +55,7 @@ He’s previously released two albums under the Nozomu Wakai’s Destinia name, 
 
 Nozomu recruited Ronnie Romero at Loud Park 16 (Japan’s biggest rock festival) after being blown away with his performance during Ritchie Blackmore's Rainbow’s set.
 
-He then played Mendoza and Aldridge some material from the new project and both were blown away, taking no convincing to sign on!
+He then played Mendoza and Aldridge some material from the new project and both were blown away, taking no convincing to sign on\!
 
 Highly praising his talents, Ronnie, Marco and Tommy joined forces with Nozomu. I was impressed the moment I listened to his tracks, says Ronnie.
 
@@ -67,4 +67,4 @@ Nozomu's love of authentic metal is apparent from the get-go with album title tr
 
 The emotional guitars and soaring vocals complement each other perfectly and are backed by the powerful grooves of Aldridge and Marco Mendoza.
 
-Nozomu sees Destinia as a long-term project stating that there are 'songs that need to be written, developments that need to be made and much more metal to be heard! 'Behold the new guitar hero' the new world standard in hard rock and heavy metal.
+Nozomu sees Destinia as a long-term project stating that there are 'songs that need to be written, developments that need to be made and much more metal to be heard\! 'Behold the new guitar hero' the new world standard in hard rock and heavy metal.
