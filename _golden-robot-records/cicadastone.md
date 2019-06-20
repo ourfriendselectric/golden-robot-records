@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-05-6.jpg
 name: Cicadastone
-sort_number: 33
+sort_number: 18
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/cicadastone/'
