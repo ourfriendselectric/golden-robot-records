@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/caverns-01.jpg
 name: Caverns
-sort_number: 10
+sort_number: 11
 hidden: false
 twitter_url: 'https://twitter.com/cavernsofficial?lang=en'
 facebook_url: 'https://www.facebook.com/cavernsofficial/'
@@ -55,6 +55,6 @@ Caverns would soon be signed to their first deal.
 
 The world is eagerly anticipating Caverns’ official debut.
 
-Atwood Magazine has described them as an&nbsp; “...authentically raw and cinematic listening experience “
+Atwood Magazine has described them as an&nbsp; “…authentically raw and cinematic listening experience “
 
 Look out for Caverns debut EP out everywhere this fall on Golden Robot Records.
