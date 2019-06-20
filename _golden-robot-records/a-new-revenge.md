@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2019-01-16-at-12-00-23-pm.png
 name: A New Revenge
-sort_number: 24
+sort_number: 5
 hidden: false
 twitter_url: 'https://twitter.com/ANewRevenge'
 facebook_url: 'https://www.facebook.com/A-New-Revenge-956387151231909/'
