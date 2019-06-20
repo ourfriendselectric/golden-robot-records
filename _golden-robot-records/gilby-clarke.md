@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2018-12-14-at-4-24-00-pm-2.png
 name: Gilby Clarke
-sort_number: 2
+sort_number: 4
 hidden: false
 twitter_url: 'https://twitter.com/gilbyclarke'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/gilbygtr/'
 spotify_url: 'https://open.spotify.com/artist/6Ya7kAthUWvVuSQBX0oIMx'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/gilby-cover-photo-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
@@ -43,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Gilbert "Gilby" J. Clake is an American musician, singer, songwriter and record producer best known for a 3-year tenure as the rhythm guitarist of Guns N' Roses, replacing Izzy Stradlin in 1991 during the Use Your Illusion Tour. Following his departure from the group, Clarke went on to forge a solo career as well playing guitar with Slash's Snakepit, Kat Men, Heart, Nancy Sinatra, Kathy Valentine (of the Go-Go's), MC5 and forming his own group Rock Star Supernova with members of Metallica and M&ouml;tley Cr&uuml;e.
+Gilbert "Gilby" J. Clake is an American musician, singer, songwriter and record producer best known for a 3-year tenure as the rhythm guitarist of Guns N' Roses, replacing Izzy Stradlin in 1991 during the Use Your Illusion Tour. Following his departure from the group, Clarke went on to forge a solo career as well playing guitar with Slash's Snakepit, Kat Men, Heart, Nancy Sinatra, Kathy Valentine (of the Go-Go's), MC5 and forming his own group Rock Star Supernova with members of Metallica and Mötley Cr&uuml;e.
 
 Clarke's production work includes albums by L.A. Guns, Bullets and Octane, The Bronx, Alice Cooper, Faster Pussycat and Vains of Jenna to name a few.
 
