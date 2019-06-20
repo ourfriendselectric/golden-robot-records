@@ -41,3 +41,20 @@ _options:
     uploads_dir: uploads/logos
 ---
 
+Caverns, led by New York’s own Nicola Wincenc, has quickly become known as one of the must see acts in the vibrant and diverse NYC music scene.
+
+Shortly after their arrival on the scene they caught the attention of three time Grammy winning producer Warren Riker (Lauryn Hill, Down, Sublime).
+
+It was with Warren that the band was able to find its distinctive full sound and beautifully poetic aggression that their fans have come to love.
+
+Word quickly began to spread about their infectious live show and the refreshing feeling that rock is far from dead…..in fact it’s being reborn.
+
+In early 2019, globally respected Golden Robot Records felt the exact same way, as they fell in love with the band.
+
+Caverns would soon be signed to their first deal.
+
+The world is eagerly anticipating Caverns’ official debut.
+
+Atwood Magazine has described them as an&nbsp; “...authentically raw and cinematic listening experience “
+
+Look out for Caverns debut EP out everywhere this fall on Golden Robot Records.
