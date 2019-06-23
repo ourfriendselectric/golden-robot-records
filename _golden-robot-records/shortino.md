@@ -46,6 +46,8 @@ Paul Shortino is one of the most important singers in the American Hard Rock / H
 
 Teaming up with a guitarist / producer, Nozomu Wakai, who has been working with Ronnie Romero (Rainbow) and Tommy Aldridge (Whitesnake) as Destinia, Shortino is now ready to release his first album under his own monicker in 10 years.
 
-The album will have various guest musicians including Vinnie Paul (ex- Pantera, Damageplan), who used to live in Las Vegas and was a great friend of Shortino's, Robin McAuley (MSG), Phil Soussan (ex-Ozzy Osbourne), Jay Schellen (Yes, ex-Asia), Peter Baltes and Marco Mendoza. The lead track 'Send in the Clown' gives you an idea on how these super-talented musicians caused a chemical reaction. On this cover song, you can hear Shortino's own bluesy and powerful singing, Nozomu's emotional guitar works, Marco's technical fretless bass playing, and Vinnie's overwhelming drumming, which unfortunately became his posthumous work.
+The album will have various guest musicians including Vinnie Paul (ex- Pantera, Damageplan), who used to live in Las Vegas and was a great friend of Shortino's, Robin McAuley (MSG), Phil Soussan (ex-Ozzy Osbourne), Jay Schellen (Yes, ex-Asia), Peter Baltes and Marco Mendoza.
+
+The lead track 'Send in the Clown' gives you an idea on how these super-talented musicians caused a chemical reaction. On this cover song, you can hear Shortino's own bluesy and powerful singing, Nozomu's emotional guitar works, Marco's technical fretless bass playing, and Vinnie's overwhelming drumming, which unfortunately became his posthumous work.
 
 'Shortino' is an album full of American Hard Rock / Heavy Metal only Paul Shortino and Nozomu Wakai can deliver.
