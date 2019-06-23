@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/shortino-01.jpg
 name: Shortino
 sort_number: 32
-hidden: true
+hidden: false
 twitter_url: >-
   https://twitter.com/PaulShortino?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 facebook_url: 'https://www.facebook.com/PaulShortino/'
