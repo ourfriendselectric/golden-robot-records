@@ -10,7 +10,7 @@ facebook_url: 'https://www.facebook.com/PaulShortino/'
 instagram_url: 'https://www.instagram.com/paulshortinoofficial/'
 spotify_url: 'https://open.spotify.com/artist/2kzqD9K5B3MRbVB1YW0qTr'
 apple_url: 'https://itunes.apple.com/us/artist/paul-shortino/4021949'
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 buy_now:
   - name:
     logo_path:
