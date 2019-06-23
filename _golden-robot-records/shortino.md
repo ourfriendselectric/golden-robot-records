@@ -15,7 +15,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/shortino-05.jpg
 albums:
   - image_path: /uploads/shortino-01.jpg
     image_url:
