@@ -4,11 +4,12 @@ image_path: /uploads/shortino-01.jpg
 name: Shortino
 sort_number: 40
 hidden: true
-twitter_url:
-facebook_url:
+twitter_url: >-
+  https://twitter.com/PaulShortino?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+facebook_url: 'https://www.facebook.com/PaulShortino/'
 instagram_url:
-spotify_url:
-apple_url:
+spotify_url: 'https://open.spotify.com/artist/2kzqD9K5B3MRbVB1YW0qTr'
+apple_url: 'https://itunes.apple.com/us/artist/paul-shortino/4021949'
 youtube_url:
 buy_now:
   - name:
