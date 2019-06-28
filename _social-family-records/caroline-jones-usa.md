@@ -48,7 +48,7 @@ _options:
 
 Buy/stream ***Bare Feet*** (single) from Caroline Jones now: &nbsp;[http://smarturl.it/Get-BareFeet-Single](http://smarturl.it/Get-BareFeet-Single){: target="_blank"}
 
-Buy/stream Country Girl (single) from Carolines now: &nbsp;[https://orcd.co/carolinejones-countrygirl](https://orcd.co/carolinejones-countrygirl)
+Buy/stream ***Country Girl*** (single) from Carolines now: &nbsp;[https://orcd.co/carolinejones-countrygirl](https://orcd.co/carolinejones-countrygirl)
 
 **ABOUT**
 
