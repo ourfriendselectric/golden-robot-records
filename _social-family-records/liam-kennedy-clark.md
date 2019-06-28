@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/channel/UCfhT8kEczgsRfolUCxqAPig'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://orcd.co/liam-kennedy-clark-anotherhabit-album'
 hero_path: /uploads/lkc-2-web.jpeg
 albums:
   - image_path: /uploads/liam-kennedy-clark-another-habit-600px.jpg
