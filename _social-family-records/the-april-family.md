@@ -45,4 +45,4 @@ House of Cards is the second album from Sydney based alt country trio, The April
 
 Produced, engineered, mixed and mastered by bandmember Carpenter (Jetty Road, Abbie Ferris, Carpenter Caswell among many others), the album was recorded at his Love Hz Studios.
 
-Order the new album here:&nbsp;&nbsp;
+Get the new album here: &nbsp;[https://orcd.co/theaprilfamily-houseofcards](https://orcd.co/theaprilfamily-houseofcards){: target="_blank"}
