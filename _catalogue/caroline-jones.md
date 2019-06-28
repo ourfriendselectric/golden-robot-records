@@ -1,7 +1,7 @@
 ---
 image_path: /uploads/carolinejones-barefeet-600px.jpg
 hidden: false
-sort_number: 339
+sort_number: 292
 name: Caroline Jones
 album_name: Bare Feet (SFR - Single)
 album_url: 'http://smarturl.it/Get-BareFeet-Single'
