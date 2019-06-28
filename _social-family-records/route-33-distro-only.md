@@ -19,8 +19,8 @@ hero_path: /uploads/route33-20jan18-photobystephenbooth-1-1500.jpeg
 albums:
   - image_path: /uploads/route-33---kryptonite---single-cover-600px.jpeg
     image_url: 'http://smarturl.it/Route33-Kryptonite'
-  - image_path:
-    image_url:
+  - image_path: /uploads/route-33---hands-of-time---single-cover-600px-1.jpg
+    image_url: 'https://orcd.co/route33featsarahmcleod-handsoftime'
 _type: social-family-records
 _options:
   image_path:
@@ -52,4 +52,6 @@ With their new album, **Coro Drive**, recently completed, the 11 tracker was rec
 
 With music as effortlessly catchy as Route 33’s, crowd interaction seems a fait accompli. Now it’s time to hit the road and find all those good times that lie ahead.
 
-Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
+Get **Route 33's**&nbsp;single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
+
+And get their latest single featuring Sarah McLeod here: &nbsp;[https://orcd.co/route33featsarahmcleod-handsoftime](https://orcd.co/route33featsarahmcleod-handsoftime){: target="_blank"}
