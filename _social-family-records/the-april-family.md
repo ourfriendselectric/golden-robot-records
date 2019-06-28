@@ -41,7 +41,7 @@ _options:
 
 # The April Family (Distro only)
 
-House of Cards is the second album from Sydney based alt country trio, The April Family. The 11 tracks, all written by vocalist Kylie Whitney and multi-instrumentalist and producer, Michael Carpenter, showcase a leaner, less layered approach.&nbsp; The more rootsy sound and feel, with the raw but considered production, highlights the band’s unique three-part harmony blend, as well as pushing the wide-ranging twang of guitarist Casey Atkins sonic palette.&nbsp; The album reflects a variety of styles and range of material, from Americana grit to straight country/bluegrass, weighty roots ballads, as well as a couple of rocking stompers.
+**House of Cards** is the second album from Sydney based alt country trio, The April Family. The 11 tracks, all written by vocalist Kylie Whitney and multi-instrumentalist and producer, Michael Carpenter, showcase a leaner, less layered approach.&nbsp; The more rootsy sound and feel, with the raw but considered production, highlights the band’s unique three-part harmony blend, as well as pushing the wide-ranging twang of guitarist Casey Atkins sonic palette.&nbsp; The album reflects a variety of styles and range of material, from Americana grit to straight country/bluegrass, weighty roots ballads, as well as a couple of rocking stompers.
 
 Produced, engineered, mixed and mastered by bandmember Carpenter (Jetty Road, Abbie Ferris, Carpenter Caswell among many others), the album was recorded at his Love Hz Studios.
 
