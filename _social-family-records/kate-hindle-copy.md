@@ -1,24 +1,23 @@
 ---
 layout: artist
-image_path: /uploads/kate-hindle-1-500px.jpeg
-name: Kate Hindle (Distro only)
-sort_number: 140
+image_path: /uploads/scarlets-way---promo-pic-2-square.jpg
+name: Scarlet's Way (Distro only)
+sort_number: 200
 hidden: false
-twitter_url: 'https://twitter.com/katehindlemusic'
-facebook_url: 'https://www.facebook.com/katehindlemusic/'
-instagram_url: 'https://www.instagram.com/katehindlemusic/'
-spotify_url: >-
-  https://open.spotify.com/artist/1sAlsJc7pSiSObYDfDBFCN?si=6B1AlYBMQ9ODFd2sEuw5IA
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
 apple_url:
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
-hero_path: /uploads/kate-hindle-1-web-banner-hero.jpeg
+    url: 'https://orcd.co/scarletsway-moveyourbody'
+hero_path: /uploads/scarlets-way---promo-pic-1-1500px.jpeg
 albums:
-  - image_path: /uploads/kate-hindle---heart-bleed---single-cover-500px.jpeg
-    image_url:
+  - image_path: /uploads/single-cover-jpeg-600px.jpg
+    image_url: 'https://orcd.co/scarletsway-moveyourbody'
 _type: social-family-records
 _options:
   image_path:
@@ -36,12 +35,12 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Kate Hindle (Distro only)**
+# **Scarlet's Way (Distro only)**
 
-‘*I’ve got to fail to learn to fly’* is a self-penned lyric and motto that Kate Hindle lives by. Finding the inner strength to keep pushing forward despite failure, is something Hindle understands best. From hospital beds, to learning to walk again despite chronic pain from degenerative disc disease, prove that Kate is a strong-willed young woman.
+**Scarlet's Way** have already travelled a long way to carve out their name. From Western Australia to East Nashville, and many stops along the way, they have done some miles recently. But given their hunger to perform, this journey has a long way to go\!
 
-Hindle’s pain and triumph were the inspiration behind her ‘Ready For The Ride’ mini album released in 2018, the title track a co-write between Hindle and multiple Golden Guitar winner, Lyn Bowtell. A taste of pop country with a powerful theme, Kate says, “*Writing the song from a wheelchair, with a broken heart, the lyrics bloomed from the inspiration of walking again and becoming mentally strong enough to achieve anything*”.
+The super-smooth duo is made up of the talented Katey Gabel (Lead Vocals) and highly regarded Shayne Savic (Guitar). Their trademark southern, roots-inspired brand of music brings lashings of Americana, accompanied by polished overtones synonymous with modern day Nashville.
 
-Kate Hindle’s warm vocal tones and raw lyrics take the listener on a journey of love, personal victory, positivity and a yet a touch of heartache.&nbsp; Her new single, ***Heart Bleed***, is no different.
+A vibrant neon glow with live music pumping onto a crowded street, Scarlet’s Ways new single, ***Move Your Body***, is a salute to Nashville’s honky tonk highway - a rockin’ night out…and the morning after.
 
-Get **Kate Hindle's** brand new single, ***Heart Bleed***, here: &nbsp;[http://smarturl.it/Get-KateH-HeartBleed](http://smarturl.it/Get-KateH-HeartBleed)
+Get ***Move Your Body (Woah Oh Oh)*** here: &nbsp;[https://orcd.co/scarletsway-moveyourbody](https://orcd.co/scarletsway-moveyourbody){: target="_blank"}
