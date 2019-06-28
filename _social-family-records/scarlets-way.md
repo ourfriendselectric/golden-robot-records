@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/scarlets-way---promo-pic-2-square.jpg
 name: Scarlet's Way (Distro only)
-sort_number: 200
+sort_number: 240
 hidden: false
 twitter_url:
 facebook_url:
