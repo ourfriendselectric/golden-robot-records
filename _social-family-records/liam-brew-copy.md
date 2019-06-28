@@ -35,7 +35,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Lachlan Bryan & The Wildes (Distro only)**
+# **Lachlan Bryan and The Wildes (Distro only)**
 
 **The Road EP**
 
