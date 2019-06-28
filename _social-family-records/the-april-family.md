@@ -11,15 +11,17 @@ spotify_url: 'https://open.spotify.com/artist/0PuMNC8vzStjeL5jmdalLc?autoplay=tr
 apple_url: 'https://itunes.apple.com/au/artist/the-april-family/1087372905'
 youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
 buy_now:
-  - name:
-    logo_path:
-    url:
+  - name: House of Cards
+    logo_path: /uploads/logos/aprilfamilyalbumcover-600px.jpeg
+    url: 'https://orcd.co/theaprilfamily-houseofcards'
 hero_path: /uploads/april-family-promo-2018-web.jpeg
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-7-59-25-am.png
     image_url: 'http://smarturl.it/TheAF-OneTrickPony'
   - image_path: /uploads/champagne-single-cover-600px.jpg
     image_url: 'http://smarturl.it/TheAprilFamChampagne'
+  - image_path: /uploads/aprilfamilyalbumcover-600px.jpg
+    image_url: 'https://orcd.co/theaprilfamily-houseofcards'
 _type: social-family-records
 _options:
   image_path:
@@ -39,6 +41,8 @@ _options:
 
 # The April Family (Distro only)
 
-**The April Family** have been quietly working away, building a name and a steady body of work since forming in 2015. Featuring the enigmatic Kylie Whitney on lead vocals, the skills of Casey Atkins on lead guitar and backing vocals, and the production and all-rounder abilities of Michael Carpenter on rhythm guitar and backing vocals, the band developed a sound that fused Classic Country with the timeless colours of West Coast American Country Rock.
+House of Cards is the second album from Sydney based alt country trio, The April Family. The 11 tracks, all written by vocalist Kylie Whitney and multi-instrumentalist and producer, Michael Carpenter, showcase a leaner, less layered approach.&nbsp; The more rootsy sound and feel, with the raw but considered production, highlights the band’s unique three-part harmony blend, as well as pushing the wide-ranging twang of guitarist Casey Atkins sonic palette.&nbsp; The album reflects a variety of styles and range of material, from Americana grit to straight country/bluegrass, weighty roots ballads, as well as a couple of rocking stompers.
 
-The live performing experience has further defined the band’s sound, leading to the writing and recording of their second album, currently in production. With a focus on a leaner approach, showcasing a more ‘ensemble’ sound, and the writing from Carpenter and Whitney becoming more refined and deliberate, The April Family have kicked into a higher gear with a clearer focus and more ambitious aesthetic. Armed with a unique series of music videos to accompany the single and album releases, the album promises to show a maturity and intent that will lift the band to the next stage of their journey.
+Produced, engineered, mixed and mastered by bandmember Carpenter (Jetty Road, Abbie Ferris, Carpenter Caswell among many others), the album was recorded at his Love Hz Studios.
+
+Order the new album here:&nbsp;&nbsp;
