@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/johnny-casino-05.jpg
 name: Johnny Casino
 sort_number: 10
 hidden: true
