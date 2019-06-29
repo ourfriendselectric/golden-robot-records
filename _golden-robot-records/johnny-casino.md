@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/johnny-casino-05.jpg
 name: Johnny Casino
 sort_number: 13
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/therealjohnnycasino/?ref=page_internal'
 instagram_url: 'https://www.instagram.com/johnnycasino/'
