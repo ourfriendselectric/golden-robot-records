@@ -43,7 +43,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-The wait was finally over for fans of The Superjesus\! As 2016 brought the release of the ‘Love and Violence’ EP following a stellar return to the live circuit after a ten year hiatus.
+The wait was finally over for fans of The Superjesus\! 2016 brought the release of the ‘Love and Violence’ EP following a stellar return to the live circuit after a ten year hiatus.
 
 Following an overwhelming reaction to a one-off reunion show in their hometown of Adelaide, The Superjesus have since completed a sold out national headline tour, sold out national co-headline tours with Baby Animals and The Tea Party, and shared festival stages with Van Halen, Aerosmith and Bryan Adams and rocked around OZ a few times in 2017 and 2018.
 
