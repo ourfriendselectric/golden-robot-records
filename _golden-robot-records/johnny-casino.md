@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/johnny-casino-07.jpg
 albums:
   - image_path:
     image_url:
