@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/johnny-casino-07.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/johnny-casino-08.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-09.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-10.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-badge.jpg
     image_url:
 _type: golden-robot-records
 _options:
