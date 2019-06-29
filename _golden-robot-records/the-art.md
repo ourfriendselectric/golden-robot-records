@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/the art tile copy.jpg
 name: The Art
-sort_number: 26
+sort_number: 37
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/followTHEART/?tn-str=k*F'
