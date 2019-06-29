@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/flicker tile 7 copy.jpg
 name: Flickertail
-sort_number: 22
+sort_number: 23
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/flickertailtheband/'
