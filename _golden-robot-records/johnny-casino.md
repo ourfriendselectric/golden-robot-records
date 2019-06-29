@@ -9,7 +9,7 @@ facebook_url: 'https://www.facebook.com/therealjohnnycasino/?ref=page_internal'
 instagram_url: 'https://www.instagram.com/johnnycasino/'
 spotify_url: 'https://open.spotify.com/artist/3MGNNv7Lnl5Ybk8oFjzjnN'
 apple_url: 'https://itunes.apple.com/us/artist/johnny-casino/356497481'
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 buy_now:
   - name:
     logo_path:
