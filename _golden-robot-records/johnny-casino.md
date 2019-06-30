@@ -14,13 +14,13 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/johnny-casino-07.jpg
+hero_path: /uploads/johnny-casino-12.jpg
 albums:
   - image_path: /uploads/johnny-casino-08.jpg
     image_url:
   - image_path: /uploads/screen-shot-2019-06-29-at-4-22-55-pm.png
     image_url:
-  - image_path: /uploads/johnny-casino-10.jpg
+  - image_path: /uploads/johnny-casino-11.jpg
     image_url:
   - image_path: /uploads/johnny-casino-badge.jpg
     image_url:
