@@ -70,3 +70,5 @@ They agreed to take a well-deserved break and to seek solo ventures. Always rema
 It was then 20 years before they re-emerged from the music underground, after the acceptance of an invitation by Steve Balbi (Noiseworks/Electric Hippies) to front Mi-Sex at a private party and outdoor Christchurch Quake Relief Concert. Confirming the right chemistry with Balbi upfront, the band’s passion was reignited and they haven’t looked back.
 
 The Mi-Sex lineup is made up of the enigmatic Steve Balbi on lead vocals and James Van Cooper on guitar; alongside original Mi-Sex members Don Martin, Murray Burns, Jordan Mcdonald and Colin Bayley.
+
+Golden Robot Records was proud to be involved with the EP – Extended Play In 2015 and the incredible album, Not from Here, featuring the hit My Sex Your Sex in 2016.
