@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-06-13.jpg
+image_path: /uploads/resizedphoto.jpg
 name: Johnny
 sort_number: 2
 hidden: false
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/image-2019-06-13-1.jpg
+hero_path: /uploads/resizedphoto-1.jpeg
 albums:
   - image_path: /uploads/image-2019-06-13-2.jpg
     image_url:
