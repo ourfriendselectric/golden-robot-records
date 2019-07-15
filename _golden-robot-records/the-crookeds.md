@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/crookeds-band-shot.jpg
 name: The Crookeds
 sort_number: 27
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thecrookeds/'
 instagram_url: 'https://www.instagram.com/thecrookeds/'
