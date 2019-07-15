@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/mi-sex tile2.jpg
 name: Mi-Sex
-sort_number: 38
+sort_number: 39
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/MiSexMusic/'
