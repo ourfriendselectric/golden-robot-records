@@ -6,10 +6,10 @@ sort_number: 27
 hidden: true
 twitter_url:
 facebook_url: 'https://www.facebook.com/thecrookeds/'
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+instagram_url: 'https://www.instagram.com/thecrookeds/'
+spotify_url: 'https://open.spotify.com/artist/4KVZk8vYtn50etGA0bbA2y'
+apple_url: 'https://itunes.apple.com/au/artist/the-crookeds/1087121551'
+youtube_url: 'https://www.youtube.com/channel/UCexwC2Ykss7wJ2iMsh5V2SQ'
 buy_now:
   - name:
     logo_path:
