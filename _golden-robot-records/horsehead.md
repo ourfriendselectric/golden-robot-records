@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/horsehead tile copy.jpg
 name: Horsehead
-sort_number: 28
+sort_number: 29
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Horsehead-113232788697411/'
