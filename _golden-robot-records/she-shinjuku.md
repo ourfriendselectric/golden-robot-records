@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/she-shin-tile-copy.jpg
 name: She Shinjuku
-sort_number: 34
+sort_number: 35
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/sheshinjuku/'
