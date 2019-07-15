@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/crookeds-oscar.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/crookeds-sonny.jpg
     image_url:
 _type: golden-robot-records
 _options:
