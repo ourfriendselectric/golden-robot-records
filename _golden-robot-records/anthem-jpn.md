@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpg
 name: Anthem
-sort_number: 30
+sort_number: 31
 hidden: false
 twitter_url: 'https://twitter.com/anthem_official'
 facebook_url: 'https://www.facebook.com/heavymetalanthem/'
