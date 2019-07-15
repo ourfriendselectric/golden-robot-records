@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/crookeds-band-shot.jpg
 name: The Crookeds
 sort_number: 27
 hidden: true
@@ -16,11 +16,11 @@ buy_now:
     url:
 hero_path: /uploads/the-crookeds-band-shot-field.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/crookeds-aaron.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/crookeds-matt.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/crookeds-oscar.jpg
     image_url:
   - image_path:
     image_url:
