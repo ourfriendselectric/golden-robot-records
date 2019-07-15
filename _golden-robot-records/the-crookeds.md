@@ -2,7 +2,7 @@
 layout: artist
 image_path:
 name: The Crookeds
-sort_number: 10
+sort_number: 27
 hidden: true
 twitter_url:
 facebook_url: 'https://www.facebook.com/thecrookeds/'
