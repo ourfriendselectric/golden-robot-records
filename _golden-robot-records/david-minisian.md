@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-17-1.jpg
 name: David Minasian
-sort_number: 40
+sort_number: 41
 hidden: false
 twitter_url: 'https://twitter.com/DavidMinasian'
 facebook_url: 'https://www.facebook.com/David-Minasian-Music-281325343740/'
