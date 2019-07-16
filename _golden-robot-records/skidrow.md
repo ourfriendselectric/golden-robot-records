@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/screen-shot-2019-01-16-at-12-05-17-pm.png
+hero_path: /uploads/skid-row-01.jpg
 albums:
   - image_path: /uploads/image-2019-01-29-3.jpg
     image_url:
