@@ -18,7 +18,7 @@ hero_path: /uploads/the-crookeds-band-shot-field.jpg
 albums:
   - image_path: /uploads/crookeds-aaron.jpg
     image_url:
-  - image_path: /uploads/crookeds-matt.jpg
+  - image_path: /uploads/crookeds-matt-02.jpg
     image_url:
   - image_path: /uploads/crookeds-oscar.jpg
     image_url:
