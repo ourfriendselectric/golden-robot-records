@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/zenith-moon-cover.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/zenith-moon-01.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/zenith-moon-02.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/zenith-moon-03.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/zenith-moon-04.jpg
     image_url:
 _type: golden-robot-records
 _options:
