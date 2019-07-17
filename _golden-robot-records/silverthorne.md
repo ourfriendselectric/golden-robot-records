@@ -18,7 +18,7 @@ hero_path: /uploads/silverthorne-logo.jpeg
 albums:
   - image_path: /uploads/image-2019-05-13-6.jpg
     image_url:
-  - image_path: /uploads/image-2019-04-10.jpg
+  - image_path: /uploads/silverthorne-01.jpg
     image_url:
   - image_path: /uploads/image-2019-04-09-6.jpg
     image_url:
