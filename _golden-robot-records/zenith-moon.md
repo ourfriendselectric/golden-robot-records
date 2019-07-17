@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/zenith-moon-main.jpg
 name: Zenith Moon
 sort_number: 45
 hidden: true
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/zenith-moon-cover.jpg
 albums:
   - image_path:
     image_url:
