@@ -5,11 +5,11 @@ name: Zenith Moon
 sort_number: 45
 hidden: true
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: 'https://www.facebook.com/ZenithMoonBand/'
+instagram_url: 'https://www.instagram.com/zenithmoonband_/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/3VnCIWZFwc18q13Z5VUll5'
+apple_url: 'https://itunes.apple.com/au/artist/zenith-moon/id1386412457'
+youtube_url: 'https://www.youtube.com/channel/UC0QqOHGEkJZESmsmoMCgokg'
 buy_now:
   - name:
     logo_path:
