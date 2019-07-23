@@ -1,5 +1,5 @@
 ---
-image_path: /uploads/screen-shot-2019-02-05-at-4-09-41-pm.png
+image_path: /uploads/jetty-road---because-we-can---album-cover-600px-1.jpg
 hidden: false
 sort_number: 8785
 name: Jetty Road
