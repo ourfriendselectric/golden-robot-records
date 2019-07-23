@@ -1,26 +1,23 @@
 ---
 layout: artist
-image_path: /uploads/matt-ward-both-copy.jpg
-name: Matt Ward (Distro only)
-sort_number: 190
+image_path: /uploads/roo-arcus---square-500px.jpg
+name: Roo Arcus (Distro only)
+sort_number: 222
 hidden: false
-twitter_url: 'https://twitter.com/mjwstuff?lang=en'
-facebook_url:
-instagram_url: 'http://www.instagram.com/matt_j_ward'
-spotify_url: >-
-  https://open.spotify.com/artist/11aCTTEGtqLA58WHYlNR1d?si=W2v8MV_oRHyUkz6HHdBf7A
-apple_url: 'https://itunes.apple.com/us/artist/matt-ward/4381902'
-youtube_url: 'https://www.youtube.com/channel/UCf8O7KGYx3N3DC4zL1q0hXg'
+twitter_url:
+facebook_url: www.facebook.com/rooarcus/
+instagram_url: www.instagram.com/roo.arcus
+spotify_url:
+apple_url:
+youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
-hero_path: /uploads/matt-ward-1---sfr-page-image.jpeg
+    url: 'https://orcd.co/rooarcus-tumbleweed'
+hero_path: /uploads/roo-arcus---label-web.jpeg
 albums:
-  - image_path: /uploads/matt-ward---heartland---album-cover---600px.jpg
-    image_url: 'https://orcd.co/mattward-heartland'
-  - image_path: /uploads/screen-shot-2018-11-28-at-1-55-52-pm.png
-    image_url:
+  - image_path: /uploads/rarcus-tumbleweed-600px.jpg
+    image_url: 'https://orcd.co/rooarcus-tumbleweed'
 _type: social-family-records
 _options:
   image_path:
@@ -38,10 +35,20 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# **Matt Ward (Distro only)**
+# **Roo Arcus (Distro only)**
 
-*Heartland* is the debut album from Australian Country and Americana musician Matt Ward. Recorded at Love Hz studios with multiple Golden Guitar winning Producer Matt Fell, the album is an outstanding reflection of the Australian and Americana influences that Matt Ward has sought during his journey as an artist.
+Golden-guitar finalist Roo Arcus is as real as they come. He sings the way he lives, honest, true and country. He’s a cowboy, a storyteller, a songwriter and one heck of a recording artist. This Australian cattleman, who to this day works the family farm, oozes authenticity and is true to his country roots.
 
-A mixture of personal reflections and stories Matt has experienced along life’s journey, *Heartland* is an album in its truest sense and has been carefully crafted to allow the listener on a journey on matters of the heart, country and love. With significant contributions from some of Australia’s best musicians, a highlight is the duet with Arkansas native Bonnie Montgomery (Arkansas Americana Artist & Female Singer of the year 2018), recorded in Dale Watson’s Ameripolitan Studios in Austin, Texas.&nbsp;
+The 2016 CMAA Award Finalist for ‘Male Artist of the Year’ and ‘Toyota Heritage Song of the Year’, Arcus has more than earned his stripes in Australia and is now taking on the world stage, splitting his time between Southern NSW and the Country Music heartland of the Southern United States.
 
-Released on 3 May, 2019, Heartland landed at \#1 on the iTunes Country Albums chart and has spawned three singles - Annabelle, Back to the Country, and Take Me Home.
+Arcus has now released 3 albums resulting in a string of radio hits, awards and nominations. Drawn to the road, he has toured and played most the major festivals in Australia and has twice been an official CMA showcase artist in Nashville. His resilience, hard work, honesty and pride in his music, has earnt the respect of industry and his ever-growing loyal fan base.
+
+Turning the focus to the future, Arcus is set to release his fourth studio album in late 2019, recorded on ‘Music Row’ at SonyTree Studios, Nashville. The lead single lifted from the record – entitled *Tumbleweed*\- will no doubt reinforce his place in the hearts of fans and peers alike.
+
+Few do it like Roo. He represents that illusive blend of old-world cowboy coupled with refined international touring artist. His music has worldwide appeal, as does his warm and gentlemanly but strong nature.&nbsp;
+
+This new record is testament to a man who knows who he is and who’s not afraid to blaze his own trail. Such grit and tenacity come from a lifetime of walking the road less travelled.
+
+*Tumbleweed* was written by country music heavyweight songwriters Troy Olsen (Tim McGraw, Blake Shelton), Jim Beavers (Luke Bryan, Chris Stapleton, Faith Hill) and Brett Beavers (Tim McGraw, Billy Ray Cyrus), and co-produced by Tim Crouch and Roo Arcus himself.&nbsp; It’s a catchy song about a drifter who blows in and out of town like a ‘tumbleweed’ – the person who just can’t stay still long enough to win the heart of the love of their life.&nbsp;
+
+“*When I heard the demo for the song, I knew straight away that I was going to record it. It ticked a lot of boxes for me. Great melody, it was very country, had a good story that I know a lot of people will relate to and a hook line I just couldn’t get out of my head*.” – Roo Arcus
