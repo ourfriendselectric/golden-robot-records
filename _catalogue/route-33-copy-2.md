@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/rarcus-tumbleweed-600px-1.jpg
+image_path:
 hidden: false
-sort_number: 767
-name: Roo Arcus
-album_name: Tumbleweed (SFR - Single)
-album_url: 'https://orcd.co/rooarcus-tumbleweed'
+sort_number: 692
+name: NeillyRich
+album_name: Firewood (SFR - Single)
+album_url: 'https://orcd.co/neillyrich-firewood-single'
 _hide_content: true
 _options:
   image_path:
