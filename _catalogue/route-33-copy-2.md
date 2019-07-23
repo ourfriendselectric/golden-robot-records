@@ -1,5 +1,5 @@
 ---
-image_path:
+image_path: /uploads/neillyrich---firewood---single-cover-600px-1.jpg
 hidden: false
 sort_number: 692
 name: NeillyRich
