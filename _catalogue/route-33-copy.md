@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/route-33---kryptonite---single-cover-600px-1.jpeg
+image_path: /uploads/rarcus-tumbleweed-600px-1.jpg
 hidden: false
-sort_number: 825
-name: Route 33
-album_name: Kryptonite (SFR - Single)
-album_url: 'http://smarturl.it/Route33-Kryptonite'
+sort_number: 767
+name: Roo Arcus
+album_name: Tumbleweed (SFR - Single)
+album_url: 'https://orcd.co/rooarcus-tumbleweed'
 _hide_content: true
 _options:
   image_path:
