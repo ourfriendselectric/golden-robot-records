@@ -15,7 +15,7 @@ buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-22.png
     url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
-hero_path: /uploads/screen-shot-2019-04-11-at-9-46-18-am.png
+hero_path: /uploads/the-kids-01.jpg
 albums:
   - image_path: /uploads/screen-shot-2019-04-11-at-9-46-53-am.png
     image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
