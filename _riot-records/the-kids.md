@@ -17,13 +17,13 @@ buy_now:
     url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
 hero_path: /uploads/the-kids-01.jpg
 albums:
-  - image_path: /uploads/screen-shot-2019-04-11-at-9-46-53-am.png
+  - image_path: /uploads/the-kids-03.jpg
     image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
-  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-01-am.png
+  - image_path: /uploads/the-kids-04.jpg
     image_url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
-  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-10-am.png
+  - image_path: /uploads/the-kids-05.jpg
     image_url:
-  - image_path: /uploads/screen-shot-2019-04-11-at-9-47-18-am.png
+  - image_path: /uploads/the-kids-06.jpg
     image_url:
 _type: riot-records
 _options:
