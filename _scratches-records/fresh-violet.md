@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/fresh-violet-04.jpg
 albums:
-  - image_path: /uploads/fresh-violet-02.jpg
+  - image_path: /uploads/fresh-violet-05.jpg
   - image_path: /uploads/fresh-violet-press-shot-3-square-1.jpg
   - image_path:
   - image_path:
