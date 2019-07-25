@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/fresh-violet-press-shot-3-square.jpg
 name: Fresh Violet
 sort_number: 2
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/yungfreshvizzy?lang=en'
 facebook_url: 'https://www.facebook.com/Freshviolet/'
 instagram_url: 'https://www.instagram.com/yungfreshvizzy/?hl=en'
