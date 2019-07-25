@@ -9,15 +9,15 @@ facebook_url: 'https://www.facebook.com/Freshviolet/'
 instagram_url: 'https://www.instagram.com/yungfreshvizzy/?hl=en'
 spotify_url: 'https://open.spotify.com/artist/4bJZ21svVudiOrCIW27TR8'
 apple_url: 'https://itunes.apple.com/au/artist/fresh-violet/1212966384'
-youtube_url:
+youtube_url: 'https://www.youtube.com/c/freshviolet'
 buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/fresh-violet-01.jpg
 albums:
-  - image_path:
-  - image_path:
+  - image_path: /uploads/fresh-violet-02.jpg
+  - image_path: /uploads/fresh-violet-press-shot-3-square-1.jpg
   - image_path:
   - image_path:
 _type: scratches-records
