@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/otherside-02.jpg
 name: Otherside
 sort_number: 4
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
@@ -16,8 +16,8 @@ buy_now:
     url:
 hero_path: /uploads/otherside-01.jpg
 albums:
-  - image_path:
-  - image_path:
+  - image_path: /uploads/otherside-03.jpg
+  - image_path: /uploads/otherside-02-1.jpg
   - image_path:
   - image_path:
 _type: scratches-records
