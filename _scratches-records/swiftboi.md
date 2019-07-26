@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/channel/UCbUgTZ1mENZn6_LeS3tJMxQ'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path:
 albums:
   - image_path: /uploads/swiftboi-01.jpg
