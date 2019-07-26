@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/c/freshviolet'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path: /uploads/fresh-violet-06.jpg
 albums:
   - image_path: /uploads/fresh-violet-05.jpg
