@@ -13,7 +13,7 @@ youtube_url: 'https://www.youtube.com/user/BigVillageRecords'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path: /uploads/screen-shot-2019-04-18-at-11-58-34-am.png
 albums:
   - image_path: /uploads/image-2019-04-18-3.jpg
