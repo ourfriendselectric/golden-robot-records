@@ -1,22 +1,22 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/swiftboi-01.jpg
 name: Swiftboi
 sort_number: 3
 hidden: true
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: 'https://www.facebook.com/swiftbois/'
+instagram_url: 'https://www.instagram.com/swiftboi11/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/3dyk0whx2rZ26Sy3Dwkfol'
+apple_url: 'https://itunes.apple.com/ca/artist/swiftboi/id1444381210'
+youtube_url: 'https://www.youtube.com/channel/UCbUgTZ1mENZn6_LeS3tJMxQ'
 buy_now:
   - name:
     logo_path:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/swiftboi-01.jpg
   - image_path:
   - image_path:
   - image_path:
