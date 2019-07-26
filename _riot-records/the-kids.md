@@ -7,7 +7,8 @@ hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
 instagram_url: 'https://www.instagram.com/thekidspunkrock/'
-spotify_url: 'https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR'
+spotify_url: >-
+  https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR?si=0Bd69FOVS3K-G6UsC9-1Zw
 apple_url: >-
   https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
