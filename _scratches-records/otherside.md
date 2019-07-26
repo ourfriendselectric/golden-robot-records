@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/otherside-04.jpg
 albums:
-  - image_path: /uploads/otherside-03.jpg
+  - image_path: /uploads/otherside-05.jpg
   - image_path: /uploads/otherside-02-1.jpg
   - image_path:
   - image_path:
