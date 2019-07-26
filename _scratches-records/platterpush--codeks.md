@@ -14,7 +14,7 @@ youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path:
 albums:
   - image_path:
