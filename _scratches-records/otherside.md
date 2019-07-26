@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/otherside-01.jpg
+hero_path: /uploads/otherside-04.jpg
 albums:
   - image_path: /uploads/otherside-03.jpg
   - image_path: /uploads/otherside-02-1.jpg
