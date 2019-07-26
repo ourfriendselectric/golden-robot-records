@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/otherside-02.jpg
 name: Otherside
 sort_number: 4
 hidden: true
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/otherside-01.jpg
 albums:
   - image_path:
   - image_path:
