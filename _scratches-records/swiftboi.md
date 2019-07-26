@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path: /uploads/swiftboi-01.jpg
-name: Swiftboi
+image_path: /uploads/swiftboi-02.jpg
+name: SwiftBoi
 sort_number: 3
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/swiftbois/'
 instagram_url: 'https://www.instagram.com/swiftboi11/?hl=en'
@@ -17,7 +17,7 @@ buy_now:
 hero_path:
 albums:
   - image_path: /uploads/swiftboi-01.jpg
-  - image_path:
+  - image_path: /uploads/swiftboi-03.jpg
   - image_path:
   - image_path:
 _type: scratches-records
