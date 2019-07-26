@@ -14,7 +14,7 @@ youtube_url: 'https://www.youtube.com/watch?v=-O8TrAURIsI'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path: /uploads/hi-trax-01.jpg
 albums:
   - image_path:
