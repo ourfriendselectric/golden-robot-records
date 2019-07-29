@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/moon.png
 name: MOON
-sort_number: 40
+sort_number: 42
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thebandmoon/'
