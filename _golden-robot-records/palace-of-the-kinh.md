@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/potk tile 4 copy.jpg
 name: Palace of the King
-sort_number: 25
+sort_number: 26
 hidden: false
 twitter_url: 'https://twitter.com/PalaceOfTheKing'
 facebook_url: 'https://www.facebook.com/palaceofthekingmusic/'
