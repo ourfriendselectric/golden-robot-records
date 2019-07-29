@@ -4,7 +4,8 @@ image_path: /uploads/the-mark-of-cain-01.jpg
 name: The Mark of Cain
 sort_number: 10
 hidden: true
-twitter_url:
+twitter_url: >-
+  https://twitter.com/themarkofcain?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 facebook_url: 'https://www.facebook.com/OfficialTMOC/'
 instagram_url: 'https://www.instagram.com/themarkofcain/'
 spotify_url: 'https://open.spotify.com/artist/059RExYKIaKjxTQqkck98R'
