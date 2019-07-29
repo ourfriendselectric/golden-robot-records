@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/caverns-01.jpg
 name: Caverns
-sort_number: 11
+sort_number: 12
 hidden: false
 twitter_url: 'https://twitter.com/cavernsofficial?lang=en'
 facebook_url: 'https://www.facebook.com/cavernsofficial/'
