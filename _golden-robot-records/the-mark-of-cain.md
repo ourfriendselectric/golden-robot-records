@@ -19,7 +19,7 @@ hero_path:
 albums:
   - image_path: /uploads/the-mark-of-cain-02.jpg
     image_url:
-  - image_path: /uploads/the-mark-of-cain-04.jpg
+  - image_path: /uploads/the-mark-of-cain-08.jpg
     image_url:
   - image_path: /uploads/the-mark-of-cain-05.jpg
     image_url:
