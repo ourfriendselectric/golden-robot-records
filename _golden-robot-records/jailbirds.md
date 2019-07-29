@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/jailbirds-01.jpg
 name: Jailbirds
-sort_number: 16
+sort_number: 17
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: >-
