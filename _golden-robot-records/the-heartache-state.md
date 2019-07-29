@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/THS TILE 4 copy.jpg
 name: The Heartache State
-sort_number: 30
+sort_number: 31
 hidden: false
 twitter_url: 'https://twitter.com/heartachestate'
 facebook_url: 'https://www.facebook.com/theheartachestate/'
