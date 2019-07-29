@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-25.jpg
 name: The New Strange
-sort_number: 20
+sort_number: 21
 hidden: false
 twitter_url: 'https://twitter.com/DurbinRock'
 facebook_url: 'https://www.facebook.com/DurbinRock/'
