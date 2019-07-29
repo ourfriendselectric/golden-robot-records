@@ -17,13 +17,13 @@ buy_now:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/the-mark-of-cain-02.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-mark-of-cain-04.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-mark-of-cain-05.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-mark-of-cain-06.jpg
     image_url:
 _type: golden-robot-records
 _options:
