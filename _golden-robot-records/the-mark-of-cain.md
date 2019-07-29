@@ -50,4 +50,20 @@ TMOC has released five albums and a number of EPs over their 35 year life, inclu
 
 Although primarily self-produced, TMOC has worked with a number of different producers during their career including Steve Albini (produced Incoming EP in 1990), Henry Rollins (produced Ill At Ease in 1995) and Andy Gill from Gang of Four (produced tracks on This Is This (2001).
 
-TMOC are heading out later in the year (dates still to be announced) to celebrate the 30th anniversary of the release of their album Battlesick, when they will be playing shows nationally featuring every track from the album followed by a mix of tracks from their other albums.
+TMOC are touring this year to celebrate the 30th anniversary of the release of their album Battlesick. They're playing shows nationally featuring every track from the album followed by a mix of tracks from their other albums.
+
+**October 2019 Tour Dates:**
+
+Thu 17th – Brisbane – The Triffid
+
+Fri 18th – Sydney – The Factory
+
+Sat 19th – Canberra – The Basement
+
+Sun 20th – Newcastle – Small Ballroom
+
+Thu 24th – Perth – Rosemount Hotel
+
+Fri 25th – Adelaide – The Gov
+
+Sat 26th – Melbourne – Corner Hotel
