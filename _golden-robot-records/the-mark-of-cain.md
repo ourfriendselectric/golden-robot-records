@@ -1,15 +1,15 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/the-mark-of-cain-01.jpg
 name: The Mark of Cain
 sort_number: 10
 hidden: true
 twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: 'https://www.facebook.com/OfficialTMOC/'
+instagram_url: 'https://www.instagram.com/themarkofcain/'
+spotify_url: 'https://open.spotify.com/artist/059RExYKIaKjxTQqkck98R'
+apple_url: 'https://itunes.apple.com/au/artist/the-mark-of-cain/133613345'
+youtube_url: 'https://www.youtube.com/watch?v=fNmphEeBQT0'
 buy_now:
   - name:
     logo_path:
