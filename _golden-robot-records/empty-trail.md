@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-29.jpg
 name: Empty Trail
-sort_number: 10
+sort_number: 11
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/emptytrailmusic/'
