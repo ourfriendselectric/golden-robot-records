@@ -15,7 +15,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/the-mark-of-cain-10.jpg
 albums:
   - image_path: /uploads/the-mark-of-cain-02.jpg
     image_url:
