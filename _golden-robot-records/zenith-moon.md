@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/zenith-moon-main.jpg
 name: Zenith Moon
-sort_number: 35
+sort_number: 37
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/ZenithMoonBand/'
