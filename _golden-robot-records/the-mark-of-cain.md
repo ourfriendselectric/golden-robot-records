@@ -19,9 +19,9 @@ hero_path: /uploads/the-mark-of-cain-10.jpg
 albums:
   - image_path: /uploads/the-mark-of-cain-02.jpg
     image_url:
-  - image_path: /uploads/the-mark-of-cain-08.jpg
+  - image_path: /uploads/the-mark-of-cain-11.jpg
     image_url:
-  - image_path: /uploads/the-mark-of-cain-05.jpg
+  - image_path: /uploads/the-mark-of-cain-12.jpg
     image_url:
   - image_path: /uploads/the-mark-of-cain-06.jpg
     image_url:
@@ -50,7 +50,9 @@ TMOC has released five albums and a number of EPs over their 35 year life, inclu
 
 Although primarily self-produced, TMOC has worked with a number of different producers during their career including Steve Albini (produced Incoming EP in 1990), Henry Rollins (produced Ill At Ease in 1995) and Andy Gill from Gang of Four (produced tracks on This Is This (2001).
 
-TMOC are touring this year to celebrate the 30th anniversary of the release of their album Battlesick. They're playing shows nationally featuring every track from the album followed by a mix of tracks from their other albums.
+TMOC are touring this year to celebrate the 30th anniversary of the release of their album Battlesick. They're playing shows nationally featuring every track from the album followed by a mix of tracks from their other albums. Check out the tour dates below.
+
+Golden Robot Records is honoured to be releasing a limited edition 30th anniversary vinyl, which will be available for purchase on our store.
 
 **October 2019 Tour Dates:**
 
@@ -67,3 +69,7 @@ Thu 24th – Perth – Rosemount Hotel
 Fri 25th – Adelaide – The Gov
 
 Sat 26th – Melbourne – Corner Hotel
+
+&nbsp;
+
+*Images are courtesy of The Planet of Sound Photography.*
