@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/66815967-1374068302752219-3695032382760419328-n.jpg
 name: The Dead Amigos
 sort_number: 10
-hidden: true
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thedeadamigosband/'
 instagram_url:
