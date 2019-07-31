@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/minks-by-price-harrison.jpg
+image_path: /uploads/fffff.png
 name: The Minks
 sort_number: 10
 hidden: false
