@@ -18,9 +18,9 @@ hero_path: /uploads/zenith-moon-cover.jpg
 albums:
   - image_path: /uploads/zenith-moon-01.jpg
     image_url:
-  - image_path: /uploads/zenith-moon-02.jpg
+  - image_path: /uploads/zenith-moon-main-2.jpg
     image_url:
-  - image_path: /uploads/zenith-moon-main-1.jpg
+  - image_path: /uploads/zenith-moon-02-1.jpg
     image_url:
   - image_path: /uploads/zenith-moon-04.jpg
     image_url:
