@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/theminkslogo-curley-red-trans.png
 albums:
-  - image_path:
+  - image_path: /uploads/minks-by-jenny-watts2.jpg
     image_url:
   - image_path:
     image_url:
