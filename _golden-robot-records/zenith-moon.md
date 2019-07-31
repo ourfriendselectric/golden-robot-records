@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/zenith-moon-main.jpg
+image_path: /uploads/zenith-moon-03-1.jpg
 name: Zenith Moon
 sort_number: 37
 hidden: false
@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/zenith-moon-02.jpg
     image_url:
-  - image_path: /uploads/zenith-moon-03.jpg
+  - image_path: /uploads/zenith-moon-main-1.jpg
     image_url:
   - image_path: /uploads/zenith-moon-04.jpg
     image_url:
