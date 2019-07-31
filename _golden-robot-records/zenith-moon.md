@@ -20,9 +20,9 @@ albums:
     image_url:
   - image_path: /uploads/zenith-moon-main-2.jpg
     image_url:
-  - image_path: /uploads/zenith-moon-02-1.jpg
+  - image_path: /uploads/zenith-moon-04-1.jpg
     image_url:
-  - image_path: /uploads/zenith-moon-04.jpg
+  - image_path: /uploads/zenith-moon-02-2.jpg
     image_url:
 _type: golden-robot-records
 _options:
