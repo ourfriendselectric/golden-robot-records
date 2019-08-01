@@ -49,4 +49,4 @@ Led by prodigy drummer Jagger Alexander-Erber who is already playing with other 
 
 At only 16 Jagger has had a life full of experiences. Taking these ups and down in stride, he has written his debut album I Just Wanna Be Happy, set for release via Riot Records which is part of the Golden Robot Global Entertainment Group in 2019. The title track “I Just Wanna Be Happy” and their debut single “School” both with videos was released early in 2018 to rave reviews,
 
-Their new double A side single was released on July 29 featuring the smash hit "I Thought My Family Was Rich" and a killer cover of Rage Against the Machine's "Killing in the Name". This will be followed by several tours to see out 2019. Don't miss seeing The Kids live. The changing of the guard is upon us - be part of something special.
+Their new double A side single features the smash hit "I Thought My Family Was Rich" and a killer cover of Rage Against the Machine's "Killing in the Name". This will be followed by several tours to see out 2019. Don't miss seeing The Kids live. The changing of the guard is upon us - be part of something special.
