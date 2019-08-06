@@ -18,7 +18,7 @@ hero_path: /uploads/the-jailbirds-1.jpg
 albums:
   - image_path: /uploads/the-jailbirds-7.jpg
     image_url:
-  - image_path: /uploads/the-jailbirds-4.jpg
+  - image_path: /uploads/the-jailbirds-8.jpg
     image_url:
   - image_path: /uploads/the-jailbirds-6.jpg
     image_url:
