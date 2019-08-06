@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/the-jailbirds-9.jpg
 name: The Jailbirds (CAN)
 sort_number: 160
 hidden: true
