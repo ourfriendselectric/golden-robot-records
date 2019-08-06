@@ -9,7 +9,7 @@ facebook_url:
 instagram_url:
 spotify_url:
 apple_url:
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCifvVbNYeIYI7aeku1EoyeA?view_as=subscriber'
 buy_now:
   - name:
     logo_path:
