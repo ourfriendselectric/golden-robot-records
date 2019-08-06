@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/bone-acre-04-jpg.jpg
 albums:
   - image_path:
     image_url:
