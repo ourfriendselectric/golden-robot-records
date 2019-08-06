@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/the-jailbirds-9.jpg
 name: The Jailbirds (CAN)
-sort_number: 160
-hidden: true
+sort_number: 32
+hidden: false
 twitter_url: 'https://twitter.com/jailbirdsrock'
 facebook_url:
 instagram_url:
