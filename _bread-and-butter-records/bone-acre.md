@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/bone-acre-05-jpg.jpg
 name: Bone Acre
 sort_number: 3
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/boneacre?lang=en'
 facebook_url: 'https://www.facebook.com/boneacre/'
 instagram_url: 'https://www.instagram.com/boneacre/?hl=en'
@@ -16,11 +16,11 @@ buy_now:
     url:
 hero_path: /uploads/bone-acre-04-jpg.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/bone-acre-01-jpg.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/bone-acre-02.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/bone-acre-03.jpg
     image_url:
   - image_path:
     image_url:
