@@ -18,11 +18,11 @@ hero_path: /uploads/bone-acre-04-jpg.jpg
 albums:
   - image_path: /uploads/bone-acre-01-jpg.jpg
     image_url:
-  - image_path: /uploads/bone-acre-02.jpg
+  - image_path: /uploads/bone-acre-06-1.jpg
     image_url:
   - image_path: /uploads/bone-acre-03.jpg
     image_url:
-  - image_path: /uploads/bone-acre-06.jpg
+  - image_path: /uploads/bone-acre-02-1.jpg
     image_url:
 _type: bread-and-butter-records
 _options:
