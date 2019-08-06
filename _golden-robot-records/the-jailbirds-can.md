@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path: /uploads/the-jailbirds-1.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/the-jailbirds-7.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-jailbirds-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-jailbirds-6.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-jailbirds-3.jpg
     image_url:
 _type: golden-robot-records
 _options:
