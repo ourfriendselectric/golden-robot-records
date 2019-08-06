@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/bone-acre-03.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/bone-acre-06.jpg
     image_url:
 _type: bread-and-butter-records
 _options:
