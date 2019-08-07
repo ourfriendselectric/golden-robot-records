@@ -5,10 +5,10 @@ name: The Jailbirds (CAN)
 sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/jailbirdsrock'
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
+facebook_url: 'https://www.facebook.com/thejailbirds/'
+instagram_url: 'https://www.instagram.com/thejailbirdsband/'
+spotify_url: 'https://open.spotify.com/album/30eNBKjo9pOrtP7SO9zlUc'
+apple_url: 'https://music.apple.com/us/album/the-black-river-ep/1450296060'
 youtube_url: 'https://www.youtube.com/channel/UCifvVbNYeIYI7aeku1EoyeA?view_as=subscriber'
 buy_now:
   - name:
