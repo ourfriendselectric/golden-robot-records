@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path: /uploads/the-answer-2.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/the-answer-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-answer-4.jpg
     image_url:
   - image_path:
     image_url:
