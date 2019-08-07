@@ -5,11 +5,11 @@ name: The Answer
 sort_number: 1
 hidden: true
 twitter_url: 'https://twitter.com/theanswerrocks?lang=en'
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+facebook_url: 'https://www.facebook.com/theanswerrock/'
+instagram_url: 'https://www.instagram.com/theanswerrock/?hl=en'
+spotify_url: 'https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS'
+apple_url: 'https://music.apple.com/us/artist/the-answer/72601389'
+youtube_url: 'https://www.youtube.com/watch?v=N3dKqmCJVm0'
 buy_now:
   - name:
     logo_path:
