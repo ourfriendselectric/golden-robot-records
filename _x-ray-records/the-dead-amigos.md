@@ -15,9 +15,9 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/28058368-987574988068221-7867148127615567016-n.jpg
+hero_path: /uploads/the-dead-amigos-02.jpg
 albums:
-  - image_path: /uploads/22049788-896669457158775-7020689397170328014-n.jpg
+  - image_path: /uploads/the-dead-amigos-03.jpg
     image_url:
   - image_path:
     image_url:
