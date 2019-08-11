@@ -14,15 +14,15 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/bone-acre-04-jpg.jpg
+hero_path: /uploads/bone-acre-08.jpg
 albums:
   - image_path: /uploads/bone-acre-01-jpg.jpg
     image_url:
-  - image_path: /uploads/bone-acre-06-1.jpg
+  - image_path: /uploads/bone-acre-02-2.jpg
     image_url:
   - image_path: /uploads/bone-acre-03.jpg
     image_url:
-  - image_path: /uploads/bone-acre-02-1.jpg
+  - image_path: /uploads/bone-acre-10.jpg
     image_url:
 _type: bread-and-butter-records
 _options:
