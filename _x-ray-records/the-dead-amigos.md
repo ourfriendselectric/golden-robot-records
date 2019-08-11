@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/66815967-1374068302752219-3695032382760419328-n.jpg
+image_path: /uploads/the-dead-amigos-01.jpg
 name: The Dead Amigos
 sort_number: 10
 hidden: false
