@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/the-answer-1.jpg
 name: The Answer
 sort_number: 1
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/theanswerrocks?lang=en'
 facebook_url: 'https://www.facebook.com/theanswerrock/'
 instagram_url: 'https://www.instagram.com/theanswerrock/?hl=en'
