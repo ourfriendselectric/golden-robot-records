@@ -18,11 +18,11 @@ hero_path: /uploads/keith-cook-1.jpg
 albums:
   - image_path: /uploads/keith-cook-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/keith-cook-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/keith-cook-5.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/keith-cook-6.jpg
     image_url:
 _type: riot-records
 _options:
