@@ -18,7 +18,7 @@ buy_now:
 hero_path: /uploads/screen-shot-2019-04-18-at-11-58-34-am.png
 albums:
   - image_path: /uploads/image-2019-04-18-3.jpg
-  - image_path: /uploads/image-2019-04-18-1.jpg
+  - image_path: /uploads/p-smurf-billie-rose.jpg
   - image_path: /uploads/image-2019-04-18-2.jpg
   - image_path: /uploads/image-2019-04-18-6.jpg
 _type: scratches-records
