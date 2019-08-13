@@ -38,12 +38,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Platterpush and Codeks have been DJ’ing since the late 90’s, recording and touring with live bands. Turntablism is an important aspect of his their style which is evident in both their live sets and releases.
+Platterpush and Codeks have been DJing and recording/touring with live bands since the late 90s. Turntablism is a paramount aspect of their style, which is evident in all their live sets and releases.
 
-Platterpush and Codeks were the founding members and co-producers of Down Under Beats crew (Dialectrix, Joenew, Immune, 13th Son), a hip hop collective that toured extensively and released two albums in the mid 2000’s. Being ‘Unearthed’ by Triple J in 2004 raised the bands profile and saw them becoming one of the trailblazers of the emerging Australian Hip Hop genre.
+Platterpush and Codeks were the founding members and co-producers of Down Under Beats crew (Dialectrix, Joe New, Immune, 13th Son) A hip hop collective that toured extensively and released two albums in the mid 2000s. Featuring on Triple J’s ‘Unearthed’ in 2004 raised the bands profile and saw them as OG trailblazers of the emerging Australian Hip Hop genre.
 
-The Producer/DJ duo have gone on to produce for many artists such as Thundamentals, P.Smurf, Lotek, and Immune. The pair recently produced the majority of P.Smurfs recent debut solo LP ‘Playin the Blues’. As well as continuing to write music together Platterpush and Codeks have also gone on to work on other projects.
+The Producer/DJ duo have gone on to produce for artists as big as Thundamentals, Tuka, and Lotek. The pair also recently produced a large majority of P.Smurfs solo LP ‘Playin the Blues’, alongside Melbourne’s Must Volkoff.
 
-Platterpush is now a member of notorious Blue Mountains four-piece Otherside and features prominently on their two EPs and recent 7” singles.
-
-Codeks has been busy recording and touring with his own band Bomb Threat who are currently working on their debut album.
+As they continue writing music together, Platterpush and Codeks have also gone on to work on other projects. Platterpush is now a member of notorious Blue Mountains crew new to Scratches Records; Otherside, and features prominently on their two EPs and recent 7” singles. Codeks has been busy recording and touring with his own band, Bomb Threat, who are currently working on their debut album.
