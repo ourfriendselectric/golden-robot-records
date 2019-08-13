@@ -37,14 +37,14 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-SwiftBoi has been on stages all over Australia since she was 12 years old where she started performing in bars in outback Australia. When she was 16 she ran away from her turbulent home life to pursue music in the city and has not stopped since. She began freestyling in Melbourne's hip hop circuit in 2015 and by 2017 had produced her first solo hip hop album Honey Trap.
+SwiftBoi has been on stages all over Australia since she was 12 years old when she began performing in bars in outback Australia. At 16, she ran away from her turbulent home life to pursue music elsewhere, and hasn’t stopped since. She began freestyling in Melbourne's Hip Hop circuit in 2015, and by 2017 had produced her first solo hip hop album ’Honey Trap’.
 
-The album produced the singles "Scooby Doome" a gritty, cheeky tale of Melbourne's sordid underbelly and "Turning" a freestyle over lullaby trap about getting lit with boys from out of town. Honey Trap was a gritty dark offering to the scene, a reflection of her life at the time and included beats from boom bap all the way through to industrial grime and new wave trap.
+The album produced standout singles ‘Scooby Doome’ a gritty, cheeky tale of Melbourne's sordid underbelly and ‘Turning’ a freestyle over lullaby trap about getting lit with boys from out of town. Honey Trap was a dark offering to the scene, a reflection of her life at the time and included beats inspired by Boom Bap, all the way through to industrial Grime and new wave Trap sounds.
 
-All the beats are custom made from Australian producers. The albums following tours saw her playing along side artists such as Sarah Connor, Imbi The Girl, Grey Ghost and Mantra.
+Swiftboi’s production all comes from a close pool of Australian producers she’s down with. The albums loyal following saw her playing alongside artists like Sarah Connor, Imbi The Girl, Grey Ghost and Mantra.
 
-Not content with her situation in Melbourne and wanting to work even harder on her music SwiftBoi left for shows in Sydney and soon fell in love with the cities culture and hip hop scene moving to the city in December 2017. She soon linked up with new producer BIG JORDY who makes boom bap so rowdy and punchy it is reminiscent of a rock and roll show. She purchased 12 of his beats and got to work.
+Not satisfied with her situation in Melbourne and wanting to work even harder on her music, SwiftBoi left for shows in Sydney and soon fell in love with its culture and Hip Hop scene, moving here permanently in late 2017. She soon linked up with producer and Boom Bap connoisseur, Big Jordy. She purchased 12 of his beats and got to work.
 
-SwiftBoi's sophmore solo album HECTOPLASM was born from what she feels when she hears BIG JORDY beats. It is nothing but undeniably Australian sounding straight heavy funky boom bap with a cheeky party feel and SwiftBoi undeniably spits harder and faster than most male rappers in the scene. The album sounds like a rock band and a jazz band having a dance off while SB spits cheeky tongue twisters above the riot.
+SwiftBoi's sophomore solo album ’Hectoplasm’ was born from what she felt when she first heard Big Jordy’s beats. Nothing short of undeniable Australian-sounding, heavy, funky Boom Bap, with Swiftboi’s cheeky tongue twister party vibes adding to the riot. Undeniably spitting harder and faster than most, Swiftboi is set to blow this house down.&nbsp;
 
-HECTOPLASM IS DUE OUT EARLY 2019 ON SCRATCHES RECORDS.
+HECTOPLASM - DUE OUT EARLY 2020 ON SCRATCHES RECORDS.
