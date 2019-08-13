@@ -38,10 +38,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Hi Trax are a UK/Australian collective mixing up bass driven, violent beats with technical double time flows.
+Hi Trax are our standout Australian/UK collective mixing bass driven, violent beats with some seriously technical double time flows.&nbsp;
 
-You should know Joe Snow from renowned UK crew Defenders Of Style, (*The Death of Meaning, Upper Echelon*). After touring Australia in 2016 he settled in Melbourne and developed connections with local legends Sinks and Raptorhandz (Able 8). The love of Hip-Hop and the shared passion of unique sound design and the creation of explosive hard sounds has spawned this unique connection.
+You should know Joe Snow from renowned UK crew Defenders Of Style, (*The Death of Meaning, Upper Echelon, Nose Dive*). After touring Australia in 2016 he settled in Melbourne and quickly aligned with Pang Productions, while developing connections with local legends Sinks and Raptorhandz (Able 8). Their love of Hip-Hop, a shared passion of unique sound design, plus the creation of explosive hard sounds has spawned this unique connection.
 
-Hi Trax pays homage to Hip-Hop, Grime and Dubstep - blending these influences to create a unique style of up-tempo, bass-heavy electronica straight to ya’ face\!
+HI TRAX pays homage to Hip-Hop, Grime and Dubstep - blending these influences to create a unique style of up-tempo, bass-heavy electronica straight to ya’ face\! Peep the fire on their 2018 debut EP ‘Megalodon Music’ feat. UK grime icon Devilman.&nbsp;
 
-NEW EP DUE OUT EARLY 2019 ON SCRATCHES RECORDS.
+HI TRAX EP DUE LATE 2019 ON SCRATCHES RECORDS.
