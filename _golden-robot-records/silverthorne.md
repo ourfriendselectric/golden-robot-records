@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/image-2019-05-13-5.jpg
+image_path: /uploads/silverthorne-06.jpg
 name: Silverthorne
 sort_number: 9
 hidden: false
@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/silverthorne-6.jpg
 albums:
-  - image_path: /uploads/image-2019-05-13-6.jpg
+  - image_path: /uploads/silverthorne-9.jpg
     image_url:
   - image_path: /uploads/silverthorne-02.jpg
     image_url:
