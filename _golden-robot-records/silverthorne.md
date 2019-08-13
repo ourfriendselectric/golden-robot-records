@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/silverthorne-logo.jpeg
+hero_path: /uploads/silverthorne-6.jpg
 albums:
   - image_path: /uploads/image-2019-05-13-6.jpg
     image_url:
