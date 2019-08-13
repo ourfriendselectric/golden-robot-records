@@ -14,12 +14,12 @@ buy_now:
   - name:
     logo_path:
     url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
-hero_path:
+hero_path: /uploads/swiftboi-4.jpg
 albums:
   - image_path: /uploads/swiftboi-01.jpg
   - image_path: /uploads/swiftboi-03.jpg
-  - image_path:
-  - image_path:
+  - image_path: /uploads/swiftboi-5.jpg
+  - image_path: /uploads/swiftboi-6.jpg
 _type: scratches-records
 _options:
   image_path:
