@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/keith-cook-3.jpg
 name: Keith Cook
 sort_number: 2
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
