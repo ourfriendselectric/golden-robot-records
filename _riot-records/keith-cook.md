@@ -42,3 +42,8 @@ _options:
     uploads_dir: uploads/logos
 ---
 
+Keith Cook has been playing in bands since 1997. He was the guitarist for the protopunk band Debris’ with whom he was included in a history exhibit covering the notable rock and rollers from their home state of Oklahoma. He now resides in Seattle where he continues to play in bands locally and for many years was the bass player for Jimi Hendrix’s old bandmate Sammy Drain.
+
+Now as a solo artist he’s preparing to release his new albums backed by players from incredible bands such as The Stooges, Nirvana, Wipers, Flipper, Dick Dale and the Del-Tones, The Sonics , Germs and many more.&nbsp;
+
+Riot Records is more than proud to give Keith an outlet for his incredible talents. Stay tuned for some killer punk rock releases.
