@@ -5,11 +5,12 @@ name: Keith Cook
 sort_number: 2
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: >-
+  https://www.facebook.com/pages/category/Musician-Band/Keith-Cook-125773104141440/
 instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+spotify_url: 'https://open.spotify.com/artist/5jnU9lWK6IWIAhMZXirBx8'
+apple_url: 'https://itunes.apple.com/au/artist/keith-cook/260461128'
+youtube_url: 'https://www.youtube.com/channel/UCLPIEJY51e7dpjXrNR5HPoA'
 buy_now:
   - name:
     logo_path:
