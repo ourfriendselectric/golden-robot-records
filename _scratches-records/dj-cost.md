@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/dj-cost-1.jpg
 name: DJ Cost
-sort_number: 6
+sort_number: 7
 hidden: false
 twitter_url:
 facebook_url:
