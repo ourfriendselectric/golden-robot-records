@@ -20,7 +20,7 @@ albums:
   - image_path: /uploads/platterpush-codeks-1.jpg
   - image_path: /uploads/platterpush-codeks-4.jpg
   - image_path: /uploads/platterpush-codeks-2.jpg
-  - image_path: /uploads/platterpush-codeks-3.jpg
+  - image_path:
 _type: scratches-records
 _options:
   image_path:
