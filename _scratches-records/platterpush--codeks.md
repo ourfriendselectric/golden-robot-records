@@ -17,10 +17,10 @@ buy_now:
     url: 'http://store.socialfamilyrecords.com/index.php/scratches-apparel.html'
 hero_path:
 albums:
-  - image_path:
-  - image_path:
-  - image_path:
-  - image_path:
+  - image_path: /uploads/platterpush-codeks-1.jpg
+  - image_path: /uploads/platterpush-codeks-4.jpg
+  - image_path: /uploads/platterpush-codeks-2.jpg
+  - image_path: /uploads/platterpush-codeks-3.jpg
 _type: scratches-records
 _options:
   image_path:
