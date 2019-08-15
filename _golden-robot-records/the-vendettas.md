@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/the-vendettas-1.jpg
 name: The Vendettas
 sort_number: 10
 hidden: true
@@ -49,7 +49,7 @@ The band has been a part of Melbourne’s rock scene for more than 10 years, mas
 
 In recent times, the boys spent almost a year writing vigorously and tightening the ‘pre-prod’ screws, before hitting the studio late in 2018 to record their third album.
 
-These studio sessions were all captured live and raw, with one main objective in mind...to produce a piece of audio that represents what the band sounds like in the flesh, with all dials cranked to 11.
+These studio sessions were all captured live and raw, with one main objective in mind…to produce a piece of audio that represents what the band sounds like in the flesh, with all dials cranked to 11.
 
 In 2019, The Vendettas have gone from strength to strength, securing their first international support with Danko Jones (Canada), while continuing to build their presence in the local scene, doing what they love, belting out rock n roll, the way it should be\!
 
