@@ -5,11 +5,11 @@ name: The Vendettas
 sort_number: 10
 hidden: true
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/thevendettasrock'
 instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+spotify_url: 'https://open.spotify.com/artist/4MONJG5vwzf7r5eRbl7eUV'
+apple_url: 'https://itunes.apple.com/gb/artist/the-vendettas/186076464'
+youtube_url: 'https://www.youtube.com/user/TheVendettasRock'
 buy_now:
   - name:
     logo_path:
