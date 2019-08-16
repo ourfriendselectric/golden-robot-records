@@ -1,7 +1,7 @@
 ---
 image_path: /uploads/secondhandsingleart1-rgb-600px.jpg
 hidden: false
-sort_number: 10
+sort_number: 25
 name: Andrew Swift & Gretta Ziller
 album_name: Second Hand (SFR - Single)
 album_url: 'https://orcd.co/andrewswift-grettaziller-secondhand'
