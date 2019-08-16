@@ -1,30 +1,22 @@
 ---
 layout: artist
-image_path: /uploads/Current CJ press photo - March 2018 square.png
-name: Caroline Jones
-sort_number: 1
+image_path: /uploads/cormac-photo-bw-copy-600px.jpg
+name: Cormac Neeson
+sort_number: 2
 hidden: false
-twitter_url: 'https://twitter.com/carolinejones'
-facebook_url: 'https://www.facebook.com/carolinejonesmusic/'
-instagram_url: 'https://www.instagram.com/carolinejones/'
-spotify_url:
+twitter_url: 'https://twitter.com/corporalcormo'
+facebook_url: 'https://www.facebook.com/cormacneesonsolo/'
+instagram_url:
+spotify_url: >-
+  https://open.spotify.com/artist/0ShbQ1PVPRFx06foq4CCrK?si=nQ2E-M_2TLaOSni-YbwaDA
 apple_url:
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url: 'http://smarturl.it/Get-BareFeet-Single'
-  - name: Country Girl (single)
-    logo_path:
-    url: 'https://orcd.co/carolinejones-countrygirl'
-hero_path: /uploads/cj-webbanner-hero.jpeg
+    url:
+hero_path: /uploads/dsc-0665-web.jpeg
 albums:
-  - image_path: /uploads/carolinejones-barefeet-600px.jpeg
-    image_url: 'http://smarturl.it/Get-BareFeet-Single'
-  - image_path: /uploads/caroline-jones---country-girl---single-cover-600px.jpg
-    image_url: 'https://orcd.co/carolinejones-countrygirl'
-  - image_path:
-    image_url:
   - image_path:
     image_url:
 _type: social-family-records
@@ -44,24 +36,32 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# Caroline Jones
+# Cormac Neeson
 
-Buy/stream ***Bare Feet*** (single) from Caroline Jones now: &nbsp;[http://smarturl.it/Get-BareFeet-Single](http://smarturl.it/Get-BareFeet-Single){: target="_blank"}
+**Cormac Neeson** is the latest international artist to join **Social Family Records**.
 
-Buy/stream ***Country Girl*** (single) from Carolines now: &nbsp;[https://orcd.co/carolinejones-countrygirl](https://orcd.co/carolinejones-countrygirl)
+The label will be responsible for the re-release of Neeson’s Americana/Blues-based debut solo album, **White Feather**, which has been well received in his home territory of Ireland and the UK, charting at \#4 on the UK national Country Rock albums charts, as he looks forward to taking his new sound and band on the road, with the USA and Australia firmly within his sights.
 
-**ABOUT**
+"*This feels like the perfect fit for me and for a record that represents a big part of who I am. Delighted to re-kindle my connection to Australia and looking forward to getting this music into a lot of ears across this big old globe of ours*." – Cormac Neeson
 
-Named as one of the “10 Country Artists You Need to Know” by Rolling Stone in 2017 and one of the “15 Country Artists to Watch in 2018” according to Billboard, rising US country singer-songwriter and multi-instrumentalist, Caroline Jones, has signed a deal with Social Family Records for the Australian and UK release of her acclaimed album, Bare Feet, which she co-produced with Grammy and Academy Award-winning producer, Ric Wake (Mariah Carey, Celine Dion, Whitney Houston, Trisha Yearwood).&nbsp; Caroline is the first international signing for the Aussie indie record label.
+**White Feather** was recorded in Nashville and offers flourishes of Country Soul, Americana, Folk and Blues. It is slated for re-release in 2020, with the first of the singles to hit in September.
 
-Born in New York City to her American father and Australian mother, Caroline has family in Sydney. With the first single slated for release early in 2019, she’s looking forward to heading down here to perform in the near future.
+#### **ABOUT CORMAC NEESON**
 
-Throughout 2017 and 2018, Caroline has toured with the likes of Jimmy Buffett, The Eagles, Zac Brown Band and OneRepublic, Tim McGraw & Faith Hill, Kip Moore and Vince Gill, and is scheduled to hit the road with Kenny Chesney in April 2019, following Country to Country in Ireland in March.
+Cormac Neeson, the lead singer of Northern Irish rock band *The Answer*, blazed the road to rock ‘n’ roll glory for the better part of a decade, touring the world, sharing stage supports with the likes of AC/DC and The Rolling Stones, achieving both fan and peer respect as not only an outstanding vocalist but consummate performer. Yet, recessed deep within his creative subconscious lay a creative music and Celtic narrative that constantly gnawed for release from the straight jacket of rock ‘n’ roll.
 
-It was in 2017 when Caroline was on the road with Zac Brown Band and sharing the stage with Jimmy Buffett, Kenny Chesney, and Toby Keith at the Trying to Reason hurricane relief benefit concert, that led to a live duet with Buffett, which then turned into a charity single release and ultimately, a partnership with his Mailboat Records in the USA – and the rest is history.&nbsp; Previously, Caroline has toured schools and universities across the States, including underserved and charter schools with Stedman Graham on The Heart is Smart School Tour. Caroline is also the host of Art & Soul on Sirius XM.
+It is well documented that the last The Answer record *Solas* (2016), arrived unexpectedly, borne from moments of solitude, darkness and desperation. This was in part inspired by Neeson’s journey from the edge of personal trauma as he overcame his first-born son Dabhog’s premature, life threatening and complicated birth. Following *Solas,* Neeson decided it was finally time to reach for something different.
+
+Following three intensive song writing trips to the USA over a period of 15 months, the album was recorded in 2018 in Nashville at the legendary Studio 19, now the Sound Kitchen. Cormac immersed himself in the rich musical history of both the studio and the city, channelling a re-energised creativity working with some of the finest Nashville musicians including Steve Grossman on drums (Gibson Miller band, India Arie), Doug Kahan on bass (Cody Johnson) and John Heinrich on Pedal Steel (Garth Brooks, Shania Twain, and Tammy Wynette).
+
+Following the album tracking, he returned to complete dubbing and mixing in Belfast where he brought in some of Northern Ireland’s finest musicians to help with final arrangements. The result is a powerful blend of two diverse and rich musical cultures, a Celtic Nashville concoction connected by Neeson’s unique vocal tones and song writing prowess, performing songs co-written with leading USA and Nashville country songwriters including 2016 Tennessee songwriter of the year Corey Lee Barker; Steve O Brien, Blue Miller, Chase Akers, Blake Densmore and Allen McKendree Palmer who between them have sold in excess of 30 million songs.
+
+In Feb 2019, Neeson became a brand ambassador for the learning disability charity, Mencap NI, a partnership that stemmed from Mencap’s instant connection with the lyrics of the song *Broken Wing*. In 2014, his son Dabh&oacute;g was born three months prematurely with Down’s Syndrome and the impact of that life changing experience had such a lasting and profound effect that Neeson sought solace in penning an autobiographical and emotional account of his inner thoughts and what it’s like to bring up a child with disability. It’s no surprise then that much of the powerful subject matter of *White Feather* album is rooted in the life changing events of the past five years.
+
+In *White Feather,* Cormac Neeson has shed a skin, revealing something about himself that defies all previous perception. In the acclaimed words of Dylan, he has decided that everyone should see *what he knows about himself*.
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
 [Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=jBde7q3FTHmYB6KTk-JWNA){: target="_blank"}
 
-## **FOLLOW CAROLINE JONES:**
+## **FOLLOW CORMAC NEESON:**
