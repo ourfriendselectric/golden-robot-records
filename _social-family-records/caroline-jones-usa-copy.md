@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/cormac-photo-bw-copy-600px.jpg
+image_path: /uploads/cormac-photo-bw-square.jpg
 name: Cormac Neeson
 sort_number: 2
 hidden: false
