@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/carolinejones-barefeet-600px.jpg
+image_path: /uploads/cn-white-feather-3000-copy-600px.jpg
 hidden: false
-sort_number: 292
-name: Caroline Jones
-album_name: Bare Feet (SFR - Single)
-album_url: 'http://smarturl.it/Get-BareFeet-Single'
+sort_number: 40
+name: Cormac Neeson
+album_name: White Feather (SFR - Album)
+album_url:
 _hide_content: true
 _options:
   image_path:
