@@ -17,7 +17,7 @@ buy_now:
     url:
 hero_path: /uploads/dsc-0665-web.jpeg
 albums:
-  - image_path:
+  - image_path: /uploads/cn-white-feather-3000-copy-600px-1.jpg
     image_url:
 _type: social-family-records
 _options:
