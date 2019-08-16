@@ -1,11 +1,10 @@
 ---
-image_path: /uploads/screen-shot-2018-11-27-at-1-25-45-pm.png
+image_path: /uploads/secondhandsingleart1-rgb-600px.jpg
 hidden: false
-sort_number: 471
-name: Andrew Swift
-album_name: Call Out For The Cavalry (SFR - Album)
-album_url: >-
-  http://store.socialfamilyrecords.com/index.php/social-family-records/andrew-swift-call-out-for-calvery-signed-cd.html
+sort_number: 10
+name: Andrew Swift & Gretta Ziller
+album_name: Second Hand (SFR - Single)
+album_url: 'https://orcd.co/andrewswift-grettaziller-secondhand'
 _hide_content: true
 _options:
   image_path:
