@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/screen-shot-2019-02-05-at-4-00-43-pm.png
+image_path: /uploads/one-step-away---single-cover-600px.jpg
 hidden: false
-sort_number: 987873098729
+sort_number: 987873098730
 name: Kate Hindle
-album_name: Heart Bleed (SFR - Single)
-album_url: 'https://itunes.apple.com/au/album/heart-bleed-single/1446384710'
+album_name: One Step Away (SFR - Single)
+album_url: 'https://orcd.co/katehindle-onestepaway'
 _hide_content: true
 _options:
   image_path:
