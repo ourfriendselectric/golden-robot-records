@@ -1,9 +1,9 @@
 ---
-image_path: /uploads/positiveattitude-whiskey-business-500px.jpg
+image_path: /uploads/cover-copy---600px.jpg
 hidden: false
-sort_number: 17777777778
-name: Whiskey Business
-album_name: Whiskey Business (SFR - Album)
+sort_number: 17777777779
+name: Michelle Gardiner
+album_name: Self-titled (SFR - EP)
 album_url:
 _hide_content: true
 _options:
