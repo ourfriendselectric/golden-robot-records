@@ -3,7 +3,7 @@ image_path: /uploads/ths---clockstar-cover-final.jpg
 hidden: false
 sort_number: 161
 name: The Heartache State
-album_name: Clockstar (GRR - Single)
+album_name: Clockstar/Prodigal Son (GRR - Single)
 album_url: 'http://goldenrobotrecords.com/'
 _hide_content: true
 _options:
