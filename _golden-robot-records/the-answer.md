@@ -53,4 +53,4 @@ The end result of their fearsome reputation, both as an astonishing live band an
 
 Fast forward another four critically acclaimed album releases, countless touring, various label homes and you might think that The Answer story fizzled out in flickering embers of their sixth studio album *Solas* at the end of 2016……. but not so, there is a twist in the tale\!
 
-Their much anticipated comeback album will be released by Golden Robot Records in 2020 - stay tuned\!
+Their much anticipated comeback album will be released by Golden Robot Records worldwide in late 2020/early 2021.
