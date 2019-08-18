@@ -31,7 +31,7 @@ albums:
     image_url:
   - image_path: /uploads/flickertail-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/flickertail-03-jpg-1.jpg
     image_url:
 _type: golden-robot-records
 _options:
