@@ -29,9 +29,9 @@ albums:
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/flickertail-hurry-up-and-wait-cd.html
   - image_path: /uploads/flickertail-2.jpg
     image_url:
-  - image_path: /uploads/flicker tile 1 copy.jpg
+  - image_path: /uploads/flickertail-3.jpg
     image_url:
-  - image_path: /uploads/flickertail-1.jpg
+  - image_path:
     image_url:
 _type: golden-robot-records
 _options:
