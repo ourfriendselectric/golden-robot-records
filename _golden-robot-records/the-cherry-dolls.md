@@ -51,4 +51,6 @@ Throwing a curveball with first single, 'Blister', the Dolls show off their tend
 
 Let You Down tips its hat in the direction of Patti and Them, but takes off like a unpredictable firework lamenting yet another heartbreaker in town, while 'Cop Out' is the essence of the Dolls – taught angular guitar lines going hell bent for leather out over a thunderous primal beat.
 
-Clocking up two years of unrelenting gigging and recording they've given more than fair warning of their promise as one of Australia's most electrifying bands, which they've now proudly captured on their debut album, Viva Los Dolls. The Cherry Dolls are Joshua Aubry, Jakob Kagan, Thomas van der Vliet, Brendan West, and Jim Stirton.
+Clocking up two years of unrelenting gigging and recording they've given more than fair warning of their promise as one of Australia's most electrifying bands, which they've now proudly captured on their debut album, Viva Los Dolls.
+
+Golden Robot Records is proud to be part of this album and will support the band when needed for their future endeavours.
