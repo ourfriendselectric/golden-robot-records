@@ -53,4 +53,6 @@ And speaking of the single - which manages to combine the metallic with the melo
 
 As is the case with many modern-day rock bands, Empty Trail plans on issuing a steady stream of singles - rather than an album’s worth of tunes. “I’d like to just focus on singles. As much as a full-length would be cool, I don’t see how it makes sense for how the market is. I’d rather spend time on specific songs than on an album that only a few people will have the patience to listen through. Sad but true.” Hopefully, the buzz surrounding Empty Trail will soon lead to a full-on tour. “I would love to tour when it makes sense to. I want to connect with people who get this in any fashion. Maybe this is my personality, but I want to go where we are wanted\!”&nbsp;
 
-And lastly, where can fans connect and correspond with the band? “We are almost everywhere you would imagine. The most activity tends to be on Instagram, until a new platform comes around and knocks that one out. Connect with us there\!”
+And lastly, where can fans connect and correspond with the band? “We are almost everywhere you would imagine. The most activity tends to be on Instagram, until a new platform comes around and knocks that one out. Connect with us there\!"
+
+New single and video 'Lost' was released in August 2019 by Golden Robot Records with their brand new EP coming out in September 2019.
