@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/superjesus tile 2 copy.jpg
 name: The Superjesus
-sort_number: 38
+sort_number: 44
 hidden: false
 twitter_url: 'https://twitter.com/The_Superjesus'
 facebook_url: 'https://www.facebook.com/thesuperjesusofficial/'
