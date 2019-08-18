@@ -9,7 +9,7 @@ facebook_url: >-
   https://www.facebook.com/jailbirdsireland/?__tn__=%2Cd%2CP-R&eid=ARD3NdMRyCmV4M6YbplFk0qVrdHJh4bxWG_AvtbvNKlY1XU_xmPbHas9sDppsQO5H823yohtCg2wMBIx
 instagram_url: 'https://www.instagram.com/jailbirdsofficial/'
 spotify_url: 'https://open.spotify.com/artist/4UKJLF78pV5QHEOqWcJPUT'
-apple_url:
+apple_url: 'https://itunes.apple.com/us/artist/jailbirds/269944999'
 youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
 buy_now:
   - name:
@@ -48,4 +48,8 @@ Since its release, the band has benefited radio airplay in numerous countries su
 
 For the last 18 months Jailbirds have been on the rise in Ireland as they found themselves supporting THE ANSWER (UK), Tyler Bryant & The Shakedown (USA), ANVIL (CAN), Y&T (USA), SAMARKIND (IRE) & LOUZDO (FRA).
 
-2018 kicked off strong with the band doing an Irish tour, playing to smaller venues around the country. Jailbirds are currently recording their first album and hope to be touring mainland Europe by the end of this year.
+2018 kicked off strong with the band doing an Irish tour, playing to smaller venues around the country. Jailbirds released their debut album 'The Great Escape' on Golden Robot Records worldwide in July 2019. It attracted immediate rave reviews and excellent blog write-ups showing that the boys from downunder, now living in Ireland, know how to write a rock tune in the same vein as AC/DC and Black Sabbath.
+
+The boys have been extensively touring and playing festivals across Europe and will continue doing this for the remainder of 2019.
+
+&nbsp;
