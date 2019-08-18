@@ -9,15 +9,21 @@ facebook_url: 'https://www.facebook.com/cormacneesonsolo/'
 instagram_url:
 spotify_url: >-
   https://open.spotify.com/artist/0ShbQ1PVPRFx06foq4CCrK?si=nQ2E-M_2TLaOSni-YbwaDA
-apple_url:
-youtube_url:
+apple_url: 'https://itunes.apple.com/ca/artist/cormac-neeson/306771525'
+youtube_url: 'https://open.spotify.com/artist/0ShbQ1PVPRFx06foq4CCrK'
 buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/dsc-0665-web.jpeg
+hero_path: /uploads/cormac-neeson-5.jpg
 albums:
-  - image_path: /uploads/cn-white-feather-3000-copy-600px-1.jpg
+  - image_path: /uploads/cormac-neeson-1.jpg
+    image_url:
+  - image_path: /uploads/cormac-neeson-2.jpg
+    image_url:
+  - image_path: /uploads/cormac-neeson-3.jpg
+    image_url:
+  - image_path: /uploads/cormac-neeson-4.jpg
     image_url:
 _type: social-family-records
 _options:
