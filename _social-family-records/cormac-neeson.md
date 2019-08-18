@@ -21,7 +21,7 @@ albums:
     image_url:
   - image_path: /uploads/cormac-neeson-2.jpg
     image_url:
-  - image_path: /uploads/cormac-neeson-3.jpg
+  - image_path: /uploads/cormac-neeson-single-cover.jpg
     image_url:
   - image_path: /uploads/cormac-neeson-4.jpg
     image_url:
