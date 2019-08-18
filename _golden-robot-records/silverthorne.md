@@ -50,3 +50,5 @@ After drafting in Tichy’s bud, Los Angeles based Daniel Spree on bass the trio
 Upon hearing the music, Golden Robot Records President and Founder Mark Alexander-Erber reacted instantly and offered the band a record contract.
 
 The sound Silverthorne make is one which is rarely heard today. Combined with a second to none live show this is a band not to be missed.
+
+August 2019 saw the release of 'Tear the Sky Wide Open' to critical acclaim. The single is gaining momentum and fans across the globe. The video which was released simultaneously is also proving to be a massive hit. New music from Silverthrone will be released by the end of 2019.
