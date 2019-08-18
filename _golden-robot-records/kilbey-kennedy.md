@@ -55,4 +55,4 @@ Martin and All India Radio have released ten acclaimed albums since 1999 and hav
 
 "A tumbling spell of dreamlike evocations and cinematic glimpses …. These are the most sublime, mindful stupors I believe I’ve ever been in." - Stereoembers
 
-"If David Gilmour recorded an instrumental album, it might sound as good as Echoes CD of the Month: All India Radio's The Slow Light." - John Diliberto, Echoes
+"If David Gilmour recorded an instrumental album, it might sound as good as Echoes CD of the Month: All India Radio's The Slow Light." - John Diliberto, Echoes. Golden Robot Records was very proud and honoured to be part of the release of Glow and Fade.
