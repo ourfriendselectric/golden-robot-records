@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/Screen Shot 2018-11-15 at 5.42.56 pm.png
 name: The Iron Horses
-sort_number: 39
+sort_number: 45
 hidden: false
 twitter_url: 'https://twitter.com/TheIronHorses1'
 facebook_url: 'https://www.facebook.com/theironhorsesband/'
