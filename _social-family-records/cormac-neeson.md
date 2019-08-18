@@ -23,7 +23,7 @@ albums:
     image_url:
   - image_path: /uploads/cormac-neeson-single-cover.jpg
     image_url:
-  - image_path: /uploads/cormac-neeson-6.jpg
+  - image_path: /uploads/cormac-neeson-7.jpg
     image_url:
 _type: social-family-records
 _options:
