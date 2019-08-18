@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/the-vendettas-1.jpg
 name: The Vendettas
-sort_number: 10
-hidden: true
+sort_number: 38
+hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/thevendettasrock'
 instagram_url:
