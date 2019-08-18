@@ -7,13 +7,13 @@ hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/silverthorneband/?fref=mentions'
 instagram_url: 'https://www.instagram.com/silverthorneband/'
-spotify_url:
-apple_url:
+spotify_url: 'https://open.spotify.com/artist/6iYRHVrXJ0ZyfFYGJ6BRQm'
+apple_url: 'https://music.apple.com/gb/artist/silverthorne/1473297248?ign-mpt=uo%3D2'
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://music.apple.com/gb/artist/silverthorne/1473297248?ign-mpt=uo%3D2'
 hero_path: /uploads/silverthorne-6.jpg
 albums:
   - image_path: /uploads/silverthorne-9.jpg
