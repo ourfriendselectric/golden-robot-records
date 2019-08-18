@@ -1,6 +1,6 @@
 ---
-image_path:
-hidden: true
+image_path: /uploads/flickertail-rbte-3000x3000.jpg
+hidden: false
 sort_number: 164
 name: Flickertail
 album_name: Right Behind the Eyes (GRR - Single)
