@@ -64,3 +64,5 @@ In 2012, Dizzy was inducted into the Rock n’ Roll Hall of Fame as a member of 
 With his first solo album released through Golden Robot Records in 2018, Dizzy Reed remains in the rock industry’s ‘sharky’ waters, continuously growing as an individual and flourishing as an artist.
 
 “Never stop learning and exploring, but don’t forget what you do best. Stick to your guns.”
+
+In between world tours with Guns N' Roses to sell-out crowds, and Dizzy's side project Hookers and Blow, he has found time to enter the studio several times in the US to work on his follow-up LP. With 'Rock 'N Roll Aint Easy' being such a worldwide success, Dizzy and his band are keen to follow it up in 2020.
