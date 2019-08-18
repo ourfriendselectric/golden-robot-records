@@ -4,7 +4,7 @@ image_path: >-
 hidden: false
 sort_number: 182
 name: Johnny Casino and the Secrets
-album_name: Cowboys and Indians (GRR - Single)
+album_name: Cowboys and Indians (GRR - EP)
 album_url: 'http://goldenrobotrecords.com/'
 _hide_content: true
 _options:
