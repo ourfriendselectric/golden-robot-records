@@ -57,3 +57,5 @@ Since their inception, the band have played relentlessly and are reaping the rew
 After years building a dedicated following throughout Australia, and rave reviews for debut EP "Hurry Up and Wait", the boys brought their infamous live show to the UK for a international tour in October 2018.
 
 In 2019, armed with only their wits, guitars and their stunning good looks, Flickertail will continue to to preach the good word of honest, authentic Aussie rock and roll around the globe.
+
+August 2019 saw the release of their new single 'Right Behind the Eyes' which also includes a massive tour around Australia, and no doubt the boys will head back to Europe to capitalise their growing fan base. They're a band worthy of your support.
