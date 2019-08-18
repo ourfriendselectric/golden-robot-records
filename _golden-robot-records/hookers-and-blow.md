@@ -15,7 +15,7 @@ buy_now:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-24.png
     url: >-
       http://store.socialfamilyrecords.com/index.php/artists/hookers-and-blow/hookers-blow-all-excess-tour-t-shirt.html
-hero_path: /uploads/hnb-2.jpg
+hero_path: /uploads/hookers-and-blow-1.jpg
 albums:
   - image_path: /uploads/image-2019-02-25-8-1.jpg
     image_url:
