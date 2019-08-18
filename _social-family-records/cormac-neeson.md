@@ -19,11 +19,11 @@ hero_path: /uploads/cormac-neeson-5.jpg
 albums:
   - image_path: /uploads/cormac-neeson-1.jpg
     image_url:
-  - image_path: /uploads/cormac-neeson-2.jpg
+  - image_path: /uploads/cormac-neeson-6.jpg
     image_url:
   - image_path: /uploads/cormac-neeson-single-cover.jpg
     image_url:
-  - image_path: /uploads/cormac-neeson-4.jpg
+  - image_path: /uploads/cormac-neeson-6.jpg
     image_url:
 _type: social-family-records
 _options:
