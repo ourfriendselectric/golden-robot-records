@@ -56,12 +56,4 @@ The Heartache State is a throwback to the 70s-centric approach to music, where s
 
 “We’re not reinventing the wheel, the old wheel goes OK”.
 
-The Heartache State are set to release brand new music across 2019 through Golden Robot Records.&nbsp;
-
-Justin Garner – Vocals and Guitar
-
-Venom – Drums
-
-Nick Barker – Vocals and Guitar
-
-Tony Johanssen – Bass
+The Heartache State has released brand new music across 2019 through Golden Robot Records, including the killer hit Airstrike on a double A-side single, plus the acoustic version of Clockstar on another double A-side release.
