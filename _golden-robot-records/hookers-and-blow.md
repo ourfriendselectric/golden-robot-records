@@ -51,3 +51,5 @@ In 2013&nbsp;**Hookers & Blow**&nbsp;hosted two back to back highly successful r
 Over the past 15 years&nbsp;**Hookers & Blow's**&nbsp;past members have included&nbsp;**Todd Kerns (Slash), Chip Z' Nuff (Enuff Z' Nuff), Mike Dupke (WASP), Scott Griffin (LA Guns)**&nbsp;as well as comedian&nbsp;**Don Jamieson of VH1's "THAT METAL SHOW"**&nbsp;among others.
 
 In addition to&nbsp;**Reed**&nbsp;and&nbsp;**Grossi,****Hookers & Blow's**&nbsp;current line-up includes&nbsp;**Johnny Kelly (Type O Negative, Danzig**),&nbsp;**Robbie Crane (Black Star Riders)**&nbsp;and&nbsp;**Nadja Reed.**
+
+The band has entered the studio in 2019 for several sessions to produce their debut album, covering a wide variety of rock songs. We can't wait to release this album in early 2020.
