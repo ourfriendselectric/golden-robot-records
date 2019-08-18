@@ -24,7 +24,7 @@ buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-10.png
     url: 'http://store.socialfamilyrecords.com/index.php/artists/the-lazys.html'
-hero_path: /images/Screen Shot 2018-11-23 at 6.51.21 pm.png
+hero_path: /uploads/the-lazys-1.jpg
 albums:
   - image_path: /images/the lazys tile copy.jpg
     image_url:
