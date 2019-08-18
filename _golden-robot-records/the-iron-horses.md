@@ -56,3 +56,5 @@ Ciaran Loughran: Guitars
 Peter Holt: Drums
 
 Rahul Ranjit: Bass
+
+As of mid-2019 the Iron Horses morphed into another band leaving the legacy of the original band safely in the hands of Golden Robot Records. The three singles that we released - Salvation, Traffic and April Rain - are a lasting legacy for what the band could have been. Golden Robot Records could not be prouder of these three songs.
