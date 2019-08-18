@@ -10,7 +10,7 @@ instagram_url: 'https://www.instagram.com/thekidspunkrock/'
 spotify_url: >-
   https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR?si=0Bd69FOVS3K-G6UsC9-1Zw
 apple_url: >-
-  https://itunes.apple.com/au/album/i-just-wanna-be-happy-radio-edit/1390447119?i=1390447120
+  https://music.apple.com/lu/album/i-thought-my-family-was-rich-single/1473583783
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
 buy_now:
   - name:
