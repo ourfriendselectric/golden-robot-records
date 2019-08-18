@@ -61,12 +61,6 @@ With the release of Tropical Hazard, the band’s rock odyssey is taking them ac
 
 “I want people to leave feeling entertained,” says Matty. “I want them to leave thinking that was the best rock show they’ve ever seen. To leave sweaty, dirty, horny\!”
 
-Leon Harrison - Vocals
+The Lazys have spent most of 2019 touring across Europe and Canada, playing everwhere from sold ut clubs to festivals in Germany and Spain, with crowd numbers increasing every time they go back to the same city. With true Aussie rock lineage to the likes of Cold Chisel, AC/DC and Midnight Oil, these crazy Aussies, now living in Canada, are the truest essence of rock n roll.
 
-Matty Morris - Lead Guitar
-
-Glenn Williams - Bass
-
-Liam Shearer - Rhythm Guitar
-
-Andy Nielsen - Drums
+They won't stop until they're the leaders of the pack. The good news is the boys are working on new material and you'll be able to hear their new tunes in 2020 on Golden Robot Records.
