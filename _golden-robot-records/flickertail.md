@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/flicker tile 7 copy.jpg
+image_path: /uploads/flickertail-03-jpg.jpg
 name: Flickertail
 sort_number: 24
 hidden: false
@@ -22,16 +22,16 @@ buy_now:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-14.png
     url: >-
       http://store.socialfamilyrecords.com/index.php/artists/flickertail/flickertail-hurry-up-and-wait-cd.html
-hero_path: /uploads/flickertail cover photo copy.jpg
+hero_path: /uploads/flickertail-04-jpg.jpg
 albums:
-  - image_path: /uploads/screen-shot-2019-03-01-at-12-03-59-pm.png
+  - image_path: /uploads/flickertail-rbte-3000x3000-1.jpg
     image_url: >-
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/flickertail-hurry-up-and-wait-cd.html
-  - image_path: /uploads/flicker tile 2 copy.jpg
+  - image_path: /uploads/flickertail-2.jpg
     image_url:
   - image_path: /uploads/flicker tile 1 copy.jpg
     image_url:
-  - image_path: /uploads/flicker tile 7 copy.jpg
+  - image_path: /uploads/flickertail-1.jpg
     image_url:
 _type: golden-robot-records
 _options:
