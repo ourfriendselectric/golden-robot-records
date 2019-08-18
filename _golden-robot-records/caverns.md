@@ -57,4 +57,4 @@ The world is eagerly anticipating Caverns’ official debut.
 
 Atwood Magazine has described them as an&nbsp; “…authentically raw and cinematic listening experience."
 
-Look out for Caverns debut EP out everywhere this fall on Golden Robot Records.
+Look out for Caverns debut EP and singles out across the globe in 2020 on Golden Robot Records.
