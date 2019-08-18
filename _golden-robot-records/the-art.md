@@ -51,4 +51,4 @@ Kara Jayne - Bass and vocals
 
 Jordan McDonald- Drums
 
-Golden Robot and The Art are looking at releasing new music together in 2020 to finish what they started as this is a band that could take it all the way.
+Golden Robot and The Art are planning to release new music together in 2020 to finish what they started as this is a band that could take it all the way.
