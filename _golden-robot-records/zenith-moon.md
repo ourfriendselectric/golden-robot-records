@@ -48,3 +48,5 @@ Zenith Moon is the collaborative efforts of fretboard nomad Matt (guitar), astro
 But the one thing that unites them all is a motivating desire to express themselves as honestly as they know how.
 
 They’re here to lighten the mood, make you cry, make you dance, and most of all, make you nod your head up and down while you say "Mmmm, that’s the stuff".
+
+Golden Robot Records wanted to sign Zenith Moon as they could see a raw na&iuml;vety coupled with a huge amount of rock and feeling and know their future is bright. The band is currently finishing a brilliant debut EP that will be released on Golden Robot Records in late 2019 – try and catch them playing live in the meantime.
