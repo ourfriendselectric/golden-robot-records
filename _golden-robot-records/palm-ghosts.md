@@ -57,6 +57,6 @@ England’s&nbsp;*Dancing About Architecture*&nbsp;said the record is*&nbsp;“A
 
 Germany’s*&nbsp;Jammerzine&nbsp;*&nbsp;said Architecture was*&nbsp;“Tight in execution and filled with relevant ambiance, Nashville’s own Palm Ghosts deliver a solidly retro-modern album in the form of ‘Architecture’. designed with&nbsp; an electric style symphony of sound and a penchant for that left of center vibe that only comes with future masterpieces, Palm Ghosts give the masses an album rife with creativity and abound with aural astonishment. Bravo\!”*
 
-The band is currently hard at work preparing new music for release this summer on Golden Robot Records.&nbsp;
+The band is currently hard at work preparing new music for release this summer on Golden Robot Records, after just releasing the fabulous single” Better to know” and planning for several more by years end.
 
 Palm Ghosts is Joseph Lekkas, Ben Douglas, Jason Springman and Rene Lambert.
