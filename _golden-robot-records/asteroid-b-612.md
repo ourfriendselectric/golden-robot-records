@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/asteroid-b612-2.jpg
 name: Asteroid B-612
-sort_number: 10
-hidden: true
+sort_number: 14
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
