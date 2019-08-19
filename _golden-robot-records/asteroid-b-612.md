@@ -7,18 +7,18 @@ hidden: true
 twitter_url:
 facebook_url:
 instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+spotify_url: 'https://open.spotify.com/artist/2qFkeyHvYXWzCbYamGnwkB'
+apple_url: 'https://itunes.apple.com/au/artist/asteroid-b-612/282115118'
+youtube_url: 'https://www.youtube.com/watch?v=dCxpm0patLY'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://itunes.apple.com/au/artist/asteroid-b-612/282115118'
 hero_path: /uploads/asteroid-b612-1.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/asteroid-b612-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/asteroid-b612-4.jpg
     image_url:
   - image_path:
     image_url:
