@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/asteroid-b612-2.jpg
 name: Asteroid B-612
 sort_number: 10
 hidden: true
@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/asteroid-b612-1.jpg
 albums:
   - image_path:
     image_url:
@@ -43,7 +43,7 @@ _options:
 
 Asteroid B-612 were an Australian hard rock band, which formed in 1992. They released four studio albums, *Asteroid B-162* (1993), *Forced into a Corner* (1994), *Not Meant for this World* (October 1996) and *Readin' Between the Lines* (2000), before disbanding in 2004.
 
-The band's line-up of Michael Gibbons on guitar, Grant McIver on lead vocals, Scott Nash on bass guitar, Darren Pierce on drums and John Spittles on guitar, According to Australian musicologist, Ian McFarlane, they were "playing its brand of hard-edged Detroit-inspired 'sonic rock action'... Without falling prey to the pitfalls of such an established form, the band overlaid its bedrock of raunchy 12 bar blues with textbook riffs and searing, dual lead guitar workouts."
+The band's line-up of Michael Gibbons on guitar, Grant McIver on lead vocals, Scott Nash on bass guitar, Darren Pierce on drums and John Spittles on guitar, According to Australian musicologist, Ian McFarlane, they were "playing its brand of hard-edged Detroit-inspired 'sonic rock action'… Without falling prey to the pitfalls of such an established form, the band overlaid its bedrock of raunchy 12 bar blues with textbook riffs and searing, dual lead guitar workouts."
 
 By late 1994 Stewart Cunningham (ex-the Proton Energy Pills, Brother Brick) had replaced Gibbons on guitar and Ben Fox replaced Pierce on drums to record their second album, *Forced into a Corner*. It was co-produced by Spittles, Lindsay Gravina and Dave Thomas for Destroyer Records, distributed by Shock Records, at Birdland Studios, Melbourne. The group signed with Melbourne-based label, Au Go Go Records, which issued their five-track extended play, *Teen Sublimation Riffs*, in 1995. The group toured the United States supporting garage rockers, Gas Huffer – Cunningham left in mid-tour – late in 1996.
 
