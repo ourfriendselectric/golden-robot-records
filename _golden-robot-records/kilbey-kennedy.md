@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/kibey kennedy both copy.jpg
 name: Kilbey Kennedy
-sort_number: 29
+sort_number: 43
 hidden: false
 twitter_url: 'https://twitter.com/KilbeyKennedy'
 facebook_url: 'https://www.facebook.com/kilbeykennedy/?tn-str=k*F'
