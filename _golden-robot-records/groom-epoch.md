@@ -19,7 +19,7 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2368232/Solar_Warden'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-12.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/groom-epoch.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/groom-epoch'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg
