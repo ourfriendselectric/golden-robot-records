@@ -50,3 +50,5 @@ Their first album, “Oll Korrect”, recorded at the iconic Rancho De La Luna i
 Lyrically, the album reflects a weathered and wise experience, in-keeping with its backdrop. Sitting in front of the listener, the story offers both heartbreak and freedom. The narrative of deeply personal stories of perseverance result in vocals that range from wrought cathartic outpourings to exorcise past demons to defiant lived-experiences, and visceral admonishments.
 
 A truly dynamic first work, the spine of its limited edition vinyl reads “Acre One”, leaving its rabid audience wondering what the second Acre has in store.
+
+After a vinyl only release, available only to those who knew where to find them, Bone Acre has decided to lift their veil of mystery and show the world their debut album “Oll Korrect” through Bread and Butter Records. The Band are currently working on their second album, alongside a short film to accompany the album.&nbsp;
