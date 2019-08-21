@@ -13,9 +13,9 @@ apple_url: >-
   https://music.apple.com/lu/album/i-thought-my-family-was-rich-single/1473583783
 youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
 buy_now:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-22.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-kids.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-kids'
 hero_path: /uploads/the-kids-01.jpg
 albums:
   - image_path: /uploads/the-kids-03.jpg
