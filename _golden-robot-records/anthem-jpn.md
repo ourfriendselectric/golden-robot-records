@@ -13,8 +13,7 @@ youtube_url:
 buy_now:
   - name: GRGE Online Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-15.png
-    url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
+    url: 'https://store.goldenrobotrecords.com/browse/anthem/products/nuceus-cd'
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png
