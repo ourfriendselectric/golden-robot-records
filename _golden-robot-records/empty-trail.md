@@ -13,7 +13,8 @@ youtube_url: 'https://www.youtube.com/channel/UCp0vWRjybRLXvWR4s3vis3g'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: >-
+      https://store.goldenrobotrecords.com/browse/empty-trail/products/compass-tee
 hero_path: /uploads/emptytrail-logo-vertical-transwhite.png
 albums:
   - image_path: /uploads/image-2019-04-29-1.jpg
