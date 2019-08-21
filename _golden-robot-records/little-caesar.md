@@ -23,7 +23,8 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2365251/Eight'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-3.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/little-ceasar.html'
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/little-caesar
 hero_path: /uploads/little caesar cover copy.jpg
 albums:
   - image_path: /uploads/Little Caesar - Eight 600px.jpeg
