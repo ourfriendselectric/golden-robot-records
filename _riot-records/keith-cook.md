@@ -46,4 +46,27 @@ Keith Cook has been playing in bands since 1997. He was the guitarist for the pr
 
 Now as a solo artist he’s preparing to release his new albums backed by players from incredible bands such as The Stooges, Nirvana, Wipers, Flipper, Dick Dale and the Del-Tones, The Sonics , Germs and many more.&nbsp;
 
-Riot Records is more than proud to give Keith an outlet for his incredible talents. Stay tuned for some killer punk rock releases.
+Riot Records is more than proud to give Keith an outlet for his incredible talents. His next album, titled RockNRoll Riot, will be out in late 2019 / early 2020 and will feature members of the following bands:
+
+> Dave Foster (Nirvana) drums on Cease & Never Equate
+>
+>
+> Chris (Criss Crass) Utting (the Muffs,the Vains, Wayne/Jayne County) drums on Child's Play, Activational Love, & For Times
+>
+>
+> Aaron Burckhard ( Nirvana) drums on Northwest Custom Framing, Buzzards, When I Believed, Buzzards & RockNRoll Riot
+>
+>
+> Travis McNabb (the Wipers, Better than Ezra) drums on Home Is
+>
+>
+> Kera Schaley (Nirvana) cello on Home Is
+>
+>
+> Steve Mackay (The Stooges, Violent Femmes) sax on Home Is, RockNRoll Riot, When I Believed,&nbsp;
+>
+>
+> Steve Fisk (Pigeonhed, Pell Mell) Producer, Keyboard on Home Is & RockNRoll Riot
+>
+>
+> Kirk Heydt (Flipper, Pop O Pies) Electric Cello on RockNRoll Riot, When I Believed
