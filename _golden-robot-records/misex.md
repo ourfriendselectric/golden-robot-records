@@ -23,7 +23,7 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-4.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/mi-sex.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/mi-sex'
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
