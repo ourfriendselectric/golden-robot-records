@@ -11,9 +11,9 @@ spotify_url: 'https://open.spotify.com/artist/4Xi3yYIlYSwiLuIAeWpL1O'
 apple_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 youtube_url: 'https://www.youtube.com/user/ViewTheArt'
 buy_now:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-7.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-art.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-art'
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
