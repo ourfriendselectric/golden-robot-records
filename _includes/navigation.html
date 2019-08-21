@@ -4,30 +4,32 @@
 
       <a class="navbar-brand logo-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}">
         {% if page.items == "golden-robot-records" or page._type == "golden-robot-records" %}
-          <div class="logo">{% include logos/golden-robot-records.html %}</div>
+        <div class="logo">{% include logos/golden-robot-records.html %}</div>
 
         {% elsif page.items == "riot-records" or page._type == "riot-records" %}
-          <div class="logo">{% include logos/riot-records.html %}</div>
+        <div class="logo">{% include logos/riot-records.html %}</div>
 
         {% elsif page.items == "x-ray-records" or page._type == "x-ray-records" %}
-          <div class="logo">{% include logos/x-ray-records.html %}</div>
+        <div class="logo">{% include logos/x-ray-records.html %}</div>
 
         {% elsif page.items == "social-family-records" or page._type == "social-family-records" %}
-          <div class="logo">{% include logos/social-family-records.html %}</div>
+        <div class="logo">{% include logos/social-family-records.html %}</div>
 
         {% elsif page.items == "bread-and-butter-records" or page._type == "bread-and-butter-records" %}
-          <div class="logo"><img src="/images/logos/bread-and-butter-records.png" /></div>
+        <div class="logo"><img src="/images/logos/bread-and-butter-records.png" /></div>
 
         {% elsif page.items == "scratches-records" or page._type == "scratches-records" %}
-          <div class="logo"><img src="/images/logos/scratches-records.jpg" /></div>
+        <div class="logo"><img src="/images/logos/scratches-records.jpg" /></div>
 
         {% else %}
-          <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
+        <div class="logo">{% include logos/golden-robot-records-entertainment.html %}</div>
 
         {% endif %}
       </a>
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-toggle="collapse"
+        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -35,22 +37,42 @@
 
         <ul class="navbar-nav ml-auto">
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Labels
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden Robot Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link social-family-records.html %}">Social Family Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link riot-records.html %}">Riot Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link scratches-records.html %}">Scratches Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link bread-and-butter-records.html %}">Bread and Butter Records</a>
-              <a class="dropdown-item" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link golden-robot-records.html %}">Golden
+                Robot Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link social-family-records.html %}">Social
+                Family Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link riot-records.html %}">Riot
+                Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link scratches-records.html %}">Scratches
+                Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link bread-and-butter-records.html %}">Bread
+                and Butter Records</a>
+              <a class="dropdown-item"
+                href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link x-ray-records.html %}">X-Ray
+                Records</a>
             </div>
           </li>
-          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link rocknfood.html %}">Rock n Food</a></li>
-          <li class="nav-item"><a class="nav-link" href="http://store.socialfamilyrecords.com/">Store</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link contact.html %}">Contact</a></li>
+          <li class="nav-item"><a class="nav-link"
+              href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link catalogue.html %}">Catalogue</a>
+          </li>
+          <li class="nav-item"><a class="nav-link"
+              href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link rocknfood.html %}">Rock
+              n Food</a></li>
+          <li class="nav-item"><a class="nav-link"
+              href="https://store.goldenrobotrecords.com">Store</a></li>
+          <li class="nav-item"><a class="nav-link"
+              href="{{ site[jekyll.environment].url }}{{ site.baseurl }}{% link contact.html %}">Contact</a>
+          </li>
         </ul>
 
       </div>
