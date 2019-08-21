@@ -17,6 +17,10 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2342734'
+  - name: Official Store
+    logo_path:
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/the-cherry-dolls
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
