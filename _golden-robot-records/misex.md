@@ -21,7 +21,7 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-4.png
     url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/mi-sex'
 hero_path: /images/mi-sex cover copy.jpg
