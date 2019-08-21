@@ -13,7 +13,8 @@ youtube_url: 'https://www.youtube.com/channel/UCSWPWiAQEvZkZk_lf5D_lLw'
 buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-20.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/matt-scullion.html'
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/matt-scullion
 hero_path: /uploads/matt-scull-cover-copy.jpg
 albums:
   - image_path: /uploads/mattscullion-ijas-600px.jpeg
