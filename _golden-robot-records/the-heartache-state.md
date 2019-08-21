@@ -19,10 +19,10 @@ buy_now:
     logo_path: /uploads/logos/sanity.png
     url: >-
       https://www.sanity.com.au/products/2294288/Heartache_State_-_Heartache_State
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-8.png
     url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/the-heartache-state.html
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/the-cherry-dolls
 hero_path: /uploads/ths-cover-copy.jpg
 albums:
   - image_path: /uploads/ths-tile-3-copy.jpg
