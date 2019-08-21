@@ -14,7 +14,7 @@ youtube_url: 'https://www.youtube.com/channel/UC0LpTAUIQO2XDioxfoYI1Ow'
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/jailbirds'
 hero_path: /uploads/JB cover copy.jpg
 albums:
   - image_path: /images/JB tile copy.jpg
