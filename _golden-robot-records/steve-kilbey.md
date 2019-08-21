@@ -11,9 +11,10 @@ spotify_url: 'https://open.spotify.com/artist/6ysAnNqgSIZvZkQY597Bk0'
 apple_url: 'https://itunes.apple.com/au/album/sydney-rococo/1438213222'
 youtube_url: 'https://www.youtube.com/channel/UCzb3iNZaFtaOHC65w06hAIQ'
 buy_now:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-6.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/steve-kilbey.html'
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/steve-kilbey
   - name:
     logo_path:
     url:
