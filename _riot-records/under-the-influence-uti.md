@@ -11,10 +11,10 @@ spotify_url: 'https://open.spotify.com/artist/0UxmP5p9gy58XM8un6j1yU'
 apple_url: 'https://music.apple.com/us/album/exchange-my-brain/1458403773'
 youtube_url:
 buy_now:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-25.png
     url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/under-the-influence.html
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/under-the-influence
 hero_path: /uploads/screen-shot-2019-04-11-at-10-03-55-am.png
 albums:
   - image_path: /uploads/image-2019-04-11-3-1.jpg
