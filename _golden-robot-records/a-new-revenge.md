@@ -13,10 +13,11 @@ youtube_url: 'https://www.youtube.com/watch?v=JLP3US8M3DA'
 buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/a-new-revenge
   - name:
     logo_path:
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/a-new-revenge.html'
+    url:
 hero_path: /uploads/screen-shot-2018-11-27-at-3-33-26-pm.png
 albums:
   - image_path: /uploads/anr-group-shot-edit1.jpeg
