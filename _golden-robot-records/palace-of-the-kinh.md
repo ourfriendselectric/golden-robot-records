@@ -18,10 +18,10 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2366911/Get_Right_With_Your_Maker'
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-5.png
     url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/palace-of-the-king.html
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/palace-of-the-king
 hero_path: /images/POTK cover.jpg
 albums:
   - image_path: /images/POTK-Cover 600px.jpeg
