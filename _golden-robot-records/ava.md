@@ -13,16 +13,16 @@ youtube_url:
 buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-26.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/ava.html'
+    url:
 hero_path: /uploads/image-2019-04-15.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/ava-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/ava-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/ava-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/ava-4.jpg
     image_url:
 _type: golden-robot-records
 _options:
