@@ -18,6 +18,9 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2367968/Blood_Brothers_-_Reissue'
+  - name:
+    logo_path:
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/rose-tattoo'
 hero_path: /images/rose tatt cover.png
 albums:
   - image_path: /images/Screen Shot 2018-11-15 at 4.31.46 pm.png
