@@ -22,7 +22,7 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2356856/Rock_n_Roll_Aint_Easy'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-2.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/dizzy-read.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/dizzy-read'
 hero_path: /uploads/screen-shot-2018-11-27-at-6-06-51-pm.png
 albums:
   - image_path: /uploads/screen-shot-2018-12-13-at-11-35-09-am-2.png
