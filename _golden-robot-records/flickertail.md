@@ -20,8 +20,7 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2366447/Hurry_Up_And_Wait'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-14.png
-    url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/flickertail/flickertail-hurry-up-and-wait-cd.html
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/flickertail'
 hero_path: /uploads/flickertail-04-jpg.jpg
 albums:
   - image_path: /uploads/flickertail-rbte-3000x3000-1.jpg
