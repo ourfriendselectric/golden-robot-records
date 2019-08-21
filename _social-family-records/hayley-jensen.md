@@ -13,7 +13,8 @@ youtube_url: 'https://www.youtube.com/user/TheHayleyJensen?pbjreload=10'
 buy_now:
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-18.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/hayley-jensen.html'
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/hayley-jensen
 hero_path: /uploads/hayley-jensen---album-promo-shot-web.jpeg
 albums:
   - image_path: /uploads/hayley-jensen---turning-up-the-dial---500px.jpeg
@@ -45,9 +46,9 @@ Hayley’s first taste of fame came after placing 4th in Australian Idol (2004) 
 
 "*Making music and performing is all I ever wanted to do. As far back as I can remember I was always whistling, harmonizing and making up melodies. I grew up listening mostly to Country-pop music like Shania Twain, Jewel, Sarah McLachlan, and my parents’ favourites, Fleetwood Mac and The Eagles, but I loved all types. I dreamed that one day I would be the superstar in the music video shows and got up early every weekend to watch them and imagine it was me. Then a little show called Idol emerged, and ignited a fire within*."
 
-Since Idol, she has worked tirelessly and forged a successful career in the music industry. From starting her own label, performing for the Prime Minister, mentoring aspiring artists in the Solomon Islands, to entertaining coalition forces in the Middle East with the Australian Defence Force, she has certainly covered some ground! Not to mention the thousands of shows and high profile corporate gigs she’s performed at or hosted across the country.
+Since Idol, she has worked tirelessly and forged a successful career in the music industry. From starting her own label, performing for the Prime Minister, mentoring aspiring artists in the Solomon Islands, to entertaining coalition forces in the Middle East with the Australian Defence Force, she has certainly covered some ground\! Not to mention the thousands of shows and high profile corporate gigs she’s performed at or hosted across the country.
 
-Over the past decade or so, Hayley has worked with some of the top producers in music, and in 2006 released her debut EP ‘Alive’ which hit #2 in Australian Independent Records (AIR) charts & #20 on the ARIA Australasian Singles charts. Hayley’s debut album ‘Note to Self’, was brought to life by an ARIA & Golden Guitar winning producer and released in 2007.
+Over the past decade or so, Hayley has worked with some of the top producers in music, and in 2006 released her debut EP ‘Alive’ which hit \#2 in Australian Independent Records (AIR) charts & \#20 on the ARIA Australasian Singles charts. Hayley’s debut album ‘Note to Self’, was brought to life by an ARIA & Golden Guitar winning producer and released in 2007.
 
 Follow up singles ‘Stronger’ & ‘Waste Away’ both experienced successful national radio campaigns and the music videos were broadcast nationally on ‘Video Hits’ and ‘Rage’ music TV shows.
 
@@ -55,31 +56,31 @@ In 2011 Hayley worked with award winning producer Lindsay Rimes at SongRimes Stu
 
 In 2014, Hayley auditioned for The Voice Australia, making an unforgettable return to the small screen. Will.i.Am described her rendition of Zoe Badwi’s ‘Freefallin’ as ‘flawless’ and Kylie Minogue described Hayley as ‘the whole package’.
 
-"*I have grown so much as an artist since Idol and really wanted an opportunity to share that with people – to reconnect with fans and friends from that time (remember there was no Facebook then!), and to hopefully make some new fans along the way*!"
+"*I have grown so much as an artist since Idol and really wanted an opportunity to share that with people – to reconnect with fans and friends from that time (remember there was no Facebook then\!), and to hopefully make some new fans along the way*\!"
 
-The performance and what was to follow dominated mainstream media for the next week, with Joel Maddens impressive ‘free-fall’ from his spinning coaches chair all over the news across the globe. Hayley joined Team Kylie and even had coaching advice from superstar Katy Perry on the next ‘Battle Round’ performance of ‘Roar’. Although not giving up without a fight, Hayley graciously bowed out of the competition at this stage. The YouTube video for her performance of ‘Freefallin’ has now amassed almost 2 million views and deemed the #1 chair turn of all time on the show.
+The performance and what was to follow dominated mainstream media for the next week, with Joel Maddens impressive ‘free-fall’ from his spinning coaches chair all over the news across the globe. Hayley joined Team Kylie and even had coaching advice from superstar Katy Perry on the next ‘Battle Round’ performance of ‘Roar’. Although not giving up without a fight, Hayley graciously bowed out of the competition at this stage. The YouTube video for her performance of ‘Freefallin’ has now amassed almost 2 million views and deemed the \#1 chair turn of all time on the show.
 
 Toward the end of 2015, Hayley knew it was time. She sat down with her piano and began writing from her heart once more. An experience that guided her back to her Country roots.
 
 Returning to work with her very first producer, Matt Fell, Hayley recorded her second solo album, and released her first solo single in 8 years, ‘The One’ at the Tamworth Country Music Festival. Performing a number of shows at her first ever TCMF, including supporting the legendary James Blundell, Hayley was also a Finalist in Toyota Starmaker, previously won by country superstar Keith Urban.
 
-‘The One’ gained serious traction on country radio stations across the nation, reaching #1 on the Australian Country Radio Charts. The happy, summery music video accompanying the track continued to move up the Country Music Chanel’s Top 40 charts for 5 months after its initial release, proving that Hayley has found great support and a loyal home for her new music in the Australian music industry.
+‘The One’ gained serious traction on country radio stations across the nation, reaching \#1 on the Australian Country Radio Charts. The happy, summery music video accompanying the track continued to move up the Country Music Chanel’s Top 40 charts for 5 months after its initial release, proving that Hayley has found great support and a loyal home for her new music in the Australian music industry.
 
-Hayley’s follow up single, ‘I’ll Always Love You’ was co-written with Nashville based, #1 Billboard charting songwriter, Phil Barton, and digitally released on the 3rd June, her Father’s birthday, in memory of him. Hayley’s Dad sadly and suddenly passed away from a rare type of Non-Hodgkin’s Lymphoma only two months earlier, and Hayley had cared for him during this time.
+Hayley’s follow up single, ‘I’ll Always Love You’ was co-written with Nashville based, \#1 Billboard charting songwriter, Phil Barton, and digitally released on the 3rd June, her Father’s birthday, in memory of him. Hayley’s Dad sadly and suddenly passed away from a rare type of Non-Hodgkin’s Lymphoma only two months earlier, and Hayley had cared for him during this time.
 
-"*He loved my music and was my biggest supporter. He always thought I should have more success than I’ve had so far. I just want to continue to make him proud, and to prove him right*!"
+"*He loved my music and was my biggest supporter. He always thought I should have more success than I’ve had so far. I just want to continue to make him proud, and to prove him right*\!"
 
-The beautiful love song roared up the iTunes Country charts on the night of its release to reach #2, second only to Keith Urban’s commercial smash hit ‘Fighter’.
+The beautiful love song roared up the iTunes Country charts on the night of its release to reach \#2, second only to Keith Urban’s commercial smash hit ‘Fighter’.
 
 Hayley has since been invited to become an Ambassador for the Albury Wodonga Regional Cancer Centre Trust Fund, an honour that she is incredibly proud of.
 
-Hayley’s next solo album ‘Past Tense and Present Peace’ was released in February 2017 and debuted as #1 on the iTunes album chart.
+Hayley’s next solo album ‘Past Tense and Present Peace’ was released in February 2017 and debuted as \#1 on the iTunes album chart.
 
 "*The songs on‘Past Tense & Present Peace’ are incredibly personal to me. Often, in the past, I’ve written about something/someone else or a hypothetical situation, but these songs are all from a very raw and honest place. They are my stories. To be truthful, it’s really quite scary putting them out there in the big wide world. I feel extremely vulnerable, but I know that the experiences I’ve been through and the lessons I’ve learned are not just for me. As a singer-songwriter, I feel a responsibility to share these stories and hopefully resonate enough to connect, help and inspire others*."
 
 Hayley’s work in the country music field has been rewarded with a Southern Stars ‘Rising Female Artist’ Award and a Top 5 finalist position at the 2018 Country Music Channel (CMC) Awards for ‘New Artist of the Year’.
 
-Off the back of these outstanding achievements, Hayley has also signed with Social Family Records with whom she has released her brand-new album ‘Turning Up The Dial’ in May 2018. The album was the 3rd highest selling Australian Country Album according to ARIA, and the 2nd highest selling digital album on iTunes Country charts, amongst the esteemed company of country icons, Keith Urban and Kasey Chambers. ‘Turning Up The Dial’ also hit #16 in the ARIA Australian Albums (all genre) Charts.
+Off the back of these outstanding achievements, Hayley has also signed with Social Family Records with whom she has released her brand-new album ‘Turning Up The Dial’ in May 2018. The album was the 3rd highest selling Australian Country Album according to ARIA, and the 2nd highest selling digital album on iTunes Country charts, amongst the esteemed company of country icons, Keith Urban and Kasey Chambers. ‘Turning Up The Dial’ also hit \#16 in the ARIA Australian Albums (all genre) Charts.
 
 In a recent review by Country Music Capital News it was said, “*Hayley Jensen takes it up a notch in this album. It’s country pop vibes reflect the vivacious and charismatic nature of this established artist and showcases her superior vocal talents*.”
 
@@ -97,14 +98,14 @@ Hayley released her third single of the album, titled ‘Forever Wont Be Long En
 
 The fourth single from Turning Up the Dial, This Love, was released in November 2018.
 
-**Buy Turning Up The Dial on digital or CD here**:  [http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
+**Buy Turning Up The Dial on digital or CD here**\: &nbsp;[http://smarturl.it/Get-TurningUpTheDial](http://smarturl.it/Get-TurningUpTheDial){: target="_blank"}
 
- 
+&nbsp;
 
 ## **FOLLOW SOCIAL FAMILY RECORDS:**
 
-[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}     [Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}     [Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}      [Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
+[Facebook](https://www.facebook.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Insta](https://www.instagram.com/socialfamilyrecords/){: target="_blank"}&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/SocialFamilyREC){: target="_blank"}&nbsp; &nbsp; &nbsp;&nbsp;[Spotify](https://open.spotify.com/user/socialfamilyrecords?si=kkmIcbpBQOmr6Cs9s_N7Sg){: target="_blank"}
 
- 
+&nbsp;
 
 ## **FOLLOW HAYLEY JENSEN:**
