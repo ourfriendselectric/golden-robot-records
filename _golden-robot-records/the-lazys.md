@@ -21,9 +21,9 @@ buy_now:
   - name: Sanity
     logo_path: uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2368231/Tropical_Hazards'
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-10.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-lazys.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-lazys'
 hero_path: /uploads/the-lazys-1.jpg
 albums:
   - image_path: /images/the lazys tile copy.jpg
