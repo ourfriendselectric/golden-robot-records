@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/asteroid-b612-2.jpg
+image_path: /uploads/asteroid-b612-02-1.jpg
 name: Asteroid B-612
 sort_number: 14
 hidden: false
@@ -16,13 +16,13 @@ buy_now:
     url: 'https://itunes.apple.com/au/artist/asteroid-b-612/282115118'
 hero_path: /uploads/asteroid-b612-1.jpg
 albums:
-  - image_path: /uploads/asteroid-b612-3.jpg
+  - image_path: /uploads/asteroid-b612-03-1.jpg
     image_url:
   - image_path: /uploads/asteroid-b612-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/asteroid-b612-04-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/asteroid-b612-5.jpg
     image_url:
 _type: golden-robot-records
 _options:
