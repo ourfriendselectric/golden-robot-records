@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/the-vendettas-5.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-vendettas-7.jpg
     image_url:
 _type: golden-robot-records
 _options:
