@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/the-vendettas-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-vendettas-5.jpg
     image_url:
   - image_path:
     image_url:
