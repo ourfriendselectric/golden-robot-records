@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path: /uploads/the-vendettas-4.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/the-vendettas-02-jpg.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-vendettas-3.jpg
     image_url:
   - image_path:
     image_url:
