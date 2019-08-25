@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/groom-epoch-1.jpg
+image_path: /uploads/groom-epoch-2.jpg
 name: Groom Epoch
 sort_number: 37
 hidden: false
@@ -48,7 +48,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Embraced internationally, Groom Epoch, a creative platform for former Church drummer, Richard Ploog, are about to release their third album, Initiation. Fellow mainstay musicians, Phil Hall, Brett Myers, John Hoey, Cub Calloway with guesting from Amanda Brown are responsible for Grom Epoch's shimmering sound.
+Embraced internationally, Groom Epoch, a creative platform for former Church drummer Richard Ploog, are about to release their third album, Initiation. Fellow mainstay musicians, Phil Hall, Brett Myers, John Hoey, Cub Calloway with guesting from Amanda Brown are responsible for Grom Epoch's shimmering sound.
 
 This eclectic group has remained under the radar doing select shows but have taken a full about face to expose themselves to a greater global audience through the release of their second album on Golden Robot Records, Solar Warden.
 
