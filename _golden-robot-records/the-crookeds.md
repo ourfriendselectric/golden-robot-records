@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/the-crookeds-band-shot-field.jpg
+hero_path: /uploads/the-crookeds-3.jpg
 albums:
   - image_path: /uploads/crookeds-aaron.jpg
     image_url:
