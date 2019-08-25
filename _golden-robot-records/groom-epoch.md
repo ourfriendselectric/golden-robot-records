@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/groom epoch tile copy.jpg
+image_path: /uploads/groom-epoch-1.jpg
 name: Groom Epoch
 sort_number: 37
 hidden: false
