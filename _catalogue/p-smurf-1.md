@@ -1,5 +1,5 @@
 ---
-image_path: /uploads/psmurf-ep-thestorysofar-front-cover.jpg
+image_path: /uploads/psmurf-ep-thestorysofar-front-cover-1.jpg
 hidden: false
 sort_number: 201
 name: P.Smurf
