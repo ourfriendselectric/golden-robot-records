@@ -1,6 +1,6 @@
 ---
 image_path: /uploads/psmurf-ep-thestorysofar-front-cover.jpg
-hidden: true
+hidden: false
 sort_number: 201
 name: P.Smurf
 album_name: The Story So Far (SR - EP)
