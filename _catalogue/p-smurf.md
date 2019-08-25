@@ -1,6 +1,6 @@
 ---
 image_path: /uploads/look-out-for-scratches---single-cover.jpg
-hidden: true
+hidden: false
 sort_number: 200
 name: P.Smurf
 album_name: Look Out for Scratches (SR - Single)
