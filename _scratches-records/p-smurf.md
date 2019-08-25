@@ -9,7 +9,7 @@ facebook_url: 'https://www.facebook.com/mcpsmurf/'
 instagram_url: 'https://www.instagram.com/mcpsmurf/'
 spotify_url: 'https://open.spotify.com/artist/6x6XutQGZMBO43omSJEdAu'
 apple_url: 'https://itunes.apple.com/au/artist/p-smurf/1313270185'
-youtube_url: 'https://www.youtube.com/user/BigVillageRecords'
+youtube_url: 'https://www.youtube.com/scratchesrecords'
 buy_now:
   - name: Official Store
     logo_path:
