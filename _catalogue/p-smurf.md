@@ -4,7 +4,7 @@ hidden: true
 sort_number: 200
 name: P.Smurf
 album_name: Look Out for Scratches (SR - Single)
-album_url: 'http://goldenrobotrecords.com/'
+album_url: 'http://smarturl.it/lookoutforscratches'
 _hide_content: true
 _options:
   image_path:
