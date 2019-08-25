@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/crookeds-band-shot.jpg
+image_path: /uploads/the-crookeds-1.jpg
 name: The Crookeds
 sort_number: 28
 hidden: false
