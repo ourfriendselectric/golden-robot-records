@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path: /uploads/the-blurters-5.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/the-blurters-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-blurters-4.jpg
     image_url:
   - image_path:
     image_url:
