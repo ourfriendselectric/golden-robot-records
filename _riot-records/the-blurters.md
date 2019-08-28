@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/the-blurters-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-blurters-logo-black.jpg
     image_url:
   - image_path:
     image_url:
