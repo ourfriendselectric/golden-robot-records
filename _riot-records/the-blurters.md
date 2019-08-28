@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/the-blurters-5.jpg
 albums:
   - image_path:
     image_url:
