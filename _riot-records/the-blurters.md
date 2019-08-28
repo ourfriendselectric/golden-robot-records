@@ -5,7 +5,7 @@ name: The Blurters
 sort_number: 6
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/theblurters'
 instagram_url:
 spotify_url:
 apple_url:
