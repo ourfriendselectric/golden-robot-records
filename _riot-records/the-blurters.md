@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/the-blurters-2.jpg
 name: The Blurters
 sort_number: 6
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
