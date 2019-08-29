@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/the-jailbirds-1.jpg
+hero_path: /uploads/the-jailbirds-10.jpg
 albums:
   - image_path: /uploads/the-jailbirds-7.jpg
     image_url:
