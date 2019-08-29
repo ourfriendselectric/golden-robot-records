@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/the-blurters-2.jpg
+image_path: /uploads/the-blurters-12.jpg
 name: The Blurters
 sort_number: 6
 hidden: false
