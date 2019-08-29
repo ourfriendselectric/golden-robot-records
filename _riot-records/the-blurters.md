@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/the-blurters-6.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/the-blurters-7.jpg
     image_url:
 _type: riot-records
 _options:
