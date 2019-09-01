@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/the-vendettas-4.jpg
+hero_path: /uploads/the-vendettas-9.jpg
 albums:
   - image_path: /uploads/the-vendettas-02-jpg.jpg
     image_url:
