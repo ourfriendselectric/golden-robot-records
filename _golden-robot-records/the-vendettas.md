@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/the-vendettas-8.jpg
+image_path: /uploads/the-vendettas-10.jpg
 name: The Vendettas
 sort_number: 38
 hidden: false
