@@ -45,4 +45,4 @@ Formed in 1996, The Blurters from Sydney Australia, play a scummy style of Aussi
 
 Their shows were hit and miss, more time was spent worrying about where the next score was coming from than how good the show was going to be. A bad show - they might have played three songs and walked off stage, too wasted to finish the set. A good show could mean a full house with fights, glass, blood and numerous trips to the hospital.&nbsp;
 
-After years of sold out CD and 7” releases, countless features on compilations around the world, including, Greasers Punks and Skins (Working Class Records. USA), Loved By Few Hated by Most (Kangaroo Records. Nehterlands), The Blurters finally present all their (s)hits on one slab of hot pink wax for your listening displeasure.
+After years of sold out CD and 7” releases, countless features on compilations around the world, including Greasers, Punks and Skins (Working Class Records, USA), Loved By Few Hated by Most (Kangaroo Records, Netherlands), The Blurters finally present all their (s)hits on one slab of hot pink wax for your listening displeasure on RIOT Records in Feb / March 2020.
