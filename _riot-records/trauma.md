@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/trauma-facebook-cover.png
 albums:
   - image_path: /uploads/trauma-01-png.jpg
     image_url:
