@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/trauma-01-png.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/trauma-03-png.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/trauma-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/trauma-05-png.jpg
     image_url:
 _type: riot-records
 _options:
