@@ -18,7 +18,7 @@ hero_path:
 albums:
   - image_path: /uploads/trauma-01-png.jpg
     image_url:
-  - image_path: /uploads/trauma-03-png.jpg
+  - image_path: /uploads/trauma-04-png-1.jpg
     image_url:
   - image_path: /uploads/trauma-2.jpg
     image_url:
