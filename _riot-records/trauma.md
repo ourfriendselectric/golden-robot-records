@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/trauma-04-png.jpg
+image_path: /uploads/trauma-03-png-1.jpg
 name: Trauma
 sort_number: 7
 hidden: false
