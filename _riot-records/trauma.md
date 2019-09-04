@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/trauma-04-png.jpg
 name: Trauma
 sort_number: 7
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
