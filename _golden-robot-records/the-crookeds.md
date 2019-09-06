@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/the-crookeds-5.png
+hero_path: /uploads/the-crookeds-8.png
 albums:
   - image_path: /uploads/crookeds-aaron.jpg
     image_url:
