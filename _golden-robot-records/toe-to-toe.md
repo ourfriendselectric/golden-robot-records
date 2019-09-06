@@ -15,9 +15,9 @@ buy_now:
   - name:
     logo_path:
     url:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-11.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/toe-to-toe.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/toe-to-toe'
 hero_path: /uploads/toe cover copy.jpg
 albums:
   - image_path: /images/TTT_CMYK-8PageBooklet FULL-1.jpg

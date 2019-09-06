@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2018-11-27-at-1-17-44-pm.png
 name: Fyre Byrd
-sort_number: 37
+sort_number: 42
 hidden: false
 twitter_url: 'https://twitter.com/fyrebyrdmusic'
 facebook_url: 'https://www.facebook.com/fyrebyrdmusic/'

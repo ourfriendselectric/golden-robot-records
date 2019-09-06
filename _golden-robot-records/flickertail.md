@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /uploads/flicker tile 7 copy.jpg
+image_path: /uploads/flickertail-03-jpg.jpg
 name: Flickertail
-sort_number: 38
+sort_number: 24
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/flickertailtheband/'
@@ -20,18 +20,17 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2366447/Hurry_Up_And_Wait'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-14.png
-    url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/flickertail/flickertail-hurry-up-and-wait-cd.html
-hero_path: /uploads/flickertail cover photo copy.jpg
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/flickertail'
+hero_path: /uploads/flickertail-04-jpg.jpg
 albums:
-  - image_path: /uploads/screen-shot-2019-03-01-at-12-03-59-pm.png
+  - image_path: /uploads/flickertail-rbte-3000x3000-1.jpg
     image_url: >-
       http://store.socialfamilyrecords.com/index.php/golden-robot-records/flickertail-hurry-up-and-wait-cd.html
-  - image_path: /uploads/flicker tile 2 copy.jpg
+  - image_path: /uploads/flickertail-2.jpg
     image_url:
-  - image_path: /uploads/flicker tile 1 copy.jpg
+  - image_path: /uploads/flickertail-3.jpg
     image_url:
-  - image_path: /uploads/flicker tile 7 copy.jpg
+  - image_path: /uploads/flickertail-03-jpg-1.jpg
     image_url:
 _type: golden-robot-records
 _options:
@@ -57,3 +56,5 @@ Since their inception, the band have played relentlessly and are reaping the rew
 After years building a dedicated following throughout Australia, and rave reviews for debut EP "Hurry Up and Wait", the boys brought their infamous live show to the UK for a international tour in October 2018.
 
 In 2019, armed with only their wits, guitars and their stunning good looks, Flickertail will continue to to preach the good word of honest, authentic Aussie rock and roll around the globe.
+
+August 2019 saw the release of their new single 'Right Behind the Eyes' which also includes a massive tour around Australia, and no doubt the boys will head back to Europe to capitalise their growing fan base. They're a band worthy of your support.

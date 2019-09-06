@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /images/groom epoch tile copy.jpg
+image_path: /uploads/groom-epoch-2.jpg
 name: Groom Epoch
-sort_number: 6587
+sort_number: 37
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/GroomEpoch/'
@@ -19,7 +19,7 @@ buy_now:
     url: 'https://www.sanity.com.au/products/2368232/Solar_Warden'
   - name:
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-12.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/groom-epoch.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/groom-epoch'
 hero_path: /images/Screen Shot 2018-11-09 at 10.44.26 am.png
 albums:
   - image_path: /images/groomy poch.jpg
@@ -48,10 +48,10 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Groom Epoch is a new band created by former drummer from The Church, Richard Ploog. Groom Epoch is about to release their second album Solar Warden on Golden Robot Records.
+Embraced internationally, Groom Epoch, a creative platform for former Church drummer Richard Ploog, are about to release their third album, Initiation. Fellow mainstay musicians, Phil Hall, Brett Myers, John Hoey, Cub Calloway with guesting from Amanda Brown, are responsible for Groom Epoch's shimmering sound.
 
-This eclectic group has remained under the radar doing select shows but have taken a full about face to expose themselves to a greater global audience through the release of Solar Warden.
+This eclectic group has remained under the radar doing select shows but have taken a full about face to expose themselves to a greater global audience through the release of their second album, Solar Warden, on Golden Robot Records.
 
-Showcasing the diverse talents of singer, songwriter, drummer and producer Richard Ploog, backed by the awesome talents of some of Australia’s most iconic musicians such as Amanda Brown on violin and auto-harp former Go Betweens. Brett Myers lead guitar, John Hoey keyboards, former
+Showcasing the diverse talents of singer, songwriter, drummer and producer Richard Ploog, backed by the awesome talents of some of Australia’s most iconic musicians such as Amanda Brown on violin and auto-harp (former Go Betweens), Brett Myers on lead guitar and John Hoey on keyboards (former Died Pretty members), Phil Hall on base (formerly of the Lime Spiders) and Ash Wanders on rhythm guitar.
 
-Died Pretty members. Phil Hall on base formerly of the Lime Spiders, and Ash Wanders on rhythm guitar. Groom Epoch is an all star cast of uber cool musical iconoclasts combining their talents creating a super stellar sound.
+Groom Epoch is an all star cast of uber cool musical iconoclasts combining their talents creating a super stellar sound.This world class collective are paving the way for a bright tomorrow.

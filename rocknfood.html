@@ -87,7 +87,7 @@ shows:
               Fleetwood Mac and the like.</p>
             thumbnail_path: /uploads/tv-film/rnf_ep5.jpg
             youtube_id: FzWDPAuUfGM
-          - feature: true
+          - feature: false
             title: Rock N Food Episode 6 Featuring PSmurf
             blurb_html: >-
               <p>Having established strong repute through his collaborative
@@ -97,6 +97,16 @@ shows:
               current state of the world</p>
             thumbnail_path: /uploads/tv-film/psmurf-1.jpg
             youtube_id: zwraCKTGXtE
+          - feature: true
+            title: Rock N Food Episode 7 Featuring Mark Gable
+            blurb_html: >-
+              <p>30 years ago, at Mark Gable&rsquo;s home in Church
+              Point on the Northern Beaches of Sydney, the CHOIRBOYS were
+              formed. Armed with a humble 4-track studio setup in the bedsit,
+              the band would gather to create music. These demos would lead
+              CHOIRBOYS to their first recording deal with Alberts.</p>
+            thumbnail_path: /uploads/tv-film/screenshot-2019-09-05-at-10-15-01.png
+            youtube_id: fcgXB-LuJbY
 _comments:
   playlist_url: The YouTube link the playlist containing all the videos
   youtube_id: >-
@@ -163,7 +173,7 @@ _options:
                           <h5>{{ episode.title }}</h5>
                           <p>{{ episode.blurb_html }}</p>
 
-                          <div class="row ctas">
+                          <div class="row ctas mt-5">
                             <div class="col-md-6">
                               <button class="btn btn-block btn-gold episodeTrigger" type="button" data-toggle="modal" data-target="#video" class="episodeTrigger" data-code="{{ episode.youtube_id }}">
                                 Watch Now
@@ -172,6 +182,10 @@ _options:
                             <div class="col-md-6">
                               <a target="_blank" href="{{ season.playlist_url }}" class="btn btn-block btn-light">Watch All</a>
                             </div>
+                          </div>
+
+                          <div class="row mb-4">
+                            <p class="col">Rock N Food is now featured on all international and domestic Virgin Australia flights.</p>
                           </div>
 
                         </div>
@@ -215,10 +229,10 @@ _options:
               <div class="container">
                 <h5 class="text-gold">{{ season.name }}</h5>
               </div>  
-              <div class="scollable">
-                <div class="episodes container">
+              <div class="container">
+                <div class="episodes row"> 
                   {% for episode in season.episodes %}
-                    <div class="col-md-5 col-lg-4 col-xl-3 episode episode">
+                    <div class="col-md-6 col-lg-4 col-xl-3 episode">
                       {% if episode.youtube_id %}
                         <button type="button" data-toggle="modal" data-target="#video" class="episodeTrigger" data-code="{{ episode.youtube_id }}">
                       {% endif %}

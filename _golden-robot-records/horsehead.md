@@ -2,20 +2,19 @@
 layout: artist
 image_path: /images/horsehead tile copy.jpg
 name: Horsehead
-sort_number: 43
+sort_number: 30
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/Horsehead-113232788697411/'
 instagram_url: 'https://www.instagram.com/horseheadrocks/'
 spotify_url: 'https://open.spotify.com/artist/6fKX13yzBb6lMxaZ4PllSw'
 apple_url: 'https://itunes.apple.com/au/artist/horsehead/72770950'
-youtube_url: 'https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4'
-
+youtube_url: >-
+  https://itunes.apple.com/us/album/ride-home-single/id1255434779?app=itunes&ign-mpt=uo%3D4
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/horsehead-cover-copy.jpg
 albums:
   - image_path: /images/horsehead tile 2 copy.jpg

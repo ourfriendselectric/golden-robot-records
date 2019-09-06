@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/screen-shot-2018-12-14-at-4-24-00-pm-2.png
 name: Gilby Clarke
-sort_number: 2
+sort_number: 4
 hidden: false
 twitter_url: 'https://twitter.com/gilbyclarke'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/gilbygtr/'
 spotify_url: 'https://open.spotify.com/artist/6Ya7kAthUWvVuSQBX0oIMx'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UCztojM6B-z6IVeM2avqruww'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/gilby-cover-photo-copy.jpg
 albums:
   - image_path: /uploads/screen-shot-2018-12-14-at-3-50-48-pm.png
@@ -43,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Gilbert "Gilby" J. Clake is an American musician, singer, songwriter and record producer best known for a 3-year tenure as the rhythm guitarist of Guns N' Roses, replacing Izzy Stradlin in 1991 during the Use Your Illusion Tour. Following his departure from the group, Clarke went on to forge a solo career as well playing guitar with Slash's Snakepit, Kat Men, Heart, Nancy Sinatra, Kathy Valentine (of the Go-Go's), MC5 and forming his own group Rock Star Supernova with members of Metallica and M&ouml;tley Cr&uuml;e.
+Gilbert "Gilby" J. Clake is an American musician, singer, songwriter and record producer best known for a 3-year tenure as the rhythm guitarist of Guns N' Roses, replacing Izzy Stradlin in 1991 during the Use Your Illusion Tour. Following his departure from the group, Clarke went on to forge a solo career as well playing guitar with Slash's Snakepit, Kat Men, Heart, Nancy Sinatra, Kathy Valentine (of the Go-Go's), MC5 and forming his own group Rock Star Supernova with members of Metallica and Mötley Cr&uuml;e.
 
 Clarke's production work includes albums by L.A. Guns, Bullets and Octane, The Bronx, Alice Cooper, Faster Pussycat and Vains of Jenna to name a few.
 
@@ -65,4 +63,6 @@ He’s also one of the sweetest gents you could ever hope to meet. He’s a guit
 
 The CEO of Golden Robot Records Mark Alexander-Erber started talking to Gilby about his new collection of songs (and motorcycles and cars) back in late 2016. They have kept in touch and kept a constant eye on each other’s growth, waiting for the right time to join forces to get the world ready for another killer Gilby Clarke record. Well thankfully the universe has aligned and Gilby joined Golden Robot Records in December 2018.
 
-2019 will see the release of Gilby's first album 'The Gospel Truth' in many years and from what we have heard it will turn the rock world upside down. 2019 will mark the return of Gilby to the rock airwaves and with the release of this brand new album he will embark on a world tour to promote it. GRR and Gilby are a force to be reckoned with. Sit down, shut up and strap yourself in. This is going to be huge…
+2020 will see the release of Gilby's first album 'The Gospel Truth' in many years and from what we have heard it will turn the rock world upside down. Our CEO was one of the lucky few to listen to the new album in September 2019 at Gilby's home studio in LA, and from all accounts this is exactly the album the rock world needs. True and authentic, it will blow everyone away.
+
+2020 will mark the return of Gilby to the rock airwaves and with the release of this album he will then embark on a world tour to promote it. GRR and Gilby are a force to be reckoned with. Sit down, shut up and strap yourself in. This is going to be huge\! Expect the album in Feb/Mar 2020.

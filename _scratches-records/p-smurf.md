@@ -9,15 +9,15 @@ facebook_url: 'https://www.facebook.com/mcpsmurf/'
 instagram_url: 'https://www.instagram.com/mcpsmurf/'
 spotify_url: 'https://open.spotify.com/artist/6x6XutQGZMBO43omSJEdAu'
 apple_url: 'https://itunes.apple.com/au/artist/p-smurf/1313270185'
-youtube_url: 'https://www.youtube.com/user/BigVillageRecords'
+youtube_url: 'https://www.youtube.com/scratchesrecords'
 buy_now:
-  - name:
+  - name: Official Store
     logo_path:
-    url:
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/psmurf'
 hero_path: /uploads/screen-shot-2019-04-18-at-11-58-34-am.png
 albums:
   - image_path: /uploads/image-2019-04-18-3.jpg
-  - image_path: /uploads/image-2019-04-18-1.jpg
+  - image_path: /uploads/p-smurf-billie-rose.jpg
   - image_path: /uploads/image-2019-04-18-2.jpg
   - image_path: /uploads/image-2019-04-18-6.jpg
 _type: scratches-records

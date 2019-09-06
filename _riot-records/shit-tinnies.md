@@ -8,8 +8,8 @@ twitter_url:
 facebook_url: 'https://www.facebook.com/shittinnies/'
 instagram_url: >-
   https://instagram.com/shittinnies?utm_source=ig_profile_share&igshid=1tllh16b10v8f
-spotify_url:
-apple_url:
+spotify_url: 'https://open.spotify.com/artist/7LoBP1M7vlfA1sQFBRTBGV'
+apple_url: 'https://music.apple.com/us/album/s-t-tinnies-ep/1462314254'
 youtube_url:
 buy_now:
   - name:
@@ -49,3 +49,5 @@ From the Brit's gigantic Mohawk hair, to the Serb's adidas sneakers, the Kiwi's 
 Joined soon after by Stefan Radulovic on bass and Ryan Powers on drums, they began a cycle of songwriting, rehearsal, and relentless partying, before taking the stage bleary-eyed in 2018.
 
 The future holds many things for Shit Tinnies; as their energy on stage and grit on record gains momentum with every stride, they show no signs of easing up the pressure.
+
+The band released their self titled EP in 2019 on Riot Records and will tour and record more music for the remainder of 2019.

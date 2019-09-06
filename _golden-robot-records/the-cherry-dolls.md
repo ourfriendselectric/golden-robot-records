@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-22.jpg
 name: The Cherry Dolls
-sort_number: 40
+sort_number: 27
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: 'https://www.facebook.com/TheCherryDolls/'
@@ -17,6 +17,10 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2342734'
+  - name: Official Store
+    logo_path:
+    url: >-
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/the-cherry-dolls
 hero_path: /uploads/screen-shot-2018-11-27-at-6-10-27-pm.png
 albums:
   - image_path: /images/CHERRY DOLLS VIVA LOS DOLLS 4000.jpg
@@ -51,4 +55,6 @@ Throwing a curveball with first single, 'Blister', the Dolls show off their tend
 
 Let You Down tips its hat in the direction of Patti and Them, but takes off like a unpredictable firework lamenting yet another heartbreaker in town, while 'Cop Out' is the essence of the Dolls – taught angular guitar lines going hell bent for leather out over a thunderous primal beat.
 
-Clocking up two years of unrelenting gigging and recording they've given more than fair warning of their promise as one of Australia's most electrifying bands, which they've now proudly captured on their debut album, Viva Los Dolls. The Cherry Dolls are Joshua Aubry, Jakob Kagan, Thomas van der Vliet, Brendan West, and Jim Stirton.
+Clocking up two years of unrelenting gigging and recording they've given more than fair warning of their promise as one of Australia's most electrifying bands, which they've now proudly captured on their debut album, Viva Los Dolls.
+
+Golden Robot Records is proud to be part of this album and will support the band when needed for their future endeavours.

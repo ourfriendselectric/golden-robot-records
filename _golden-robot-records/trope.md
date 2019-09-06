@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-22-3.jpg
 name: Trope
-sort_number: 33
+sort_number: 13
 hidden: false
 twitter_url: 'https://twitter.com/tropeband?lang=en'
 facebook_url: 'https://www.facebook.com/TropeBand/'
@@ -45,6 +45,8 @@ TROPE is an alternative rock band based in Los Angeles, California. The band for
 
 After filming a short teaser video of Lambs, they garnered the attention of the music industry including Mike Fraser (AC/DC, Metallica) who agreed to engineer the album with Thompson producing, and David Bottrill (Tool, Peter Gabriel), who agreed to creatively consult and mix the album.
 
-Pre-production on the debut Trope record began in April 2017, and tracking has occurred at both Armoury Studios and Hipposonic. The album titled ‘Eleutheromania’ will be released May 2019.
+Pre-production on the debut Trope record began in April 2017, and tracking has occurred at both Armoury Studios and Hipposonic. The album titled ‘Eleutheromania’ will be released in 2020. Several singles will be released by the end of 2019.
+
+Trope will be touring Europe with King's X in Sept/Oct 2019.
 
 Trope’s music has been likened to A Perfect Circle and Tool with female vocals, their sound falling into the Alternative Rock genre. Their ‘music first’ focus pairs with the groups sound, which is quite progressive.

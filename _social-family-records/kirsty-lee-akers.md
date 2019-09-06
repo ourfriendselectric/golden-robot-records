@@ -15,7 +15,7 @@ buy_now:
   - name:
     logo_path:
     url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/kirsty-lee-akers.html
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/kirsty-lee-akers
 hero_path: /uploads/2018-promo-pic-2-web.jpeg
 albums:
   - image_path: /uploads/screen-shot-2018-11-28-at-1-53-24-pm.png

@@ -1,8 +1,8 @@
 ---
 layout: artist
-image_path: /uploads/kings x image path tile.jpg
+image_path: /uploads/kings-x-02.jpg
 name: King's X
-sort_number: 3
+sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/kingsx'
 facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
@@ -10,12 +10,10 @@ instagram_url: 'https://www.instagram.com/kingsxofficial/'
 spotify_url: 'https://open.spotify.com/search/results/king''s%20x'
 apple_url:
 youtube_url: 'https://www.youtube.com/channel/UC8sh_EbAtbYvJHLg302q1Tg'
-
 buy_now:
-  - name: 
-    logo_path: 
-    url: 
-
+  - name:
+    logo_path:
+    url:
 hero_path: /uploads/kings x tile copy.jpg
 albums:
   - image_path: /uploads/kings x tile 2 copy.jpg
@@ -53,4 +51,4 @@ In 1992, KING’S X signed to Atlantic Records/Megaforce Records, released three
 
 This break didn’t last long, as they were back on the road in mid-2015, shortly afterward announcing they would begin work on a new studio album. This would be the band’s first since 2008’s XV. KING’S X began meetings with Golden Robot Records management in Los Angeles in early 2017, eventually signing a global deal in October 2018.
 
-While it’s been a decade since KING’S X have released a new record, the wait has definitely been worth it! Watch this space for news on the forthcoming album in the very near future.
+While it’s been a decade since KING’S X have released a new record, the wait has definitely been worth it\! The band has been busy at Blacksound Studios in Pasedena California with world renowned producer Michael Parnin. The results coming out of the studio have been mind blowing. We anticipate a release Februray/March 2020 on Golden Robot Records. We believe this will be their best album to date.

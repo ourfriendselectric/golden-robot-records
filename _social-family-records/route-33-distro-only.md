@@ -19,8 +19,8 @@ hero_path: /uploads/route33-20jan18-photobystephenbooth-1-1500.jpeg
 albums:
   - image_path: /uploads/route-33---kryptonite---single-cover-600px.jpeg
     image_url: 'http://smarturl.it/Route33-Kryptonite'
-  - image_path:
-    image_url:
+  - image_path: /uploads/route-33---hands-of-time---single-cover-600px-1.jpg
+    image_url: 'https://orcd.co/route33featsarahmcleod-handsoftime'
 _type: social-family-records
 _options:
   image_path:
@@ -48,8 +48,8 @@ That experience means Route 33 are well versed in what type of songs engage an a
 
 Since their first single release 'Last First Kiss' from their debut album ‘The Switch’ in November 2016, Route 33 have featured on line ups at Tamworth Country Music Festival, Gympie Music Muster and Logan Flood Aid. 'Last First Kiss' hit no.1 on the iTunes Country Music Chart and no.6 on the Aria Country Music Chart, with the film clip hitting some impressive numbers of 50,000 views in the first week.
 
-With their new album, **Coro Drive**, recently completed, the 11 tracker was recorded at Red Engine Studios and co-produced by award-winning producers Steve James and Andrew Cochrane who brought some impressive talent to the table to encourage a rock/mainstream sound without losing the country influence.
-
 With music as effortlessly catchy as Route 33’s, crowd interaction seems a fait accompli. Now it’s time to hit the road and find all those good times that lie ahead.
 
-Get **Route 33's** brand new single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
+Get **Route 33's**&nbsp;single, ***Kryptonite***, here: &nbsp;[http://smarturl.it/Route33-Kryptonite](http://smarturl.it/Route33-Kryptonite){: target="_blank"}
+
+And get their latest single, ***Hands of Time***, featuring Sarah McLeod here: &nbsp;[https://orcd.co/route33featsarahmcleod-handsoftime](https://orcd.co/route33featsarahmcleod-handsoftime){: target="_blank"}

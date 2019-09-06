@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-02-25.jpg
 name: The New Strange
-sort_number: 34
+sort_number: 21
 hidden: false
 twitter_url: 'https://twitter.com/DurbinRock'
 facebook_url: 'https://www.facebook.com/DurbinRock/'
@@ -58,10 +58,10 @@ _options:
 > > > After hearing the Benny Mardones classic “*Into The Night*” playing on a Waffle House jukebox James and Alex on a whim decided to take a stab at recording a “Rock” version of the double platinum hit song.&nbsp;
 > > >
 > > >
-> > > Upon hearing their rough mix it was clear that what they ended up with was more than just a simple “re-make” and they sent the track to Mardones himself!
+> > > Upon hearing their rough mix it was clear that what they ended up with was more than just a simple “re-make” and they sent the track to Mardones himself\!
 > > >
 > > >
-> > > States Benny Mardones: “*James Durbin & Alex Grossi have done something that NO other artist ever has done with my “Into The Night ”, They found the key to making it an honest to God rock ballad. I am simply over the moon!*”
+> > > States Benny Mardones: “*James Durbin & Alex Grossi have done something that NO other artist ever has done with my “Into The Night ”, They found the key to making it an honest to God rock ballad. I am simply over the moon\!*”
 > > >
 > > >
 > > > “Into The Night” is unusual for being one of only 10 recordings in history to ever ascend to the Top 20 of Billboard Hot 100 chart twice &nbsp;first in 1980 and again in 1989 and to this day is one of the top 25 most played songs on American Radio.
@@ -73,7 +73,7 @@ _options:
 > > > *into this crazy business to begin with*", adds Grossi.&nbsp;*“I’d consider this to be more of an idea or a concept than an actual band, the refreshingly unique way that this whole came about has been very inspiring both artistically and professionally*.”
 > > >
 > > >
-> > > Golden Robot Records is excited to be releasing what could very well be the “Into The Night” &nbsp;hat-trick, seeing it return to the Top 20 for the third time!&nbsp;
+> > > Golden Robot Records is excited to be releasing what could very well be the “Into The Night” &nbsp;hat-trick, seeing it return to the Top 20 for the third time\!&nbsp;
 > > >
 > > >
 > > > The label will release the track along with the original track, the arena-ready “*Tomorrow Never Comes*”

@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/THS TILE 4 copy.jpg
 name: The Heartache State
-sort_number: 45
+sort_number: 32
 hidden: false
 twitter_url: 'https://twitter.com/heartachestate'
 facebook_url: 'https://www.facebook.com/theheartachestate/'
@@ -19,10 +19,10 @@ buy_now:
     logo_path: /uploads/logos/sanity.png
     url: >-
       https://www.sanity.com.au/products/2294288/Heartache_State_-_Heartache_State
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-8.png
     url: >-
-      http://store.socialfamilyrecords.com/index.php/artists/the-heartache-state.html
+      https://store.goldenrobotrecords.com/shop-by-artist/categories/the-cherry-dolls
 hero_path: /uploads/ths-cover-copy.jpg
 albums:
   - image_path: /uploads/ths-tile-3-copy.jpg
@@ -56,12 +56,4 @@ The Heartache State is a throwback to the 70s-centric approach to music, where s
 
 “We’re not reinventing the wheel, the old wheel goes OK”.
 
-The Heartache State are set to release brand new music across 2019 through Golden Robot Records. 
-
-Justin Garner – Vocals and Guitar
-
-Venom – Drums
-
-Nick Barker – Vocals and Guitar
-
-Tony Johanssen – Bass
+The Heartache State has released brand new music across 2019 through Golden Robot Records, including the killer hit Airstrike on a double A-side single, plus the acoustic version of Clockstar on another double A-side release.

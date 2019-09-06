@@ -14,12 +14,15 @@ buy_now:
   - name:
     logo_path:
     url: 'http://smarturl.it/Get-BareFeet-Single'
+  - name: Country Girl (single)
+    logo_path:
+    url: 'https://orcd.co/carolinejones-countrygirl'
 hero_path: /uploads/cj-webbanner-hero.jpeg
 albums:
   - image_path: /uploads/carolinejones-barefeet-600px.jpeg
     image_url: 'http://smarturl.it/Get-BareFeet-Single'
-  - image_path:
-    image_url:
+  - image_path: /uploads/caroline-jones---country-girl---single-cover-600px.jpg
+    image_url: 'https://orcd.co/carolinejones-countrygirl'
   - image_path:
     image_url:
   - image_path:
@@ -44,6 +47,8 @@ _options:
 # Caroline Jones
 
 Buy/stream ***Bare Feet*** (single) from Caroline Jones now: &nbsp;[http://smarturl.it/Get-BareFeet-Single](http://smarturl.it/Get-BareFeet-Single){: target="_blank"}
+
+Buy/stream ***Country Girl*** (single) from Carolines now: &nbsp;[https://orcd.co/carolinejones-countrygirl](https://orcd.co/carolinejones-countrygirl)
 
 **ABOUT**
 

@@ -3,7 +3,7 @@ layout: artist
 image_path: /images/destrends.jpg
 name: Destrends
 sort_number: 2
-hidden: false
+hidden: true
 twitter_url: 'https://twitter.com/destrendsband'
 facebook_url: 'https://www.facebook.com/destrends/'
 instagram_url: 'https://www.instagram.com/destrends/?hl=en'

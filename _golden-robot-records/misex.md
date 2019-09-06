@@ -2,7 +2,7 @@
 layout: artist
 image_path: /images/mi-sex tile2.jpg
 name: Mi-Sex
-sort_number: 36987289284
+sort_number: 41
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/MiSexMusic/'
@@ -21,9 +21,9 @@ buy_now:
   - name: Sanity
     logo_path: /uploads/logos/sanity.png
     url: 'https://www.sanity.com.au/products/2316816/Not_From_Here'
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-4.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/mi-sex.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/mi-sex'
 hero_path: /images/mi-sex cover copy.jpg
 albums:
   - image_path: /uploads/MS_NFH_3000x3000.jpg
@@ -53,9 +53,9 @@ _options:
 
 It was New Zealand that gave birth to Mi-Sex. A name and a sound in 1977 that grew out of combining the collective creative energies of a cabaret singer Steve Gilpin, an art-rock bass player Don Martin, a talented Southern drummer Richard Hodgkinson, a frustrated guitarist/songwriter Kevin Stanton, and a funk/dance keyboard player Murray Burns.<br><br>Together Kevin & Murray forged a song writing partnership that anchored Mi-Sex throughout its four albums. These five new connections quickly dissolved their pasts, as they reinvented themselves, passing into the new era of new wave/electronic music and uniting fully as the sound that was to become Mi-Sex.
 
-Mi-Sex (the name originating from a song they performed by the British group Ultravox), recorded their début single, 'Straight Laddie' in New Zealand. A punk parody with hints of Ian Dury-esque vocals and a snatch of The Stranglers in the keyboards. Now setting house records in New Zealand Mi-Sex decided to take their new-found sound and look to Australia. Within a very short time, on the strength of their highly energized and semi-theatrical live shows, they were soon one of Sydney’s most popular bands.
+Mi-Sex (the name originating from a song they performed by the British group Ultravox), recorded their d&eacute;but single, 'Straight Laddie' in New Zealand. A punk parody with hints of Ian Dury-esque vocals and a snatch of The Stranglers in the keyboards. Now setting house records in New Zealand Mi-Sex decided to take their new-found sound and look to Australia. Within a very short time, on the strength of their highly energized and semi-theatrical live shows, they were soon one of Sydney’s most popular bands.
 
-Mi-Sex were signed by A&R/record producer Peter Dawkins to CBS. This relationship proved highly successful, and in 1979 released their début vinyl LP, 'Graffiti Crimes' with singles, But You Don’t Care and the prophetic single, Computer Games going top ten in New Zealand, Canadian, German & South African charts. Thanks to strong initial support from the ABC's Double J radio station and its nationally televised pop show ''Countdown'', Mi-Sex went number one in Australia. In
+Mi-Sex were signed by A&R/record producer Peter Dawkins to CBS. This relationship proved highly successful, and in 1979 released their d&eacute;but vinyl LP, 'Graffiti Crimes' with singles, But You Don’t Care and the prophetic single, Computer Games going top ten in New Zealand, Canadian, German & South African charts. Thanks to strong initial support from the ABC's Double J radio station and its nationally televised pop show ''Countdown'', Mi-Sex went number one in Australia. In
 
 November 1979 this culminated in a landmark performance at the Sydney Opera House in the ''Concert of the Decade''. A follow up album, 1980's Space Race, was also a multi-platinum hit, with singles People, Space Race and It Only Hurts when I’m Laughing.
 
@@ -70,3 +70,5 @@ They agreed to take a well-deserved break and to seek solo ventures. Always rema
 It was then 20 years before they re-emerged from the music underground, after the acceptance of an invitation by Steve Balbi (Noiseworks/Electric Hippies) to front Mi-Sex at a private party and outdoor Christchurch Quake Relief Concert. Confirming the right chemistry with Balbi upfront, the band’s passion was reignited and they haven’t looked back.
 
 The Mi-Sex lineup is made up of the enigmatic Steve Balbi on lead vocals and James Van Cooper on guitar; alongside original Mi-Sex members Don Martin, Murray Burns, Jordan Mcdonald and Colin Bayley.
+
+Golden Robot Records was proud to be involved with the EP – Extended Play In 2015 and the incredible album, Not from Here, featuring the hit My Sex Your Sex in 2016.

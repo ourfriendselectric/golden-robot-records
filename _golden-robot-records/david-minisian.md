@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-17-1.jpg
 name: David Minasian
-sort_number: 8917293891
+sort_number: 29
 hidden: false
 twitter_url: 'https://twitter.com/DavidMinasian'
 facebook_url: 'https://www.facebook.com/David-Minasian-Music-281325343740/'
@@ -47,6 +47,6 @@ As a Producer and Director, David created a number of documentary and concert vi
 
 *Random Acts of Beauty,* originally released in the fall of 2010, was met with nearly universal acclaim in progressive rock circles around the world. The Mellotron drenched, classically influenced symphonic rock album featured soaring melodies and lush keyboard rich arrangements, as well as powerful lead guitar work courtesy of David’s then 20-year-old son Justin, along with a rare special guest appearance by Camel guitarist Andrew Latimer on the track Masquerade. Golden Robot Records’ 2019 remixed and remastered version contains two previously unreleased bonus tracks both featuring Latimer.
 
-David’s long awaited follow up album, *The Sound of Dreams,* enlists a virtual who’s who of legendary musicians including Moody Blues guitarist/vocalist Justin Hayward, Genesis guitarist Steve Hackett, Renaissance vocalist Annie Haslam, Yes bassist Billy Sherwood,  Moody Blues Live vocalist Julie Ragins and Pentagram founding member drummer/guitarist Geof O’Keefe. The album’s title track is an 11 minute tour-de-force which brings Steve Hackett, Annie Haslam and Billy Sherwood together for the first time on the same recording. As David says, “These are the heroes I grew up with. Co-writing and recording with them was of course a dream come true. Therefore the album’s title couldn’t be more accurate - for this is what dreams coming true sound like.”
+David’s long awaited follow up album, *The Sound of Dreams,* enlists a virtual who’s who of legendary musicians including Moody Blues guitarist/vocalist Justin Hayward, Genesis guitarist Steve Hackett, Renaissance vocalist Annie Haslam, Yes bassist Billy Sherwood,&nbsp; Moody Blues Live vocalist Julie Ragins and Pentagram founding member drummer/guitarist Geof O’Keefe. The album’s title track is an 11 minute tour-de-force which brings Steve Hackett, Annie Haslam and Billy Sherwood together for the first time on the same recording. As David says, “These are the heroes I grew up with. Co-writing and recording with them was of course a dream come true. Therefore the album’s title couldn’t be more accurate - for this is what dreams coming true sound like.”
 
 As Golden Robot Entertainment Group Founder and President Mark Alexander-Erber exclaims, “David’s new album is a landmark recording in the history of melodic art rock, featuring performance and writing collaborations from some of the biggest names of the rock era. Under David’s direction, never before have these artists come together to create such a powerful and magical sound” Derek Shulman, Golden Robot Records Executive Chairman of Worldwide Expansion further explains, “David’s ability to attract the enthusiastic participation of such industry heavyweights to help him execute his music is not only a testament to David’s character, but also to his talent as a musician and as a songwriter. In fact, it was Yes bassist Billy Sherwood, who’s band AVA is signed to Golden Robot Records, who originally introduced us to David, and we couldn’t be happier.”

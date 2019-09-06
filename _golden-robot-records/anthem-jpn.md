@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/anthem-maincut-©︎mikio-ariga.jpg
 name: Anthem
-sort_number: 46
+sort_number: 36
 hidden: false
 twitter_url: 'https://twitter.com/anthem_official'
 facebook_url: 'https://www.facebook.com/heavymetalanthem/'
@@ -13,8 +13,7 @@ youtube_url:
 buy_now:
   - name: GRGE Online Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-15.png
-    url: >-
-      http://store.socialfamilyrecords.com/index.php/golden-robot-records/anthem-nucleus-cd.html
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/anthem'
 hero_path: /uploads/screen-shot-2018-12-04-at-9-03-17-am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-11-53-13-am-1.png

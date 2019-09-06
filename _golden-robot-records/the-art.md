@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/the art tile copy.jpg
 name: The Art
-sort_number: 41
+sort_number: 40
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds'
 facebook_url: 'https://www.facebook.com/followTHEART/?tn-str=k*F'
@@ -11,9 +11,9 @@ spotify_url: 'https://open.spotify.com/artist/4Xi3yYIlYSwiLuIAeWpL1O'
 apple_url: 'https://itunes.apple.com/au/album/all-in-the-mind/1159644782'
 youtube_url: 'https://www.youtube.com/user/ViewTheArt'
 buy_now:
-  - name:
+  - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-7.png
-    url: 'http://store.socialfamilyrecords.com/index.php/artists/the-art.html'
+    url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-art'
 hero_path: /images/Screen Shot 2018-11-15 at 11.01.38 am.png
 albums:
   - image_path: /uploads/screen-shot-2018-11-27-at-4-13-50-pm.png
@@ -50,3 +50,5 @@ Azaria Byrne - Vocals and Guitar
 Kara Jayne - Bass and vocals
 
 Jordan McDonald- Drums
+
+Golden Robot and The Art are planning to release new music together in 2020 to finish what they started as this is a band that could take it all the way.
