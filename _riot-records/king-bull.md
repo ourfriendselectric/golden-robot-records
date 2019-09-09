@@ -16,13 +16,13 @@ buy_now:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/king-bull-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/king-bull-5.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/king-bull-06-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/king-bull-4.jpg
     image_url:
 _type: riot-records
 _options:
