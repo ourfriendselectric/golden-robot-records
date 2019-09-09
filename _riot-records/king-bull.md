@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/king-bull-1.jpg
 name: King Bull
 sort_number: 8
 hidden: true
