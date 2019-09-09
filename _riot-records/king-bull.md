@@ -1,0 +1,46 @@
+---
+layout: artist
+image_path:
+name: King Bull
+sort_number: 8
+hidden: true
+twitter_url:
+facebook_url:
+instagram_url:
+spotify_url:
+apple_url:
+youtube_url:
+buy_now:
+  - name:
+    logo_path:
+    url:
+hero_path:
+albums:
+  - image_path:
+    image_url:
+  - image_path:
+    image_url:
+  - image_path:
+    image_url:
+  - image_path:
+    image_url:
+_type: riot-records
+_options:
+  image_path:
+    width: 500
+    height: 500
+    resize_style: contain
+  hero_path:
+    width: 1500
+    height: 1000
+    resize_style: contain
+  logo_path:
+    width: 200
+    height: 200
+    expandable: false
+    uploads_dir: uploads/logos
+---
+
+King Bull is the collection of three friends with the like-minded goal, to play rock and roll. The members have been intertwined since their early youth playing in various groups with each other throughout middle and high school. In just three short years King Bull has recorded a demo, have had airplay on local radio, supported acts such as Sebastian Bach, The Beaches, Monster Truck, One Bad Son, The Lazys, and The Standstills.&nbsp;
+
+After recently working with Juno nominated producers and engineers at Velveteen Audio located in Edmonton Alberta, they have recorded and released their debut single, ‘Shanana’, a fast paced, high intensity rock and roll anthem covering the struggles associated with modern identity.&nbsp;
