@@ -6,7 +6,7 @@ sort_number: 8
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/KINGBULLmusic/'
-instagram_url: 'https://raingrande.com/profile/kingbull_music'
+instagram_url: 'https://www.instagram.com/kingbull_music/'
 spotify_url:
 apple_url:
 youtube_url:
