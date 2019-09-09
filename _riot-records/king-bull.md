@@ -5,7 +5,7 @@ name: King Bull
 sort_number: 8
 hidden: false
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/KINGBULLmusic/'
 instagram_url:
 spotify_url:
 apple_url:
