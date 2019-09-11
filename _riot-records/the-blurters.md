@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/the-blurters-12.jpg
 name: The Blurters
-sort_number: 6
+sort_number: 9
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/theblurters'
