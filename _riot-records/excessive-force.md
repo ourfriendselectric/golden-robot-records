@@ -2,7 +2,7 @@
 layout: artist
 image_path:
 name: Excessive Force
-sort_number: 8
+sort_number: 4
 hidden: true
 twitter_url:
 facebook_url:
