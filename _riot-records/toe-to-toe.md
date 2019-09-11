@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-15-2.jpg
 name: Toe to Toe
-sort_number: 2
+sort_number: 6
 hidden: false
 twitter_url: 'https://twitter.com/GoldenRobotRcds?lang=en'
 facebook_url: >-
