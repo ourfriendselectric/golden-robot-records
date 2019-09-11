@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-17-5.jpg
 name: Shit Tinnies
-sort_number: 4
+sort_number: 8
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/shittinnies/'
