@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/excessive-force-1.jpg
 name: Excessive Force
 sort_number: 4
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
