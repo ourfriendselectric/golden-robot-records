@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/trauma-03-png-1.jpg
 name: Trauma
-sort_number: 7
+sort_number: 3
 hidden: false
 twitter_url:
 facebook_url:
