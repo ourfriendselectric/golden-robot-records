@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/king-bull-1.jpg
 name: King Bull
-sort_number: 8
+sort_number: 2
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/KINGBULLmusic/'
