@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path:
 albums:
-  - image_path:
+  - image_path: /uploads/excessive-force-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/excessive-force-4.jpg
     image_url:
   - image_path:
     image_url:
