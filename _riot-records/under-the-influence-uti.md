@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/image-2019-04-11.jpg
 name: Under the Influence (UTI)
-sort_number: 3
+sort_number: 7
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/UndertheInfluence666/'
