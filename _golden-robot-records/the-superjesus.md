@@ -53,4 +53,4 @@ In March 2017 The Superjesus were inducted into the South Australian Music Hall 
 
 With an unstoppable work ethic and a 20 year back catalogue to draw from, including the acclaimed SUMO album which saw them embarking on their biggest tour in years to celebrate its 20th year anniversary ending at the end of 2018, this mighty machine is now mightier than ever.
 
-Although our association with the band was only via the Love and Violence EP and Sarah's solo album (finance), we are honoured to be part of their legacy.
+Although our association with the band was only via the Love and Violence EP and Sarah's solo album Rocky's Diner (finance and inception), we are honoured to be part of their legacy.
