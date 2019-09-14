@@ -41,8 +41,12 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Local three-piece Destrends have built a reputation as a distinctly theatrical live act, whose music is a confident mix of gloomy goth-laden post-punk with a serving of Aussie grit.
+"Local three-piece Destrends have built a reputation as a distinctly theatrical live act, who’s music is a confident mix of gloomy goth-laden post-punk with a serving of Aussie grit. Riding off the back of their debut EP titled ‘Lousy Lover’,
 
-Riding off the back of their debut EP titled ‘Lousy Lover’, Destrends have shared the stage with Spiderbait, Hoodoo Gurus, King Gizzard and the Lizard Wizard, and have headlined the New Music Stage at St Kilda Festival. After a run of successful national tours, the lads are currently ramping up to release their long-awaited debut album.
+Destrends have shared the stage with Spiderbait, Hoodoo Gurus, King Gizzard and the Lizard Wizard, and a host of others across the country and have headlined the New Music Stage at St Kilda Festival.
 
-Destrends have worked relentlessly to ensure that their theatrical stage presence carries through to their recorded sound and their accompanying videos. The Melbourne locals will be releasing their first track in over 12 months, “Medication” through Bread and Butter Records this October.
+After a run of successful national tours, the lads are currently ramping up to release their long-awaited debut album." With the release of their next Killer single "Medication" in October 2019 , this will lay the crazy , fxxked up foundations for the next few singles and new album in 2020.
+
+Try and look away , we bet you cant....
+
+Destrends have worked relentlessly to ensure that their theatrical stage presence carries through to their recorded sound and their accompanying videos catch them live when you can.
