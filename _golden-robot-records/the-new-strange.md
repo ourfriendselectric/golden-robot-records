@@ -73,7 +73,7 @@ _options:
 > > > *into this crazy business to begin with*", adds Grossi.&nbsp;*“I’d consider this to be more of an idea or a concept than an actual band, the refreshingly unique way that this whole came about has been very inspiring both artistically and professionally*.”
 > > >
 > > >
-> > > Golden Robot Records is excited to be releasing what could very well be the “Into The Night” &nbsp;hat-trick, seeing it return to the Top 20 for the third time\!&nbsp;
+> > > Golden Robot Records is excited to have released what could very well be the “Into The Night” &nbsp;hat-trick, seeing it return to the Top 20 for the third time\!&nbsp;
 > > >
 > > >
 > > > The label will release the track along with the original track, the arena-ready “*Tomorrow Never Comes*”
