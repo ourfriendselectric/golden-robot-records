@@ -20,7 +20,7 @@ albums:
     image_url:
   - image_path: /uploads/johnny-casino-the-secrets-3.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-the-secrets-6.jpg
+  - image_path:
     image_url:
   - image_path:
     image_url:
