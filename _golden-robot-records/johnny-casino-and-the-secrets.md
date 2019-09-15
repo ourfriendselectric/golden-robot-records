@@ -1,7 +1,7 @@
 ---
 layout: artist
-image_path: /uploads/johnny-casino-the-secrets-1.jpg
-name: Johnny Casino and The Secrets
+image_path: /uploads/johnny-casino-the-secrets-5.jpg
+name: Johnny Casino & The Secrets
 sort_number: 14
 hidden: false
 twitter_url:
