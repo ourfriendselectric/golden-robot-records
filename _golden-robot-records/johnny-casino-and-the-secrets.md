@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/johnny-casino-the-secrets-1.jpg
 name: Johnny Casino and The Secrets
-sort_number: 10
-hidden: true
+sort_number: 14
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
