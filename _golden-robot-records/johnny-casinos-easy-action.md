@@ -1,9 +1,9 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/johnny-casino-easy-action-3.jpg
 name: Johnny Casino's Easy Action
 sort_number: 14
-hidden: true
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
@@ -14,15 +14,15 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/johnny-casino-easy-action-7.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/johnny-casino-easy-action-1.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-easy-action-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-easy-action-4.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-easy-action-5.jpg
     image_url:
 _type: golden-robot-records
 _options:
