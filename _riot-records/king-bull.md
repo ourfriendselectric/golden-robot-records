@@ -7,8 +7,9 @@ hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/KINGBULLmusic/'
 instagram_url: 'https://www.instagram.com/kingbull_music/'
-spotify_url:
-apple_url:
+spotify_url: >-
+  https://open.spotify.com/artist/7JIFlaHQZebqpiAI3R6WfX?si=sd8SKUmcTtC4g-UpO4NNRw
+apple_url: 'https://music.apple.com/au/artist/king-bull/1457939329'
 youtube_url:
 buy_now:
   - name:
