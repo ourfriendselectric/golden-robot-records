@@ -7,13 +7,13 @@ hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
-spotify_url:
-apple_url:
+spotify_url: 'https://open.spotify.com/artist/0uujx9OadOxuvFtTgFxhV7'
+apple_url: 'https://itunes.apple.com/us/artist/johnny-casinos-easy-action/78773331'
 youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://itunes.apple.com/us/artist/johnny-casinos-easy-action/78773331'
 hero_path: /uploads/johnny-casino-easy-action-7.jpg
 albums:
   - image_path: /uploads/johnny-casino-easy-action-1.jpg
