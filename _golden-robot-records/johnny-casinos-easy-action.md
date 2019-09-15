@@ -18,11 +18,11 @@ hero_path: /uploads/johnny-casino-easy-action-7.jpg
 albums:
   - image_path: /uploads/johnny-casino-easy-action-1.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-easy-action-2.jpg
+  - image_path: /uploads/johnny-casino-easy-action-6.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-easy-action-4.jpg
+  - image_path: /uploads/johnny-casino-easy-action-10.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-easy-action-5.jpg
+  - image_path: /uploads/johnny-casino-easy-action-6.jpg
     image_url:
 _type: golden-robot-records
 _options:
