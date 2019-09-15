@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path:
+image_path: /uploads/johnny-casino-the-secrets-1.jpg
 name: Johnny Casino and The Secrets
 sort_number: 10
 hidden: true
@@ -14,11 +14,11 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path:
+hero_path: /uploads/johnny-casino-the-secrets-4.jpg
 albums:
-  - image_path:
+  - image_path: /uploads/johnny-casino-the-secrets-2.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/johnny-casino-the-secrets-3.jpg
     image_url:
   - image_path:
     image_url:
