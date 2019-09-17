@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/pssr-02.jpg
 name: PSSR
-sort_number: 5
+sort_number: 8
 hidden: false
 twitter_url:
 facebook_url:
