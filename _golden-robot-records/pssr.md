@@ -2,8 +2,8 @@
 layout: artist
 image_path: /uploads/pssr-02.jpg
 name: PSSR
-sort_number: 10
-hidden: true
+sort_number: 5
+hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
@@ -41,7 +41,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-**...from New York City, a brand new edition in the rock ‘n’ roll tradition**
+**…from New York City, a brand new edition in the rock ‘n’ roll tradition**
 
 **PSSR**
 
