@@ -14,7 +14,7 @@ youtube_url:
 buy_now:
   - name:
     logo_path:
-    url:
+    url: 'https://music.apple.com/au/artist/destrends/1005277461'
 hero_path: /uploads/destrends-8.png
 albums:
   - image_path: /uploads/destrends-8.png
