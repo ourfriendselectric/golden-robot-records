@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/destrends-7.png
+image_path: /uploads/destrends-8.png
 name: Destrends
 sort_number: 10
 hidden: false
@@ -15,15 +15,15 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/destrends-7.png
+hero_path: /uploads/destrends-8.png
 albums:
-  - image_path: /uploads/destrends-7.png
+  - image_path: /uploads/destrends-8.png
     image_url:
-  - image_path: /uploads/destrends-7.png
+  - image_path: /uploads/destrends-8.png
     image_url:
-  - image_path: /uploads/destrends-7.png
+  - image_path: /uploads/destrends-8.png
     image_url:
-  - image_path: /uploads/destrends-7.png
+  - image_path: /uploads/destrends-8.png
     image_url:
 _type: bread-and-butter-records
 _options:
