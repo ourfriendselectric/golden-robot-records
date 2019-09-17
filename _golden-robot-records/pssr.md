@@ -5,11 +5,11 @@ name: PSSR
 sort_number: 5
 hidden: false
 twitter_url:
-facebook_url:
-instagram_url:
+facebook_url: 'https://www.facebook.com/goldenrobotrecords/'
+instagram_url: 'https://www.instagram.com/pssr.online/'
 spotify_url:
 apple_url:
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 buy_now:
   - name:
     logo_path:
@@ -43,7 +43,7 @@ _options:
 
 Direct from New York City , a brand new edition in the rock n roll tradition:
 
-PSSR (yes Piss- er)
+PSSR (yes Piss-er)
 
 Fronted by the charismatic Eric J on vocals and guitar, featuring superstar Guns N Roses drummer Frank “Thunderchucker” Ferrer and the steady rocking bass of Brett Bass (Greg Allman), with a large noose tied up via Guitarist / producer Rob Bailey (huge range from Delta Goodrem to David Johansen).
 
