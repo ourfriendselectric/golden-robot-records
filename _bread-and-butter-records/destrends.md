@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/destrends-8.png
+image_path: /uploads/Destrends-01.png
 name: Destrends
 sort_number: 10
 hidden: false
@@ -14,16 +14,16 @@ youtube_url:
 buy_now:
   - name:
     logo_path:
-    url: 'https://music.apple.com/au/artist/destrends/1005277461'
-hero_path: /uploads/destrends-8.png
+    url:
+hero_path: /uploads/destrends-9.png
 albums:
-  - image_path: /uploads/destrends-8.png
+  - image_path: /uploads/Destrends-02.png
     image_url:
-  - image_path: /uploads/destrends-8.png
+  - image_path: /uploads/Destrends-03.png
     image_url:
-  - image_path: /uploads/destrends-8.png
+  - image_path: /uploads/Destrends-04.png
     image_url:
-  - image_path: /uploads/destrends-8.png
+  - image_path: /uploads/Destrends-05.png
     image_url:
 _type: bread-and-butter-records
 _options:
