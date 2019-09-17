@@ -14,7 +14,7 @@ buy_now:
   - name:
     logo_path:
     url:
-hero_path: /uploads/pssr-1.jpg
+hero_path: /uploads/pssr-06.png
 albums:
   - image_path: /uploads/pssr-02.jpg
     image_url:
