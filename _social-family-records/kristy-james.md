@@ -1,8 +1,8 @@
 ---
 layout: artist
 image_path: /uploads/kristy-james-both-copy.jpg
-name: Kristy James
-sort_number: 34
+name: Kristy James (Distro only)
+sort_number: 144
 hidden: false
 twitter_url: 'https://twitter.com/kristyjamesmus?lang=en'
 facebook_url: 'https://www.facebook.com/kristyjamesmusic/'
@@ -46,7 +46,7 @@ Created from her own vision from the ground up, the new EP is a body of work tha
 
 James discusses each track. “*Musically,* **Everything to Nothing**, *is one of my favourite pieces I have written.&nbsp; When Matt Scullion and I decided to write a song together, we wanted to challenge ourselves and write a song with the same repetition of chords and I really love the outcome*,” she says.&nbsp;
 
-“**Cinderella** *is my latest single and a tale of love that’s just not meant to be and my previous single*, **Dark Sunglasses**, *is one of those haunting, catchy, rocky type tracks, very imaginative and creative…about situations possible when we’re left to our own thoughts versus what we’d do in reality. The fourth track is***Brand New**, *which I wrote with Damien Leith.&nbsp; It’s a deep and powerful song about a tragic past – but it does serve a positive message.&nbsp; And then there’s* **Stone Cold Sober**.&nbsp; *It’s a bluesy, soulful song written after something I overheard when I was walking along Broadway in Nashville.&nbsp; Last, but not least, is* **Push**, *which completes the EP nicely.&nbsp; It’s a message of hope, faith and encouragement.&nbsp; Sometimes the best things in life are just a little ‘push’ away*.”
+“**Cinderella** *is my latest single and a tale of love that’s just not meant to be and my previous single*, **Dark Sunglasses**, *is one of those haunting, catchy, rocky type tracks, very imaginative and creative…about situations possible when we’re left to our own thoughts versus what we’d do in reality. The fourth track is&nbsp;***Brand New**, *which I wrote with Damien Leith.&nbsp; It’s a deep and powerful song about a tragic past – but it does serve a positive message.&nbsp; And then there’s* **Stone Cold Sober**.&nbsp; *It’s a bluesy, soulful song written after something I overheard when I was walking along Broadway in Nashville.&nbsp; Last, but not least, is* **Push**, *which completes the EP nicely.&nbsp; It’s a message of hope, faith and encouragement.&nbsp; Sometimes the best things in life are just a little ‘push’ away*.”
 
 **TRACK LISTING**
 
@@ -63,3 +63,9 @@ Stone Cold Sober
 Push
 
 **Listen/Order:&nbsp; [http://smarturl.it/EP-KristyJames-RAW](http://smarturl.it/EP-KristyJames-RAW){: target="_blank"}**
+
+&nbsp;
+
+Kristy is back in 2019 with new music, distributed through Social Family Records, including her latest single, ***Independent***\!
+
+&nbsp;
