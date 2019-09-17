@@ -20,9 +20,9 @@ albums:
     image_url:
   - image_path: /uploads/pssr-03.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/pssr-04.png
     image_url:
-  - image_path:
+  - image_path: /uploads/pssr-05.png
     image_url:
 _type: golden-robot-records
 _options:
