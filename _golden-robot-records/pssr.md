@@ -18,9 +18,9 @@ hero_path: /uploads/pssr-06.png
 albums:
   - image_path: /uploads/pssr-02.jpg
     image_url:
-  - image_path: /uploads/pssr-07.png
-    image_url:
   - image_path: /uploads/pssr-03.jpg
+    image_url:
+  - image_path: /uploads/pssr-07.png
     image_url:
   - image_path: /uploads/pssr-08.png
     image_url:
