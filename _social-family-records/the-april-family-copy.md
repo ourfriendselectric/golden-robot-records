@@ -1,7 +1,7 @@
 ---
 layout: artist
 image_path: /uploads/thebuffalograssboys.jpg
-name: The April Family (Distro only)
+name: The Buffalo Grass Boys (Distro only)
 sort_number: 270
 hidden: false
 twitter_url:
