@@ -1,27 +1,23 @@
 ---
 layout: artist
-image_path: /uploads/april-family-promo-2018-500px.jpeg
+image_path: /uploads/thebuffalograssboys.jpg
 name: The April Family (Distro only)
-sort_number: 260
+sort_number: 270
 hidden: false
-twitter_url: 'https://twitter.com/socialfamilyrec'
-facebook_url: 'https://www.facebook.com/theaprilfamily/'
-instagram_url: 'https://www.instagram.com/theaprilfamily/?hl=en'
-spotify_url: 'https://open.spotify.com/artist/0PuMNC8vzStjeL5jmdalLc?autoplay=true&v=A'
-apple_url: 'https://itunes.apple.com/au/artist/the-april-family/1087372905'
-youtube_url: 'https://www.youtube.com/channel/UC--s_z6FJCEpfm1CJH_qtwg'
+twitter_url:
+facebook_url: 'https://www.facebook.com/thebuffalograssboys/'
+instagram_url: 'https://www.instagram.com/the_buffalo_grass_boys/'
+spotify_url:
+apple_url:
+youtube_url:
 buy_now:
-  - name: House of Cards
-    logo_path: /uploads/logos/aprilfamilyalbumcover-600px.jpeg
-    url: 'https://orcd.co/theaprilfamily-houseofcards'
-hero_path: /uploads/april-family-promo-2018-web.jpeg
+  - name: Exactly What I need
+    logo_path: /uploads/logos/tbgb-cover-ewin-single-600px.jpeg
+    url: orcd.co/thebuffalograssboys-exactlywhatineed
+hero_path: /uploads/tbgb-press-shot-1500px-web.jpeg
 albums:
-  - image_path: /uploads/screen-shot-2018-11-27-at-7-59-25-am.png
-    image_url: 'http://smarturl.it/TheAF-OneTrickPony'
-  - image_path: /uploads/champagne-single-cover-600px.jpg
-    image_url: 'http://smarturl.it/TheAprilFamChampagne'
-  - image_path: /uploads/aprilfamilyalbumcover-600px.jpg
-    image_url: 'https://orcd.co/theaprilfamily-houseofcards'
+  - image_path: /uploads/tbgb-cover-ewin-single-600px.jpg
+    image_url: orcd.co/thebuffalograssboys-exactlywhatineed
 _type: social-family-records
 _options:
   image_path:
@@ -39,10 +35,6 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-# The April Family (Distro only)
+# The Buffalo Grass Boys (Distro only)
 
-**House of Cards** is the second album from Sydney based alt country trio, The April Family. The 11 tracks, all written by vocalist Kylie Whitney and multi-instrumentalist and producer, Michael Carpenter, showcase a leaner, less layered approach.&nbsp; The more rootsy sound and feel, with the raw but considered production, highlights the band’s unique three-part harmony blend, as well as pushing the wide-ranging twang of guitarist Casey Atkins sonic palette.&nbsp; The album reflects a variety of styles and range of material, from Americana grit to straight country/bluegrass, weighty roots ballads, as well as a couple of rocking stompers.
-
-Produced, engineered, mixed and mastered by bandmember Carpenter (Jetty Road, Abbie Ferris, Carpenter Caswell among many others), the album was recorded at his Love Hz Studios.
-
-Get the new album here: &nbsp;[https://orcd.co/theaprilfamily-houseofcards](https://orcd.co/theaprilfamily-houseofcards){: target="_blank"}
+The Buffalo Grass Boys are a rocking bunch of guys who play Alt Country/Rockabilly/Country music and hail from Sydney, Australia. With global influences in their style, it’s hard not to hear the difference in what they create. Not content to stick with the norm, The Boys have really tried to come up with something different, fun and energetic, something they’ve become renowned for in their live shows.
