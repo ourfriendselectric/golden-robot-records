@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/pssr-02.jpg
 name: PSSR
-sort_number: 8
+sort_number: 5
 hidden: false
 twitter_url:
 facebook_url:
@@ -37,14 +37,16 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-**…from New York City, a brand new edition in the rock ‘n’ roll tradition**
+Direct from New York City , a brand new edition in the rock n roll tradition:
 
-**PSSR**
+PSSR (yes Piss- er)
 
-**Fronted by the charismatic Eric J, (vocals and guitar), featuring superstar Frank “Thunderchucker” Ferrer of Guns ‘n Roses (drums), steady rocker bassist Brett Bass (Greg Allman) (bass), and all tied up by journeyman lead guitarist/producer Rob Bailey (industry legend who has worked with artists from Delta Goodrem to David Johansen)**
+Fronted by the charismatic Eric J on vocals and guitar, featuring superstar Guns N Roses drummer Frank “Thunderchucker” Ferrer and the steady rocking bass of Brett Bass (Greg Allman), with a large noose tied up via Guitarist / producer Rob Bailey (huge range from Delta Goodrem to David Johansen).
 
-**Fresh for 2019 is *'PSSR'*, the self titled debut on Golden Robot Records coming soon.**
+Fresh for 2020 is '*PSSR'*, the self-titled debut with be released via Golden Robot Records in early 2020. &nbsp;
 
-**take note fans of AC/DC, Aerosmith, Motorhead and the Stooges…PSSR is for you.**
+Fans of AC/DC, Motorhead, Aerosmith and The Stooges, watch this space.&nbsp;
 
-**When was the last time you had a good time?**
+When was the last time you had a real good time?
+
+Well, PSSR will be touring and playing their EP loud and proud in 2020, watch this space.
