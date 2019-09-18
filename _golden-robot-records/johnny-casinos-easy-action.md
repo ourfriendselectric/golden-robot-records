@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/johnny-casino-easy-action-10.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-easy-action-6.jpg
+  - image_path: /uploads/JC-2-5.jpg
     image_url:
 _type: golden-robot-records
 _options:
