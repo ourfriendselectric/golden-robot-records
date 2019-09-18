@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /uploads/pssr-02.jpg
+image_path: /uploads/pssr-tile.png
 name: PSSR
 sort_number: 5
 hidden: false
