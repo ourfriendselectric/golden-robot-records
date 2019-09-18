@@ -20,9 +20,9 @@ albums:
     image_url:
   - image_path: /uploads/johnny-casino-the-secrets-3.jpg
     image_url:
-  - image_path:
+  - image_path: /uploads/JC-2-1.png
     image_url:
-  - image_path:
+  - image_path: /uploads/JC-2-2.png
     image_url:
 _type: golden-robot-records
 _options:
