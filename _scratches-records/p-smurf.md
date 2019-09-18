@@ -51,6 +51,10 @@ Looking to the future, a fresh merger is now adrift with Mark Alexander-Erber (G
 
 Based in Sydney, SCRATCHES RECORDS was also the name of P.Smurf’s parent’s own record store, situated on King Street, Newtown from 1982-1993. The story unfolds in 2019 with the rebirth of the Scratches name as their Son’s independent Hip-Hop label. Showcasing primarily local, but also interstate and international artists. Their aim being to cultivate socially conscious, hard hitting, high quality music from the world of underground Hip Hop, Grime, Bass, Electro and Soul.&nbsp;
 
-With fresh music on the way and a strong new label to help push it out to the world, we are expecting big things from the Sydney MC in 2019.&nbsp;
+With a strong new label to help push it out to the world, P.Smurf is pleased to announce the release of two new singles in the second half of 2019.
+
+'Forever', with label mates Scratches Clique (Swiftboi, Joe Snow, Hammy, Billie Rose, Fresh Violet, Sinks, WiseGuy, DJ Cost, Platterpush and Silent Titan), and 'Look Out For Scratches', featuring DJ Cost.
+
+With label launch parties going off in both Sydney and Melbourne - P.Smurf isn't just the man behind a label he's the man behind a movement.
 
 Stay up to date by following @scratchesrecords and @mcpsmurf on Instagram and Facebook
