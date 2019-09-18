@@ -16,9 +16,9 @@ buy_now:
     url:
 hero_path: /uploads/pssr-06.png
 albums:
-  - image_path: /uploads/pssr-02.jpg
+  - image_path: /uploads/psst-2-8.png
     image_url:
-  - image_path: /uploads/pssr-07.png
+  - image_path: /uploads/pssr-2-.png
     image_url:
   - image_path: /uploads/pssr-08.png
     image_url:
