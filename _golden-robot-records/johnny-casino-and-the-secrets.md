@@ -16,7 +16,7 @@ buy_now:
     url:
 hero_path: /uploads/johnny-casino-the-secrets-4.jpg
 albums:
-  - image_path: /uploads/johnny-casino-the-secrets-7.jpg
+  - image_path: /uploads/JC-2-4.jpg
     image_url:
   - image_path: /uploads/johnny-casino-the-secrets-3.jpg
     image_url:
