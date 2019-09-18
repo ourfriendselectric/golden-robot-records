@@ -9,7 +9,7 @@ facebook_url:
 instagram_url:
 spotify_url: 'https://open.spotify.com/artist/0uujx9OadOxuvFtTgFxhV7'
 apple_url: 'https://itunes.apple.com/us/artist/johnny-casinos-easy-action/78773331'
-youtube_url:
+youtube_url: 'https://www.youtube.com/channel/UCJyJOTeFHqnAmMDf7RxSKkQ'
 buy_now:
   - name:
     logo_path:
