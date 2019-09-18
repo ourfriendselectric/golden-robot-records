@@ -22,7 +22,7 @@ albums:
     image_url:
   - image_path: /uploads/johnny-casino-11.jpg
     image_url:
-  - image_path: /uploads/johnny-casino-badge.jpg
+  - image_path: /uploads/JC-2-6.jpg
     image_url:
 _type: golden-robot-records
 _options:
