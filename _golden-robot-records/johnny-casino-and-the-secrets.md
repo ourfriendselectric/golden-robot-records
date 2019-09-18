@@ -7,8 +7,9 @@ hidden: false
 twitter_url:
 facebook_url:
 instagram_url:
-spotify_url:
-apple_url:
+spotify_url: >-
+  https://open.spotify.com/artist/3fJ8sTSK0k115UNdOzCDuD?si=O6dbjzvvQgmMO8xKRWcRDw
+apple_url: 'https://music.apple.com/au/artist/johnny-casino-and-the-secrets/1477193130'
 youtube_url:
 buy_now:
   - name:
