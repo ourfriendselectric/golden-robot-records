@@ -61,6 +61,12 @@ With the release of Tropical Hazard, the band’s rock odyssey is taking them ac
 
 “I want people to leave feeling entertained,” says Matty. “I want them to leave thinking that was the best rock show they’ve ever seen. To leave sweaty, dirty, horny\!”
 
-The Lazy's have spent most of 2019 touring across Europe and Canada, playing everywhere from sold out clubs to festivals in Germany and Spain, with crowd numbers increasing every time they go back to the same city. With true Aussie rock lineage to the likes of Cold Chisel, AC/DC and Midnight Oil, these crazy Aussies, now living in Canada, are the truest essence of rock n roll and the world is starting to look up and take notice.
+The Lazys have spent most of 2019 touring across Europe and Canada, playing everywhere from sold out clubs to festivals in Germany and Spain, with crowd numbers increasing every time they go back to the same city. With true Aussie rock lineage to the likes of Cold Chisel, AC/DC and Midnight Oil, these crazy Aussies, now living in Canada, are the truest essence of rock n roll and the world is starting to look up and take notice.
 
-They won't stop until they're the leaders of the pack. The good news is the band are working on new material including a new album and you'll be able to hear their new tunes in 2020 on Golden Robot Records.
+They won't stop until they're the leaders of the pack. The good news is the band are working on new material - including a new album. You'll be able to hear all their new tunes in 2020 via Golden Robot Records.
+
+JUST ANNOUNCED:
+
+Back from a mind blowing UK & European summer, Aussie / Canadian Rock n Rollers The Lazys are set to blast across Canada this fall on their 'Half Mast Blues' tour.&nbsp;
+
+Tickets are selling fast, head over to&nbsp;[www.thelazysband.com](https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.thelazysband.com%2F&amp;data=02%7C01%7CDean.Pogue%40WarnerMusic.com%7C4a8f632ec7b34726eba708d73c5f1177%7C8367939002ec4ba1ad3d69da3fdd637e%7C0%7C0%7C637044251344655933&amp;sdata=mcY%2F%2Fb%2FsL2itxqDDADBNDiPsznOxVwoUS5v5mNwZyho%3D&amp;reserved=0)&nbsp;to secure yours TODAY\!\!\!
