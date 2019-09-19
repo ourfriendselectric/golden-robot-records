@@ -1,6 +1,6 @@
 ---
 layout: artist
-image_path: /images/the lazys tile copy.jpg
+image_path: /images/the-lazys-12.png
 name: The Lazys
 sort_number: 16
 hidden: false
@@ -26,9 +26,9 @@ buy_now:
     url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-lazys'
 hero_path: /uploads/the-lazys-1.jpg
 albums:
-  - image_path: /images/the lazys tile copy.jpg
+  - image_path: /images/the-lazys-11.jpeg
     image_url:
-  - image_path: /images/the lazys tile 1 copy.jpg
+  - image_path: /images/the-lazys-10-square.png
     image_url:
   - image_path: /images/the lazys tile 3 copy.jpg
     image_url:
@@ -51,7 +51,7 @@ _options:
     uploads_dir: uploads/logos
 ---
 
-Crossing the world to deliver Australian Rock to the shores of Canada, The Lazys have brought a storm with them to kick down doors and abuse authority. This storm is their latest album Tropical Harzards, a high octane, hell-raising rock ‘n’ roll riot. While sounding modern, The Lazys are a heavily retro rock band as singer Leon Harrison and lead guitarist Matty Morris have been paying their dues in garage bands and local acts since 2006. Big hair, black leather and rough tattoos all accompany a hard rock style that evokes Australian Rock legends like AC/DC and The Angels.
+Crossing the world to deliver Australian Rock to the shores of Canada, The Lazys have brought a storm with them to kick down doors and abuse authority. This storm is their latest album Tropical Hazards, a high octane, hell-raising rock ‘n’ roll riot. While sounding modern, The Lazys are a heavily retro rock band as singer Leon Harrison and lead guitarist Matty Morris have been paying their dues in garage bands and local acts since 2006. Big hair, black leather and rough tattoos all accompany a hard rock style that evokes Australian Rock legends like AC/DC and The Angels.
 
 Having signed with Golden Robot Records in 2018, The Lazys and their latest album Tropical Hazards are ruthlessly ascending the Canadian rock scene. With high-voltage riffage, fast bass and thunderous drums, their latest album is diverse enough to have a broad appeal, but deeply rooted in Australian stories that it offers something unique. Some tracks details the human side of their some 10 years on the road as performers, with relatable tales of heartbreak and relationships, while others explore personal emotions, bringing in their rebellious call to defiance. Other tracks draw on rich Australian folklore, such as opening track “Nothing But Trouble” as an ode to the Australian ‘raging bull’ rockstar.
 
