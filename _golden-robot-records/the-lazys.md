@@ -24,11 +24,11 @@ buy_now:
   - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-10.png
     url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-lazys'
-hero_path: /uploads/the-lazys-1.jpg
+hero_path: /images/the-lazys-10.jpeg
 albums:
   - image_path: /images/the-lazys-11.jpeg
     image_url:
-  - image_path: /images/the-lazys-10-square.png
+  - image_path: '/THE LAZYS - NOTHING BUT TROUBLE [3000x3000].jpg'
     image_url:
   - image_path: /images/the lazys tile 3 copy.jpg
     image_url:
