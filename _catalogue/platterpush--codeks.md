@@ -4,7 +4,8 @@ hidden: false
 sort_number: 100
 name: Platterpush & Codeks
 album_name: The Connection (SR-Single)
-album_url: 'http://goldenrobotrecords.com/'
+album_url: >-
+  https://music.apple.com/au/album/the-connection-feat-res-one-hammy-wise-guy-p-smurf-single/1478769012
 _hide_content: true
 _options:
   image_path:
