@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/in-the-whale-06.png
 name: In The Whale
-sort_number: 10
+sort_number: 1
 hidden: false
 twitter_url: 'https://twitter.com/inthewhale'
 facebook_url: 'https://www.facebook.com/inthewhale'
@@ -53,3 +53,7 @@ Artists and festival promoters have caught notice, with the band playing Riot Fe
 The band celebrated their seven year anniversary in 2018 with “Dopamine,” a six track EP produced by Steve Evetts (The Used, Sepultura, Dillinger Escape Plan) and recorded at the Foo Fighters’ famed Studio 606.
 
 Dopamine’s first week sales made it on to the Billboard Heatseekers, Independent Albums and Heatseekers Mountain (\#1) charts.
+
+Riot Records and Golden Robot Records are extremely happy to join forces with&nbsp;**In the whale,**&nbsp;and to bring you new tunes that will set the world on fire in 2020.
+
+In the meantime catch them live where you can across &nbsp;the USA.
