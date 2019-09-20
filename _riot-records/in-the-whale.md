@@ -54,6 +54,6 @@ The band celebrated their seven year anniversary in 2018 with “Dopamine,” a 
 
 Dopamine’s first week sales made it on to the Billboard Heatseekers, Independent Albums and Heatseekers Mountain (\#1) charts.
 
-Riot Records and Golden Robot Records are extremely happy to join forces with&nbsp;**In the whale,**&nbsp;and to bring you new tunes that will set the world on fire in 2020.
+Riot Records and Golden Robot Records are extremely happy to join forces with&nbsp;**In The Whale,**&nbsp;and to bring you new tunes that will set the world on fire in 2020.
 
 In the meantime catch them live where you can across &nbsp;the USA.
