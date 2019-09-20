@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/in-the-whale-04-square.png
 name: In The Whale
 sort_number: 10
-hidden: true
+hidden: false
 twitter_url: 'https://twitter.com/inthewhale'
 facebook_url: 'https://www.facebook.com/inthewhale'
 instagram_url: 'https://www.instagram.com/in_the_whale/'
