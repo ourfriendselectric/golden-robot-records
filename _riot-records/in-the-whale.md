@@ -21,7 +21,7 @@ albums:
     image_url:
   - image_path: /uploads/in-the-whale-03-square.png
     image_url:
-  - image_path: /uploads/in-the-whale-05-square.png
+  - image_path: /uploads/in-the-whale-05-square-bw.png
     image_url:
   - image_path: /uploads/in-the-whale-06.png
     image_url:
