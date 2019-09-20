@@ -1,6 +1,6 @@
 ---
 image_path: /uploads/the connectioin_alt.jpg
-hidden: true
+hidden: false
 sort_number: 100
 name: Platterpush & Codeks
 album_name: The Connection (SR-Single)
