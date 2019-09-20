@@ -24,7 +24,7 @@ buy_now:
   - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-10.png
     url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-lazys'
-hero_path: /images/the-lazys-10.jpeg
+hero_path: /images/the-lazys-10-header-cropped.png
 albums:
   - image_path: /images/the-lazys-11.jpeg
     image_url:
