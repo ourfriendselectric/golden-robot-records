@@ -11,11 +11,24 @@ spotify_url: >-
   https://open.spotify.com/artist/2gMcgGVzQvpCqFUGEpWVkR?si=0Bd69FOVS3K-G6UsC9-1Zw
 apple_url: >-
   https://music.apple.com/lu/album/i-thought-my-family-was-rich-single/1473583783
-youtube_url: 'https://www.youtube.com/watch?v=Ctixjp1EHjU'
+youtube_url: >-
+  https://www.youtube.com/watch?v=aZ9aPNyq_H8&feature=youtu.be&mc_cid=d61f3a9f20&mc_eid=7273dff427
 buy_now:
   - name: Official Store
     logo_path: /uploads/logos/screen-shot-2019-04-08-at-2-40-54-pm-22.png
     url: 'https://store.goldenrobotrecords.com/shop-by-artist/categories/the-kids'
+  - name: iTunes
+    logo_path: /uploads/logos/itunes-store-logo.png
+    url: >-
+      https://music.apple.com/au/album/i-thought-my-family-was-rich-single/1473583783?app=itunes
+  - name: Amazon Music
+    logo_path: /uploads/logos/amazon-music-logo.png
+    url: >-
+      https://www.amazon.com/Thought-Family-Was-Rich-Explicit/dp/B07VFXWR6N?mc_cid=d61f3a9f20&mc_eid=7273dff427&tag=smarturl-pivot-20
+  - name: Google Play
+    logo_path: /uploads/logos/google-play-logo.jpg
+    url: >-
+      https://play.google.com/store/music/album/The_Kids_I_Thought_My_Family_Was_Rich?id=Bjnfz4rwmgncxyyshrxiznowq6e&hl=en&mc_cid=d61f3a9f20&mc_eid=7273dff427
 hero_path: /uploads/the-kids-01.jpg
 albums:
   - image_path: /uploads/the-kids-03.jpg
