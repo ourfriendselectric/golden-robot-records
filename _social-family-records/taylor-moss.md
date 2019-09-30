@@ -19,6 +19,8 @@ hero_path: /uploads/taylor-moss---promo-image-1500px.jpeg
 albums:
   - image_path: /uploads/taylor-moss---single-cover-600px.jpeg
     image_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
+  - image_path: /uploads/taylor-moss---let-me-be---single-cover-600px-1.jpg
+    image_url: 'https://orcd.co/taylormoss-letmebe-stream'
 _type: social-family-records
 _options:
   image_path:
@@ -44,8 +46,6 @@ The past few years have seen her achievements mount after getting her break at t
 
 On the back of this achievement, Moss toured extensively for 12 months before teaming up with Golden Guitar-winning producer Matt Fell and set her sights on a serious career as a professional recording artist. In late 2017 she released new music independently that turned heads and pricked up ears around Australia, opening many doors that included a support spot with Jimmy Barnes and performances at The Gympie Music Muster along with a return to Tamworth.
 
-Flash forward to 2018 and Moss renewed her partnership with Fell to produce her most polished music to date. After 6 months of planning and preparation, her new single is out now, distributed through indie label, Social Family Records.
+Flash forward to 2018 and Moss renewed her partnership with Fell to produce her most polished music to date.&nbsp;
 
-There is little doubt you’ll be hearing the name Taylor Moss for many years to come.
-
-Get **Taylor's** brand new single, ***Take It From Me***, here:&nbsp;[http://smarturl.it/TaylorM-TakeItFromMe](http://smarturl.it/TaylorM-TakeItFromMe?fbclid=IwAR3HUDyWKKslsOOe5-f8KnUtH45m9Pd70tnJfova7Em72FhzbtXbwxtbGRk){: target="_blank"}
+Get **Taylor's** latest singles, ***Take It From Me***, here:&nbsp;[http://smarturl.it/TaylorM-TakeItFromMe](http://smarturl.it/TaylorM-TakeItFromMe?fbclid=IwAR3HUDyWKKslsOOe5-f8KnUtH45m9Pd70tnJfova7Em72FhzbtXbwxtbGRk){: target="_blank"}&nbsp;and ***Let Me Be here***\:&nbsp;[https://orcd.co/taylormoss-letmebe-stream](https://orcd.co/taylormoss-letmebe-stream?fbclid=IwAR2dRlMyK0aVIBSYQC2G7g831Q63q8GMCAj7UGRGfsuOpkoRBH6puYMvk8w){: target="_blank"}
