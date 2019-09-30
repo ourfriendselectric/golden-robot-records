@@ -1,10 +1,10 @@
 ---
-image_path: /uploads/taylor-moss---single-cover-600px-2.jpeg
+image_path: /uploads/taylor-moss---let-me-be---single-cover-600px.jpg
 hidden: false
-sort_number: 285050
+sort_number: 285051
 name: Taylor Moss
-album_name: Take It From Me (SFR - Single)
-album_url: 'http://smarturl.it/TaylorM-TakeItFromMe'
+album_name: Let Me Be (SFR - Single)
+album_url: 'https://orcd.co/taylormoss-letmebe-stream'
 _hide_content: true
 _options:
   image_path:
