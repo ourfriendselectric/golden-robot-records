@@ -2,7 +2,7 @@
 layout: artist
 image_path: /uploads/mc20193-square-web.jpg
 name: Michael Carpenter (Distro only)
-sort_number: 150
+sort_number: 195
 hidden: false
 twitter_url:
 facebook_url: 'https://www.facebook.com/Michael-Carpenter-MCs-Music-World-156402162959/'
@@ -42,7 +42,7 @@ _options:
 
 A punchy alternative country/pop track where Carpenter wears all the hats – playing all the instruments, producing and engineering at his famous **Love Hz Studios** complex – ***The Start of Being Alone*** is a potent dedication to the end of a relationship, and the need to move on to the next stage of our relationship lives. With thumping drums, driving guitars and Hammond organs, a classic harmonica motif and Carpenter’s yearning and insistent vocal, the track makes a statement that this well-travelled artist is back and ready for the next stage of his solo career.
 
-Stream/Save ***The Start of Being Alone ***here:&nbsp;
+Stream/Save *\*\*The Start of Being Alone \*\**here:&nbsp;
 
 [https://orcd.co/michaelcarpenter-thestartofbeingalone](https://orcd.co/michaelcarpenter-thestartofbeingalone?fbclid=IwAR2h2A87KWQgK0YjS9VQm_Bvi6IxUbsNs5utDPFVa_2lDPXcJ6MyxXiGrPc){: target="_blank"}
 
