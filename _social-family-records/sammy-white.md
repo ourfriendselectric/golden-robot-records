@@ -3,7 +3,7 @@ layout: artist
 image_path: /uploads/sammy-white---500px-web.jpg
 name: Sammy White (Distro only)
 sort_number: 235
-hidden: false
+hidden: true
 twitter_url:
 facebook_url: 'https://www.facebook.com/SammyWhiteMusic/'
 instagram_url: 'https://www.instagram.com/sammywhitemusic/'
