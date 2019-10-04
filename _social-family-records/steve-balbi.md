@@ -4,25 +4,26 @@ image_path: /uploads/Steve-Balbi-01.jpg
 name: Steve Balbi
 sort_number: 10
 hidden: true
-twitter_url:
-facebook_url:
-instagram_url:
-spotify_url:
-apple_url:
-youtube_url:
+twitter_url: 'https://twitter.com/stevebalbi'
+facebook_url: 'https://www.facebook.com/stevebalbiofficial/'
+instagram_url: 'https://www.instagram.com/stevebalbi/'
+spotify_url: >-
+  https://open.spotify.com/artist/7llMZbc53OJaCqJPyoCstY?si=h8oigtNmRQCOtyXh5FiOjw
+apple_url: 'https://music.apple.com/au/artist/steve-balbi/58029023'
+youtube_url: 'https://www.youtube.com/channel/UCBx4MP_5XR90F5HH16x-DgQ/feed'
 buy_now:
   - name:
     logo_path:
     url:
 hero_path: /uploads/steve-balbi-heropath.png
 albums:
-  - image_path:
+  - image_path: /uploads/steve-balbi-square-02.png
     image_url:
-  - image_path:
+  - image_path: /uploads/steve-balbi-square-03.png
     image_url:
-  - image_path:
+  - image_path: /uploads/steve-balbi-square-04.png
     image_url:
-  - image_path:
+  - image_path: /uploads/steve-balbi-square-05.png
     image_url:
 _type: social-family-records
 _options:
